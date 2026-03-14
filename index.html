@@ -1,9 +1,11 @@
 <!DOCTYPE html>
 <html lang="ar" dir="rtl">
+
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>حاسبة أرباح USDT</title>
+
+<title>USDT Profit Calculator</title>
 
 <style>
 
@@ -22,7 +24,7 @@ margin:0;
 background:#1b1b1b;
 padding:25px;
 border-radius:15px;
-width:400px;
+width:420px;
 box-shadow:0 0 20px rgba(0,0,0,0.5);
 }
 
@@ -37,7 +39,7 @@ font-size:14px;
 color:#aaa;
 }
 
-input{
+input,select{
 width:100%;
 padding:10px;
 margin-top:5px;
@@ -108,15 +110,25 @@ color:#777;
 
 <div class="container">
 
-<h2>حاسبة أرباح USDT</h2>
+<h2>USDT Profit Calculator</h2>
 
-<label>المبلغ بالريال العماني</label>
+<label>اختر العملة</label>
+<select id="currency">
+<option value="USD">USD</option>
+<option value="OMR">OMR</option>
+<option value="EGP">EGP</option>
+<option value="AED">AED</option>
+<option value="SAR">SAR</option>
+<option value="EUR">EUR</option>
+</select>
+
+<label>رأس المال</label>
 <input id="amount" type="number" value="100">
 
-<label>سعر الشراء</label>
+<label>سعر شراء USDT</label>
 <input id="buyPrice" type="number" step="0.001" value="0.391">
 
-<label>سعر البيع</label>
+<label>سعر بيع USDT</label>
 <input id="sellPrice" type="number" step="0.001" value="0.393">
 
 <label>عدد الدورات</label>
@@ -133,7 +145,7 @@ color:#777;
 </div>
 
 <div class="result">
-<div class="title">الربح في الدورة الواحدة</div>
+<div class="title">الربح في الدورة</div>
 <div id="profitOne" class="value">0</div>
 </div>
 
@@ -162,53 +174,70 @@ color:#777;
 
 function calculate(){
 
-const amount = parseFloat(document.getElementById("amount").value);
-const buy = parseFloat(document.getElementById("buyPrice").value);
-const sell = parseFloat(document.getElementById("sellPrice").value);
-const cycles = parseFloat(document.getElementById("cycles").value);
+const currency = document.getElementById("currency").value
 
-const fee = 0.08;
+const amount = parseFloat(document.getElementById("amount").value)
 
-let usdt = amount / buy;
+const buy = parseFloat(document.getElementById("buyPrice").value)
 
-let usdtAfterBuyFee = usdt - fee;
+const sell = parseFloat(document.getElementById("sellPrice").value)
 
-let sellValue = usdtAfterBuyFee * sell;
+const cycles = parseFloat(document.getElementById("cycles").value)
 
-let sellFeeOMR = fee * buy;
+const fee = 0.08
 
-let profitOne = sellValue - amount - sellFeeOMR;
+let usdt = amount / buy
 
-let profitTotal = profitOne * cycles;
+let usdtAfterBuyFee = usdt - fee
 
-let breakEven = (amount + sellFeeOMR) / usdtAfterBuyFee;
+let sellValue = usdtAfterBuyFee * sell
 
-let roi = (profitOne / amount) * 100;
+let sellFee = fee * buy
 
-document.getElementById("usdt").innerText = usdt.toFixed(3) + " USDT";
+let profitOne = sellValue - amount - sellFee
 
-document.getElementById("profitOne").innerText = profitOne.toFixed(3) + " OMR";
+let profitTotal = profitOne * cycles
 
-document.getElementById("profitTotal").innerText = profitTotal.toFixed(3) + " OMR";
+let breakEven = (amount + sellFee) / usdtAfterBuyFee
 
-document.getElementById("breakEven").innerText = breakEven.toFixed(4);
+let roi = (profitOne / amount) * 100
 
-document.getElementById("roi").innerText = roi.toFixed(2) + "%";
+document.getElementById("usdt").innerText =
+usdt.toFixed(3) + " USDT"
+
+document.getElementById("profitOne").innerText =
+profitOne.toFixed(3) + " " + currency
+
+document.getElementById("profitTotal").innerText =
+profitTotal.toFixed(3) + " " + currency
+
+document.getElementById("breakEven").innerText =
+breakEven.toFixed(4)
+
+document.getElementById("roi").innerText =
+roi.toFixed(2) + "%"
 
 }
 
 function resetCalc(){
 
-document.getElementById("amount").value="";
-document.getElementById("buyPrice").value="";
-document.getElementById("sellPrice").value="";
-document.getElementById("cycles").value="";
+document.getElementById("amount").value=""
 
-document.getElementById("usdt").innerText="0";
-document.getElementById("profitOne").innerText="0";
-document.getElementById("profitTotal").innerText="0";
-document.getElementById("breakEven").innerText="0";
-document.getElementById("roi").innerText="0%";
+document.getElementById("buyPrice").value=""
+
+document.getElementById("sellPrice").value=""
+
+document.getElementById("cycles").value=""
+
+document.getElementById("usdt").innerText="0"
+
+document.getElementById("profitOne").innerText="0"
+
+document.getElementById("profitTotal").innerText="0"
+
+document.getElementById("breakEven").innerText="0"
+
+document.getElementById("roi").innerText="0%"
 
 }
 
