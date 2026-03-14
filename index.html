@@ -3,19 +3,22 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>USDT Trading Calculator</title>
+  <title>USDT Trading Profit Calculator</title>
   <style>
     :root{
-      --bg:#111827;
-      --card:#1f2937;
-      --card2:#111827;
-      --muted:#9ca3af;
+      --bg:#0b1220;
+      --card:#111827;
+      --card2:#1f2937;
       --text:#f9fafb;
+      --muted:#9ca3af;
       --primary:#10b981;
+      --blue:#3b82f6;
       --danger:#ef4444;
       --warning:#f59e0b;
       --border:#374151;
-      --blue:#3b82f6;
+      --green:#22c55e;
+      --yellow:#facc15;
+      --red:#ef4444;
     }
 
     *{box-sizing:border-box}
@@ -23,23 +26,20 @@
     body{
       margin:0;
       font-family:Arial,sans-serif;
-      background:linear-gradient(180deg,#0b1220,#111827);
+      background:linear-gradient(180deg,#07101d,#0b1220);
       color:var(--text);
       min-height:100vh;
-      display:flex;
-      justify-content:center;
-      align-items:flex-start;
       padding:20px;
     }
 
     .container{
-      width:100%;
-      max-width:900px;
-      background:var(--card);
+      max-width:1000px;
+      margin:auto;
+      background:rgba(17,24,39,.95);
       border:1px solid var(--border);
-      border-radius:18px;
+      border-radius:20px;
       padding:20px;
-      box-shadow:0 10px 30px rgba(0,0,0,.35);
+      box-shadow:0 12px 40px rgba(0,0,0,.35);
     }
 
     h1{
@@ -47,6 +47,14 @@
       text-align:center;
       color:var(--primary);
       font-size:28px;
+    }
+
+    .sub{
+      text-align:center;
+      color:var(--muted);
+      margin-bottom:18px;
+      line-height:1.8;
+      font-size:14px;
     }
 
     .tabs{
@@ -58,30 +66,24 @@
 
     .tab-btn{
       flex:1;
-      min-width:220px;
+      min-width:200px;
       padding:12px;
       border:none;
       border-radius:12px;
-      cursor:pointer;
-      font-size:15px;
-      font-weight:bold;
-      background:#273449;
+      background:#1e293b;
       color:#fff;
-      transition:.2s;
+      font-size:15px;
+      font-weight:700;
+      cursor:pointer;
     }
 
     .tab-btn.active{
       background:var(--primary);
-      color:#08130f;
+      color:#052e22;
     }
 
-    .tab-content{
-      display:none;
-    }
-
-    .tab-content.active{
-      display:block;
-    }
+    .tab-content{display:none}
+    .tab-content.active{display:block}
 
     .grid{
       display:grid;
@@ -89,11 +91,9 @@
       gap:14px;
     }
 
-    .full{
-      grid-column:1 / -1;
-    }
+    .full{grid-column:1 / -1}
 
-    .field,.result-card{
+    .card{
       background:var(--card2);
       border:1px solid var(--border);
       border-radius:14px;
@@ -102,14 +102,14 @@
 
     label{
       display:block;
+      margin-bottom:8px;
       color:var(--muted);
       font-size:14px;
-      margin-bottom:8px;
     }
 
     input,select{
       width:100%;
-      padding:11px;
+      padding:12px;
       border-radius:10px;
       border:1px solid #4b5563;
       background:#0f172a;
@@ -121,29 +121,42 @@
     input:focus,select:focus{
       outline:none;
       border-color:var(--primary);
+      box-shadow:0 0 0 3px rgba(16,185,129,.12);
+    }
+
+    .checkbox-wrap{
+      display:flex;
+      align-items:center;
+      gap:10px;
+      color:var(--text);
+    }
+
+    .checkbox-wrap input{
+      width:auto;
+      transform:scale(1.15);
     }
 
     .actions{
       display:flex;
       gap:10px;
-      margin:16px 0;
       flex-wrap:wrap;
+      margin:16px 0;
     }
 
-    button.action{
+    .action{
       flex:1;
-      min-width:150px;
+      min-width:160px;
       padding:12px;
       border:none;
       border-radius:10px;
       font-size:15px;
-      font-weight:bold;
+      font-weight:700;
       cursor:pointer;
     }
 
-    .calc{background:var(--primary); color:#08130f;}
-    .reset{background:var(--danger); color:#fff;}
-    .copy{background:var(--blue); color:#fff;}
+    .calc{background:var(--primary);color:#052e22}
+    .reset{background:var(--danger);color:#fff}
+    .copy{background:var(--blue);color:#fff}
 
     .results{
       display:grid;
@@ -164,9 +177,30 @@
       word-break:break-word;
     }
 
-    .green{color:#22c55e !important}
-    .red{color:#ef4444 !important}
-    .yellow{color:#f59e0b !important}
+    .green{color:var(--green)!important}
+    .yellow{color:var(--yellow)!important}
+    .red{color:var(--red)!important}
+
+    .hint{
+      margin-top:14px;
+      font-size:13px;
+      color:var(--muted);
+      line-height:1.8;
+    }
+
+    .best-box{
+      margin-top:16px;
+      background:#0f172a;
+      border:1px dashed var(--primary);
+      border-radius:14px;
+      padding:16px;
+      text-align:center;
+    }
+
+    .best-box h3{
+      margin:0 0 8px;
+      color:var(--primary);
+    }
 
     table{
       width:100%;
@@ -188,20 +222,6 @@
       color:#d1d5db;
     }
 
-    .best-box{
-      margin-top:16px;
-      background:#0f172a;
-      border:1px dashed var(--primary);
-      border-radius:14px;
-      padding:16px;
-      text-align:center;
-    }
-
-    .best-box h3{
-      margin:0 0 8px;
-      color:var(--primary);
-    }
-
     .signature{
       text-align:center;
       margin-top:20px;
@@ -209,7 +229,7 @@
       font-size:13px;
     }
 
-    @media (max-width:700px){
+    @media (max-width:760px){
       .grid,.results{
         grid-template-columns:1fr;
       }
@@ -218,183 +238,158 @@
 </head>
 <body>
   <div class="container">
-    <h1>USDT Trading Calculator</h1>
+    <h1>USDT Trading Profit Calculator</h1>
+    <div class="sub">
+      حاسبة أرباح USDT + تحليل أفضل عملة + جلب أسعار Binance P2P تلقائيًا من الملف المحدث
+    </div>
 
     <div class="tabs">
-      <button class="tab-btn active" onclick="switchTab('profitTab', this)">حاسبة الأرباح</button>
-      <button class="tab-btn" onclick="switchTab('analysisTab', this)">تحليل أفضل عملة</button>
+      <button class="tab-btn active" data-tab="profitTab">حاسبة الأرباح</button>
+      <button class="tab-btn" data-tab="analysisTab">تحليل أفضل عملة</button>
     </div>
 
     <!-- TAB 1 -->
     <div id="profitTab" class="tab-content active">
       <div class="grid">
-        <div class="field">
-          <label>العملة</label>
+        <div class="card">
+          <label for="currency">العملة</label>
           <select id="currency">
-            <option>USD</option>
-            <option selected>OMR</option>
-            <option>EGP</option>
-            <option>AED</option>
-            <option>SAR</option>
-            <option>EUR</option>
+            <option value="OMR" selected>OMR</option>
+            <option value="EGP">EGP</option>
+            <option value="AED">AED</option>
+            <option value="SAR">SAR</option>
+            <option value="USD">USD</option>
+            <option value="EUR">EUR</option>
           </select>
         </div>
 
-        <div class="field">
-          <label>رأس المال</label>
-          <input id="amount" type="number" value="100">
+        <div class="card">
+          <label for="amount">رأس المال</label>
+          <input id="amount" type="number" step="0.001" value="100" />
         </div>
 
-        <div class="field">
-          <label>سعر شراء USDT</label>
-          <input id="buyPrice" type="number" step="0.0001" value="0.391">
+        <div class="card">
+          <label for="buyPrice">سعر شراء USDT</label>
+          <input id="buyPrice" type="number" step="0.0001" value="0.391" />
         </div>
 
-        <div class="field">
-          <label>سعر بيع USDT</label>
-          <input id="sellPrice" type="number" step="0.0001" value="0.393">
+        <div class="card">
+          <label for="sellPrice">سعر بيع USDT</label>
+          <input id="sellPrice" type="number" step="0.0001" value="0.393" />
         </div>
 
-        <div class="field">
-          <label>عدد الدورات</label>
-          <input id="cycles" type="number" value="5">
+        <div class="card">
+          <label for="cycles">عدد الدورات</label>
+          <input id="cycles" type="number" step="1" min="1" value="5" />
         </div>
 
-        <div class="field">
-          <label>هدف الربح (اختياري)</label>
-          <input id="target" type="number" placeholder="مثال: 5">
+        <div class="card">
+          <label for="target">هدف الربح</label>
+          <input id="target" type="number" step="0.001" placeholder="اختياري" />
         </div>
 
-        <div class="field full">
-          <label>
-            <input type="checkbox" id="compound">
-            تفعيل التراكم Compound
-          </label>
+        <div class="card full">
+          <div class="checkbox-wrap">
+            <input id="compound" type="checkbox" />
+            <label for="compound" style="margin:0">تفعيل التراكم Compound</label>
+          </div>
         </div>
       </div>
 
       <div class="actions">
-        <button class="action calc" onclick="calculateProfit()">احسب</button>
-        <button class="action reset" onclick="resetProfitCalc()">Reset</button>
-        <button class="action copy" onclick="copyResults()">Copy Results</button>
+        <button class="action calc" id="refreshLiveBtn">تحديث الأسعار من الملف</button>
+        <button class="action reset" id="resetMainBtn">Reset</button>
+        <button class="action copy" id="copyBtn">Copy Results</button>
       </div>
 
       <div class="results">
-        <div class="result-card">
+        <div class="card">
+          <div class="result-title">آخر تحديث للأسعار</div>
+          <div id="liveUpdatedAt" class="result-value">--</div>
+        </div>
+
+        <div class="card">
+          <div class="result-title">السعر الحي المختار</div>
+          <div id="liveP2PPrice" class="result-value">--</div>
+        </div>
+
+        <div class="card">
           <div class="result-title">كمية USDT</div>
           <div id="usdt" class="result-value">0</div>
         </div>
 
-        <div class="result-card">
+        <div class="card">
           <div class="result-title">إجمالي العمولة</div>
           <div id="fees" class="result-value">0</div>
         </div>
 
-        <div class="result-card">
+        <div class="card">
           <div class="result-title">الربح في الدورة</div>
           <div id="profitOne" class="result-value">0</div>
         </div>
 
-        <div class="result-card">
+        <div class="card">
           <div class="result-title">الربح بعد كل الدورات</div>
           <div id="profitTotal" class="result-value">0</div>
         </div>
 
-        <div class="result-card">
+        <div class="card">
           <div class="result-title">عدد الدورات المطلوبة للهدف</div>
           <div id="targetCycles" class="result-value">-</div>
         </div>
 
-        <div class="result-card">
+        <div class="card">
           <div class="result-title">سعر التعادل</div>
           <div id="breakEven" class="result-value">0</div>
         </div>
+      </div>
+
+      <div class="hint">
+        العمولة المستخدمة هنا: <b>0.08 USDT</b> لكل عملية، أي <b>0.16 USDT</b> لكل دورة كاملة.
       </div>
     </div>
 
     <!-- TAB 2 -->
     <div id="analysisTab" class="tab-content">
       <div class="grid">
-        <div class="field">
-          <label>رأس المال المستخدم للمقارنة</label>
-          <input id="analysisAmount" type="number" value="100">
+        <div class="card">
+          <label for="analysisAmount">رأس المال للمقارنة</label>
+          <input id="analysisAmount" type="number" step="0.001" value="100" />
         </div>
 
-        <div class="field">
-          <label>عدد الدورات للمقارنة</label>
-          <input id="analysisCycles" type="number" value="5">
+        <div class="card">
+          <label for="analysisCycles">عدد الدورات للمقارنة</label>
+          <input id="analysisCycles" type="number" step="1" min="1" value="5" />
         </div>
 
-        <div class="field">
-          <label>سعر شراء USDT بـ OMR</label>
-          <input id="buyOMR" type="number" step="0.0001" value="0.391">
-        </div>
+        <div class="card"><label>شراء OMR</label><input id="buyOMR" type="number" step="0.0001" value="0.391" /></div>
+        <div class="card"><label>بيع OMR</label><input id="sellOMR" type="number" step="0.0001" value="0.393" /></div>
 
-        <div class="field">
-          <label>سعر بيع USDT بـ OMR</label>
-          <input id="sellOMR" type="number" step="0.0001" value="0.393">
-        </div>
+        <div class="card"><label>شراء EGP</label><input id="buyEGP" type="number" step="0.0001" value="50.8000" /></div>
+        <div class="card"><label>بيع EGP</label><input id="sellEGP" type="number" step="0.0001" value="51.1000" /></div>
 
-        <div class="field">
-          <label>سعر شراء USDT بـ EGP</label>
-          <input id="buyEGP" type="number" step="0.0001" value="50.80">
-        </div>
+        <div class="card"><label>شراء AED</label><input id="buyAED" type="number" step="0.0001" value="3.6700" /></div>
+        <div class="card"><label>بيع AED</label><input id="sellAED" type="number" step="0.0001" value="3.6900" /></div>
 
-        <div class="field">
-          <label>سعر بيع USDT بـ EGP</label>
-          <input id="sellEGP" type="number" step="0.0001" value="51.10">
-        </div>
+        <div class="card"><label>شراء SAR</label><input id="buySAR" type="number" step="0.0001" value="3.7500" /></div>
+        <div class="card"><label>بيع SAR</label><input id="sellSAR" type="number" step="0.0001" value="3.7700" /></div>
 
-        <div class="field">
-          <label>سعر شراء USDT بـ AED</label>
-          <input id="buyAED" type="number" step="0.0001" value="3.670">
-        </div>
+        <div class="card"><label>شراء USD</label><input id="buyUSD" type="number" step="0.0001" value="1.0000" /></div>
+        <div class="card"><label>بيع USD</label><input id="sellUSD" type="number" step="0.0001" value="1.0030" /></div>
 
-        <div class="field">
-          <label>سعر بيع USDT بـ AED</label>
-          <input id="sellAED" type="number" step="0.0001" value="3.690">
-        </div>
-
-        <div class="field">
-          <label>سعر شراء USDT بـ SAR</label>
-          <input id="buySAR" type="number" step="0.0001" value="3.750">
-        </div>
-
-        <div class="field">
-          <label>سعر بيع USDT بـ SAR</label>
-          <input id="sellSAR" type="number" step="0.0001" value="3.770">
-        </div>
-
-        <div class="field">
-          <label>سعر شراء USDT بـ USD</label>
-          <input id="buyUSD" type="number" step="0.0001" value="1.000">
-        </div>
-
-        <div class="field">
-          <label>سعر بيع USDT بـ USD</label>
-          <input id="sellUSD" type="number" step="0.0001" value="1.003">
-        </div>
-
-        <div class="field">
-          <label>سعر شراء USDT بـ EUR</label>
-          <input id="buyEUR" type="number" step="0.0001" value="0.920">
-        </div>
-
-        <div class="field">
-          <label>سعر بيع USDT بـ EUR</label>
-          <input id="sellEUR" type="number" step="0.0001" value="0.926">
-        </div>
+        <div class="card"><label>شراء EUR</label><input id="buyEUR" type="number" step="0.0001" value="0.9200" /></div>
+        <div class="card"><label>بيع EUR</label><input id="sellEUR" type="number" step="0.0001" value="0.9260" /></div>
       </div>
 
       <div class="actions">
-        <button class="action calc" onclick="analyzeCurrencies()">حلل الآن</button>
-        <button class="action reset" onclick="resetAnalysis()">Reset</button>
+        <button class="action calc" id="refreshAnalysisBtn">تحديث التحليل</button>
+        <button class="action reset" id="resetAnalysisBtn">Reset</button>
       </div>
 
       <div class="best-box">
         <h3>أفضل عملة حاليًا</h3>
         <div id="bestCurrencyResult" class="result-value">--</div>
-        <div id="bestCurrencyReason" style="margin-top:8px; color:#d1d5db;">--</div>
+        <div id="bestCurrencyReason" style="margin-top:8px;color:#d1d5db">--</div>
       </div>
 
       <table>
@@ -417,49 +412,139 @@
   </div>
 
   <script>
-    const feePerTrade = 0.08;
+    const FEE_PER_TRADE_USDT = 0.08;
+    let p2pData = null;
 
-    function switchTab(tabId, btn){
-      document.querySelectorAll('.tab-content').forEach(tab => tab.classList.remove('active'));
-      document.querySelectorAll('.tab-btn').forEach(b => b.classList.remove('active'));
-      document.getElementById(tabId).classList.add('active');
-      btn.classList.add('active');
-    }
+    const ids = {
+      currency: document.getElementById("currency"),
+      amount: document.getElementById("amount"),
+      buyPrice: document.getElementById("buyPrice"),
+      sellPrice: document.getElementById("sellPrice"),
+      cycles: document.getElementById("cycles"),
+      target: document.getElementById("target"),
+      compound: document.getElementById("compound"),
+      analysisAmount: document.getElementById("analysisAmount"),
+      analysisCycles: document.getElementById("analysisCycles"),
+    };
 
-    function formatNum(num, digits = 3){
+    function formatNum(num, digits = 3) {
+      if (num === null || num === undefined || Number.isNaN(num)) return "--";
       return Number(num).toLocaleString(undefined, {
         minimumFractionDigits: digits,
         maximumFractionDigits: digits
       });
     }
 
-    function calculateProfit(){
-      const currency = document.getElementById("currency").value;
-      const amount = parseFloat(document.getElementById("amount").value) || 0;
-      const buy = parseFloat(document.getElementById("buyPrice").value) || 0;
-      const sell = parseFloat(document.getElementById("sellPrice").value) || 0;
-      const cycles = parseFloat(document.getElementById("cycles").value) || 0;
-      const target = parseFloat(document.getElementById("target").value) || 0;
-      const compound = document.getElementById("compound").checked;
+    function formatDate(ms) {
+      if (!ms) return "--";
+      const d = new Date(ms);
+      return d.toLocaleString("ar-EG");
+    }
 
-      if (amount <= 0 || buy <= 0 || sell <= 0 || cycles <= 0){
+    function setText(id, value) {
+      const el = document.getElementById(id);
+      if (el) el.textContent = value;
+    }
+
+    function setProfitColor(value) {
+      const el = document.getElementById("profitTotal");
+      if (!el) return;
+      el.className = "result-value";
+      if (value > 0) el.classList.add("green");
+      else if (value < 0) el.classList.add("red");
+      else el.classList.add("yellow");
+    }
+
+    function switchTab(tabId) {
+      document.querySelectorAll(".tab-content").forEach(el => el.classList.remove("active"));
+      document.querySelectorAll(".tab-btn").forEach(el => el.classList.remove("active"));
+      document.getElementById(tabId).classList.add("active");
+      document.querySelector(`.tab-btn[data-tab="${tabId}"]`).classList.add("active");
+    }
+
+    document.querySelectorAll(".tab-btn").forEach(btn => {
+      btn.addEventListener("click", () => switchTab(btn.dataset.tab));
+    });
+
+    async function loadP2PPrices() {
+      const res = await fetch("./data/p2p_prices.json?ts=" + Date.now(), { cache: "no-store" });
+      if (!res.ok) throw new Error("تعذر تحميل ملف الأسعار");
+      p2pData = await res.json();
+      setText("liveUpdatedAt", formatDate(p2pData.updatedAt));
+      applyLivePriceToMainCalc();
+      applyLivePricesToAnalysis();
+    }
+
+    function getPair(code) {
+      if (!p2pData || !p2pData.prices || !p2pData.prices[code]) return null;
+      const row = p2pData.prices[code];
+      return {
+        buy: row.BUY?.price ?? null,
+        sell: row.SELL?.price ?? null
+      };
+    }
+
+    function applyLivePriceToMainCalc() {
+      const code = ids.currency.value;
+      const pair = getPair(code);
+      if (!pair) return;
+
+      if (pair.buy !== null) ids.buyPrice.value = pair.buy;
+      if (pair.sell !== null) ids.sellPrice.value = pair.sell;
+
+      setText(
+        "liveP2PPrice",
+        `BUY: ${pair.buy !== null ? formatNum(pair.buy, 4) : "--"} | SELL: ${pair.sell !== null ? formatNum(pair.sell, 4) : "--"} ${code}`
+      );
+
+      calculateProfit();
+    }
+
+    function applyLivePricesToAnalysis() {
+      ["OMR", "EGP", "AED", "SAR", "USD", "EUR"].forEach(code => {
+        const pair = getPair(code);
+        if (!pair) return;
+        const buyEl = document.getElementById("buy" + code);
+        const sellEl = document.getElementById("sell" + code);
+        if (buyEl && pair.buy !== null) buyEl.value = pair.buy;
+        if (sellEl && pair.sell !== null) sellEl.value = pair.sell;
+      });
+      analyzeCurrencies();
+    }
+
+    function calculateProfit() {
+      const currency = ids.currency.value;
+      const amount = parseFloat(ids.amount.value) || 0;
+      const buy = parseFloat(ids.buyPrice.value) || 0;
+      const sell = parseFloat(ids.sellPrice.value) || 0;
+      const cycles = parseFloat(ids.cycles.value) || 0;
+      const target = parseFloat(ids.target.value) || 0;
+      const compound = ids.compound.checked;
+
+      if (amount <= 0 || buy <= 0 || sell <= 0 || cycles <= 0) {
+        setText("usdt", "0");
+        setText("fees", "0");
+        setText("profitOne", "0");
+        setText("profitTotal", "0");
+        setText("targetCycles", "-");
+        setText("breakEven", "0");
         return;
       }
 
       const usdt = amount / buy;
-      const usdtAfterBuyFee = usdt - feePerTrade;
+      const usdtAfterBuyFee = usdt - FEE_PER_TRADE_USDT;
       const sellValue = usdtAfterBuyFee * sell;
-      const sellFeeInCurrency = feePerTrade * buy;
+      const sellFeeInCurrency = FEE_PER_TRADE_USDT * buy;
       const profitOne = sellValue - amount - sellFeeInCurrency;
 
       let totalProfit = 0;
 
-      if (compound){
+      if (compound) {
         let capital = amount;
-        for(let i = 0; i < cycles; i++){
-          const u = (capital / buy) - feePerTrade;
+        for (let i = 0; i < cycles; i++) {
+          const u = (capital / buy) - FEE_PER_TRADE_USDT;
           const v = u * sell;
-          const p = v - capital - (feePerTrade * buy);
+          const p = v - capital - (FEE_PER_TRADE_USDT * buy);
           capital += p;
         }
         totalProfit = capital - amount;
@@ -467,93 +552,34 @@
         totalProfit = profitOne * cycles;
       }
 
+      const totalFees = (FEE_PER_TRADE_USDT * buy * 2) * cycles;
       const breakEven = (amount + sellFeeInCurrency) / usdtAfterBuyFee;
-      const totalFees = (feePerTrade * buy * 2) * cycles;
-      const roi = (profitOne / amount) * 100;
 
-      document.getElementById("usdt").innerText = formatNum(usdt) + " USDT";
-      document.getElementById("fees").innerText = formatNum(totalFees) + " " + currency;
-      document.getElementById("profitOne").innerText = formatNum(profitOne) + " " + currency;
-      document.getElementById("profitTotal").innerText = formatNum(totalProfit) + " " + currency;
-      document.getElementById("breakEven").innerText = formatNum(breakEven, 4);
+      setText("usdt", `${formatNum(usdt)} USDT`);
+      setText("fees", `${formatNum(totalFees)} ${currency}`);
+      setText("profitOne", `${formatNum(profitOne)} ${currency}`);
+      setText("profitTotal", `${formatNum(totalProfit)} ${currency}`);
+      setText("breakEven", formatNum(breakEven, 4));
 
-      if(target > 0 && profitOne > 0){
-        document.getElementById("targetCycles").innerText = Math.ceil(target / profitOne);
+      if (target > 0 && profitOne > 0) {
+        setText("targetCycles", Math.ceil(target / profitOne));
       } else {
-        document.getElementById("targetCycles").innerText = "-";
+        setText("targetCycles", "-");
       }
 
-      const totalProfitEl = document.getElementById("profitTotal");
-      totalProfitEl.className = "result-value";
-      if(totalProfit > 0) totalProfitEl.classList.add("green");
-      else if(totalProfit < 0) totalProfitEl.classList.add("red");
-      else totalProfitEl.classList.add("yellow");
-
-      saveProfitData();
+      setProfitColor(totalProfit);
+      saveMainData();
     }
 
-    function resetProfitCalc(){
-      ["amount","buyPrice","sellPrice","cycles","target"].forEach(id => {
-        document.getElementById(id).value = "";
-      });
-      document.getElementById("compound").checked = false;
-      document.getElementById("usdt").innerText = "0";
-      document.getElementById("fees").innerText = "0";
-      document.getElementById("profitOne").innerText = "0";
-      document.getElementById("profitTotal").innerText = "0";
-      document.getElementById("targetCycles").innerText = "-";
-      document.getElementById("breakEven").innerText = "0";
-      localStorage.removeItem("profitCalcData");
-    }
-
-    function copyResults(){
-      const text =
-`USDT Calculator Results
-USDT: ${document.getElementById("usdt").innerText}
-Fees: ${document.getElementById("fees").innerText}
-Profit per cycle: ${document.getElementById("profitOne").innerText}
-Total profit: ${document.getElementById("profitTotal").innerText}
-Break-even: ${document.getElementById("breakEven").innerText}
-Target cycles: ${document.getElementById("targetCycles").innerText}`;
-      navigator.clipboard.writeText(text);
-      alert("تم نسخ النتائج");
-    }
-
-    function saveProfitData(){
-      const data = {
-        currency: document.getElementById("currency").value,
-        amount: document.getElementById("amount").value,
-        buyPrice: document.getElementById("buyPrice").value,
-        sellPrice: document.getElementById("sellPrice").value,
-        cycles: document.getElementById("cycles").value,
-        target: document.getElementById("target").value,
-        compound: document.getElementById("compound").checked
-      };
-      localStorage.setItem("profitCalcData", JSON.stringify(data));
-    }
-
-    function loadProfitData(){
-      const raw = localStorage.getItem("profitCalcData");
-      if(!raw) return;
-      const data = JSON.parse(raw);
-      document.getElementById("currency").value = data.currency || "OMR";
-      document.getElementById("amount").value = data.amount || "100";
-      document.getElementById("buyPrice").value = data.buyPrice || "0.391";
-      document.getElementById("sellPrice").value = data.sellPrice || "0.393";
-      document.getElementById("cycles").value = data.cycles || "5";
-      document.getElementById("target").value = data.target || "";
-      document.getElementById("compound").checked = !!data.compound;
-    }
-
-    function calcCurrencyRow(amount, buy, sell, cycles){
-      if(amount <= 0 || buy <= 0 || sell <= 0 || cycles <= 0){
-        return {profitOne:0,totalProfit:0,roi:0,rating:"--"};
+    function calcCurrencyRow(amount, buy, sell, cycles) {
+      if (amount <= 0 || buy <= 0 || sell <= 0 || cycles <= 0) {
+        return { profitOne: 0, totalProfit: 0, roi: 0, rating: "--" };
       }
 
       const usdt = amount / buy;
-      const usdtAfter = usdt - feePerTrade;
+      const usdtAfter = usdt - FEE_PER_TRADE_USDT;
       const sellValue = usdtAfter * sell;
-      const sellFee = feePerTrade * buy;
+      const sellFee = FEE_PER_TRADE_USDT * buy;
       const profitOne = sellValue - amount - sellFee;
       const totalProfit = profitOne * cycles;
       const roi = (profitOne / amount) * 100;
@@ -564,26 +590,23 @@ Target cycles: ${document.getElementById("targetCycles").innerText}`;
       else if (profitOne > 0) rating = "مقبول";
       else rating = "غير مناسب";
 
-      return {profitOne,totalProfit,roi,rating};
+      return { profitOne, totalProfit, roi, rating };
     }
 
-    function analyzeCurrencies(){
-      const amount = parseFloat(document.getElementById("analysisAmount").value) || 0;
-      const cycles = parseFloat(document.getElementById("analysisCycles").value) || 0;
+    function analyzeCurrencies() {
+      const amount = parseFloat(ids.analysisAmount.value) || 0;
+      const cycles = parseFloat(ids.analysisCycles.value) || 0;
 
-      const currencies = [
-        {code:"OMR", buy:parseFloat(document.getElementById("buyOMR").value)||0, sell:parseFloat(document.getElementById("sellOMR").value)||0},
-        {code:"EGP", buy:parseFloat(document.getElementById("buyEGP").value)||0, sell:parseFloat(document.getElementById("sellEGP").value)||0},
-        {code:"AED", buy:parseFloat(document.getElementById("buyAED").value)||0, sell:parseFloat(document.getElementById("sellAED").value)||0},
-        {code:"SAR", buy:parseFloat(document.getElementById("buySAR").value)||0, sell:parseFloat(document.getElementById("sellSAR").value)||0},
-        {code:"USD", buy:parseFloat(document.getElementById("buyUSD").value)||0, sell:parseFloat(document.getElementById("sellUSD").value)||0},
-        {code:"EUR", buy:parseFloat(document.getElementById("buyEUR").value)||0, sell:parseFloat(document.getElementById("sellEUR").value)||0}
-      ];
+      const currencies = ["OMR", "EGP", "AED", "SAR", "USD", "EUR"].map(code => ({
+        code,
+        buy: parseFloat(document.getElementById("buy" + code).value) || 0,
+        sell: parseFloat(document.getElementById("sell" + code).value) || 0
+      }));
 
       const results = currencies.map(c => {
         const r = calcCurrencyRow(amount, c.buy, c.sell, cycles);
-        return {...c, ...r};
-      }).sort((a,b) => b.totalProfit - a.totalProfit);
+        return { ...c, ...r };
+      }).sort((a, b) => b.totalProfit - a.totalProfit);
 
       const tbody = document.getElementById("analysisTableBody");
       tbody.innerHTML = "";
@@ -603,49 +626,171 @@ Target cycles: ${document.getElementById("targetCycles").innerText}`;
       });
 
       const best = results[0];
-      document.getElementById("bestCurrencyResult").innerText = best.code;
-      document.getElementById("bestCurrencyReason").innerText =
-        `أعلى ربح متوقع بعد العمولة: ${formatNum(best.totalProfit)} ${best.code} خلال ${cycles} دورات`;
+      setText("bestCurrencyResult", best ? best.code : "--");
+      setText(
+        "bestCurrencyReason",
+        best
+          ? `أعلى ربح متوقع بعد العمولة: ${formatNum(best.totalProfit)} ${best.code} خلال ${cycles} دورات`
+          : "--"
+      );
 
       saveAnalysisData();
     }
 
-    function resetAnalysis(){
-      [
-        "analysisAmount","analysisCycles",
-        "buyOMR","sellOMR","buyEGP","sellEGP","buyAED","sellAED",
-        "buySAR","sellSAR","buyUSD","sellUSD","buyEUR","sellEUR"
-      ].forEach(id => document.getElementById(id).value = "");
+    function resetMain() {
+      ids.amount.value = "";
+      ids.buyPrice.value = "";
+      ids.sellPrice.value = "";
+      ids.cycles.value = "";
+      ids.target.value = "";
+      ids.compound.checked = false;
+
+      setText("usdt", "0");
+      setText("fees", "0");
+      setText("profitOne", "0");
+      setText("profitTotal", "0");
+      setText("targetCycles", "-");
+      setText("breakEven", "0");
+      localStorage.removeItem("mainCalcData");
+    }
+
+    function resetAnalysis() {
+      ids.analysisAmount.value = "";
+      ids.analysisCycles.value = "";
+      ["OMR", "EGP", "AED", "SAR", "USD", "EUR"].forEach(code => {
+        document.getElementById("buy" + code).value = "";
+        document.getElementById("sell" + code).value = "";
+      });
       document.getElementById("analysisTableBody").innerHTML = "";
-      document.getElementById("bestCurrencyResult").innerText = "--";
-      document.getElementById("bestCurrencyReason").innerText = "--";
+      setText("bestCurrencyResult", "--");
+      setText("bestCurrencyReason", "--");
       localStorage.removeItem("analysisData");
     }
 
-    function saveAnalysisData(){
-      const ids = [
-        "analysisAmount","analysisCycles",
-        "buyOMR","sellOMR","buyEGP","sellEGP","buyAED","sellAED",
-        "buySAR","sellSAR","buyUSD","sellUSD","buyEUR","sellEUR"
-      ];
-      const data = {};
-      ids.forEach(id => data[id] = document.getElementById(id).value);
+    async function copyResults() {
+      const text =
+`USDT Calculator Results
+Currency: ${ids.currency.value}
+Capital: ${ids.amount.value}
+Buy Price: ${ids.buyPrice.value}
+Sell Price: ${ids.sellPrice.value}
+Cycles: ${ids.cycles.value}
+USDT: ${document.getElementById("usdt").textContent}
+Fees: ${document.getElementById("fees").textContent}
+Profit / Cycle: ${document.getElementById("profitOne").textContent}
+Total Profit: ${document.getElementById("profitTotal").textContent}
+Break-even: ${document.getElementById("breakEven").textContent}
+Target Cycles: ${document.getElementById("targetCycles").textContent}`;
+
+      await navigator.clipboard.writeText(text);
+      alert("تم نسخ النتائج");
+    }
+
+    function saveMainData() {
+      const data = {
+        currency: ids.currency.value,
+        amount: ids.amount.value,
+        buyPrice: ids.buyPrice.value,
+        sellPrice: ids.sellPrice.value,
+        cycles: ids.cycles.value,
+        target: ids.target.value,
+        compound: ids.compound.checked
+      };
+      localStorage.setItem("mainCalcData", JSON.stringify(data));
+    }
+
+    function loadMainData() {
+      const raw = localStorage.getItem("mainCalcData");
+      if (!raw) return;
+      const data = JSON.parse(raw);
+      ids.currency.value = data.currency || "OMR";
+      ids.amount.value = data.amount || "100";
+      ids.buyPrice.value = data.buyPrice || "0.391";
+      ids.sellPrice.value = data.sellPrice || "0.393";
+      ids.cycles.value = data.cycles || "5";
+      ids.target.value = data.target || "";
+      ids.compound.checked = !!data.compound;
+    }
+
+    function saveAnalysisData() {
+      const data = {
+        analysisAmount: ids.analysisAmount.value,
+        analysisCycles: ids.analysisCycles.value
+      };
+      ["OMR", "EGP", "AED", "SAR", "USD", "EUR"].forEach(code => {
+        data["buy" + code] = document.getElementById("buy" + code).value;
+        data["sell" + code] = document.getElementById("sell" + code).value;
+      });
       localStorage.setItem("analysisData", JSON.stringify(data));
     }
 
-    function loadAnalysisData(){
+    function loadAnalysisData() {
       const raw = localStorage.getItem("analysisData");
-      if(!raw) return;
+      if (!raw) return;
       const data = JSON.parse(raw);
-      Object.keys(data).forEach(id => {
-        if(document.getElementById(id)) document.getElementById(id).value = data[id];
+      ids.analysisAmount.value = data.analysisAmount || "100";
+      ids.analysisCycles.value = data.analysisCycles || "5";
+      ["OMR", "EGP", "AED", "SAR", "USD", "EUR"].forEach(code => {
+        if (data["buy" + code] !== undefined) document.getElementById("buy" + code).value = data["buy" + code];
+        if (data["sell" + code] !== undefined) document.getElementById("sell" + code).value = data["sell" + code];
       });
     }
 
-    loadProfitData();
-    loadAnalysisData();
-    calculateProfit();
-    analyzeCurrencies();
+    function bindLiveAutoCalc() {
+      const mainIds = ["currency", "amount", "buyPrice", "sellPrice", "cycles", "target", "compound"];
+      const analysisIds = [
+        "analysisAmount", "analysisCycles",
+        "buyOMR", "sellOMR", "buyEGP", "sellEGP", "buyAED", "sellAED",
+        "buySAR", "sellSAR", "buyUSD", "sellUSD", "buyEUR", "sellEUR"
+      ];
+
+      document.querySelectorAll("input, select").forEach(el => {
+        el.addEventListener("input", () => {
+          if (mainIds.includes(el.id)) {
+            if (el.id === "currency" && p2pData) applyLivePriceToMainCalc();
+            else calculateProfit();
+          }
+          if (analysisIds.includes(el.id)) analyzeCurrencies();
+        });
+
+        el.addEventListener("change", () => {
+          if (mainIds.includes(el.id)) {
+            if (el.id === "currency" && p2pData) applyLivePriceToMainCalc();
+            else calculateProfit();
+          }
+          if (analysisIds.includes(el.id)) analyzeCurrencies();
+        });
+      });
+    }
+
+    document.getElementById("refreshLiveBtn").addEventListener("click", async () => {
+      try {
+        await loadP2PPrices();
+        alert("تم تحديث الأسعار");
+      } catch (e) {
+        alert("فشل تحديث الأسعار");
+      }
+    });
+
+    document.getElementById("refreshAnalysisBtn").addEventListener("click", analyzeCurrencies);
+    document.getElementById("resetMainBtn").addEventListener("click", resetMain);
+    document.getElementById("resetAnalysisBtn").addEventListener("click", resetAnalysis);
+    document.getElementById("copyBtn").addEventListener("click", copyResults);
+
+    document.addEventListener("DOMContentLoaded", async () => {
+      loadMainData();
+      loadAnalysisData();
+      bindLiveAutoCalc();
+
+      try {
+        await loadP2PPrices();
+      } catch (e) {
+        console.error(e);
+      }
+
+      calculateProfit();
+      analyzeCurrencies();
+    });
   </script>
 </body>
 </html>
