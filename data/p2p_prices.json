@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1773673206081,
+  "updatedAt": 1773677705159,
   "source": "Binance P2P web endpoint",
   "asset": "USDT",
   "prices": {
@@ -34,25 +34,25 @@
     },
     "EGP": {
       "BUY": {
-        "price": 52.51,
+        "price": 52.53,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "13866787995949748224",
-        "nickName": "XTrueDeal",
-        "minSingleTransAmount": "25000",
-        "maxSingleTransAmount": "930000",
+        "advNo": "12866886140696412160",
+        "nickName": "P2P-42d842tb",
+        "minSingleTransAmount": "90",
+        "maxSingleTransAmount": "500000",
         "tradeMethods": [
           "InstaPay"
         ]
       },
       "SELL": {
-        "price": 53.0,
+        "price": 52.95,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12842308080159072256",
-        "nickName": "Mohamed- _Elsayed ",
-        "minSingleTransAmount": "4488",
-        "maxSingleTransAmount": "4488",
+        "advNo": "12866645110241656832",
+        "nickName": "Madonna m",
+        "minSingleTransAmount": "40000",
+        "maxSingleTransAmount": "40001",
         "tradeMethods": [
           "Vodafone cash"
         ]
@@ -72,16 +72,15 @@
         ]
       },
       "SELL": {
-        "price": 3.683,
+        "price": 3.682,
         "pickedIndex": 1,
         "availableRows": 10,
-        "advNo": "12852379634828443648",
-        "nickName": "marwan",
-        "minSingleTransAmount": "40000",
-        "maxSingleTransAmount": "7000000",
+        "advNo": "12857894637915836416",
+        "nickName": "ar_crypto",
+        "minSingleTransAmount": "5000",
+        "maxSingleTransAmount": "5000",
         "tradeMethods": [
-          "Bank Transfer",
-          "Cash Deposit to Bank"
+          "Aani"
         ]
       }
     },
@@ -120,12 +119,12 @@
         "price": 0.995,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "13846795633789247488",
-        "nickName": "Freedom _BTC",
-        "minSingleTransAmount": "100",
-        "maxSingleTransAmount": "10000",
+        "advNo": "12866845440277020672",
+        "nickName": "phopho zb",
+        "minSingleTransAmount": "12",
+        "maxSingleTransAmount": "13",
         "tradeMethods": [
-          "TBC Bank"
+          "Wise"
         ]
       },
       "SELL": {
@@ -143,30 +142,32 @@
     },
     "EUR": {
       "BUY": {
-        "price": 0.873,
+        "price": 0.87,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12866556373350416384",
-        "nickName": "albert876",
-        "minSingleTransAmount": "1500",
-        "maxSingleTransAmount": "1501",
+        "advNo": "12839006339894349824",
+        "nickName": "fast-seeden",
+        "minSingleTransAmount": "13",
+        "maxSingleTransAmount": "13",
         "tradeMethods": [
-          "BBVA",
-          "CaixaBank (Spain)",
-          "Banco Santander (Spain)",
-          "Banco Sabadell (Spain)"
+          "SEPA Instant",
+          "Bizum"
         ]
       },
       "SELL": {
-        "price": 0.885,
+        "price": 0.918,
         "pickedIndex": 1,
-        "availableRows": 10,
-        "advNo": "12866860487735033856",
-        "nickName": "Cleiver28",
-        "minSingleTransAmount": "700",
-        "maxSingleTransAmount": "700",
+        "availableRows": 11,
+        "advNo": "12866571411465371648",
+        "nickName": "Anyelithcuellar",
+        "minSingleTransAmount": "29800",
+        "maxSingleTransAmount": "29900",
         "tradeMethods": [
-          "BBVA"
+          "Banco Santander (Spain)",
+          "SEPA Instant",
+          "N26",
+          "BBVA",
+          "ING"
         ]
       }
     }
