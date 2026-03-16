@@ -1,61 +1,55 @@
 {
-  "updatedAt": 1773652540654,
+  "updatedAt": 1773657160046,
   "source": "Binance P2P web endpoint",
   "asset": "USDT",
   "prices": {
     "OMR": {
       "BUY": {
-        "price": 0.391,
+        "price": 0.39,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12825993112017731584",
-        "nickName": "Firas_Crypto",
-        "minSingleTransAmount": "500",
+        "advNo": "12866228146031738880",
+        "nickName": "Standard",
+        "minSingleTransAmount": "540",
         "maxSingleTransAmount": "2500",
         "tradeMethods": [
-          "Bank Muscat",
-          "Bank Dhofar",
-          "Sohar International",
           "Airtime Mobile Top-Up"
         ]
       },
       "SELL": {
-        "price": 0.39,
+        "price": 0.404,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12836464470759849984",
-        "nickName": "Ammar50005",
-        "minSingleTransAmount": "2499",
+        "advNo": "12866802461854142464",
+        "nickName": "Ahmed",
+        "minSingleTransAmount": "600",
         "maxSingleTransAmount": "2500",
         "tradeMethods": [
-          "Oman Arab Bank",
-          "Bank Transfer (Middle East)",
-          "Bank Muscat",
-          "Airtime Mobile Top-Up"
+          "Bank Transfer"
         ]
       }
     },
     "EGP": {
       "BUY": {
-        "price": 52.68,
+        "price": 52.59,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12866788609312722944",
-        "nickName": "P2P-810e47wi",
-        "minSingleTransAmount": "1000",
-        "maxSingleTransAmount": "500000",
+        "advNo": "12866806684707213312",
+        "nickName": "AL ilamyah 1976",
+        "minSingleTransAmount": "10200",
+        "maxSingleTransAmount": "10201",
         "tradeMethods": [
           "InstaPay"
         ]
       },
       "SELL": {
-        "price": 53.02,
+        "price": 53.21,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12842381350586249216",
-        "nickName": "_Pirate",
-        "minSingleTransAmount": "60000",
-        "maxSingleTransAmount": "60001",
+        "advNo": "12860420028095430656",
+        "nickName": "Haram_UAE",
+        "minSingleTransAmount": "59995",
+        "maxSingleTransAmount": "59995",
         "tradeMethods": [
           "Vodafone cash"
         ]
@@ -63,46 +57,43 @@
     },
     "AED": {
       "BUY": {
-        "price": 3.694,
+        "price": 3.695,
         "pickedIndex": 1,
         "availableRows": 10,
-        "advNo": "12858779123874488320",
-        "nickName": "Shulia",
-        "minSingleTransAmount": "5000",
-        "maxSingleTransAmount": "10930",
+        "advNo": "12863152896037605376",
+        "nickName": "zabrocker",
+        "minSingleTransAmount": "3690",
+        "maxSingleTransAmount": "3700",
         "tradeMethods": [
-          "Bank Transfer",
-          "Emirates NBD"
+          "Bank Transfer"
         ]
       },
       "SELL": {
         "price": 3.68,
         "pickedIndex": 1,
         "availableRows": 10,
-        "advNo": "12866098661693259776",
-        "nickName": "Travis_RaTR",
-        "minSingleTransAmount": "19500",
-        "maxSingleTransAmount": "19504",
+        "advNo": "12857894637915836416",
+        "nickName": "ar_crypto",
+        "minSingleTransAmount": "5000",
+        "maxSingleTransAmount": "5000",
         "tradeMethods": [
-          "Bank Transfer",
-          "Emirates NBD",
-          "AL MASHREQ Bank"
+          "Aani"
         ]
       }
     },
     "SAR": {
       "BUY": {
-        "price": 3.82,
+        "price": 3.8,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12866497483888082944",
-        "nickName": "MOHAMMEDxOTB",
-        "minSingleTransAmount": "10000",
-        "maxSingleTransAmount": "100000",
+        "advNo": "12866662016579018752",
+        "nickName": "User-97a6e",
+        "minSingleTransAmount": "12000",
+        "maxSingleTransAmount": "17000",
         "tradeMethods": [
-          "Saudi National Bank (AlAhli Bank)",
-          "Alinma Bank",
-          "Transfers with specific bank"
+          "Al Rajhi Bank",
+          "stc pay",
+          "Alinma Bank"
         ]
       },
       "SELL": {
@@ -121,15 +112,15 @@
     },
     "USD": {
       "BUY": {
-        "price": 0.999,
+        "price": 0.995,
         "pickedIndex": 1,
-        "availableRows": 10,
-        "advNo": "12866112221159170048",
-        "nickName": "Exchange-Georgia",
+        "availableRows": 11,
+        "advNo": "13839594139332284416",
+        "nickName": "kakha97",
         "minSingleTransAmount": "100",
-        "maxSingleTransAmount": "1000",
+        "maxSingleTransAmount": "12000",
         "tradeMethods": [
-          "Bank of Georgia"
+          "TBC Bank"
         ]
       },
       "SELL": {
@@ -147,31 +138,29 @@
     },
     "EUR": {
       "BUY": {
-        "price": 0.876,
+        "price": 0.875,
         "pickedIndex": 1,
-        "availableRows": 10,
-        "advNo": "12865685236676493312",
-        "nickName": "Wise Buddy",
-        "minSingleTransAmount": "100",
-        "maxSingleTransAmount": "2000",
+        "availableRows": 11,
+        "advNo": "13802485034864685056",
+        "nickName": "Crypto-Eli",
+        "minSingleTransAmount": "400",
+        "maxSingleTransAmount": "10000",
         "tradeMethods": [
-          "Wise"
+          "SEPA Instant",
+          "N26",
+          "Bank Transfer"
         ]
       },
       "SELL": {
-        "price": 0.918,
+        "price": 0.95,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12866571411465371648",
-        "nickName": "Anyelithcuellar",
-        "minSingleTransAmount": "29800",
-        "maxSingleTransAmount": "29900",
+        "advNo": "12866806339213697024",
+        "nickName": "P2P-c87d1b2p",
+        "minSingleTransAmount": "215",
+        "maxSingleTransAmount": "220",
         "tradeMethods": [
-          "Banco Santander (Spain)",
-          "SEPA Instant",
-          "N26",
-          "BBVA",
-          "ING"
+          "CaixaBank (Spain)"
         ]
       }
     }
