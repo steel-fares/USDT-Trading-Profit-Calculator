@@ -1,49 +1,49 @@
 {
-  "updatedAt": 1773705562852,
+  "updatedAt": 1773715868010,
   "source": "Binance P2P web endpoint",
   "asset": "USDT",
   "prices": {
     "OMR": {
       "BUY": {
-        "price": 0.39,
+        "price": 0.391,
         "pickedIndex": 1,
-        "availableRows": 10,
-        "advNo": "12866993023754317824",
-        "nickName": "FastTetherOM",
-        "minSingleTransAmount": "500",
-        "maxSingleTransAmount": "2500",
+        "availableRows": 11,
+        "advNo": "12866493422986260480",
+        "nickName": "perfectUSDT",
+        "minSingleTransAmount": "161",
+        "maxSingleTransAmount": "1500",
         "tradeMethods": [
-          "Bank Muscat",
-          "Sohar International"
+          "Bank Muscat"
         ]
       },
       "SELL": {
-        "price": 0.39,
+        "price": 0.404,
         "pickedIndex": 1,
-        "availableRows": 10,
-        "advNo": "12836464470759849984",
-        "nickName": "Ammar50005",
-        "minSingleTransAmount": "2499",
+        "availableRows": 11,
+        "advNo": "12866802461854142464",
+        "nickName": "Ahmed",
+        "minSingleTransAmount": "600",
         "maxSingleTransAmount": "2500",
         "tradeMethods": [
-          "Oman Arab Bank",
-          "Bank Transfer (Middle East)",
-          "Bank Muscat",
-          "Airtime Mobile Top-Up"
+          "Bank Transfer"
         ]
       }
     },
     "EGP": {
       "BUY": {
-        "price": 52.4,
+        "price": 52.54,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12867006029196210176",
-        "nickName": "الفردوس",
-        "minSingleTransAmount": "19600",
-        "maxSingleTransAmount": "19601",
+        "advNo": "13846251165859635200",
+        "nickName": "Point-",
+        "minSingleTransAmount": "110000",
+        "maxSingleTransAmount": "930000",
         "tradeMethods": [
-          "InstaPay"
+          "Banque Misr",
+          "InstaPay",
+          "National Bank of Egypt (NBE)",
+          "CIB | Commercial International Bank Egypt",
+          "Emirates NBD"
         ]
       },
       "SELL": {
@@ -64,13 +64,12 @@
         "price": 3.695,
         "pickedIndex": 1,
         "availableRows": 10,
-        "advNo": "12866289202561585152",
-        "nickName": "P2P TRUST FAST",
-        "minSingleTransAmount": "3800",
-        "maxSingleTransAmount": "3804",
+        "advNo": "12865079259091730432",
+        "nickName": "Bader Almutairi",
+        "minSingleTransAmount": "10770",
+        "maxSingleTransAmount": "25000",
         "tradeMethods": [
-          "ADIB: Abu Dhabi Islamic Bank",
-          "Aani"
+          "ADIB: Abu Dhabi Islamic Bank"
         ]
       },
       "SELL": {
@@ -80,7 +79,7 @@
         "advNo": "12806725274920353792",
         "nickName": "Mansoori1",
         "minSingleTransAmount": "49000",
-        "maxSingleTransAmount": "660000",
+        "maxSingleTransAmount": "530000",
         "tradeMethods": [
           "Bank Transfer",
           "Abu Dhabi Commercial Bank ADCB",
@@ -106,14 +105,15 @@
         ]
       },
       "SELL": {
-        "price": 4.5,
+        "price": 3.85,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12866997071910703104",
-        "nickName": "مملكة التداول ١١١AMJAD",
-        "minSingleTransAmount": "3000",
-        "maxSingleTransAmount": "100000",
+        "advNo": "12865020463290343424",
+        "nickName": "Hammad",
+        "minSingleTransAmount": "6999",
+        "maxSingleTransAmount": "7000",
         "tradeMethods": [
+          "Bank Transfer",
           "Al Rajhi Bank"
         ]
       }
@@ -146,17 +146,19 @@
     },
     "EUR": {
       "BUY": {
-        "price": 0.873,
+        "price": 0.874,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "13802485034864685056",
-        "nickName": "Crypto-Eli",
-        "minSingleTransAmount": "400",
-        "maxSingleTransAmount": "10000",
+        "advNo": "13864797561543344128",
+        "nickName": "TEZER_Exchange",
+        "minSingleTransAmount": "250",
+        "maxSingleTransAmount": "20000",
         "tradeMethods": [
+          "Bank Transfer",
           "SEPA Instant",
+          "SEPA (EU) bank transfer",
           "N26",
-          "Bank Transfer"
+          "Bunq"
         ]
       },
       "SELL": {
