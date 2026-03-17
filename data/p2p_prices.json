@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1773722805400,
+  "updatedAt": 1773726485871,
   "source": "Binance P2P web endpoint",
   "asset": "USDT",
   "prices": {
@@ -21,7 +21,7 @@
         ]
       },
       "SELL": {
-        "price": 0.403,
+        "price": 0.404,
         "pickedIndex": 1,
         "availableRows": 11,
         "advNo": "12866802461854142464",
@@ -35,15 +35,15 @@
     },
     "EGP": {
       "BUY": {
-        "price": 52.57,
+        "price": 52.55,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12851363999040032768",
-        "nickName": "EM3D",
+        "advNo": "12866131981181972480",
+        "nickName": "mahmoudtiger",
         "minSingleTransAmount": "5000",
         "maxSingleTransAmount": "500000",
         "tradeMethods": [
-          "InstaPay"
+          "Bank Transfer"
         ]
       },
       "SELL": {
@@ -61,42 +61,41 @@
     },
     "AED": {
       "BUY": {
-        "price": 3.698,
+        "price": 3.7,
         "pickedIndex": 1,
         "availableRows": 10,
-        "advNo": "12864416323982303232",
-        "nickName": "Dr_OJ",
-        "minSingleTransAmount": "3000",
-        "maxSingleTransAmount": "25000",
+        "advNo": "13859611187613749248",
+        "nickName": "TRADE_EDGE",
+        "minSingleTransAmount": "20000",
+        "maxSingleTransAmount": "5000000",
         "tradeMethods": [
-          "Cash Deposit to Bank",
-          "ADIB: Abu Dhabi Islamic Bank"
+          "Bank Transfer"
         ]
       },
       "SELL": {
         "price": 3.685,
         "pickedIndex": 1,
         "availableRows": 10,
-        "advNo": "12807394570292727808",
-        "nickName": "Real Bilal Awan",
-        "minSingleTransAmount": "5000",
-        "maxSingleTransAmount": "20000",
+        "advNo": "12866917676615933952",
+        "nickName": "bigmerchant",
+        "minSingleTransAmount": "10000",
+        "maxSingleTransAmount": "10000",
         "tradeMethods": [
-          "Bank Transfer"
+          "Aani"
         ]
       }
     },
     "SAR": {
       "BUY": {
-        "price": 3.84,
+        "price": 3.83,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "13861697306874597376",
-        "nickName": "abdullah_trader2",
-        "minSingleTransAmount": "4000",
-        "maxSingleTransAmount": "10000000",
+        "advNo": "12848272630092357632",
+        "nickName": "Quran_",
+        "minSingleTransAmount": "400",
+        "maxSingleTransAmount": "400",
         "tradeMethods": [
-          "Bank Transfer"
+          "stc pay"
         ]
       },
       "SELL": {
