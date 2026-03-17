@@ -1,19 +1,20 @@
 {
-  "updatedAt": 1773736541275,
+  "updatedAt": 1773740239930,
   "source": "Binance P2P web endpoint",
   "asset": "USDT",
   "prices": {
     "OMR": {
       "BUY": {
-        "price": 0.391,
+        "price": 0.39,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "13852038202719436800",
-        "nickName": "Cocoriki",
-        "minSingleTransAmount": "400",
-        "maxSingleTransAmount": "3000",
+        "advNo": "13866906794483589120",
+        "nickName": "DBLW",
+        "minSingleTransAmount": "200",
+        "maxSingleTransAmount": "1000",
         "tradeMethods": [
-          "Airtime Mobile Top-Up"
+          "Airtime Mobile Top-Up",
+          "Sohar International"
         ]
       },
       "SELL": {
@@ -31,13 +32,13 @@
     },
     "EGP": {
       "BUY": {
-        "price": 52.5,
+        "price": 52.37,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "13759958829203689472",
-        "nickName": "Kmexbank",
-        "minSingleTransAmount": "60000",
-        "maxSingleTransAmount": "60001",
+        "advNo": "12864708124733464576",
+        "nickName": "3Lawiii",
+        "minSingleTransAmount": "1999",
+        "maxSingleTransAmount": "2000",
         "tradeMethods": [
           "InstaPay"
         ]
@@ -57,19 +58,21 @@
     },
     "AED": {
       "BUY": {
-        "price": 3.69,
+        "price": 3.695,
         "pickedIndex": 1,
         "availableRows": 10,
-        "advNo": "12866764746339655680",
-        "nickName": "PingDen",
-        "minSingleTransAmount": "300",
-        "maxSingleTransAmount": "1500",
+        "advNo": "12863230690151260160",
+        "nickName": "Scofie",
+        "minSingleTransAmount": "10000",
+        "maxSingleTransAmount": "25000",
         "tradeMethods": [
-          "Bank Transfer"
+          "Bank Transfer",
+          "Cash Deposit to Bank",
+          "Emirates NBD"
         ]
       },
       "SELL": {
-        "price": 3.681,
+        "price": 3.685,
         "pickedIndex": 1,
         "availableRows": 10,
         "advNo": "12865323841182998528",
@@ -86,34 +89,35 @@
         "price": 3.84,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12848272630092357632",
-        "nickName": "Quran_",
-        "minSingleTransAmount": "1100",
-        "maxSingleTransAmount": "1100",
+        "advNo": "12867144003001270272",
+        "nickName": "FAST_SUPER_FAST",
+        "minSingleTransAmount": "5000",
+        "maxSingleTransAmount": "50000",
         "tradeMethods": [
-          "stc pay"
+          "Saudi National Bank (AlAhli Bank)",
+          "Alinma Bank",
+          "Bank Transfer"
         ]
       },
       "SELL": {
-        "price": 3.85,
+        "price": 3.86,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12865020463290343424",
-        "nickName": "Hammad",
-        "minSingleTransAmount": "6999",
-        "maxSingleTransAmount": "7000",
+        "advNo": "12867142239669932032",
+        "nickName": "ImranIsmail147",
+        "minSingleTransAmount": "60",
+        "maxSingleTransAmount": "340",
         "tradeMethods": [
-          "Bank Transfer",
-          "Al Rajhi Bank"
+          "urpay"
         ]
       }
     },
     "USD": {
       "BUY": {
-        "price": 0.996,
+        "price": 0.998,
         "pickedIndex": 1,
         "availableRows": 10,
-        "advNo": "13866154645479104512",
+        "advNo": "13866138171241709568",
         "nickName": "SpeedyXchange",
         "minSingleTransAmount": "50",
         "maxSingleTransAmount": "400",
@@ -136,19 +140,18 @@
     },
     "EUR": {
       "BUY": {
-        "price": 0.874,
+        "price": 0.872,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "13863883491332988928",
-        "nickName": "Herasima",
-        "minSingleTransAmount": "475",
-        "maxSingleTransAmount": "475",
+        "advNo": "13849127982920032256",
+        "nickName": "Novudi",
+        "minSingleTransAmount": "800",
+        "maxSingleTransAmount": "100000",
         "tradeMethods": [
           "SEPA Instant",
-          "Wise",
-          "BBVA",
-          "ING",
-          "ZEN"
+          "SEPA (EU) bank transfer",
+          "Bank Transfer",
+          "BBVA"
         ]
       },
       "SELL": {
