@@ -1,23 +1,27 @@
 {
-  "updatedAt": 1773715868010,
+  "updatedAt": 1773722805400,
   "source": "Binance P2P web endpoint",
   "asset": "USDT",
   "prices": {
     "OMR": {
       "BUY": {
-        "price": 0.391,
+        "price": 0.39,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12866493422986260480",
-        "nickName": "perfectUSDT",
-        "minSingleTransAmount": "161",
-        "maxSingleTransAmount": "1500",
+        "advNo": "13789205964223336448",
+        "nickName": "Ismail-Almaamari",
+        "minSingleTransAmount": "500",
+        "maxSingleTransAmount": "1000",
         "tradeMethods": [
-          "Bank Muscat"
+          "Airtime Mobile Top-Up",
+          "Bank Nizwa",
+          "Bank Muscat",
+          "Bank Dhofar",
+          "Sohar International"
         ]
       },
       "SELL": {
-        "price": 0.404,
+        "price": 0.403,
         "pickedIndex": 1,
         "availableRows": 11,
         "advNo": "12866802461854142464",
@@ -31,29 +35,25 @@
     },
     "EGP": {
       "BUY": {
-        "price": 52.54,
+        "price": 52.57,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "13846251165859635200",
-        "nickName": "Point-",
-        "minSingleTransAmount": "110000",
-        "maxSingleTransAmount": "930000",
+        "advNo": "12851363999040032768",
+        "nickName": "EM3D",
+        "minSingleTransAmount": "5000",
+        "maxSingleTransAmount": "500000",
         "tradeMethods": [
-          "Banque Misr",
-          "InstaPay",
-          "National Bank of Egypt (NBE)",
-          "CIB | Commercial International Bank Egypt",
-          "Emirates NBD"
+          "InstaPay"
         ]
       },
       "SELL": {
-        "price": 53.1,
+        "price": 53.51,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12865620555644334080",
-        "nickName": "GOLD_CASH",
-        "minSingleTransAmount": "400",
-        "maxSingleTransAmount": "510",
+        "advNo": "12867068519866494976",
+        "nickName": "m_gemy",
+        "minSingleTransAmount": "108",
+        "maxSingleTransAmount": "161",
         "tradeMethods": [
           "Vodafone cash"
         ]
@@ -61,47 +61,42 @@
     },
     "AED": {
       "BUY": {
-        "price": 3.695,
+        "price": 3.698,
         "pickedIndex": 1,
         "availableRows": 10,
-        "advNo": "12865079259091730432",
-        "nickName": "Bader Almutairi",
-        "minSingleTransAmount": "10770",
+        "advNo": "12864416323982303232",
+        "nickName": "Dr_OJ",
+        "minSingleTransAmount": "3000",
         "maxSingleTransAmount": "25000",
         "tradeMethods": [
+          "Cash Deposit to Bank",
           "ADIB: Abu Dhabi Islamic Bank"
         ]
       },
       "SELL": {
-        "price": 3.68,
+        "price": 3.685,
         "pickedIndex": 1,
         "availableRows": 10,
-        "advNo": "12806725274920353792",
-        "nickName": "Mansoori1",
-        "minSingleTransAmount": "49000",
-        "maxSingleTransAmount": "530000",
+        "advNo": "12807394570292727808",
+        "nickName": "Real Bilal Awan",
+        "minSingleTransAmount": "5000",
+        "maxSingleTransAmount": "20000",
         "tradeMethods": [
-          "Bank Transfer",
-          "Abu Dhabi Commercial Bank ADCB",
-          "Emirates NBD",
-          "ADIB: Abu Dhabi Islamic Bank",
-          "AL MASHREQ Bank"
+          "Bank Transfer"
         ]
       }
     },
     "SAR": {
       "BUY": {
-        "price": 3.8,
+        "price": 3.84,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12866662016579018752",
-        "nickName": "User-97a6e",
-        "minSingleTransAmount": "12000",
-        "maxSingleTransAmount": "17000",
+        "advNo": "13861697306874597376",
+        "nickName": "abdullah_trader2",
+        "minSingleTransAmount": "4000",
+        "maxSingleTransAmount": "10000000",
         "tradeMethods": [
-          "Al Rajhi Bank",
-          "stc pay",
-          "Alinma Bank"
+          "Bank Transfer"
         ]
       },
       "SELL": {
