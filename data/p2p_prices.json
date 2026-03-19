@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1773897369411,
+  "updatedAt": 1773900839204,
   "source": "Binance P2P web endpoint",
   "asset": "USDT",
   "prices": {
@@ -36,15 +36,15 @@
     },
     "EGP": {
       "BUY": {
-        "price": 52.38,
+        "price": 52.4,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "13852740217500086272",
-        "nickName": "Crypto On Demand",
-        "minSingleTransAmount": "50000",
-        "maxSingleTransAmount": "50000",
+        "advNo": "13867828668884082688",
+        "nickName": "IGMSS",
+        "minSingleTransAmount": "1000",
+        "maxSingleTransAmount": "930000",
         "tradeMethods": [
-          "InstaPay"
+          "Bank Transfer"
         ]
       },
       "SELL": {
@@ -95,24 +95,24 @@
         "price": 3.83,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12867569742193213440",
-        "nickName": "Laila2031",
-        "minSingleTransAmount": "100",
-        "maxSingleTransAmount": "100",
+        "advNo": "12867829486353899520",
+        "nickName": "sma123",
+        "minSingleTransAmount": "140",
+        "maxSingleTransAmount": "100000",
         "tradeMethods": [
-          "stc pay"
+          "Alinma Bank"
         ]
       },
       "SELL": {
-        "price": 3.92,
+        "price": 3.9,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12867797987614576640",
-        "nickName": "JUELMIA24",
-        "minSingleTransAmount": "195",
-        "maxSingleTransAmount": "200",
+        "advNo": "12864398051784671232",
+        "nickName": "Md-Shepan-Miah",
+        "minSingleTransAmount": "60",
+        "maxSingleTransAmount": "75",
         "tradeMethods": [
-          "Al Rajhi Bank"
+          "Bank Transfer"
         ]
       }
     },
@@ -147,16 +147,16 @@
         "price": 0.876,
         "pickedIndex": 1,
         "availableRows": 10,
-        "advNo": "13864797561543344128",
+        "advNo": "13864798073939087360",
         "nickName": "TEZER_Exchange",
         "minSingleTransAmount": "250",
         "maxSingleTransAmount": "20000",
         "tradeMethods": [
           "Bank Transfer",
-          "SEPA Instant",
           "SEPA (EU) bank transfer",
-          "N26",
-          "Bunq"
+          "BBVA",
+          "Banco Santander (Spain)",
+          "CaixaBank (Spain)"
         ]
       },
       "SELL": {
