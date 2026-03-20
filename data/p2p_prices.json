@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1773968163877,
+  "updatedAt": 1773977555415,
   "source": "Binance P2P web endpoint",
   "asset": "USDT",
   "prices": {
@@ -7,7 +7,7 @@
       "BUY": {
         "price": 0.393,
         "pickedIndex": 1,
-        "availableRows": 10,
+        "availableRows": 11,
         "advNo": "12867422384635432960",
         "nickName": "Bigzak_original",
         "minSingleTransAmount": "500",
@@ -17,16 +17,14 @@
         ]
       },
       "SELL": {
-        "price": 0.39,
+        "price": 0.391,
         "pickedIndex": 1,
-        "availableRows": 10,
-        "advNo": "12836464470759849984",
-        "nickName": "Ammar50005",
-        "minSingleTransAmount": "2499",
-        "maxSingleTransAmount": "2500",
+        "availableRows": 11,
+        "advNo": "12867952377514491904",
+        "nickName": "P2P-lord333",
+        "minSingleTransAmount": "30",
+        "maxSingleTransAmount": "95",
         "tradeMethods": [
-          "Oman Arab Bank",
-          "Bank Transfer (Middle East)",
           "Bank Muscat",
           "Airtime Mobile Top-Up"
         ]
@@ -34,25 +32,25 @@
     },
     "EGP": {
       "BUY": {
-        "price": 52.06,
+        "price": 52.1,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12868106963738497024",
-        "nickName": "Altyebmohammed",
-        "minSingleTransAmount": "1000",
-        "maxSingleTransAmount": "6895",
+        "advNo": "12865580719102152704",
+        "nickName": "RoRoAmr",
+        "minSingleTransAmount": "5200",
+        "maxSingleTransAmount": "500000",
         "tradeMethods": [
           "InstaPay"
         ]
       },
       "SELL": {
-        "price": 52.65,
+        "price": 52.79,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12841292622055804928",
-        "nickName": "The_monster1",
-        "minSingleTransAmount": "3000",
-        "maxSingleTransAmount": "3001",
+        "advNo": "12867391787428302848",
+        "nickName": "USDT_4_Ever",
+        "minSingleTransAmount": "30000",
+        "maxSingleTransAmount": "930000",
         "tradeMethods": [
           "Vodafone cash"
         ]
@@ -60,19 +58,23 @@
     },
     "AED": {
       "BUY": {
-        "price": 3.702,
+        "price": 3.701,
         "pickedIndex": 1,
         "availableRows": 10,
-        "advNo": "12864370275616133120",
-        "nickName": "RashB",
-        "minSingleTransAmount": "2000",
+        "advNo": "12867912481924718592",
+        "nickName": "NASSER-TRADER",
+        "minSingleTransAmount": "20000",
         "maxSingleTransAmount": "25000",
         "tradeMethods": [
-          "Bank Transfer"
+          "mBank",
+          "Abu Dhabi Commercial Bank ADCB",
+          "Emirates NBD",
+          "ADIB: Abu Dhabi Islamic Bank",
+          "AL MASHREQ Bank"
         ]
       },
       "SELL": {
-        "price": 3.686,
+        "price": 3.687,
         "pickedIndex": 1,
         "availableRows": 10,
         "advNo": "12865422471271874560",
@@ -98,31 +100,29 @@
         ]
       },
       "SELL": {
-        "price": 3.92,
+        "price": 3.85,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12866871170248720384",
-        "nickName": "Munera283",
-        "minSingleTransAmount": "400",
-        "maxSingleTransAmount": "420",
+        "advNo": "12868021365012992000",
+        "nickName": "Alazhar Mohammed",
+        "minSingleTransAmount": "1800",
+        "maxSingleTransAmount": "1900",
         "tradeMethods": [
-          "barq",
-          "stc pay",
-          "urpay"
+          "Al Rajhi Bank"
         ]
       }
     },
     "USD": {
       "BUY": {
-        "price": 0.998,
+        "price": 1.0,
         "pickedIndex": 1,
-        "availableRows": 10,
-        "advNo": "13866138171241709568",
-        "nickName": "SpeedyXchange",
-        "minSingleTransAmount": "50",
-        "maxSingleTransAmount": "400",
+        "availableRows": 11,
+        "advNo": "12556206845790932992",
+        "nickName": "誌得其樂",
+        "minSingleTransAmount": "15",
+        "maxSingleTransAmount": "1500",
         "tradeMethods": [
-          "AirTM"
+          "Bank Transfer (Taiwan)"
         ]
       },
       "SELL": {
