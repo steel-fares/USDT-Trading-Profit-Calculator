@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1774070707985,
+  "updatedAt": 1774072941968,
   "source": "Binance P2P web endpoint",
   "asset": "USDT",
   "prices": {
@@ -49,13 +49,13 @@
         ]
       },
       "SELL": {
-        "price": 53.79,
+        "price": 53.85,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12867391787428302848",
-        "nickName": "USDT_4_Ever",
-        "minSingleTransAmount": "30000",
-        "maxSingleTransAmount": "930000",
+        "advNo": "12858375294255243264",
+        "nickName": "FAST--PAY",
+        "minSingleTransAmount": "101",
+        "maxSingleTransAmount": "102",
         "tradeMethods": [
           "Vodafone cash"
         ]
@@ -63,16 +63,17 @@
     },
     "AED": {
       "BUY": {
-        "price": 3.7,
+        "price": 3.699,
         "pickedIndex": 1,
         "availableRows": 10,
-        "advNo": "12865287052519022592",
-        "nickName": "Dark_Capital_AE",
-        "minSingleTransAmount": "2000",
-        "maxSingleTransAmount": "25000",
+        "advNo": "13860603865558982656",
+        "nickName": "SalimCapital",
+        "minSingleTransAmount": "10000",
+        "maxSingleTransAmount": "50000",
         "tradeMethods": [
-          "ADIB: Abu Dhabi Islamic Bank",
-          "Bank Transfer"
+          "Bank Transfer",
+          "Abu Dhabi Commercial Bank ADCB",
+          "Emirates NBD"
         ]
       },
       "SELL": {
