@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1774066845194,
+  "updatedAt": 1774070707985,
   "source": "Binance P2P web endpoint",
   "asset": "USDT",
   "prices": {
@@ -37,7 +37,7 @@
     },
     "EGP": {
       "BUY": {
-        "price": 52.64,
+        "price": 52.72,
         "pickedIndex": 1,
         "availableRows": 11,
         "advNo": "12868371242268868608",
@@ -63,25 +63,26 @@
     },
     "AED": {
       "BUY": {
-        "price": 3.698,
+        "price": 3.7,
         "pickedIndex": 1,
         "availableRows": 10,
-        "advNo": "12852607389203255296",
-        "nickName": "TorabExchange",
-        "minSingleTransAmount": "500",
-        "maxSingleTransAmount": "20000",
+        "advNo": "12865287052519022592",
+        "nickName": "Dark_Capital_AE",
+        "minSingleTransAmount": "2000",
+        "maxSingleTransAmount": "25000",
         "tradeMethods": [
+          "ADIB: Abu Dhabi Islamic Bank",
           "Bank Transfer"
         ]
       },
       "SELL": {
-        "price": 3.684,
+        "price": 3.686,
         "pickedIndex": 1,
         "availableRows": 10,
-        "advNo": "12759856425333620736",
-        "nickName": "Umlayan",
-        "minSingleTransAmount": "25000",
-        "maxSingleTransAmount": "90000",
+        "advNo": "12865422471271874560",
+        "nickName": "abosakeencrypto",
+        "minSingleTransAmount": "20950",
+        "maxSingleTransAmount": "21000",
         "tradeMethods": [
           "Cash Deposit to Bank"
         ]
@@ -101,16 +102,15 @@
         ]
       },
       "SELL": {
-        "price": 3.89,
+        "price": 3.85,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12864398051784671232",
-        "nickName": "Md-Shepan-Miah",
-        "minSingleTransAmount": "100",
-        "maxSingleTransAmount": "150",
+        "advNo": "12868480287651053568",
+        "nickName": "Al-Ziyadi Bitcoin",
+        "minSingleTransAmount": "70",
+        "maxSingleTransAmount": "100000",
         "tradeMethods": [
-          "barq",
-          "Bank Transfer"
+          "stc pay"
         ]
       }
     },
@@ -118,13 +118,14 @@
       "BUY": {
         "price": 1.0,
         "pickedIndex": 1,
-        "availableRows": 11,
-        "advNo": "12556206845790932992",
-        "nickName": "誌得其樂",
-        "minSingleTransAmount": "15",
-        "maxSingleTransAmount": "1500",
+        "availableRows": 10,
+        "advNo": "13836995526452314112",
+        "nickName": "FAST-BUY-SELLR-MYR",
+        "minSingleTransAmount": "10",
+        "maxSingleTransAmount": "15000",
         "tradeMethods": [
-          "Bank Transfer (Taiwan)"
+          "Maybank",
+          "CIMB Niaga"
         ]
       },
       "SELL": {
@@ -142,19 +143,19 @@
     },
     "EUR": {
       "BUY": {
-        "price": 0.868,
+        "price": 0.869,
         "pickedIndex": 1,
         "availableRows": 10,
-        "advNo": "13861730730233966592",
-        "nickName": "VincitoreGroup",
-        "minSingleTransAmount": "5000",
-        "maxSingleTransAmount": "15000",
+        "advNo": "13864798073939087360",
+        "nickName": "TEZER_Exchange",
+        "minSingleTransAmount": "250",
+        "maxSingleTransAmount": "20000",
         "tradeMethods": [
-          "SEPA Instant",
           "Bank Transfer",
-          "CaixaBank (Spain)",
-          "Bunq",
-          "Paysera"
+          "SEPA (EU) bank transfer",
+          "BBVA",
+          "Banco Santander (Spain)",
+          "CaixaBank (Spain)"
         ]
       },
       "SELL": {
