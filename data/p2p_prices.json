@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1774093182982,
+  "updatedAt": 1774094183743,
   "source": "Binance P2P web endpoint",
   "asset": "USDT",
   "prices": {
@@ -33,29 +33,25 @@
     },
     "EGP": {
       "BUY": {
-        "price": 52.85,
+        "price": 52.84,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12868628181210763264",
-        "nickName": "king_200",
-        "minSingleTransAmount": "50000",
-        "maxSingleTransAmount": "500000",
+        "advNo": "13868637927614103552",
+        "nickName": "MAR_1894",
+        "minSingleTransAmount": "10000",
+        "maxSingleTransAmount": "10001",
         "tradeMethods": [
-          "Banque Misr",
-          "Bank Transfer",
-          "InstaPay",
-          "Qatar National Bank QNB",
-          "QNB"
+          "InstaPay"
         ]
       },
       "SELL": {
-        "price": 53.77,
+        "price": 53.83,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12751335781526372352",
-        "nickName": "AL_OmDa",
-        "minSingleTransAmount": "10000",
-        "maxSingleTransAmount": "10001",
+        "advNo": "12842179151738761216",
+        "nickName": "KeroAlKnj",
+        "minSingleTransAmount": "20000",
+        "maxSingleTransAmount": "20001",
         "tradeMethods": [
           "Vodafone cash"
         ]
@@ -75,19 +71,18 @@
         ]
       },
       "SELL": {
-        "price": 3.688,
+        "price": 3.69,
         "pickedIndex": 1,
         "availableRows": 10,
-        "advNo": "12817965222344892416",
-        "nickName": "FAST_CASH",
-        "minSingleTransAmount": "2000",
-        "maxSingleTransAmount": "2001",
+        "advNo": "12866439401645805568",
+        "nickName": "FASTUSDT1",
+        "minSingleTransAmount": "4000",
+        "maxSingleTransAmount": "4001",
         "tradeMethods": [
           "Bank Transfer",
-          "AL MASHREQ Bank",
+          "Bank Transfer (Middle East)",
           "Abu Dhabi Commercial Bank ADCB",
-          "ADIB: Abu Dhabi Islamic Bank",
-          "Emirates NBD"
+          "Transfers with specific bank"
         ]
       }
     },
@@ -96,14 +91,13 @@
         "price": 3.81,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "13810424306034630656",
-        "nickName": "Abdulaziz mubairik alshreef",
-        "minSingleTransAmount": "3000",
-        "maxSingleTransAmount": "6000",
+        "advNo": "12868600834511609856",
+        "nickName": "king2026_p2p",
+        "minSingleTransAmount": "12000",
+        "maxSingleTransAmount": "17381",
         "tradeMethods": [
           "Al Rajhi Bank",
-          "Saudi National Bank (AlAhli Bank)",
-          "Bank Transfer"
+          "stc pay"
         ]
       },
       "SELL": {
@@ -121,7 +115,7 @@
     },
     "USD": {
       "BUY": {
-        "price": 0.996,
+        "price": 0.994,
         "pickedIndex": 1,
         "availableRows": 10,
         "advNo": "13818409617182965760",
