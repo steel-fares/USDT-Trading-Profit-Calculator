@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1774090148304,
+  "updatedAt": 1774091569524,
   "source": "Binance P2P web endpoint",
   "asset": "USDT",
   "prices": {
@@ -33,27 +33,29 @@
     },
     "EGP": {
       "BUY": {
-        "price": 52.82,
+        "price": 52.83,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12856084578235813888",
-        "nickName": "DrAly",
-        "minSingleTransAmount": "5000",
-        "maxSingleTransAmount": "500000",
+        "advNo": "12864024175310413824",
+        "nickName": "0_second_release",
+        "minSingleTransAmount": "10000",
+        "maxSingleTransAmount": "13650",
         "tradeMethods": [
           "InstaPay"
         ]
       },
       "SELL": {
-        "price": 53.96,
+        "price": 53.89,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12849601233776427008",
-        "nickName": "Faast_Tradee",
-        "minSingleTransAmount": "12000",
-        "maxSingleTransAmount": "12001",
+        "advNo": "12835829298081087488",
+        "nickName": "M_O_K_A",
+        "minSingleTransAmount": "5000",
+        "maxSingleTransAmount": "5001",
         "tradeMethods": [
-          "Vodafone cash"
+          "Vodafone cash",
+          "Orange Cash",
+          "Etisalat Cash"
         ]
       }
     },
@@ -62,66 +64,65 @@
         "price": 3.695,
         "pickedIndex": 1,
         "availableRows": 10,
-        "advNo": "13851270973105070080",
-        "nickName": "B3OTC",
-        "minSingleTransAmount": "9000",
-        "maxSingleTransAmount": "50000",
+        "advNo": "12868598393005719552",
+        "nickName": "PingDen",
+        "minSingleTransAmount": "200",
+        "maxSingleTransAmount": "1500",
         "tradeMethods": [
           "Bank Transfer"
         ]
       },
       "SELL": {
-        "price": 3.686,
+        "price": 3.687,
         "pickedIndex": 1,
         "availableRows": 10,
-        "advNo": "12865422471271874560",
-        "nickName": "abosakeencrypto",
-        "minSingleTransAmount": "20950",
-        "maxSingleTransAmount": "21000",
+        "advNo": "12866439401645805568",
+        "nickName": "FASTUSDT1",
+        "minSingleTransAmount": "4000",
+        "maxSingleTransAmount": "4001",
         "tradeMethods": [
-          "Cash Deposit to Bank"
+          "Bank Transfer",
+          "Bank Transfer (Middle East)",
+          "Abu Dhabi Commercial Bank ADCB",
+          "Transfers with specific bank"
         ]
       }
     },
     "SAR": {
       "BUY": {
-        "price": 3.82,
+        "price": 3.81,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "13855445227543060480",
-        "nickName": "Al-habsi",
-        "minSingleTransAmount": "10000",
-        "maxSingleTransAmount": "26000",
+        "advNo": "12848272630092357632",
+        "nickName": "Quran_",
+        "minSingleTransAmount": "600",
+        "maxSingleTransAmount": "600",
         "tradeMethods": [
-          "Bank Transfer",
-          "stc pay"
+          "urpay"
         ]
       },
       "SELL": {
-        "price": 3.87,
+        "price": 3.84,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12805484221358727168",
-        "nickName": "Nawaf",
-        "minSingleTransAmount": "400",
-        "maxSingleTransAmount": "450",
+        "advNo": "12866679062988271616",
+        "nickName": "almalk-User-3b44a",
+        "minSingleTransAmount": "3500",
+        "maxSingleTransAmount": "3501",
         "tradeMethods": [
-          "AlinmaPay",
-          "Bank Transfer",
-          "stc pay",
-          "urpay"
+          "Al Rajhi Bank"
         ]
       }
     },
     "USD": {
       "BUY": {
-        "price": 0.998,
+        "price": 0.996,
         "pickedIndex": 1,
-        "availableRows": 11,
-        "advNo": "13853748730187239424",
-        "nickName": "Rachuli",
+        "availableRows": 10,
+        "advNo": "13818409617182965760",
+        "nickName": "Iriska7r",
         "minSingleTransAmount": "150",
-        "maxSingleTransAmount": "15000",
+        "maxSingleTransAmount": "24000",
         "tradeMethods": [
           "Bank of Georgia"
         ]
@@ -141,19 +142,15 @@
     },
     "EUR": {
       "BUY": {
-        "price": 0.867,
+        "price": 0.866,
         "pickedIndex": 1,
         "availableRows": 10,
-        "advNo": "13859114533363507200",
-        "nickName": "AxionExchange",
-        "minSingleTransAmount": "90",
-        "maxSingleTransAmount": "5000",
+        "advNo": "13862492007394840576",
+        "nickName": "User-4eb60",
+        "minSingleTransAmount": "100",
+        "maxSingleTransAmount": "700",
         "tradeMethods": [
-          "Bank Transfer",
-          "ZEN",
-          "SEPA Instant",
-          "N26",
-          "SEPA (EU) bank transfer"
+          "Wise"
         ]
       },
       "SELL": {
