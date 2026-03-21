@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1774082875344,
+  "updatedAt": 1774084709863,
   "source": "Binance P2P web endpoint",
   "asset": "USDT",
   "prices": {
@@ -37,25 +37,26 @@
     },
     "EGP": {
       "BUY": {
-        "price": 52.77,
+        "price": 52.75,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12865335434663186432",
-        "nickName": "Alhoat",
-        "minSingleTransAmount": "100",
-        "maxSingleTransAmount": "500000",
+        "advNo": "12865353085982928896",
+        "nickName": "Mobasset2024",
+        "minSingleTransAmount": "5000",
+        "maxSingleTransAmount": "15000",
         "tradeMethods": [
-          "InstaPay"
+          "CIB Bank",
+          "Bank Transfer"
         ]
       },
       "SELL": {
-        "price": 53.73,
+        "price": 53.68,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12844809784129687552",
-        "nickName": "alpha200",
-        "minSingleTransAmount": "60000",
-        "maxSingleTransAmount": "60001",
+        "advNo": "12800275475939246080",
+        "nickName": "aji711",
+        "minSingleTransAmount": "10000",
+        "maxSingleTransAmount": "10001",
         "tradeMethods": [
           "Vodafone cash"
         ]
@@ -63,13 +64,13 @@
     },
     "AED": {
       "BUY": {
-        "price": 3.696,
+        "price": 3.695,
         "pickedIndex": 1,
         "availableRows": 10,
-        "advNo": "13868575587809857536",
-        "nickName": "UAE-Digital-Exchange",
-        "minSingleTransAmount": "500",
-        "maxSingleTransAmount": "4000",
+        "advNo": "12868598393005719552",
+        "nickName": "PingDen",
+        "minSingleTransAmount": "200",
+        "maxSingleTransAmount": "1500",
         "tradeMethods": [
           "Bank Transfer"
         ]
@@ -89,43 +90,43 @@
     },
     "SAR": {
       "BUY": {
-        "price": 3.83,
+        "price": 3.82,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "13868188105831731200",
-        "nickName": "ابـو صـقـر",
-        "minSingleTransAmount": "10000",
-        "maxSingleTransAmount": "10000000",
+        "advNo": "12868600834511609856",
+        "nickName": "king2026_p2p",
+        "minSingleTransAmount": "12000",
+        "maxSingleTransAmount": "17381",
         "tradeMethods": [
-          "Bank Transfer",
           "Al Rajhi Bank",
-          "Saudi National Bank (AlAhli Bank)"
+          "stc pay"
         ]
       },
       "SELL": {
         "price": 3.85,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12868480287651053568",
-        "nickName": "Al-Ziyadi Bitcoin",
-        "minSingleTransAmount": "70",
-        "maxSingleTransAmount": "100000",
+        "advNo": "12824134612052623360",
+        "nickName": "Zein_faster",
+        "minSingleTransAmount": "400",
+        "maxSingleTransAmount": "2000",
         "tradeMethods": [
-          "stc pay"
+          "AlinmaPay",
+          "Alinma Bank"
         ]
       }
     },
     "USD": {
       "BUY": {
-        "price": 0.994,
+        "price": 0.995,
         "pickedIndex": 1,
-        "availableRows": 11,
-        "advNo": "12866848102265200640",
-        "nickName": "ying69o9",
-        "minSingleTransAmount": "15",
-        "maxSingleTransAmount": "100",
+        "availableRows": 10,
+        "advNo": "13868525205176356864",
+        "nickName": "Freedom _BTC",
+        "minSingleTransAmount": "100",
+        "maxSingleTransAmount": "10000",
         "tradeMethods": [
-          "ABA"
+          "Bank of Georgia"
         ]
       },
       "SELL": {
@@ -146,12 +147,16 @@
         "price": 0.865,
         "pickedIndex": 1,
         "availableRows": 10,
-        "advNo": "13867935955521572864",
-        "nickName": "stan228",
-        "minSingleTransAmount": "760",
-        "maxSingleTransAmount": "765",
+        "advNo": "13859114533363507200",
+        "nickName": "AxionExchange",
+        "minSingleTransAmount": "90",
+        "maxSingleTransAmount": "100",
         "tradeMethods": [
-          "International Wire (SWIFT)"
+          "Bank Transfer",
+          "ZEN",
+          "SEPA Instant",
+          "N26",
+          "SEPA (EU) bank transfer"
         ]
       },
       "SELL": {
