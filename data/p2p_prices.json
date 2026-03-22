@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1774177317235,
+  "updatedAt": 1774179267061,
   "source": "Binance P2P web endpoint",
   "asset": "USDT",
   "prices": {
@@ -36,15 +36,17 @@
     },
     "EGP": {
       "BUY": {
-        "price": 53.3,
+        "price": 53.19,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12866788609312722944",
-        "nickName": "P2P-810e47wi",
-        "minSingleTransAmount": "5000",
+        "advNo": "12862687064405712896",
+        "nickName": "Ahmed-Go",
+        "minSingleTransAmount": "200000",
         "maxSingleTransAmount": "500000",
         "tradeMethods": [
-          "InstaPay"
+          "Banque Misr",
+          "InstaPay",
+          "Alex Bank"
         ]
       },
       "SELL": {
@@ -74,7 +76,7 @@
         ]
       },
       "SELL": {
-        "price": 3.692,
+        "price": 3.695,
         "pickedIndex": 1,
         "availableRows": 10,
         "advNo": "12864354595566817280",
@@ -91,13 +93,13 @@
         "price": 3.81,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12848272630092357632",
-        "nickName": "Quran_",
-        "minSingleTransAmount": "500",
-        "maxSingleTransAmount": "500",
+        "advNo": "12868600834511609856",
+        "nickName": "king2026_p2p",
+        "minSingleTransAmount": "10000",
+        "maxSingleTransAmount": "17381",
         "tradeMethods": [
-          "stc pay",
-          "Arab Bank"
+          "Al Rajhi Bank",
+          "stc pay"
         ]
       },
       "SELL": {
@@ -115,13 +117,13 @@
     },
     "USD": {
       "BUY": {
-        "price": 0.995,
+        "price": 0.994,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "13868525205176356864",
-        "nickName": "Freedom _BTC",
-        "minSingleTransAmount": "100",
-        "maxSingleTransAmount": "10000",
+        "advNo": "13818409617182965760",
+        "nickName": "Iriska7r",
+        "minSingleTransAmount": "150",
+        "maxSingleTransAmount": "24000",
         "tradeMethods": [
           "Bank of Georgia"
         ]
@@ -141,15 +143,19 @@
     },
     "EUR": {
       "BUY": {
-        "price": 0.867,
+        "price": 0.866,
         "pickedIndex": 1,
         "availableRows": 10,
-        "advNo": "13862492007394840576",
-        "nickName": "User-4eb60",
-        "minSingleTransAmount": "100",
-        "maxSingleTransAmount": "700",
+        "advNo": "13859114533363507200",
+        "nickName": "AxionExchange",
+        "minSingleTransAmount": "90",
+        "maxSingleTransAmount": "5000",
         "tradeMethods": [
-          "Wise"
+          "Bank Transfer",
+          "ZEN",
+          "SEPA Instant",
+          "N26",
+          "SEPA (EU) bank transfer"
         ]
       },
       "SELL": {
