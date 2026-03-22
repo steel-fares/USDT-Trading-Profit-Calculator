@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1774213255602,
+  "updatedAt": 1774215416346,
   "source": "Binance P2P web endpoint",
   "asset": "USDT",
   "prices": {
@@ -35,14 +35,15 @@
     },
     "EGP": {
       "BUY": {
-        "price": 53.35,
+        "price": 53.39,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12861224891985186816",
-        "nickName": "GSM-TEAM HARAKAT",
-        "minSingleTransAmount": "12000",
-        "maxSingleTransAmount": "12100",
+        "advNo": "12869092140991721472",
+        "nickName": "USDT_Bitcoi",
+        "minSingleTransAmount": "9500",
+        "maxSingleTransAmount": "9515",
         "tradeMethods": [
+          "Bank Transfer",
           "InstaPay"
         ]
       },
@@ -65,25 +66,25 @@
     },
     "AED": {
       "BUY": {
-        "price": 3.7,
+        "price": 3.704,
         "pickedIndex": 1,
         "availableRows": 10,
-        "advNo": "13851608266058960896",
-        "nickName": "QinXhao",
-        "minSingleTransAmount": "49999",
-        "maxSingleTransAmount": "50000",
+        "advNo": "13819114207439196160",
+        "nickName": "MrExchange444",
+        "minSingleTransAmount": "20000",
+        "maxSingleTransAmount": "7000000",
         "tradeMethods": [
           "Bank Transfer"
         ]
       },
       "SELL": {
-        "price": 3.695,
+        "price": 3.693,
         "pickedIndex": 1,
         "availableRows": 10,
-        "advNo": "12864354595566817280",
-        "nickName": "UmSalama",
-        "minSingleTransAmount": "45000",
-        "maxSingleTransAmount": "100009",
+        "advNo": "12759856425333620736",
+        "nickName": "Umlayan",
+        "minSingleTransAmount": "25000",
+        "maxSingleTransAmount": "250000",
         "tradeMethods": [
           "Cash Deposit to Bank"
         ]
@@ -144,31 +145,31 @@
     },
     "EUR": {
       "BUY": {
-        "price": 0.869,
+        "price": 0.87,
         "pickedIndex": 1,
         "availableRows": 10,
-        "advNo": "13864797426777096192",
-        "nickName": "TEZER_Exchange",
-        "minSingleTransAmount": "250",
-        "maxSingleTransAmount": "10000",
+        "advNo": "13859114533363507200",
+        "nickName": "AxionExchange",
+        "minSingleTransAmount": "90",
+        "maxSingleTransAmount": "5000",
         "tradeMethods": [
           "Bank Transfer",
+          "ZEN",
           "SEPA Instant",
-          "SEPA (EU) bank transfer",
-          "BBVA",
-          "Paysera"
+          "N26",
+          "SEPA (EU) bank transfer"
         ]
       },
       "SELL": {
-        "price": 0.88,
+        "price": 0.883,
         "pickedIndex": 1,
         "availableRows": 10,
-        "advNo": "12694322228338434048",
-        "nickName": "DJAMAL_P2P_ALG",
-        "minSingleTransAmount": "300",
-        "maxSingleTransAmount": "357",
+        "advNo": "12861213288841732096",
+        "nickName": "cop-empresa",
+        "minSingleTransAmount": "790",
+        "maxSingleTransAmount": "792",
         "tradeMethods": [
-          "Dukascopy Bank"
+          "Banco Santander (Spain)"
         ]
       }
     }
