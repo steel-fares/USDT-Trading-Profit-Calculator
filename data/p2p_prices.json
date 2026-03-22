@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1774169763776,
+  "updatedAt": 1774172383339,
   "source": "Binance P2P web endpoint",
   "asset": "USDT",
   "prices": {
@@ -20,25 +20,26 @@
       "SELL": {
         "price": 0.392,
         "pickedIndex": 1,
-        "availableRows": 11,
-        "advNo": "12811339396564738048",
-        "nickName": "DrUsd",
-        "minSingleTransAmount": "19",
-        "maxSingleTransAmount": "20",
+        "availableRows": 10,
+        "advNo": "12865703025695588352",
+        "nickName": "hhs_9",
+        "minSingleTransAmount": "10",
+        "maxSingleTransAmount": "50",
         "tradeMethods": [
-          "Bank Muscat"
+          "Bank Muscat",
+          "Airtime Mobile Top-Up"
         ]
       }
     },
     "EGP": {
       "BUY": {
-        "price": 53.48,
+        "price": 53.25,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12859383631729192960",
-        "nickName": "احمد موحسين",
-        "minSingleTransAmount": "3000",
-        "maxSingleTransAmount": "500000",
+        "advNo": "13846126799137509376",
+        "nickName": "ElUSDT",
+        "minSingleTransAmount": "70000",
+        "maxSingleTransAmount": "200000",
         "tradeMethods": [
           "InstaPay"
         ]
@@ -70,15 +71,15 @@
         ]
       },
       "SELL": {
-        "price": 3.687,
+        "price": 3.691,
         "pickedIndex": 1,
         "availableRows": 10,
-        "advNo": "12866105604585881600",
-        "nickName": "EMIRATES GULF DIGITAL",
-        "minSingleTransAmount": "12000",
-        "maxSingleTransAmount": "12200",
+        "advNo": "12704228689228431360",
+        "nickName": "Piplumsh",
+        "minSingleTransAmount": "22999",
+        "maxSingleTransAmount": "23000",
         "tradeMethods": [
-          "Bank Transfer"
+          "Cash Deposit to Bank"
         ]
       }
     },
@@ -100,23 +101,23 @@
         ]
       },
       "SELL": {
-        "price": 3.86,
+        "price": 3.9,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12837481228547997696",
-        "nickName": "ALHAJ220",
+        "advNo": "12868966057493614592",
+        "nickName": "Mr Zahid Traders ",
         "minSingleTransAmount": "60",
-        "maxSingleTransAmount": "750",
+        "maxSingleTransAmount": "100",
         "tradeMethods": [
-          "urpay"
+          "Al Rajhi Bank"
         ]
       }
     },
     "USD": {
       "BUY": {
-        "price": 0.995,
+        "price": 0.993,
         "pickedIndex": 1,
-        "availableRows": 10,
+        "availableRows": 11,
         "advNo": "13818409617182965760",
         "nickName": "Iriska7r",
         "minSingleTransAmount": "150",
@@ -140,15 +141,19 @@
     },
     "EUR": {
       "BUY": {
-        "price": 0.868,
+        "price": 0.867,
         "pickedIndex": 1,
         "availableRows": 10,
-        "advNo": "12867615912022659072",
-        "nickName": "Zkillz",
-        "minSingleTransAmount": "100",
-        "maxSingleTransAmount": "102",
+        "advNo": "12845047122864586752",
+        "nickName": "GPKBB",
+        "minSingleTransAmount": "2644",
+        "maxSingleTransAmount": "2644",
         "tradeMethods": [
-          "SEPA Instant"
+          "SEPA Instant",
+          "BBVA",
+          "Paysera",
+          "N26",
+          "Wise"
         ]
       },
       "SELL": {
