@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1774218933792,
+  "updatedAt": 1774220319978,
   "source": "Binance P2P web endpoint",
   "asset": "USDT",
   "prices": {
@@ -23,26 +23,31 @@
         "price": 0.393,
         "pickedIndex": 1,
         "availableRows": 10,
-        "advNo": "12869103525893181440",
-        "nickName": "Amir_Exchange",
-        "minSingleTransAmount": "10",
-        "maxSingleTransAmount": "400",
+        "advNo": "12865285685556391936",
+        "nickName": "sandhutrader46",
+        "minSingleTransAmount": "100",
+        "maxSingleTransAmount": "530",
         "tradeMethods": [
-          "Bank Muscat"
+          "Bank Muscat",
+          "Bank Dhofar"
         ]
       }
     },
     "EGP": {
       "BUY": {
-        "price": 53.42,
+        "price": 53.53,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12868371242268868608",
-        "nickName": "darb0ka",
-        "minSingleTransAmount": "90",
-        "maxSingleTransAmount": "120",
+        "advNo": "13846251165859635200",
+        "nickName": "Point-",
+        "minSingleTransAmount": "110000",
+        "maxSingleTransAmount": "930000",
         "tradeMethods": [
-          "InstaPay"
+          "Banque Misr",
+          "InstaPay",
+          "CIB | Commercial International Bank Egypt",
+          "CIB Bank",
+          "Emirates NBD"
         ]
       },
       "SELL": {
@@ -64,15 +69,16 @@
     },
     "AED": {
       "BUY": {
-        "price": 3.7,
+        "price": 3.703,
         "pickedIndex": 1,
         "availableRows": 10,
-        "advNo": "12867200010573520896",
-        "nickName": "hamdan_alderei",
-        "minSingleTransAmount": "100",
-        "maxSingleTransAmount": "300",
+        "advNo": "12869162861501030400",
+        "nickName": "Abdelrazek ",
+        "minSingleTransAmount": "5000",
+        "maxSingleTransAmount": "19000",
         "tradeMethods": [
-          "ADIB: Abu Dhabi Islamic Bank"
+          "Bank Transfer",
+          "Abu Dhabi Commercial Bank ADCB"
         ]
       },
       "SELL": {
@@ -90,15 +96,19 @@
     },
     "SAR": {
       "BUY": {
-        "price": 3.81,
+        "price": 3.83,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12843210323591823360",
-        "nickName": "bigmerchant",
-        "minSingleTransAmount": "1250",
-        "maxSingleTransAmount": "1250",
+        "advNo": "13838958999364165632",
+        "nickName": "obkh9",
+        "minSingleTransAmount": "20000",
+        "maxSingleTransAmount": "500000",
         "tradeMethods": [
-          "urpay"
+          "Saudi National Bank (AlAhli Bank)",
+          "Alinma Bank",
+          "Al Rajhi Bank",
+          "Bank Transfer",
+          "Riyad Bank"
         ]
       },
       "SELL": {
@@ -119,15 +129,15 @@
     },
     "USD": {
       "BUY": {
-        "price": 1.0,
+        "price": 0.998,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12556206845790932992",
-        "nickName": "誌得其樂",
-        "minSingleTransAmount": "15",
-        "maxSingleTransAmount": "1500",
+        "advNo": "13853748730187239424",
+        "nickName": "Rachuli",
+        "minSingleTransAmount": "150",
+        "maxSingleTransAmount": "15000",
         "tradeMethods": [
-          "Bank Transfer (Taiwan)"
+          "Bank of Georgia"
         ]
       },
       "SELL": {
@@ -145,19 +155,19 @@
     },
     "EUR": {
       "BUY": {
-        "price": 0.869,
+        "price": 0.868,
         "pickedIndex": 1,
         "availableRows": 10,
-        "advNo": "13864798073939087360",
-        "nickName": "TEZER_Exchange",
-        "minSingleTransAmount": "250",
-        "maxSingleTransAmount": "20000",
+        "advNo": "13859114533363507200",
+        "nickName": "AxionExchange",
+        "minSingleTransAmount": "90",
+        "maxSingleTransAmount": "5000",
         "tradeMethods": [
           "Bank Transfer",
-          "SEPA (EU) bank transfer",
-          "BBVA",
-          "Banco Santander (Spain)",
-          "CaixaBank (Spain)"
+          "ZEN",
+          "SEPA Instant",
+          "N26",
+          "SEPA (EU) bank transfer"
         ]
       },
       "SELL": {
