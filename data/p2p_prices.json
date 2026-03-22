@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1774149479293,
+  "updatedAt": 1774155887840,
   "source": "Binance P2P web endpoint",
   "asset": "USDT",
   "prices": {
@@ -7,15 +7,16 @@
       "BUY": {
         "price": 0.394,
         "pickedIndex": 1,
-        "availableRows": 11,
-        "advNo": "13820442308545077248",
-        "nickName": "TradersParadise ",
+        "availableRows": 10,
+        "advNo": "13868022456644718592",
+        "nickName": "Moosacrypto",
         "minSingleTransAmount": "250",
         "maxSingleTransAmount": "10000",
         "tradeMethods": [
           "Bank Muscat",
           "Bank Dhofar",
-          "Airtime Mobile Top-Up"
+          "Oman Arab Bank",
+          "Ahlibank"
         ]
       },
       "SELL": {
@@ -33,19 +34,16 @@
     },
     "EGP": {
       "BUY": {
-        "price": 53.59,
+        "price": 53.56,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "13846251165859635200",
-        "nickName": "Point-",
-        "minSingleTransAmount": "110000",
+        "advNo": "13829897674334871552",
+        "nickName": "HOOTINTRNATIONAL",
+        "minSingleTransAmount": "5000",
         "maxSingleTransAmount": "930000",
         "tradeMethods": [
-          "Banque Misr",
-          "InstaPay",
-          "CIB | Commercial International Bank Egypt",
-          "CIB Bank",
-          "Emirates NBD"
+          "Alex Bank",
+          "InstaPay"
         ]
       },
       "SELL": {
@@ -63,12 +61,12 @@
     },
     "AED": {
       "BUY": {
-        "price": 3.696,
+        "price": 3.69,
         "pickedIndex": 1,
         "availableRows": 10,
         "advNo": "12868617981756395520",
         "nickName": "Asset Grows",
-        "minSingleTransAmount": "280",
+        "minSingleTransAmount": "330",
         "maxSingleTransAmount": "5000",
         "tradeMethods": [
           "Bank Transfer",
@@ -76,15 +74,15 @@
         ]
       },
       "SELL": {
-        "price": 3.69,
+        "price": 3.684,
         "pickedIndex": 1,
         "availableRows": 10,
-        "advNo": "12868666610347089920",
-        "nickName": "Crypto_Da_King",
-        "minSingleTransAmount": "1000",
-        "maxSingleTransAmount": "1800",
+        "advNo": "12813478434335576064",
+        "nickName": "THR_Alrawahi",
+        "minSingleTransAmount": "25000",
+        "maxSingleTransAmount": "25000",
         "tradeMethods": [
-          "Bank Transfer"
+          "Cash Deposit to Bank"
         ]
       }
     },
@@ -93,12 +91,15 @@
         "price": 3.82,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12862541334587035648",
-        "nickName": "_USDT-COINS",
-        "minSingleTransAmount": "10000",
+        "advNo": "12862238900599005184",
+        "nickName": "NASSER",
+        "minSingleTransAmount": "7000",
         "maxSingleTransAmount": "100000",
         "tradeMethods": [
-          "Bank Transfer"
+          "stc pay",
+          "Alinma Bank",
+          "Riyad Bank",
+          "barq"
         ]
       },
       "SELL": {
@@ -142,27 +143,29 @@
     },
     "EUR": {
       "BUY": {
-        "price": 0.868,
+        "price": 0.869,
         "pickedIndex": 1,
         "availableRows": 10,
-        "advNo": "12867615912022659072",
-        "nickName": "Zkillz",
-        "minSingleTransAmount": "100",
-        "maxSingleTransAmount": "102",
+        "advNo": "13866647389678743552",
+        "nickName": "Coin_Reserve",
+        "minSingleTransAmount": "200",
+        "maxSingleTransAmount": "56000",
         "tradeMethods": [
+          "Bank Transfer",
+          "SEPA (EU) bank transfer",
           "SEPA Instant"
         ]
       },
       "SELL": {
-        "price": 0.885,
+        "price": 0.89,
         "pickedIndex": 1,
         "availableRows": 10,
-        "advNo": "12834238128854405120",
-        "nickName": "SHINEMORE",
-        "minSingleTransAmount": "299",
-        "maxSingleTransAmount": "300",
+        "advNo": "12868888006598131712",
+        "nickName": "muniain",
+        "minSingleTransAmount": "139",
+        "maxSingleTransAmount": "140",
         "tradeMethods": [
-          "Bizum"
+          "Skrill (Moneybookers)"
         ]
       }
     }
