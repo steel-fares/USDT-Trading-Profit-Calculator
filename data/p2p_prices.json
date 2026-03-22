@@ -1,20 +1,22 @@
 {
-  "updatedAt": 1774190946594,
+  "updatedAt": 1774192457605,
   "source": "Binance P2P web endpoint",
   "asset": "USDT",
   "prices": {
     "OMR": {
       "BUY": {
-        "price": 0.392,
+        "price": 0.393,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12868988272697933824",
-        "nickName": "nima-faramarz2025",
+        "advNo": "13853484830969044992",
+        "nickName": "Al-habsi",
         "minSingleTransAmount": "500",
-        "maxSingleTransAmount": "2060",
+        "maxSingleTransAmount": "75000",
         "tradeMethods": [
+          "Bank Muscat",
+          "Airtime Mobile Top-Up",
           "Sohar International",
-          "Bank Muscat"
+          "Bank Transfer"
         ]
       },
       "SELL": {
@@ -32,19 +34,15 @@
     },
     "EGP": {
       "BUY": {
-        "price": 53.0,
+        "price": 53.1,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12869043297907904512",
-        "nickName": "king_200",
-        "minSingleTransAmount": "50000",
-        "maxSingleTransAmount": "500000",
+        "advNo": "12814249698936987648",
+        "nickName": "IMHEREFORU",
+        "minSingleTransAmount": "20000",
+        "maxSingleTransAmount": "20001",
         "tradeMethods": [
-          "Bank Transfer",
-          "InstaPay",
-          "CIB Bank",
-          "Qatar National Bank QNB",
-          "QNB"
+          "InstaPay"
         ]
       },
       "SELL": {
@@ -62,16 +60,15 @@
     },
     "AED": {
       "BUY": {
-        "price": 3.695,
+        "price": 3.697,
         "pickedIndex": 1,
         "availableRows": 10,
-        "advNo": "12844443204057022464",
-        "nickName": "Emirates-Exchange",
-        "minSingleTransAmount": "500",
-        "maxSingleTransAmount": "9500",
+        "advNo": "13851608266058960896",
+        "nickName": "QinXhao",
+        "minSingleTransAmount": "49999",
+        "maxSingleTransAmount": "50000",
         "tradeMethods": [
-          "Bank Transfer",
-          "Aani"
+          "Bank Transfer"
         ]
       },
       "SELL": {
@@ -89,16 +86,18 @@
     },
     "SAR": {
       "BUY": {
-        "price": 3.81,
+        "price": 3.82,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12868600834511609856",
-        "nickName": "king2026_p2p",
-        "minSingleTransAmount": "10000",
-        "maxSingleTransAmount": "17381",
+        "advNo": "12862238900599005184",
+        "nickName": "NASSER",
+        "minSingleTransAmount": "7000",
+        "maxSingleTransAmount": "100000",
         "tradeMethods": [
-          "Al Rajhi Bank",
-          "stc pay"
+          "stc pay",
+          "Alinma Bank",
+          "Riyad Bank",
+          "barq"
         ]
       },
       "SELL": {
@@ -116,15 +115,15 @@
     },
     "USD": {
       "BUY": {
-        "price": 0.995,
+        "price": 0.994,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "13868525205176356864",
-        "nickName": "Freedom _BTC",
-        "minSingleTransAmount": "100",
-        "maxSingleTransAmount": "10000",
+        "advNo": "12866848102265200640",
+        "nickName": "ying69o9",
+        "minSingleTransAmount": "15",
+        "maxSingleTransAmount": "100",
         "tradeMethods": [
-          "Bank of Georgia"
+          "ABA"
         ]
       },
       "SELL": {
@@ -142,19 +141,15 @@
     },
     "EUR": {
       "BUY": {
-        "price": 0.869,
+        "price": 0.867,
         "pickedIndex": 1,
         "availableRows": 10,
-        "advNo": "13865169563769667584",
-        "nickName": "TEZER_Exchange",
-        "minSingleTransAmount": "250",
-        "maxSingleTransAmount": "20000",
+        "advNo": "12836759230152818688",
+        "nickName": "fast-seeden",
+        "minSingleTransAmount": "85",
+        "maxSingleTransAmount": "85",
         "tradeMethods": [
-          "Bank Transfer",
-          "SEPA Instant",
-          "BBVA",
-          "Paysera",
-          "CaixaBank (Spain)"
+          "SEPA Instant"
         ]
       },
       "SELL": {
