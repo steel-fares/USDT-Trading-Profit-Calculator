@@ -1,52 +1,50 @@
 {
-  "updatedAt": 1774176129191,
+  "updatedAt": 1774177317235,
   "source": "Binance P2P web endpoint",
   "asset": "USDT",
   "prices": {
     "OMR": {
       "BUY": {
-        "price": 0.394,
+        "price": 0.393,
         "pickedIndex": 1,
-        "availableRows": 10,
-        "advNo": "13820442308545077248",
-        "nickName": "TradersParadise ",
-        "minSingleTransAmount": "250",
-        "maxSingleTransAmount": "10000",
+        "availableRows": 11,
+        "advNo": "13853484830969044992",
+        "nickName": "Al-habsi",
+        "minSingleTransAmount": "500",
+        "maxSingleTransAmount": "75000",
         "tradeMethods": [
           "Bank Muscat",
-          "Bank Dhofar",
-          "Airtime Mobile Top-Up"
+          "Airtime Mobile Top-Up",
+          "Sohar International",
+          "Bank Transfer"
         ]
       },
       "SELL": {
-        "price": 0.392,
+        "price": 0.393,
         "pickedIndex": 1,
-        "availableRows": 10,
-        "advNo": "12865703025695588352",
-        "nickName": "hhs_9",
-        "minSingleTransAmount": "10",
-        "maxSingleTransAmount": "50",
+        "availableRows": 11,
+        "advNo": "12868015784772579328",
+        "nickName": "no_thas",
+        "minSingleTransAmount": "300",
+        "maxSingleTransAmount": "301",
         "tradeMethods": [
           "Bank Muscat",
+          "Sohar International",
           "Airtime Mobile Top-Up"
         ]
       }
     },
     "EGP": {
       "BUY": {
-        "price": 53.34,
+        "price": 53.3,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "13862660032337416192",
-        "nickName": "Barshka_BIG_Trade",
-        "minSingleTransAmount": "200000",
-        "maxSingleTransAmount": "930000",
+        "advNo": "12866788609312722944",
+        "nickName": "P2P-810e47wi",
+        "minSingleTransAmount": "5000",
+        "maxSingleTransAmount": "500000",
         "tradeMethods": [
-          "CIB Bank",
-          "InstaPay",
-          "Alex Bank",
-          "Bank Transfer",
-          "Emirates NBD"
+          "InstaPay"
         ]
       },
       "SELL": {
@@ -64,19 +62,19 @@
     },
     "AED": {
       "BUY": {
-        "price": 3.695,
+        "price": 3.696,
         "pickedIndex": 1,
         "availableRows": 10,
-        "advNo": "12867200010573520896",
-        "nickName": "hamdan_alderei",
-        "minSingleTransAmount": "100",
-        "maxSingleTransAmount": "300",
+        "advNo": "13863864397746638848",
+        "nickName": "EMIRATES GULF DIGITAL",
+        "minSingleTransAmount": "500",
+        "maxSingleTransAmount": "4000",
         "tradeMethods": [
-          "Abu Dhabi Commercial Bank ADCB"
+          "Bank Transfer"
         ]
       },
       "SELL": {
-        "price": 3.69,
+        "price": 3.692,
         "pickedIndex": 1,
         "availableRows": 10,
         "advNo": "12864354595566817280",
@@ -90,19 +88,16 @@
     },
     "SAR": {
       "BUY": {
-        "price": 3.82,
+        "price": 3.81,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "13851651336104251392",
-        "nickName": "ABDULAZIZ-Btcc",
-        "minSingleTransAmount": "3000",
-        "maxSingleTransAmount": "10000000",
+        "advNo": "12848272630092357632",
+        "nickName": "Quran_",
+        "minSingleTransAmount": "500",
+        "maxSingleTransAmount": "500",
         "tradeMethods": [
-          "Al Rajhi Bank",
-          "Saudi National Bank (AlAhli Bank)",
           "stc pay",
-          "urpay",
-          "Bank Transfer"
+          "Arab Bank"
         ]
       },
       "SELL": {
