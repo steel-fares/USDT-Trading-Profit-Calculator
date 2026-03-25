@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1774429541953,
+  "updatedAt": 1774433249136,
   "source": "Binance P2P web endpoint",
   "asset": "USDT",
   "prices": {
@@ -8,51 +8,52 @@
         "price": 0.393,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12869879872052994048",
-        "nickName": "mamoud_alex",
+        "advNo": "12869600568160120832",
+        "nickName": "Mohammed-Al-Ghazali",
         "minSingleTransAmount": "200",
-        "maxSingleTransAmount": "2500",
+        "maxSingleTransAmount": "2000",
         "tradeMethods": [
+          "Bank Dhofar",
           "Bank Muscat",
-          "Airtime Mobile Top-Up",
-          "Arab Bank",
-          "Bank Dhofar"
+          "Bank Transfer",
+          "Ahlibank",
+          "Oman Arab Bank"
         ]
       },
       "SELL": {
         "price": 0.392,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12796217076527374336",
-        "nickName": "Raphael 92",
-        "minSingleTransAmount": "10",
-        "maxSingleTransAmount": "400",
+        "advNo": "12836152209350377472",
+        "nickName": "AL_OmDa",
+        "minSingleTransAmount": "249",
+        "maxSingleTransAmount": "250",
         "tradeMethods": [
-          "Bank Muscat"
+          "Bank Transfer"
         ]
       }
     },
     "EGP": {
       "BUY": {
-        "price": 52.85,
+        "price": 52.93,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12870047496394391552",
-        "nickName": "Mostafa_Karem",
-        "minSingleTransAmount": "10700",
-        "maxSingleTransAmount": "10705",
+        "advNo": "12854923382360264704",
+        "nickName": "本-SIMBA-本_0997497996",
+        "minSingleTransAmount": "90",
+        "maxSingleTransAmount": "500",
         "tradeMethods": [
           "InstaPay"
         ]
       },
       "SELL": {
-        "price": 53.66,
+        "price": 53.53,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12781798194422321152",
-        "nickName": "M-Abostephen",
-        "minSingleTransAmount": "7000",
-        "maxSingleTransAmount": "7001",
+        "advNo": "11513644360914866176",
+        "nickName": "ESCO111",
+        "minSingleTransAmount": "10000",
+        "maxSingleTransAmount": "47000",
         "tradeMethods": [
           "Vodafone cash"
         ]
@@ -60,30 +61,27 @@
     },
     "AED": {
       "BUY": {
-        "price": 3.708,
+        "price": 3.709,
         "pickedIndex": 1,
         "availableRows": 10,
-        "advNo": "13863634137129033728",
-        "nickName": "Saibo7",
-        "minSingleTransAmount": "1000",
-        "maxSingleTransAmount": "7000",
+        "advNo": "13854484124216463360",
+        "nickName": "Makki_Traders",
+        "minSingleTransAmount": "20000",
+        "maxSingleTransAmount": "7000000",
         "tradeMethods": [
-          "Bank Transfer"
+          "Cash Deposit to Bank"
         ]
       },
       "SELL": {
-        "price": 3.695,
+        "price": 3.691,
         "pickedIndex": 1,
         "availableRows": 10,
-        "advNo": "12869115821360521216",
-        "nickName": "AWAD - MADMOON249 ",
-        "minSingleTransAmount": "1000",
-        "maxSingleTransAmount": "1870",
+        "advNo": "12821126188906508288",
+        "nickName": "CASH-PAY",
+        "minSingleTransAmount": "4279",
+        "maxSingleTransAmount": "4280",
         "tradeMethods": [
-          "AL MASHREQ Bank",
-          "Abu Dhabi Commercial Bank ADCB",
-          "mBank",
-          "Aani"
+          "Bank Transfer"
         ]
       }
     },
@@ -103,29 +101,33 @@
         ]
       },
       "SELL": {
-        "price": 3.9,
+        "price": 3.87,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12870024731474120704",
-        "nickName": "Money maker 2026",
-        "minSingleTransAmount": "160",
-        "maxSingleTransAmount": "170",
+        "advNo": "12869712267212967936",
+        "nickName": "Cashinjeddah",
+        "minSingleTransAmount": "1500",
+        "maxSingleTransAmount": "12000",
         "tradeMethods": [
-          "stc pay"
+          "Bank Transfer",
+          "Ahlibank",
+          "Al Rajhi Bank",
+          "Saudi National Bank (AlAhli Bank)",
+          "The Saudi British Bank (SABB)"
         ]
       }
     },
     "USD": {
       "BUY": {
-        "price": 0.998,
+        "price": 0.999,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12866848102265200640",
-        "nickName": "ying69o9",
-        "minSingleTransAmount": "15",
-        "maxSingleTransAmount": "100",
+        "advNo": "12864365627147804672",
+        "nickName": "Racoon89",
+        "minSingleTransAmount": "25",
+        "maxSingleTransAmount": "1500",
         "tradeMethods": [
-          "ABA"
+          "TBC Bank"
         ]
       },
       "SELL": {
@@ -146,28 +148,31 @@
         "price": 0.866,
         "pickedIndex": 1,
         "availableRows": 10,
-        "advNo": "13862492007394840576",
-        "nickName": "User-4eb60",
-        "minSingleTransAmount": "100",
-        "maxSingleTransAmount": "700",
+        "advNo": "13849127982920032256",
+        "nickName": "Novudi",
+        "minSingleTransAmount": "800",
+        "maxSingleTransAmount": "100000",
         "tradeMethods": [
-          "Wise"
+          "SEPA Instant",
+          "SEPA (EU) bank transfer",
+          "Bank Transfer",
+          "BBVA"
         ]
       },
       "SELL": {
-        "price": 0.89,
+        "price": 0.918,
         "pickedIndex": 1,
-        "availableRows": 10,
-        "advNo": "12869752055453548544",
-        "nickName": "Olegofrend",
-        "minSingleTransAmount": "100",
-        "maxSingleTransAmount": "300",
+        "availableRows": 11,
+        "advNo": "12866233481592946688",
+        "nickName": "RivasMarcanoTitular",
+        "minSingleTransAmount": "29800",
+        "maxSingleTransAmount": "29900",
         "tradeMethods": [
-          "Wise",
+          "Banco Santander (Spain)",
           "SEPA Instant",
           "N26",
-          "Bunq",
-          "BBVA"
+          "BBVA",
+          "ING"
         ]
       }
     }
