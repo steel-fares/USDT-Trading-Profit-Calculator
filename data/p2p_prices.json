@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1774418997391,
+  "updatedAt": 1774423113448,
   "source": "Binance P2P web endpoint",
   "asset": "USDT",
   "prices": {
@@ -32,25 +32,25 @@
     },
     "EGP": {
       "BUY": {
-        "price": 53.0,
+        "price": 52.9,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12865913794239455232",
-        "nickName": "wadyasin",
-        "minSingleTransAmount": "10000",
-        "maxSingleTransAmount": "50000",
+        "advNo": "13856707336147165184",
+        "nickName": "CR7_Madeira_Rocket",
+        "minSingleTransAmount": "60000",
+        "maxSingleTransAmount": "60001",
         "tradeMethods": [
           "InstaPay"
         ]
       },
       "SELL": {
-        "price": 53.62,
+        "price": 53.7,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12855161630284349440",
-        "nickName": "99KHALIL99",
-        "minSingleTransAmount": "20000",
-        "maxSingleTransAmount": "20001",
+        "advNo": "12802070504143990784",
+        "nickName": "U-s-D2",
+        "minSingleTransAmount": "4000",
+        "maxSingleTransAmount": "4001",
         "tradeMethods": [
           "Vodafone cash"
         ]
@@ -70,13 +70,13 @@
         ]
       },
       "SELL": {
-        "price": 3.697,
+        "price": 3.69,
         "pickedIndex": 1,
         "availableRows": 10,
-        "advNo": "12729252288656769024",
-        "nickName": "Digital_Wallet_247",
-        "minSingleTransAmount": "24999",
-        "maxSingleTransAmount": "25000",
+        "advNo": "12704228689228431360",
+        "nickName": "Piplumsh",
+        "minSingleTransAmount": "9999",
+        "maxSingleTransAmount": "10000",
         "tradeMethods": [
           "Cash Deposit to Bank"
         ]
@@ -84,30 +84,28 @@
     },
     "SAR": {
       "BUY": {
-        "price": 3.82,
+        "price": 3.81,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "13869272266485809152",
-        "nickName": "saudi_bitcoin",
+        "advNo": "12869853423160487936",
+        "nickName": "king2026_p2p",
         "minSingleTransAmount": "10000",
-        "maxSingleTransAmount": "10000000",
+        "maxSingleTransAmount": "17500",
         "tradeMethods": [
-          "Transfers with specific bank",
-          "Bank Transfer",
-          "Saudi National Bank (AlAhli Bank)"
+          "Al Rajhi Bank",
+          "stc pay"
         ]
       },
       "SELL": {
-        "price": 3.87,
+        "price": 3.88,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12868514738082856960",
-        "nickName": "akaAlzahrani",
-        "minSingleTransAmount": "200",
-        "maxSingleTransAmount": "4430",
+        "advNo": "12837481228547997696",
+        "nickName": "ALHAJ220",
+        "minSingleTransAmount": "60",
+        "maxSingleTransAmount": "955",
         "tradeMethods": [
-          "barq",
-          "Bank Transfer"
+          "urpay"
         ]
       }
     },
@@ -140,31 +138,33 @@
     },
     "EUR": {
       "BUY": {
-        "price": 0.867,
+        "price": 0.866,
         "pickedIndex": 1,
         "availableRows": 10,
-        "advNo": "13864797426777096192",
-        "nickName": "TEZER_Exchange",
-        "minSingleTransAmount": "250",
-        "maxSingleTransAmount": "10000",
+        "advNo": "13802485034864685056",
+        "nickName": "Crypto-Eli",
+        "minSingleTransAmount": "400",
+        "maxSingleTransAmount": "15000",
         "tradeMethods": [
-          "Bank Transfer",
           "SEPA Instant",
-          "SEPA (EU) bank transfer",
-          "BBVA",
-          "Paysera"
+          "N26",
+          "Bank Transfer"
         ]
       },
       "SELL": {
-        "price": 0.887,
+        "price": 0.918,
         "pickedIndex": 1,
-        "availableRows": 10,
-        "advNo": "12833990197660401664",
-        "nickName": "SHINEMORE",
-        "minSingleTransAmount": "599",
-        "maxSingleTransAmount": "600",
+        "availableRows": 11,
+        "advNo": "12866233481592946688",
+        "nickName": "RivasMarcanoTitular",
+        "minSingleTransAmount": "29800",
+        "maxSingleTransAmount": "29900",
         "tradeMethods": [
-          "BBVA"
+          "Banco Santander (Spain)",
+          "SEPA Instant",
+          "N26",
+          "BBVA",
+          "ING"
         ]
       }
     }
