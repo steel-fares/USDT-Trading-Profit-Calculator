@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1774562327596,
+  "updatedAt": 1774564997434,
   "source": "Binance P2P web endpoint",
   "asset": "USDT",
   "prices": {
@@ -8,13 +8,12 @@
         "price": 0.393,
         "pickedIndex": 1,
         "availableRows": 10,
-        "advNo": "13844352446110298112",
-        "nickName": "MR-047",
-        "minSingleTransAmount": "30",
-        "maxSingleTransAmount": "3000",
+        "advNo": "12870603072957333504",
+        "nickName": "M-ALKHALDI",
+        "minSingleTransAmount": "200",
+        "maxSingleTransAmount": "2500",
         "tradeMethods": [
-          "Sohar International",
-          "Airtime Mobile Top-Up"
+          "Bank Dhofar"
         ]
       },
       "SELL": {
@@ -32,13 +31,13 @@
     },
     "EGP": {
       "BUY": {
-        "price": 53.4,
+        "price": 53.29,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12848527026319159296",
-        "nickName": "a_bdoz",
-        "minSingleTransAmount": "2999",
-        "maxSingleTransAmount": "3000",
+        "advNo": "12868735349730066432",
+        "nickName": "HB_STORE",
+        "minSingleTransAmount": "2000",
+        "maxSingleTransAmount": "2600",
         "tradeMethods": [
           "InstaPay"
         ]
@@ -143,32 +142,28 @@
         "price": 0.871,
         "pickedIndex": 1,
         "availableRows": 10,
-        "advNo": "13865169563769667584",
-        "nickName": "TEZER_Exchange",
-        "minSingleTransAmount": "250",
-        "maxSingleTransAmount": "20000",
+        "advNo": "13870491637660876800",
+        "nickName": "TasichExchange",
+        "minSingleTransAmount": "500",
+        "maxSingleTransAmount": "2700",
         "tradeMethods": [
-          "Bank Transfer",
-          "SEPA Instant",
-          "BBVA",
-          "Paysera",
-          "CaixaBank (Spain)"
+          "Wise"
         ]
       },
       "SELL": {
-        "price": 0.935,
+        "price": 0.918,
         "pickedIndex": 1,
-        "availableRows": 11,
-        "advNo": "12870405931280695296",
-        "nickName": "MrJordan_7",
-        "minSingleTransAmount": "7385",
-        "maxSingleTransAmount": "23756",
+        "availableRows": 10,
+        "advNo": "12866233481592946688",
+        "nickName": "RivasMarcanoTitular",
+        "minSingleTransAmount": "29800",
+        "maxSingleTransAmount": "29900",
         "tradeMethods": [
-          "BBVA",
+          "Banco Santander (Spain)",
           "SEPA Instant",
-          "Bank Transfer",
-          "SEPA (EU) bank transfer",
-          "International Wire (SWIFT)"
+          "N26",
+          "BBVA",
+          "ING"
         ]
       }
     }
