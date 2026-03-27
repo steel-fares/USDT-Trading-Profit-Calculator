@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1774652407450,
+  "updatedAt": 1774654992028,
   "source": "Binance P2P web endpoint",
   "asset": "USDT",
   "prices": {
@@ -31,15 +31,17 @@
     },
     "EGP": {
       "BUY": {
-        "price": 53.27,
+        "price": 53.31,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12870970842656284672",
-        "nickName": "S_________D",
-        "minSingleTransAmount": "2000",
-        "maxSingleTransAmount": "31990",
+        "advNo": "12859845169340481536",
+        "nickName": "XoNice",
+        "minSingleTransAmount": "18540",
+        "maxSingleTransAmount": "18550",
         "tradeMethods": [
-          "InstaPay"
+          "InstaPay",
+          "CIB Bank",
+          "Banque Misr"
         ]
       },
       "SELL": {
@@ -58,13 +60,13 @@
     },
     "AED": {
       "BUY": {
-        "price": 3.714,
+        "price": 3.715,
         "pickedIndex": 1,
         "availableRows": 10,
-        "advNo": "13870470292526718976",
-        "nickName": "Takethiswave",
-        "minSingleTransAmount": "8000",
-        "maxSingleTransAmount": "7000000",
+        "advNo": "12870809729637122048",
+        "nickName": "Ae-Iridium",
+        "minSingleTransAmount": "1000",
+        "maxSingleTransAmount": "6800",
         "tradeMethods": [
           "Bank Transfer"
         ]
@@ -99,16 +101,15 @@
         "price": 3.87,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12864817665651740672",
-        "nickName": "Alzaki",
+        "advNo": "12865479674830397440",
+        "nickName": "طارق المالكي ",
         "minSingleTransAmount": "60",
-        "maxSingleTransAmount": "100000",
+        "maxSingleTransAmount": "649",
         "tradeMethods": [
-          "stc pay",
-          "Riyad Bank",
-          "Transfers with specific bank",
-          "Al Rajhi Bank",
-          "Bank Transfer"
+          "AlinmaPay",
+          "Mobily Pay",
+          "Bank Transfer",
+          "urpay"
         ]
       }
     },
@@ -117,16 +118,15 @@
         "price": 1.0,
         "pickedIndex": 1,
         "availableRows": 10,
-        "advNo": "12870966721580797952",
-        "nickName": "Davierr",
-        "minSingleTransAmount": "15",
-        "maxSingleTransAmount": "1500",
+        "advNo": "12870903845927002112",
+        "nickName": "Apcriptovz",
+        "minSingleTransAmount": "10",
+        "maxSingleTransAmount": "100",
         "tradeMethods": [
-          "Paytm",
-          "Paynet",
           "Payme.io",
-          "Pyypl",
-          "PayPro"
+          "Paynet",
+          "Paysera",
+          "Paytm"
         ]
       },
       "SELL": {
