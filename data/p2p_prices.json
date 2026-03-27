@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1774595679138,
+  "updatedAt": 1774598831301,
   "source": "Binance P2P web endpoint",
   "asset": "USDT",
   "prices": {
@@ -21,7 +21,7 @@
         ]
       },
       "SELL": {
-        "price": 0.404,
+        "price": 0.403,
         "pickedIndex": 1,
         "availableRows": 11,
         "advNo": "12870541286956449792",
@@ -35,15 +35,15 @@
     },
     "EGP": {
       "BUY": {
-        "price": 53.45,
+        "price": 53.42,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "13867828668884082688",
-        "nickName": "IGMSS",
-        "minSingleTransAmount": "1000",
-        "maxSingleTransAmount": "930000",
+        "advNo": "13867656494144802816",
+        "nickName": "M144",
+        "minSingleTransAmount": "100000",
+        "maxSingleTransAmount": "131700",
         "tradeMethods": [
-          "Bank Transfer"
+          "InstaPay"
         ]
       },
       "SELL": {
@@ -61,30 +61,27 @@
     },
     "AED": {
       "BUY": {
-        "price": 3.708,
+        "price": 3.707,
         "pickedIndex": 1,
         "availableRows": 10,
-        "advNo": "12870000952707723264",
-        "nickName": "Hein Zar Ko B3G0",
-        "minSingleTransAmount": "500",
-        "maxSingleTransAmount": "25000",
+        "advNo": "13859611187613749248",
+        "nickName": "TRADE_EDGE",
+        "minSingleTransAmount": "20000",
+        "maxSingleTransAmount": "500000",
         "tradeMethods": [
           "Bank Transfer"
         ]
       },
       "SELL": {
-        "price": 3.695,
+        "price": 3.7,
         "pickedIndex": 1,
         "availableRows": 10,
-        "advNo": "12861454573689110528",
-        "nickName": "Studythemarket",
+        "advNo": "12672507414102052864",
+        "nickName": "WADALNEMIR",
         "minSingleTransAmount": "1000",
-        "maxSingleTransAmount": "1001",
+        "maxSingleTransAmount": "9000",
         "tradeMethods": [
-          "Abu Dhabi Commercial Bank ADCB",
-          "Cash Deposit to Bank",
-          "Emirates NBD",
-          "ADIB: Abu Dhabi Islamic Bank"
+          "Bank Transfer"
         ]
       }
     },
@@ -120,17 +117,13 @@
       "BUY": {
         "price": 1.0,
         "pickedIndex": 1,
-        "availableRows": 10,
-        "advNo": "12869385868557524992",
-        "nickName": "Apcriptovz",
-        "minSingleTransAmount": "10",
-        "maxSingleTransAmount": "200",
+        "availableRows": 11,
+        "advNo": "12556206845790932992",
+        "nickName": "誌得其樂",
+        "minSingleTransAmount": "15",
+        "maxSingleTransAmount": "1500",
         "tradeMethods": [
-          "Payme.io",
-          "Paynet",
-          "Paysera",
-          "Paysend.com",
-          "Paytm"
+          "Bank Transfer (Taiwan)"
         ]
       },
       "SELL": {
@@ -148,31 +141,31 @@
     },
     "EUR": {
       "BUY": {
-        "price": 0.87,
+        "price": 0.871,
         "pickedIndex": 1,
         "availableRows": 10,
-        "advNo": "12870541160452521984",
-        "nickName": "faster-super",
-        "minSingleTransAmount": "80",
-        "maxSingleTransAmount": "1000",
+        "advNo": "13864798073939087360",
+        "nickName": "TEZER_Exchange",
+        "minSingleTransAmount": "250",
+        "maxSingleTransAmount": "20000",
         "tradeMethods": [
-          "SEPA Instant"
+          "Bank Transfer",
+          "SEPA (EU) bank transfer",
+          "BBVA",
+          "Banco Santander (Spain)",
+          "CaixaBank (Spain)"
         ]
       },
       "SELL": {
-        "price": 0.918,
+        "price": 0.946,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12866233481592946688",
-        "nickName": "RivasMarcanoTitular",
-        "minSingleTransAmount": "29800",
-        "maxSingleTransAmount": "29900",
+        "advNo": "12870753286353768448",
+        "nickName": "CambiosPopular",
+        "minSingleTransAmount": "269",
+        "maxSingleTransAmount": "270",
         "tradeMethods": [
-          "Banco Santander (Spain)",
-          "SEPA Instant",
-          "N26",
-          "BBVA",
-          "ING"
+          "CaixaBank (Spain)"
         ]
       }
     }
