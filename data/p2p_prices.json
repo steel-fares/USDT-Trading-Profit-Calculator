@@ -1,25 +1,24 @@
 {
-  "updatedAt": 1774616794480,
+  "updatedAt": 1774621025958,
   "source": "Binance P2P web endpoint",
   "asset": "USDT",
   "prices": {
     "OMR": {
       "BUY": {
-        "price": 0.392,
+        "price": 0.393,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12866228146031738880",
-        "nickName": "Standard",
-        "minSingleTransAmount": "665",
-        "maxSingleTransAmount": "1500",
+        "advNo": "13844352446110298112",
+        "nickName": "MR-047",
+        "minSingleTransAmount": "30",
+        "maxSingleTransAmount": "3000",
         "tradeMethods": [
-          "Bank Muscat",
-          "Airtime Mobile Top-Up",
-          "Bank Dhofar"
+          "Sohar International",
+          "Airtime Mobile Top-Up"
         ]
       },
       "SELL": {
-        "price": 0.404,
+        "price": 0.403,
         "pickedIndex": 1,
         "availableRows": 11,
         "advNo": "12870541286956449792",
@@ -33,13 +32,13 @@
     },
     "EGP": {
       "BUY": {
-        "price": 53.34,
+        "price": 53.36,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12870552761105567744",
-        "nickName": "mezo1",
-        "minSingleTransAmount": "8450",
-        "maxSingleTransAmount": "8500",
+        "advNo": "12855668139670847488",
+        "nickName": "Khareef ",
+        "minSingleTransAmount": "13699",
+        "maxSingleTransAmount": "17000",
         "tradeMethods": [
           "InstaPay"
         ]
@@ -62,27 +61,24 @@
         "price": 3.71,
         "pickedIndex": 1,
         "availableRows": 10,
-        "advNo": "12867924516375457792",
-        "nickName": "Moscow08",
-        "minSingleTransAmount": "1095",
-        "maxSingleTransAmount": "1095",
+        "advNo": "13859611187613749248",
+        "nickName": "TRADE_EDGE",
+        "minSingleTransAmount": "20000",
+        "maxSingleTransAmount": "50000",
         "tradeMethods": [
-          "Bank Transfer",
-          "Abu Dhabi Commercial Bank ADCB"
+          "Bank Transfer"
         ]
       },
       "SELL": {
-        "price": 3.696,
+        "price": 3.693,
         "pickedIndex": 1,
         "availableRows": 10,
-        "advNo": "12870830467761475584",
-        "nickName": "Jone Gastello IWDl",
-        "minSingleTransAmount": "700",
-        "maxSingleTransAmount": "734",
+        "advNo": "12704228689228431360",
+        "nickName": "Piplumsh",
+        "minSingleTransAmount": "3999",
+        "maxSingleTransAmount": "4000",
         "tradeMethods": [
-          "Bank Transfer",
-          "Bank Transfer (Middle East)",
-          "Abu Dhabi Commercial Bank ADCB"
+          "Cash Deposit to Bank"
         ]
       }
     },
@@ -103,11 +99,15 @@
         "price": 3.87,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12857690354740060160",
-        "nickName": "سريع ومضمون-916",
-        "minSingleTransAmount": "60",
-        "maxSingleTransAmount": "10000",
+        "advNo": "12870847762576826368",
+        "nickName": "ABO3ZAM",
+        "minSingleTransAmount": "120",
+        "maxSingleTransAmount": "130",
         "tradeMethods": [
+          "barq",
+          "Bank Transfer",
+          "stc pay",
+          "Al Rajhi Bank",
           "urpay"
         ]
       }
@@ -140,19 +140,15 @@
     },
     "EUR": {
       "BUY": {
-        "price": 0.865,
+        "price": 0.87,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12870116453486383104",
-        "nickName": "Romchik_b20",
-        "minSingleTransAmount": "337",
-        "maxSingleTransAmount": "337",
+        "advNo": "13822672169684836352",
+        "nickName": "AufGaN",
+        "minSingleTransAmount": "285",
+        "maxSingleTransAmount": "285",
         "tradeMethods": [
-          "SEPA Instant",
-          "Wise",
-          "Paysera",
-          "N26",
-          "BBVA"
+          "SEPA Instant"
         ]
       },
       "SELL": {
@@ -164,10 +160,10 @@
         "minSingleTransAmount": "7385",
         "maxSingleTransAmount": "34745",
         "tradeMethods": [
-          "Bank Transfer",
-          "International Wire (SWIFT)",
-          "SEPA (EU) bank transfer",
+          "Paysera",
           "SEPA Instant",
+          "N26",
+          "ZEN",
           "BBVA"
         ]
       }
