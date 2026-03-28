@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1774678187332,
+  "updatedAt": 1774682087078,
   "source": "Binance P2P web endpoint",
   "asset": "USDT",
   "prices": {
@@ -62,27 +62,34 @@
     },
     "AED": {
       "BUY": {
-        "price": 3.715,
+        "price": 3.716,
         "pickedIndex": 1,
         "availableRows": 10,
-        "advNo": "12870992044603957248",
-        "nickName": "bulbuluae",
-        "minSingleTransAmount": "2000",
-        "maxSingleTransAmount": "5000",
+        "advNo": "13858525353162919936",
+        "nickName": "-Pro-Merchant",
+        "minSingleTransAmount": "7000",
+        "maxSingleTransAmount": "1000000",
         "tradeMethods": [
-          "Bank Transfer"
+          "ADIB: Abu Dhabi Islamic Bank",
+          "AL MASHREQ Bank",
+          "Bank Transfer",
+          "Abu Dhabi Commercial Bank ADCB",
+          "Emirates NBD"
         ]
       },
       "SELL": {
-        "price": 3.698,
+        "price": 3.699,
         "pickedIndex": 1,
         "availableRows": 10,
-        "advNo": "12807376784264368128",
-        "nickName": "Aani_pay_Botim_Pay",
-        "minSingleTransAmount": "533",
-        "maxSingleTransAmount": "534",
+        "advNo": "12871087265027080192",
+        "nickName": "NasaGeniusKader",
+        "minSingleTransAmount": "3000",
+        "maxSingleTransAmount": "5000",
         "tradeMethods": [
-          "Aani"
+          "Abu Dhabi Commercial Bank ADCB",
+          "Bank Transfer",
+          "Emirates NBD",
+          "ADIB: Abu Dhabi Islamic Bank"
         ]
       }
     },
@@ -144,29 +151,32 @@
         "price": 0.873,
         "pickedIndex": 1,
         "availableRows": 10,
-        "advNo": "13864797561543344128",
+        "advNo": "13864797426777096192",
         "nickName": "TEZER_Exchange",
         "minSingleTransAmount": "250",
-        "maxSingleTransAmount": "20000",
+        "maxSingleTransAmount": "10000",
         "tradeMethods": [
           "Bank Transfer",
           "SEPA Instant",
           "SEPA (EU) bank transfer",
-          "N26",
-          "Bunq"
+          "BBVA",
+          "Paysera"
         ]
       },
       "SELL": {
-        "price": 0.88,
+        "price": 0.918,
         "pickedIndex": 1,
-        "availableRows": 10,
-        "advNo": "12847674225449070592",
-        "nickName": "Aivazovskky",
-        "minSingleTransAmount": "190",
-        "maxSingleTransAmount": "200",
+        "availableRows": 11,
+        "advNo": "12870187555855925248",
+        "nickName": "Anyelithcuellar",
+        "minSingleTransAmount": "29800",
+        "maxSingleTransAmount": "29900",
         "tradeMethods": [
+          "Banco Santander (Spain)",
+          "SEPA Instant",
           "N26",
-          "Bunq"
+          "BBVA",
+          "ING"
         ]
       }
     }
