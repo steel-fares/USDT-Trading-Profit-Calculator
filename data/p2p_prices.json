@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1774684542156,
+  "updatedAt": 1774687875811,
   "source": "Binance P2P web endpoint",
   "asset": "USDT",
   "prices": {
@@ -7,7 +7,7 @@
       "BUY": {
         "price": 0.393,
         "pickedIndex": 1,
-        "availableRows": 11,
+        "availableRows": 10,
         "advNo": "12869433558339158016",
         "nickName": "black-_Wolf",
         "minSingleTransAmount": "50",
@@ -35,13 +35,13 @@
     },
     "EGP": {
       "BUY": {
-        "price": 53.23,
+        "price": 53.19,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12871110481134538752",
-        "nickName": "User-2b65f ",
-        "minSingleTransAmount": "90",
-        "maxSingleTransAmount": "500000",
+        "advNo": "12857876954625908736",
+        "nickName": "kyoto12",
+        "minSingleTransAmount": "36700",
+        "maxSingleTransAmount": "36700",
         "tradeMethods": [
           "InstaPay"
         ]
@@ -62,27 +62,28 @@
     },
     "AED": {
       "BUY": {
-        "price": 3.71,
+        "price": 3.715,
         "pickedIndex": 1,
         "availableRows": 10,
-        "advNo": "12870992044603957248",
-        "nickName": "bulbuluae",
-        "minSingleTransAmount": "2000",
-        "maxSingleTransAmount": "5000",
+        "advNo": "12866845283120640000",
+        "nickName": "User-94331",
+        "minSingleTransAmount": "500",
+        "maxSingleTransAmount": "2500",
         "tradeMethods": [
-          "Bank Transfer"
+          "Bank Transfer (Middle East)",
+          "Aani"
         ]
       },
       "SELL": {
-        "price": 3.699,
+        "price": 3.698,
         "pickedIndex": 1,
         "availableRows": 10,
-        "advNo": "12807376784264368128",
-        "nickName": "Aani_pay_Botim_Pay",
-        "minSingleTransAmount": "500",
-        "maxSingleTransAmount": "534",
+        "advNo": "12841136424922394624",
+        "nickName": "M-MOHIELDIN",
+        "minSingleTransAmount": "1200",
+        "maxSingleTransAmount": "1500",
         "tradeMethods": [
-          "Aani"
+          "Bank Transfer"
         ]
       }
     },
@@ -100,14 +101,17 @@
         ]
       },
       "SELL": {
-        "price": 3.86,
+        "price": 3.9,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12867059780397228032",
-        "nickName": "ALWATAN2025",
-        "minSingleTransAmount": "300",
-        "maxSingleTransAmount": "305",
+        "advNo": "12868585120302485504",
+        "nickName": "saud_only_saudi",
+        "minSingleTransAmount": "60",
+        "maxSingleTransAmount": "838",
         "tradeMethods": [
+          "barq",
+          "Bank Transfer",
+          "stc pay",
           "urpay"
         ]
       }
@@ -144,16 +148,16 @@
         "price": 0.873,
         "pickedIndex": 1,
         "availableRows": 10,
-        "advNo": "13864797561543344128",
+        "advNo": "13865169563769667584",
         "nickName": "TEZER_Exchange",
         "minSingleTransAmount": "250",
         "maxSingleTransAmount": "20000",
         "tradeMethods": [
           "Bank Transfer",
           "SEPA Instant",
-          "SEPA (EU) bank transfer",
-          "N26",
-          "Bunq"
+          "BBVA",
+          "Paysera",
+          "CaixaBank (Spain)"
         ]
       },
       "SELL": {
