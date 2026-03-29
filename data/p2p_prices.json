@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1774790122921,
+  "updatedAt": 1774792924852,
   "source": "Binance P2P web endpoint",
   "asset": "USDT",
   "prices": {
@@ -29,11 +29,8 @@
         "minSingleTransAmount": "1500",
         "maxSingleTransAmount": "2500",
         "tradeMethods": [
-          "Arab Bank",
           "Bank Dhofar",
-          "Bank Muscat",
-          "Sohar International",
-          "Ahlibank"
+          "Airtime Mobile Top-Up"
         ]
       }
     },
@@ -42,22 +39,22 @@
         "price": 53.75,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "13856707336147165184",
-        "nickName": "CR7_Madeira_Rocket",
-        "minSingleTransAmount": "50000",
-        "maxSingleTransAmount": "50001",
+        "advNo": "12844468659186860032",
+        "nickName": "Dr_Kr_Vip_1000",
+        "minSingleTransAmount": "5000",
+        "maxSingleTransAmount": "250250",
         "tradeMethods": [
           "InstaPay"
         ]
       },
       "SELL": {
-        "price": 54.09,
+        "price": 54.19,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12847493732503674880",
-        "nickName": "Ab-Kingg",
-        "minSingleTransAmount": "30000",
-        "maxSingleTransAmount": "30001",
+        "advNo": "12871369278628823040",
+        "nickName": "User-67669",
+        "minSingleTransAmount": "30400",
+        "maxSingleTransAmount": "30401",
         "tradeMethods": [
           "Vodafone cash"
         ]
@@ -65,53 +62,60 @@
     },
     "AED": {
       "BUY": {
-        "price": 3.71,
+        "price": 3.708,
         "pickedIndex": 1,
         "availableRows": 10,
-        "advNo": "13851608266058960896",
-        "nickName": "QinXhao",
-        "minSingleTransAmount": "50000",
-        "maxSingleTransAmount": "300000",
+        "advNo": "12842625559956557824",
+        "nickName": "Capitano14",
+        "minSingleTransAmount": "1750",
+        "maxSingleTransAmount": "10000",
         "tradeMethods": [
           "Bank Transfer"
         ]
       },
       "SELL": {
-        "price": 3.7,
+        "price": 3.702,
         "pickedIndex": 1,
         "availableRows": 10,
-        "advNo": "12861728783632740352",
-        "nickName": "O1nawaf1O",
-        "minSingleTransAmount": "24200",
-        "maxSingleTransAmount": "24232",
+        "advNo": "12871510532860149760",
+        "nickName": "Mero_lsfe",
+        "minSingleTransAmount": "15400",
+        "maxSingleTransAmount": "15450",
         "tradeMethods": [
-          "ADIB: Abu Dhabi Islamic Bank"
+          "Emirates NBD"
         ]
       }
     },
     "SAR": {
       "BUY": {
-        "price": 3.83,
+        "price": 3.82,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12871349930100736000",
-        "nickName": "usdt_7ksa",
+        "advNo": "12852414538186080256",
+        "nickName": "Uhd7",
         "minSingleTransAmount": "10000",
-        "maxSingleTransAmount": "75000",
+        "maxSingleTransAmount": "100000",
         "tradeMethods": [
-          "Transfers with specific bank"
+          "Al Rajhi Bank",
+          "stc pay",
+          "Alinma Bank",
+          "Saudi National Bank (AlAhli Bank)",
+          "Riyad Bank"
         ]
       },
       "SELL": {
-        "price": 3.87,
+        "price": 3.9,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12724197965584728064",
-        "nickName": "wdah_has10",
-        "minSingleTransAmount": "60",
-        "maxSingleTransAmount": "878",
+        "advNo": "12863956647741059072",
+        "nickName": "Sham3a",
+        "minSingleTransAmount": "400",
+        "maxSingleTransAmount": "500",
         "tradeMethods": [
-          "urpay"
+          "Bank Transfer",
+          "stc pay",
+          "Al Rajhi Bank",
+          "Saudi National Bank (AlAhli Bank)"
         ]
       }
     },
@@ -143,7 +147,7 @@
     },
     "EUR": {
       "BUY": {
-        "price": 0.871,
+        "price": 0.869,
         "pickedIndex": 1,
         "availableRows": 10,
         "advNo": "12870215552795574272",
