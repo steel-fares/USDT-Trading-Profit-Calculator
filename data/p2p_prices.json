@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1774785489113,
+  "updatedAt": 1774790122921,
   "source": "Binance P2P web endpoint",
   "asset": "USDT",
   "prices": {
@@ -26,37 +26,38 @@
         "availableRows": 11,
         "advNo": "12850199176787132416",
         "nickName": "Royal-Exchange-252",
-        "minSingleTransAmount": "1000",
+        "minSingleTransAmount": "1500",
         "maxSingleTransAmount": "2500",
         "tradeMethods": [
           "Arab Bank",
-          "Sohar International",
+          "Bank Dhofar",
           "Bank Muscat",
-          "Bank Dhofar"
+          "Sohar International",
+          "Ahlibank"
         ]
       }
     },
     "EGP": {
       "BUY": {
-        "price": 53.76,
+        "price": 53.75,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "13749734918030483456",
-        "nickName": "ELMOSTAFA302",
-        "minSingleTransAmount": "15000",
-        "maxSingleTransAmount": "15000",
+        "advNo": "13856707336147165184",
+        "nickName": "CR7_Madeira_Rocket",
+        "minSingleTransAmount": "50000",
+        "maxSingleTransAmount": "50001",
         "tradeMethods": [
           "InstaPay"
         ]
       },
       "SELL": {
-        "price": 54.02,
+        "price": 54.09,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12792935389741547520",
-        "nickName": "AB-Alp",
-        "minSingleTransAmount": "27000",
-        "maxSingleTransAmount": "27001",
+        "advNo": "12847493732503674880",
+        "nickName": "Ab-Kingg",
+        "minSingleTransAmount": "30000",
+        "maxSingleTransAmount": "30001",
         "tradeMethods": [
           "Vodafone cash"
         ]
@@ -67,25 +68,24 @@
         "price": 3.71,
         "pickedIndex": 1,
         "availableRows": 10,
-        "advNo": "12871534484621361152",
-        "nickName": "Abbas_eth",
-        "minSingleTransAmount": "1493",
-        "maxSingleTransAmount": "1493",
+        "advNo": "13851608266058960896",
+        "nickName": "QinXhao",
+        "minSingleTransAmount": "50000",
+        "maxSingleTransAmount": "300000",
         "tradeMethods": [
-          "Emirates NBD",
           "Bank Transfer"
         ]
       },
       "SELL": {
-        "price": 3.702,
+        "price": 3.7,
         "pickedIndex": 1,
         "availableRows": 10,
-        "advNo": "12871510532860149760",
-        "nickName": "Mero_lsfe",
-        "minSingleTransAmount": "15400",
-        "maxSingleTransAmount": "15450",
+        "advNo": "12861728783632740352",
+        "nickName": "O1nawaf1O",
+        "minSingleTransAmount": "24200",
+        "maxSingleTransAmount": "24232",
         "tradeMethods": [
-          "Emirates NBD"
+          "ADIB: Abu Dhabi Islamic Bank"
         ]
       }
     },
@@ -106,15 +106,12 @@
         "price": 3.87,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12864248375439060992",
-        "nickName": "WELCOME ALL",
-        "minSingleTransAmount": "1000",
-        "maxSingleTransAmount": "1300",
+        "advNo": "12724197965584728064",
+        "nickName": "wdah_has10",
+        "minSingleTransAmount": "60",
+        "maxSingleTransAmount": "878",
         "tradeMethods": [
-          "Saudi National Bank (AlAhli Bank)",
-          "The Saudi British Bank (SABB)",
-          "Bank Transfer",
-          "Al Rajhi Bank"
+          "urpay"
         ]
       }
     },
@@ -122,13 +119,13 @@
       "BUY": {
         "price": 1.0,
         "pickedIndex": 1,
-        "availableRows": 11,
-        "advNo": "12556206845790932992",
-        "nickName": "誌得其樂",
-        "minSingleTransAmount": "15",
-        "maxSingleTransAmount": "1500",
+        "availableRows": 10,
+        "advNo": "12870260635083231232",
+        "nickName": "EXCHANGE_55",
+        "minSingleTransAmount": "50",
+        "maxSingleTransAmount": "50",
         "tradeMethods": [
-          "Bank Transfer (Taiwan)"
+          "Wise"
         ]
       },
       "SELL": {
@@ -146,7 +143,7 @@
     },
     "EUR": {
       "BUY": {
-        "price": 0.869,
+        "price": 0.871,
         "pickedIndex": 1,
         "availableRows": 10,
         "advNo": "12870215552795574272",
