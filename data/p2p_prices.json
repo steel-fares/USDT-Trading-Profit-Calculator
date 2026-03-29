@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1774779454265,
+  "updatedAt": 1774781784989,
   "source": "Binance P2P web endpoint",
   "asset": "USDT",
   "prices": {
@@ -34,29 +34,25 @@
     },
     "EGP": {
       "BUY": {
-        "price": 53.53,
+        "price": 53.75,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12871319146069757952",
-        "nickName": "FastAani",
-        "minSingleTransAmount": "5000",
-        "maxSingleTransAmount": "500000",
+        "advNo": "12871032664947953664",
+        "nickName": "mrmohemad",
+        "minSingleTransAmount": "90",
+        "maxSingleTransAmount": "4000",
         "tradeMethods": [
-          "InstaPay",
-          "Banque Misr",
-          "Alex Bank",
-          "Ahlibank",
-          "National Bank of Egypt (NBE)"
+          "InstaPay"
         ]
       },
       "SELL": {
-        "price": 54.04,
+        "price": 54.15,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12841292622055804928",
-        "nickName": "The_monster1",
-        "minSingleTransAmount": "13000",
-        "maxSingleTransAmount": "13001",
+        "advNo": "12783982435073253376",
+        "nickName": "Mayier_MN",
+        "minSingleTransAmount": "10000",
+        "maxSingleTransAmount": "60001",
         "tradeMethods": [
           "Vodafone cash"
         ]
@@ -67,24 +63,28 @@
         "price": 3.712,
         "pickedIndex": 1,
         "availableRows": 10,
-        "advNo": "13860120315092307968",
-        "nickName": "chukur-__-",
-        "minSingleTransAmount": "10000",
-        "maxSingleTransAmount": "150000",
+        "advNo": "13823149046560210944",
+        "nickName": "Mansoori1",
+        "minSingleTransAmount": "20000",
+        "maxSingleTransAmount": "5000000",
         "tradeMethods": [
-          "Bank Transfer"
+          "mBank",
+          "Abu Dhabi Commercial Bank ADCB",
+          "Bank Transfer",
+          "Emirates NBD",
+          "ADIB: Abu Dhabi Islamic Bank"
         ]
       },
       "SELL": {
-        "price": 3.701,
+        "price": 3.702,
         "pickedIndex": 1,
         "availableRows": 10,
-        "advNo": "12861728783632740352",
-        "nickName": "O1nawaf1O",
-        "minSingleTransAmount": "24200",
-        "maxSingleTransAmount": "24232",
+        "advNo": "12871510532860149760",
+        "nickName": "Mero_lsfe",
+        "minSingleTransAmount": "15400",
+        "maxSingleTransAmount": "15450",
         "tradeMethods": [
-          "ADIB: Abu Dhabi Islamic Bank"
+          "Emirates NBD"
         ]
       }
     },
@@ -102,15 +102,15 @@
         ]
       },
       "SELL": {
-        "price": 3.88,
+        "price": 4.0,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12837481228547997696",
-        "nickName": "ALHAJ220",
-        "minSingleTransAmount": "60",
-        "maxSingleTransAmount": "500",
+        "advNo": "12871524998458212352",
+        "nickName": "User-44390",
+        "minSingleTransAmount": "110",
+        "maxSingleTransAmount": "120",
         "tradeMethods": [
-          "urpay"
+          "Bank Transfer"
         ]
       }
     },
@@ -142,7 +142,7 @@
     },
     "EUR": {
       "BUY": {
-        "price": 0.872,
+        "price": 0.871,
         "pickedIndex": 1,
         "availableRows": 10,
         "advNo": "13862492007394840576",
@@ -154,19 +154,18 @@
         ]
       },
       "SELL": {
-        "price": 0.918,
+        "price": 0.885,
         "pickedIndex": 1,
-        "availableRows": 11,
-        "advNo": "12866233481592946688",
-        "nickName": "RivasMarcanoTitular",
-        "minSingleTransAmount": "29800",
-        "maxSingleTransAmount": "29900",
+        "availableRows": 10,
+        "advNo": "12835370048546844672",
+        "nickName": "VVS_EXCHANGE",
+        "minSingleTransAmount": "300",
+        "maxSingleTransAmount": "1200",
         "tradeMethods": [
-          "Banco Santander (Spain)",
-          "SEPA Instant",
-          "N26",
-          "BBVA",
-          "ING"
+          "Erste Bank",
+          "ING",
+          "SEPA (EU) bank transfer",
+          "Bank Transfer"
         ]
       }
     }
