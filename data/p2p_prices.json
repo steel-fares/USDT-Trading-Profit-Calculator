@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1774864060192,
+  "updatedAt": 1774867906906,
   "source": "Binance P2P web endpoint",
   "asset": "USDT",
   "prices": {
@@ -35,59 +35,56 @@
     },
     "EGP": {
       "BUY": {
-        "price": 54.45,
+        "price": 54.78,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12870814168263659520",
-        "nickName": "ABDO_BOSIRY",
-        "minSingleTransAmount": "2132",
-        "maxSingleTransAmount": "2133",
+        "advNo": "12871883250952589312",
+        "nickName": "Ahmed mohammed 125800",
+        "minSingleTransAmount": "2070",
+        "maxSingleTransAmount": "2071",
         "tradeMethods": [
-          "InstaPay"
+          "Vodafone cash"
         ]
       },
       "SELL": {
-        "price": 55.0,
+        "price": 55.31,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12871734141678641152",
-        "nickName": "DR-OMDA",
-        "minSingleTransAmount": "100",
-        "maxSingleTransAmount": "101",
+        "advNo": "12871336852043014144",
+        "nickName": "USDT_4_Ever",
+        "minSingleTransAmount": "80000",
+        "maxSingleTransAmount": "930000",
         "tradeMethods": [
-          "Vodafone cash",
-          "Instant Transfer",
-          "Bank Transfer"
+          "Vodafone cash"
         ]
       }
     },
     "AED": {
       "BUY": {
-        "price": 3.711,
+        "price": 3.71,
         "pickedIndex": 1,
         "availableRows": 10,
-        "advNo": "13854484124216463360",
-        "nickName": "Makki_Traders",
-        "minSingleTransAmount": "20000",
-        "maxSingleTransAmount": "7000000",
+        "advNo": "12871881200154157056",
+        "nickName": "Mohakim",
+        "minSingleTransAmount": "10000",
+        "maxSingleTransAmount": "25000",
         "tradeMethods": [
-          "Cash Deposit to Bank"
+          "Bank Transfer"
         ]
       },
       "SELL": {
-        "price": 3.699,
+        "price": 3.698,
         "pickedIndex": 1,
         "availableRows": 10,
-        "advNo": "12869196219760799744",
-        "nickName": "Saith Crypto Traders",
-        "minSingleTransAmount": "21399",
-        "maxSingleTransAmount": "21400",
+        "advNo": "12861454573689110528",
+        "nickName": "Studythemarket",
+        "minSingleTransAmount": "680",
+        "maxSingleTransAmount": "681",
         "tradeMethods": [
-          "Bank Transfer",
-          "Cash Deposit to Bank",
           "Abu Dhabi Commercial Bank ADCB",
-          "Emirates NBD",
-          "AL MASHREQ Bank"
+          "Cash Deposit to Bank",
+          "ADIB: Abu Dhabi Islamic Bank",
+          "Emirates NBD"
         ]
       }
     },
@@ -107,13 +104,13 @@
         ]
       },
       "SELL": {
-        "price": 3.88,
+        "price": 3.87,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12837481228547997696",
-        "nickName": "ALHAJ220",
+        "advNo": "12724197965584728064",
+        "nickName": "wdah_has10",
         "minSingleTransAmount": "60",
-        "maxSingleTransAmount": "900",
+        "maxSingleTransAmount": "793",
         "tradeMethods": [
           "urpay"
         ]
@@ -121,15 +118,15 @@
     },
     "USD": {
       "BUY": {
-        "price": 0.98,
+        "price": 1.0,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12871855297260916736",
-        "nickName": "Safe-Ex-Hub",
-        "minSingleTransAmount": "150",
-        "maxSingleTransAmount": "820",
+        "advNo": "12556206845790932992",
+        "nickName": "誌得其樂",
+        "minSingleTransAmount": "15",
+        "maxSingleTransAmount": "1500",
         "tradeMethods": [
-          "Bank Transfer"
+          "Bank Transfer (Taiwan)"
         ]
       },
       "SELL": {
@@ -147,7 +144,7 @@
     },
     "EUR": {
       "BUY": {
-        "price": 0.874,
+        "price": 0.872,
         "pickedIndex": 1,
         "availableRows": 11,
         "advNo": "13871247875091972096",
@@ -156,7 +153,8 @@
         "maxSingleTransAmount": "2700",
         "tradeMethods": [
           "Wise",
-          "International Wire (SWIFT)"
+          "International Wire (SWIFT)",
+          "N26"
         ]
       },
       "SELL": {
