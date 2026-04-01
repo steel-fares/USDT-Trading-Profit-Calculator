@@ -1,20 +1,22 @@
 {
-  "updatedAt": 1775084097791,
+  "updatedAt": 1775086762778,
   "source": "Binance P2P web endpoint",
   "asset": "USDT",
   "prices": {
     "OMR": {
       "BUY": {
-        "price": 0.392,
+        "price": 0.393,
         "pickedIndex": 1,
         "availableRows": 10,
-        "advNo": "12872671457901989888",
-        "nickName": "User-54c3b",
-        "minSingleTransAmount": "10",
-        "maxSingleTransAmount": "600",
+        "advNo": "13868022456644718592",
+        "nickName": "Moosacrypto",
+        "minSingleTransAmount": "250",
+        "maxSingleTransAmount": "10000",
         "tradeMethods": [
-          "Sohar International",
-          "Bank Dhofar"
+          "Bank Muscat",
+          "Bank Dhofar",
+          "Oman Arab Bank",
+          "Ahlibank"
         ]
       },
       "SELL": {
@@ -32,26 +34,29 @@
     },
     "EGP": {
       "BUY": {
-        "price": 54.75,
+        "price": 54.5,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "13769706220963799040",
-        "nickName": "ENG-Osos_-Trusted-_",
-        "minSingleTransAmount": "55000",
-        "maxSingleTransAmount": "55001",
+        "advNo": "13801918189555724288",
+        "nickName": "Boundless_Soul-369",
+        "minSingleTransAmount": "5000",
+        "maxSingleTransAmount": "900000",
         "tradeMethods": [
+          "Bank Transfer",
           "InstaPay",
-          "CIB Bank"
+          "Alex Bank",
+          "CIB | Commercial International Bank Egypt",
+          "National Bank of Egypt (NBE)"
         ]
       },
       "SELL": {
-        "price": 55.46,
+        "price": 55.52,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12848034577804496896",
-        "nickName": "FASTUSDT1",
-        "minSingleTransAmount": "10000",
-        "maxSingleTransAmount": "10001",
+        "advNo": "12871369278628823040",
+        "nickName": "User-67669",
+        "minSingleTransAmount": "7000",
+        "maxSingleTransAmount": "7001",
         "tradeMethods": [
           "Vodafone cash"
         ]
@@ -140,32 +145,30 @@
         "price": 0.867,
         "pickedIndex": 1,
         "availableRows": 10,
-        "advNo": "13865169563769667584",
-        "nickName": "TEZER_Exchange",
-        "minSingleTransAmount": "250",
-        "maxSingleTransAmount": "20000",
+        "advNo": "13872215970837921792",
+        "nickName": "CRYPTORIUM_org",
+        "minSingleTransAmount": "500",
+        "maxSingleTransAmount": "100000",
         "tradeMethods": [
-          "Bank Transfer",
-          "SEPA Instant",
+          "SEPA (EU) bank transfer",
           "BBVA",
-          "Paysera",
-          "CaixaBank (Spain)"
+          "SEPA Instant",
+          "Bank Transfer",
+          "Wise"
         ]
       },
       "SELL": {
-        "price": 0.89,
+        "price": 0.876,
         "pickedIndex": 1,
         "availableRows": 10,
-        "advNo": "12848674971132309504",
-        "nickName": "Joker_Trade7",
-        "minSingleTransAmount": "2000",
-        "maxSingleTransAmount": "10000",
+        "advNo": "12854875347899699200",
+        "nickName": "Im-Genie-web",
+        "minSingleTransAmount": "279",
+        "maxSingleTransAmount": "280",
         "tradeMethods": [
-          "Wise",
-          "Paysera",
+          "SEPA Lightning",
           "SEPA Instant",
-          "N26",
-          "BBVA"
+          "SEPA (EU) bank transfer"
         ]
       }
     }
