@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1775086762778,
+  "updatedAt": 1775088152892,
   "source": "Binance P2P web endpoint",
   "asset": "USDT",
   "prices": {
@@ -8,14 +8,13 @@
         "price": 0.393,
         "pickedIndex": 1,
         "availableRows": 10,
-        "advNo": "13868022456644718592",
-        "nickName": "Moosacrypto",
-        "minSingleTransAmount": "250",
-        "maxSingleTransAmount": "10000",
+        "advNo": "13815005586803834880",
+        "nickName": "CryptoAnalysts",
+        "minSingleTransAmount": "200",
+        "maxSingleTransAmount": "5000",
         "tradeMethods": [
           "Bank Muscat",
           "Bank Dhofar",
-          "Oman Arab Bank",
           "Ahlibank"
         ]
       },
@@ -34,27 +33,23 @@
     },
     "EGP": {
       "BUY": {
-        "price": 54.5,
+        "price": 54.9,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "13801918189555724288",
-        "nickName": "Boundless_Soul-369",
-        "minSingleTransAmount": "5000",
-        "maxSingleTransAmount": "900000",
+        "advNo": "12872810110580985856",
+        "nickName": "Joo_eltarsh",
+        "minSingleTransAmount": "90",
+        "maxSingleTransAmount": "500000",
         "tradeMethods": [
-          "Bank Transfer",
-          "InstaPay",
-          "Alex Bank",
-          "CIB | Commercial International Bank Egypt",
-          "National Bank of Egypt (NBE)"
+          "InstaPay"
         ]
       },
       "SELL": {
-        "price": 55.52,
+        "price": 55.5,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12871369278628823040",
-        "nickName": "User-67669",
+        "advNo": "12848706568699826176",
+        "nickName": "bolbol1122",
         "minSingleTransAmount": "7000",
         "maxSingleTransAmount": "7001",
         "tradeMethods": [
@@ -76,15 +71,18 @@
         ]
       },
       "SELL": {
-        "price": 3.686,
+        "price": 3.69,
         "pickedIndex": 1,
         "availableRows": 10,
-        "advNo": "12872708346480132096",
-        "nickName": "Kha93",
-        "minSingleTransAmount": "10000",
+        "advNo": "12812385921810325504",
+        "nickName": "Sobhy_Ahmed",
+        "minSingleTransAmount": "490",
         "maxSingleTransAmount": "7000000",
         "tradeMethods": [
-          "Bank Transfer"
+          "Bank Transfer",
+          "Transfers with specific bank",
+          "Bank Transfer (Middle East)",
+          "Abu Dhabi Commercial Bank ADCB"
         ]
       }
     },
@@ -145,30 +143,28 @@
         "price": 0.867,
         "pickedIndex": 1,
         "availableRows": 10,
-        "advNo": "13872215970837921792",
-        "nickName": "CRYPTORIUM_org",
-        "minSingleTransAmount": "500",
-        "maxSingleTransAmount": "100000",
+        "advNo": "13864797561543344128",
+        "nickName": "TEZER_Exchange",
+        "minSingleTransAmount": "250",
+        "maxSingleTransAmount": "20000",
         "tradeMethods": [
-          "SEPA (EU) bank transfer",
-          "BBVA",
-          "SEPA Instant",
           "Bank Transfer",
-          "Wise"
+          "SEPA Instant",
+          "SEPA (EU) bank transfer",
+          "N26",
+          "Bunq"
         ]
       },
       "SELL": {
-        "price": 0.876,
+        "price": 0.9,
         "pickedIndex": 1,
         "availableRows": 10,
-        "advNo": "12854875347899699200",
-        "nickName": "Im-Genie-web",
-        "minSingleTransAmount": "279",
-        "maxSingleTransAmount": "280",
+        "advNo": "12870173768365674496",
+        "nickName": "NexPaySAC",
+        "minSingleTransAmount": "100",
+        "maxSingleTransAmount": "30000",
         "tradeMethods": [
-          "SEPA Lightning",
-          "SEPA Instant",
-          "SEPA (EU) bank transfer"
+          "Bank Transfer"
         ]
       }
     }
