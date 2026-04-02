@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1775141267775,
+  "updatedAt": 1775144732057,
   "source": "Binance P2P web endpoint",
   "asset": "USDT",
   "prices": {
@@ -19,42 +19,41 @@
         ]
       },
       "SELL": {
-        "price": 0.391,
+        "price": 0.392,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12785998264816189440",
-        "nickName": "Aboali82",
-        "minSingleTransAmount": "1000",
-        "maxSingleTransAmount": "2000",
+        "advNo": "12866818608395075584",
+        "nickName": "ZAIN-9353_1",
+        "minSingleTransAmount": "20",
+        "maxSingleTransAmount": "21",
         "tradeMethods": [
-          "Airtime Mobile Top-Up",
           "Bank Muscat",
-          "Sohar International"
+          "Bank Dhofar",
+          "Airtime Mobile Top-Up"
         ]
       }
     },
     "EGP": {
       "BUY": {
-        "price": 55.18,
+        "price": 55.23,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "13857846638620262400",
-        "nickName": "Biiily",
-        "minSingleTransAmount": "9599",
-        "maxSingleTransAmount": "9600",
+        "advNo": "12872983162942541824",
+        "nickName": "0_second_release",
+        "minSingleTransAmount": "15000",
+        "maxSingleTransAmount": "18500",
         "tradeMethods": [
-          "Bank Transfer",
           "InstaPay"
         ]
       },
       "SELL": {
-        "price": 55.7,
+        "price": 55.55,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12842308080159072256",
-        "nickName": "Marketing_Crypto",
-        "minSingleTransAmount": "13000",
-        "maxSingleTransAmount": "13001",
+        "advNo": "12558817812489158656",
+        "nickName": "Elbasha-Online",
+        "minSingleTransAmount": "9000",
+        "maxSingleTransAmount": "9001",
         "tradeMethods": [
           "Vodafone cash"
         ]
@@ -62,17 +61,15 @@
     },
     "AED": {
       "BUY": {
-        "price": 3.672,
+        "price": 3.69,
         "pickedIndex": 1,
         "availableRows": 10,
-        "advNo": "13811359717508816896",
-        "nickName": "MB52",
-        "minSingleTransAmount": "100",
-        "maxSingleTransAmount": "101",
+        "advNo": "12872946424139603968",
+        "nickName": "MISK_CRYPTO",
+        "minSingleTransAmount": "5790",
+        "maxSingleTransAmount": "5790",
         "tradeMethods": [
-          "Bank Transfer (Middle East)",
-          "Transfers with specific bank",
-          "Bank Transfer"
+          "Bank Transfer (Middle East)"
         ]
       },
       "SELL": {
@@ -91,15 +88,18 @@
     },
     "SAR": {
       "BUY": {
-        "price": 3.82,
+        "price": 3.8,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12871349930100736000",
-        "nickName": "usdt_7ksa",
+        "advNo": "13867248400432357376",
+        "nickName": "Da7my",
         "minSingleTransAmount": "10000",
-        "maxSingleTransAmount": "100000",
+        "maxSingleTransAmount": "10000000",
         "tradeMethods": [
-          "Transfers with specific bank"
+          "Saudi National Bank (AlAhli Bank)",
+          "Bank Transfer",
+          "Al Rajhi Bank",
+          "Riyad Bank"
         ]
       },
       "SELL": {
@@ -143,7 +143,7 @@
     },
     "EUR": {
       "BUY": {
-        "price": 0.869,
+        "price": 0.863,
         "pickedIndex": 1,
         "availableRows": 11,
         "advNo": "12872931613626163200",
@@ -155,15 +155,19 @@
         ]
       },
       "SELL": {
-        "price": 0.94,
+        "price": 0.93,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12873017301978378240",
-        "nickName": "P2P-bd951dih",
-        "minSingleTransAmount": "740",
-        "maxSingleTransAmount": "740",
+        "advNo": "12872696189655023616",
+        "nickName": "Autobot077",
+        "minSingleTransAmount": "7468",
+        "maxSingleTransAmount": "30456",
         "tradeMethods": [
-          "CaixaBank (Spain)"
+          "Wise",
+          "Bank Transfer",
+          "International Wire (SWIFT)",
+          "SEPA (EU) bank transfer",
+          "SEPA Instant"
         ]
       }
     }
