@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1775270200730,
+  "updatedAt": 1775277062499,
   "source": "Binance P2P web endpoint",
   "asset": "USDT",
   "prices": {
@@ -21,7 +21,7 @@
       "SELL": {
         "price": 0.391,
         "pickedIndex": 1,
-        "availableRows": 10,
+        "availableRows": 11,
         "advNo": "12839823669546295296",
         "nickName": "ALZANATY-2017",
         "minSingleTransAmount": "10",
@@ -33,44 +33,41 @@
     },
     "EGP": {
       "BUY": {
-        "price": 55.35,
+        "price": 55.33,
         "pickedIndex": 1,
-        "availableRows": 10,
-        "advNo": "12839695767976341504",
-        "nickName": "MR___MEOW",
-        "minSingleTransAmount": "500",
+        "availableRows": 11,
+        "advNo": "12873587072505274368",
+        "nickName": "USDTegypt",
+        "minSingleTransAmount": "90",
         "maxSingleTransAmount": "500000",
         "tradeMethods": [
-          "Bank Transfer",
           "InstaPay"
         ]
       },
       "SELL": {
-        "price": 55.3,
+        "price": 55.36,
         "pickedIndex": 1,
-        "availableRows": 10,
-        "advNo": "12854687669947609088",
-        "nickName": "Ninja-Us",
-        "minSingleTransAmount": "5000",
-        "maxSingleTransAmount": "120000",
+        "availableRows": 11,
+        "advNo": "12791567890662633472",
+        "nickName": "AB-Alp",
+        "minSingleTransAmount": "25000",
+        "maxSingleTransAmount": "25001",
         "tradeMethods": [
-          "Vodafone cash",
-          "Etisalat Cash",
-          "Orange Cash",
-          "we Pay"
+          "Vodafone cash"
         ]
       }
     },
     "AED": {
       "BUY": {
-        "price": 3.698,
+        "price": 3.693,
         "pickedIndex": 1,
         "availableRows": 10,
-        "advNo": "13851608266058960896",
-        "nickName": "QinXhao",
-        "minSingleTransAmount": "50000",
-        "maxSingleTransAmount": "500000",
+        "advNo": "13871859053140672512",
+        "nickName": "DXB_DEALS",
+        "minSingleTransAmount": "35000",
+        "maxSingleTransAmount": "150000",
         "tradeMethods": [
+          "Emirates NBD",
           "Bank Transfer"
         ]
       },
@@ -157,19 +154,18 @@
         ]
       },
       "SELL": {
-        "price": 0.905,
+        "price": 0.9,
         "pickedIndex": 1,
         "availableRows": 10,
-        "advNo": "12873394669212774400",
-        "nickName": "Myr4ik001",
-        "minSingleTransAmount": "3267",
-        "maxSingleTransAmount": "3267",
+        "advNo": "12872973625484369920",
+        "nickName": "Very_Fast_Merchant",
+        "minSingleTransAmount": "15000",
+        "maxSingleTransAmount": "50000",
         "tradeMethods": [
-          "Bizum",
-          "Bank Transfer",
           "SEPA (EU) bank transfer",
-          "Bunq",
-          "BBVA"
+          "SEPA Instant",
+          "N26",
+          "ING"
         ]
       }
     }
