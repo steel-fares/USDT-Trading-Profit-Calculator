@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1775331894758,
+  "updatedAt": 1775332964915,
   "source": "Binance P2P web endpoint",
   "asset": "USDT",
   "prices": {
@@ -17,13 +17,13 @@
         ]
       },
       "SELL": {
-        "price": 0.392,
+        "price": 0.391,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12873051485403373568",
-        "nickName": "Shahid_Exchange_",
+        "advNo": "12843613289170059264",
+        "nickName": "abdullah-omani",
         "minSingleTransAmount": "10",
-        "maxSingleTransAmount": "2500",
+        "maxSingleTransAmount": "20",
         "tradeMethods": [
           "Bank Muscat"
         ]
@@ -31,25 +31,25 @@
     },
     "EGP": {
       "BUY": {
-        "price": 55.2,
+        "price": 55.16,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12864689343768969216",
-        "nickName": "HoHoz",
-        "minSingleTransAmount": "9000",
-        "maxSingleTransAmount": "9000",
+        "advNo": "12873826851147173888",
+        "nickName": "Emam1",
+        "minSingleTransAmount": "39250",
+        "maxSingleTransAmount": "500000",
         "tradeMethods": [
           "InstaPay"
         ]
       },
       "SELL": {
-        "price": 55.43,
+        "price": 55.38,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12848034577804496896",
-        "nickName": "FASTUSDT1",
-        "minSingleTransAmount": "40000",
-        "maxSingleTransAmount": "40001",
+        "advNo": "12844809784129687552",
+        "nickName": "alpha200",
+        "minSingleTransAmount": "20000",
+        "maxSingleTransAmount": "20001",
         "tradeMethods": [
           "Vodafone cash"
         ]
@@ -57,28 +57,32 @@
     },
     "AED": {
       "BUY": {
-        "price": 3.697,
+        "price": 3.693,
         "pickedIndex": 1,
         "availableRows": 10,
-        "advNo": "13851608266058960896",
-        "nickName": "QinXhao",
-        "minSingleTransAmount": "50000",
-        "maxSingleTransAmount": "500000",
+        "advNo": "13871859053140672512",
+        "nickName": "DXB_DEALS",
+        "minSingleTransAmount": "35000",
+        "maxSingleTransAmount": "150000",
         "tradeMethods": [
+          "Abu Dhabi Commercial Bank ADCB",
           "Bank Transfer"
         ]
       },
       "SELL": {
-        "price": 3.687,
+        "price": 3.684,
         "pickedIndex": 1,
         "availableRows": 10,
-        "advNo": "12866207424044675072",
-        "nickName": "waled128",
-        "minSingleTransAmount": "9190",
-        "maxSingleTransAmount": "9192",
+        "advNo": "12845477181853753344",
+        "nickName": "NOGA-SOS",
+        "minSingleTransAmount": "5000",
+        "maxSingleTransAmount": "11000",
         "tradeMethods": [
+          "Aani",
           "Bank Transfer",
-          "ADIB: Abu Dhabi Islamic Bank"
+          "Abu Dhabi Commercial Bank ADCB",
+          "Emirates NBD",
+          "AL MASHREQ Bank"
         ]
       }
     },
@@ -98,13 +102,14 @@
       "SELL": {
         "price": 3.85,
         "pickedIndex": 1,
-        "availableRows": 11,
-        "advNo": "11441709414488276992",
-        "nickName": "AboKhalid-2030",
+        "availableRows": 10,
+        "advNo": "12848137810324381696",
+        "nickName": "WelcomeAll",
         "minSingleTransAmount": "500",
-        "maxSingleTransAmount": "10000",
+        "maxSingleTransAmount": "2800",
         "tradeMethods": [
-          "urpay"
+          "Mobily Pay",
+          "Bank Transfer"
         ]
       }
     },
@@ -136,17 +141,19 @@
     },
     "EUR": {
       "BUY": {
-        "price": 0.872,
+        "price": 0.873,
         "pickedIndex": 1,
         "availableRows": 10,
-        "advNo": "13802485034864685056",
-        "nickName": "Crypto-Eli",
-        "minSingleTransAmount": "400",
-        "maxSingleTransAmount": "15000",
+        "advNo": "13842588518437269504",
+        "nickName": "NIMLAB",
+        "minSingleTransAmount": "350",
+        "maxSingleTransAmount": "10000",
         "tradeMethods": [
-          "SEPA Instant",
+          "SEPA (EU) bank transfer",
+          "Bank Transfer",
           "N26",
-          "Bank Transfer"
+          "SEPA Instant",
+          "BBVA"
         ]
       },
       "SELL": {
