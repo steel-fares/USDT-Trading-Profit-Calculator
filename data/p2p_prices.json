@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1775260532347,
+  "updatedAt": 1775270200730,
   "source": "Binance P2P web endpoint",
   "asset": "USDT",
   "prices": {
@@ -33,41 +33,44 @@
     },
     "EGP": {
       "BUY": {
-        "price": 55.25,
+        "price": 55.35,
         "pickedIndex": 1,
-        "availableRows": 11,
-        "advNo": "13769706220963799040",
-        "nickName": "ENG-Osos_-Trusted-_",
-        "minSingleTransAmount": "13150",
-        "maxSingleTransAmount": "13150",
+        "availableRows": 10,
+        "advNo": "12839695767976341504",
+        "nickName": "MR___MEOW",
+        "minSingleTransAmount": "500",
+        "maxSingleTransAmount": "500000",
         "tradeMethods": [
+          "Bank Transfer",
           "InstaPay"
         ]
       },
       "SELL": {
-        "price": 55.55,
+        "price": 55.3,
         "pickedIndex": 1,
-        "availableRows": 11,
-        "advNo": "12842179151738761216",
-        "nickName": "KeroAlKnj",
-        "minSingleTransAmount": "15000",
-        "maxSingleTransAmount": "15001",
+        "availableRows": 10,
+        "advNo": "12854687669947609088",
+        "nickName": "Ninja-Us",
+        "minSingleTransAmount": "5000",
+        "maxSingleTransAmount": "120000",
         "tradeMethods": [
-          "Vodafone cash"
+          "Vodafone cash",
+          "Etisalat Cash",
+          "Orange Cash",
+          "we Pay"
         ]
       }
     },
     "AED": {
       "BUY": {
-        "price": 3.693,
+        "price": 3.698,
         "pickedIndex": 1,
         "availableRows": 10,
-        "advNo": "13871859053140672512",
-        "nickName": "DXB_DEALS",
-        "minSingleTransAmount": "35000",
-        "maxSingleTransAmount": "150000",
+        "advNo": "13851608266058960896",
+        "nickName": "QinXhao",
+        "minSingleTransAmount": "50000",
+        "maxSingleTransAmount": "500000",
         "tradeMethods": [
-          "Emirates NBD",
           "Bank Transfer"
         ]
       },
@@ -86,15 +89,15 @@
     },
     "SAR": {
       "BUY": {
-        "price": 3.81,
+        "price": 3.82,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12869818947998912512",
-        "nickName": "bigmerchant",
-        "minSingleTransAmount": "1940",
-        "maxSingleTransAmount": "1940",
+        "advNo": "12871349930100736000",
+        "nickName": "usdt_7ksa",
+        "minSingleTransAmount": "10000",
+        "maxSingleTransAmount": "100000",
         "tradeMethods": [
-          "Saudi National Bank (AlAhli Bank)"
+          "Transfers with specific bank"
         ]
       },
       "SELL": {
@@ -112,15 +115,15 @@
     },
     "USD": {
       "BUY": {
-        "price": 0.994,
+        "price": 1.0,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "13873361622140891136",
-        "nickName": "WhiteBITGeorgia",
-        "minSingleTransAmount": "100",
-        "maxSingleTransAmount": "500",
+        "advNo": "12556206845790932992",
+        "nickName": "誌得其樂",
+        "minSingleTransAmount": "15",
+        "maxSingleTransAmount": "1500",
         "tradeMethods": [
-          "Bank Transfer"
+          "Bank Transfer (Taiwan)"
         ]
       },
       "SELL": {
