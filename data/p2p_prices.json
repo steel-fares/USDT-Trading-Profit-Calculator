@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1775428935038,
+  "updatedAt": 1775431076717,
   "source": "Binance P2P web endpoint",
   "asset": "USDT",
   "prices": {
@@ -17,37 +17,36 @@
         ]
       },
       "SELL": {
-        "price": 0.391,
+        "price": 0.39,
         "pickedIndex": 1,
         "availableRows": 10,
-        "advNo": "12856020430411149312",
-        "nickName": "p2p_Omani",
-        "minSingleTransAmount": "10",
-        "maxSingleTransAmount": "160",
+        "advNo": "12762939899329818624",
+        "nickName": "alshars_________USDT",
+        "minSingleTransAmount": "250",
+        "maxSingleTransAmount": "5000",
         "tradeMethods": [
           "Airtime Mobile Top-Up",
-          "Bank Muscat",
-          "Bank Nizwa",
           "Sohar International",
-          "Bank Transfer"
+          "Bank Dhofar",
+          "Bank Muscat"
         ]
       }
     },
     "EGP": {
       "BUY": {
-        "price": 55.4,
+        "price": 55.39,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "13834516140672016384",
-        "nickName": "Mustafa-Elhadad",
-        "minSingleTransAmount": "9450",
-        "maxSingleTransAmount": "930000",
+        "advNo": "12803190402464927744",
+        "nickName": "Tranzl",
+        "minSingleTransAmount": "70000",
+        "maxSingleTransAmount": "500000",
         "tradeMethods": [
           "InstaPay"
         ]
       },
       "SELL": {
-        "price": 55.95,
+        "price": 55.97,
         "pickedIndex": 1,
         "availableRows": 11,
         "advNo": "12845658446082236416",
@@ -61,15 +60,14 @@
     },
     "AED": {
       "BUY": {
-        "price": 3.693,
+        "price": 3.695,
         "pickedIndex": 1,
         "availableRows": 10,
-        "advNo": "13871859053140672512",
-        "nickName": "DXB_DEALS",
-        "minSingleTransAmount": "35000",
-        "maxSingleTransAmount": "160000",
+        "advNo": "13851608266058960896",
+        "nickName": "QinXhao",
+        "minSingleTransAmount": "50000",
+        "maxSingleTransAmount": "300000",
         "tradeMethods": [
-          "Emirates NBD",
           "Bank Transfer"
         ]
       },
