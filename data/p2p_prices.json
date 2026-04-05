@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1775431076717,
+  "updatedAt": 1775433205844,
   "source": "Binance P2P web endpoint",
   "asset": "USDT",
   "prices": {
@@ -34,19 +34,20 @@
     },
     "EGP": {
       "BUY": {
-        "price": 55.39,
+        "price": 55.45,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12803190402464927744",
-        "nickName": "Tranzl",
-        "minSingleTransAmount": "70000",
-        "maxSingleTransAmount": "500000",
+        "advNo": "12874248989773950976",
+        "nickName": "Xo_______oX",
+        "minSingleTransAmount": "50000",
+        "maxSingleTransAmount": "55500",
         "tradeMethods": [
-          "InstaPay"
+          "InstaPay",
+          "Bank Transfer"
         ]
       },
       "SELL": {
-        "price": 55.97,
+        "price": 55.95,
         "pickedIndex": 1,
         "availableRows": 11,
         "advNo": "12845658446082236416",
@@ -60,15 +61,15 @@
     },
     "AED": {
       "BUY": {
-        "price": 3.695,
+        "price": 3.699,
         "pickedIndex": 1,
         "availableRows": 10,
-        "advNo": "13851608266058960896",
-        "nickName": "QinXhao",
-        "minSingleTransAmount": "50000",
-        "maxSingleTransAmount": "300000",
+        "advNo": "12872332245809090560",
+        "nickName": "Instant_Money_AllBNK",
+        "minSingleTransAmount": "100",
+        "maxSingleTransAmount": "101",
         "tradeMethods": [
-          "Bank Transfer"
+          "ADIB: Abu Dhabi Islamic Bank"
         ]
       },
       "SELL": {
@@ -89,24 +90,28 @@
         "price": 3.81,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12862541334587035648",
-        "nickName": "_USDT-COINS",
-        "minSingleTransAmount": "10000",
-        "maxSingleTransAmount": "100000",
+        "advNo": "12869818947998912512",
+        "nickName": "bigmerchant",
+        "minSingleTransAmount": "4000",
+        "maxSingleTransAmount": "4000",
         "tradeMethods": [
           "Bank Transfer"
         ]
       },
       "SELL": {
-        "price": 3.87,
+        "price": 3.88,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12820468610116591616",
-        "nickName": "Kholod-F",
-        "minSingleTransAmount": "60",
-        "maxSingleTransAmount": "100000",
+        "advNo": "12873899445902233600",
+        "nickName": "M9-CRYPTO-KING",
+        "minSingleTransAmount": "1000",
+        "maxSingleTransAmount": "3800",
         "tradeMethods": [
-          "barq"
+          "Bank Transfer",
+          "Transfers with specific bank",
+          "Al Rajhi Bank",
+          "Riyad Bank",
+          "Saudi National Bank (AlAhli Bank)"
         ]
       }
     },
