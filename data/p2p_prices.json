@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1775511069677,
+  "updatedAt": 1775512952770,
   "source": "Binance P2P web endpoint",
   "asset": "USDT",
   "prices": {
@@ -8,13 +8,16 @@
         "price": 0.392,
         "pickedIndex": 1,
         "availableRows": 10,
-        "advNo": "12873647762612060160",
-        "nickName": "Bigzak_original",
+        "advNo": "12825993112017731584",
+        "nickName": "Firas_Crypto",
         "minSingleTransAmount": "500",
         "maxSingleTransAmount": "2500",
         "tradeMethods": [
           "Bank Muscat",
-          "mBank"
+          "Bank Dhofar",
+          "Sohar International",
+          "Airtime Mobile Top-Up",
+          "Oman Arab Bank"
         ]
       },
       "SELL": {
@@ -36,28 +39,27 @@
     },
     "EGP": {
       "BUY": {
-        "price": 55.3,
+        "price": 55.33,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12874558090495250432",
-        "nickName": "omeralim",
-        "minSingleTransAmount": "20000",
-        "maxSingleTransAmount": "20000",
+        "advNo": "12874585399697465344",
+        "nickName": "Kabbush",
+        "minSingleTransAmount": "7000",
+        "maxSingleTransAmount": "8000",
         "tradeMethods": [
-          "InstaPay"
+          "Bank Transfer"
         ]
       },
       "SELL": {
-        "price": 55.71,
+        "price": 55.77,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12866913255260205056",
-        "nickName": "The_Gunners",
-        "minSingleTransAmount": "14000",
-        "maxSingleTransAmount": "14001",
+        "advNo": "12846632843843330048",
+        "nickName": "__mng__",
+        "minSingleTransAmount": "15000",
+        "maxSingleTransAmount": "15001",
         "tradeMethods": [
-          "Vodafone cash",
-          "Orange Cash"
+          "Vodafone cash"
         ]
       }
     },
@@ -84,8 +86,8 @@
         "availableRows": 10,
         "advNo": "12854110158148751360",
         "nickName": "AbuBassam-",
-        "minSingleTransAmount": "14600",
-        "maxSingleTransAmount": "14650",
+        "minSingleTransAmount": "14500",
+        "maxSingleTransAmount": "14680",
         "tradeMethods": [
           "mBank",
           "Abu Dhabi Commercial Bank ADCB",
@@ -150,18 +152,19 @@
     },
     "EUR": {
       "BUY": {
-        "price": 0.87,
+        "price": 0.871,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "13849127982920032256",
-        "nickName": "Novudi",
-        "minSingleTransAmount": "800",
-        "maxSingleTransAmount": "100000",
+        "advNo": "13865169563769667584",
+        "nickName": "TEZER_Exchange",
+        "minSingleTransAmount": "250",
+        "maxSingleTransAmount": "20000",
         "tradeMethods": [
-          "SEPA Instant",
-          "SEPA (EU) bank transfer",
           "Bank Transfer",
-          "BBVA"
+          "SEPA Instant",
+          "BBVA",
+          "Paysera",
+          "CaixaBank (Spain)"
         ]
       },
       "SELL": {
