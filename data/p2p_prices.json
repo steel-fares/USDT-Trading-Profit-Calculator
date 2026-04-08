@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1775649558515,
+  "updatedAt": 1775656661659,
   "source": "Binance P2P web endpoint",
   "asset": "USDT",
   "prices": {
@@ -17,22 +17,25 @@
         ]
       },
       "SELL": {
-        "price": 0.391,
+        "price": 0.393,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12867525823250288640",
-        "nickName": "P2P-8c6ed9fi",
-        "minSingleTransAmount": "300",
-        "maxSingleTransAmount": "1500",
+        "advNo": "12860450519731142656",
+        "nickName": "Corrin Mikeska i08o",
+        "minSingleTransAmount": "1000",
+        "maxSingleTransAmount": "2500",
         "tradeMethods": [
           "Bank Muscat",
+          "Bank Dhofar",
+          "Bank Nizwa",
+          "Oman Arab Bank",
           "Sohar International"
         ]
       }
     },
     "EGP": {
       "BUY": {
-        "price": 53.39,
+        "price": 53.88,
         "pickedIndex": 1,
         "availableRows": 11,
         "advNo": "12875150610925682688",
@@ -44,13 +47,13 @@
         ]
       },
       "SELL": {
-        "price": 54.69,
+        "price": 54.23,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12873355528998019072",
-        "nickName": "USDT_4_Ever",
-        "minSingleTransAmount": "59999",
-        "maxSingleTransAmount": "60000",
+        "advNo": "12842569686105751552",
+        "nickName": "VIP_ cryptoo",
+        "minSingleTransAmount": "15000",
+        "maxSingleTransAmount": "15000",
         "tradeMethods": [
           "Vodafone cash"
         ]
@@ -70,15 +73,15 @@
         ]
       },
       "SELL": {
-        "price": 3.685,
+        "price": 3.687,
         "pickedIndex": 1,
         "availableRows": 10,
-        "advNo": "12827238189077155840",
-        "nickName": "STOCK-TIME",
-        "minSingleTransAmount": "12000",
-        "maxSingleTransAmount": "15000",
+        "advNo": "12868298047281692672",
+        "nickName": "Rabidai",
+        "minSingleTransAmount": "2450",
+        "maxSingleTransAmount": "2500",
         "tradeMethods": [
-          "Abu Dhabi Commercial Bank ADCB"
+          "Bank Transfer"
         ]
       }
     },
@@ -96,16 +99,15 @@
         ]
       },
       "SELL": {
-        "price": 3.88,
+        "price": 3.87,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12874947664807149568",
-        "nickName": "User-4106f",
-        "minSingleTransAmount": "599",
-        "maxSingleTransAmount": "600",
+        "advNo": "12874781469443612672",
+        "nickName": "ALWATAN2025",
+        "minSingleTransAmount": "500",
+        "maxSingleTransAmount": "580",
         "tradeMethods": [
-          "Bank Transfer",
-          "stc pay"
+          "urpay"
         ]
       }
     },
@@ -137,34 +139,33 @@
     },
     "EUR": {
       "BUY": {
-        "price": 0.858,
+        "price": 0.85,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "13849127982920032256",
-        "nickName": "Novudi",
-        "minSingleTransAmount": "800",
-        "maxSingleTransAmount": "100000",
+        "advNo": "12873008460899229696",
+        "nickName": "Romchik_b20",
+        "minSingleTransAmount": "10",
+        "maxSingleTransAmount": "10",
         "tradeMethods": [
           "SEPA Instant",
-          "SEPA (EU) bank transfer",
-          "Bank Transfer",
+          "Wise",
+          "Paysera",
+          "N26",
           "BBVA"
         ]
       },
       "SELL": {
-        "price": 0.918,
+        "price": 0.934,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12870187555855925248",
-        "nickName": "Anyelithcuellar",
-        "minSingleTransAmount": "29800",
-        "maxSingleTransAmount": "29900",
+        "advNo": "12874287276277690368",
+        "nickName": "Eliseo Villafañe",
+        "minSingleTransAmount": "9900",
+        "maxSingleTransAmount": "10000",
         "tradeMethods": [
-          "Banco Santander (Spain)",
-          "SEPA Instant",
-          "N26",
-          "BBVA",
-          "ING"
+          "CaixaBank (Spain)",
+          "Banco Sabadell (Spain)",
+          "Banco Santander (Spain)"
         ]
       }
     }
