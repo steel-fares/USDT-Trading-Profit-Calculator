@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1775854218899,
+  "updatedAt": 1775856483105,
   "source": "Binance P2P web endpoint",
   "asset": "USDT",
   "prices": {
@@ -8,18 +8,20 @@
         "price": 0.392,
         "pickedIndex": 1,
         "availableRows": 10,
-        "advNo": "12872171855770931200",
-        "nickName": "Dakiscrypto",
-        "minSingleTransAmount": "500",
+        "advNo": "13842251845623316480",
+        "nickName": "alshars_________USDT",
+        "minSingleTransAmount": "100",
         "maxSingleTransAmount": "2500",
         "tradeMethods": [
-          "Bank Transfer"
+          "Bank Muscat",
+          "Airtime Mobile Top-Up",
+          "Sohar International"
         ]
       },
       "SELL": {
         "price": 0.39,
         "pickedIndex": 1,
-        "availableRows": 10,
+        "availableRows": 11,
         "advNo": "12836464470759849984",
         "nickName": "Ammar50005",
         "minSingleTransAmount": "2499",
@@ -34,55 +36,54 @@
     },
     "EGP": {
       "BUY": {
-        "price": 53.67,
+        "price": 53.7,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12874994740669931520",
-        "nickName": "3tra25",
-        "minSingleTransAmount": "15064",
-        "maxSingleTransAmount": "15065",
+        "advNo": "13874599160539402240",
+        "nickName": "Dorrittos",
+        "minSingleTransAmount": "20000",
+        "maxSingleTransAmount": "20220",
         "tradeMethods": [
+          "Bank Transfer",
           "InstaPay"
         ]
       },
       "SELL": {
-        "price": 55.0,
+        "price": 54.51,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12872885804973547520",
-        "nickName": "KAGE_NO1",
-        "minSingleTransAmount": "90",
-        "maxSingleTransAmount": "91",
+        "advNo": "12845658446082236416",
+        "nickName": "__G__A__N__A__A__T__",
+        "minSingleTransAmount": "20000",
+        "maxSingleTransAmount": "20001",
         "tradeMethods": [
-          "Vodafone cash",
-          "Orange Cash",
-          "Etisalat Cash"
+          "Vodafone cash"
         ]
       }
     },
     "AED": {
       "BUY": {
-        "price": 3.683,
+        "price": 3.69,
         "pickedIndex": 1,
         "availableRows": 10,
-        "advNo": "12875180784318472192",
-        "nickName": "MISK_CRYPTO",
-        "minSingleTransAmount": "20000",
-        "maxSingleTransAmount": "25000",
+        "advNo": "12870951310110568448",
+        "nickName": "Saleembhai",
+        "minSingleTransAmount": "466",
+        "maxSingleTransAmount": "20000",
         "tradeMethods": [
-          "Bank Transfer (Middle East)"
+          "Abu Dhabi Commercial Bank ADCB"
         ]
       },
       "SELL": {
-        "price": 3.683,
+        "price": 3.68,
         "pickedIndex": 1,
         "availableRows": 10,
-        "advNo": "12868592415238696960",
-        "nickName": "marwan",
-        "minSingleTransAmount": "24999",
-        "maxSingleTransAmount": "25000",
+        "advNo": "12876031563847733248",
+        "nickName": "ASIABOSS",
+        "minSingleTransAmount": "2500",
+        "maxSingleTransAmount": "3000",
         "tradeMethods": [
-          "Cash Deposit to Bank"
+          "Aani"
         ]
       }
     },
@@ -114,7 +115,7 @@
     },
     "USD": {
       "BUY": {
-        "price": 0.992,
+        "price": 0.995,
         "pickedIndex": 1,
         "availableRows": 11,
         "advNo": "12876023045765885952",
@@ -140,30 +141,31 @@
     },
     "EUR": {
       "BUY": {
-        "price": 0.856,
+        "price": 0.857,
         "pickedIndex": 1,
-        "availableRows": 11,
-        "advNo": "13849127982920032256",
-        "nickName": "Novudi",
-        "minSingleTransAmount": "800",
-        "maxSingleTransAmount": "100000",
+        "availableRows": 10,
+        "advNo": "13865169563769667584",
+        "nickName": "TEZER_Exchange",
+        "minSingleTransAmount": "250",
+        "maxSingleTransAmount": "20000",
         "tradeMethods": [
-          "SEPA Instant",
-          "SEPA (EU) bank transfer",
           "Bank Transfer",
-          "BBVA"
+          "SEPA Instant",
+          "BBVA",
+          "Paysera",
+          "CaixaBank (Spain)"
         ]
       },
       "SELL": {
-        "price": 0.889,
+        "price": 0.873,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12722294407027662848",
-        "nickName": "AdriAmaro",
-        "minSingleTransAmount": "30",
-        "maxSingleTransAmount": "30",
+        "advNo": "12849562847872786432",
+        "nickName": "crypto_up-i",
+        "minSingleTransAmount": "10",
+        "maxSingleTransAmount": "23",
         "tradeMethods": [
-          "Bizum"
+          "Dukascopy Bank"
         ]
       }
     }
