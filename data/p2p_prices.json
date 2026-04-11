@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1775949696343,
+  "updatedAt": 1775951788079,
   "source": "Binance P2P web endpoint",
   "asset": "USDT",
   "prices": {
@@ -33,26 +33,25 @@
     },
     "EGP": {
       "BUY": {
-        "price": 53.38,
+        "price": 53.45,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12875323715910795264",
-        "nickName": "Fast_Trust_12",
-        "minSingleTransAmount": "3000",
-        "maxSingleTransAmount": "5000",
+        "advNo": "12867521895465406464",
+        "nickName": "medo",
+        "minSingleTransAmount": "10000",
+        "maxSingleTransAmount": "500000",
         "tradeMethods": [
-          "InstaPay",
-          "Banque Misr"
+          "InstaPay"
         ]
       },
       "SELL": {
-        "price": 54.09,
+        "price": 54.16,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12845658446082236416",
-        "nickName": "__G__A__N__A__A__T__",
-        "minSingleTransAmount": "20000",
-        "maxSingleTransAmount": "20001",
+        "advNo": "12873355528998019072",
+        "nickName": "USDT_4_Ever_1",
+        "minSingleTransAmount": "59999",
+        "maxSingleTransAmount": "60000",
         "tradeMethods": [
           "Vodafone cash"
         ]
@@ -63,10 +62,10 @@
         "price": 3.685,
         "pickedIndex": 1,
         "availableRows": 10,
-        "advNo": "12875261280701403136",
-        "nickName": "Mrcrepo",
-        "minSingleTransAmount": "1000",
-        "maxSingleTransAmount": "25000",
+        "advNo": "13876276725857345536",
+        "nickName": "south korea 98",
+        "minSingleTransAmount": "3000",
+        "maxSingleTransAmount": "6960",
         "tradeMethods": [
           "Bank Transfer"
         ]
@@ -88,26 +87,30 @@
     },
     "SAR": {
       "BUY": {
-        "price": 3.8,
+        "price": 3.81,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12876414487032782848",
-        "nickName": "Abdulmalik_USDT",
-        "minSingleTransAmount": "7500",
-        "maxSingleTransAmount": "10000",
+        "advNo": "13823395733646798848",
+        "nickName": "AbuSaud8",
+        "minSingleTransAmount": "10000",
+        "maxSingleTransAmount": "100000",
         "tradeMethods": [
-          "Bank Transfer"
+          "Transfers with specific bank"
         ]
       },
       "SELL": {
-        "price": 3.84,
+        "price": 3.85,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12819185174366621696",
-        "nickName": "itx_KhansahiL",
-        "minSingleTransAmount": "60",
-        "maxSingleTransAmount": "238",
+        "advNo": "12864513545208025088",
+        "nickName": "SafeP2PKSA",
+        "minSingleTransAmount": "120",
+        "maxSingleTransAmount": "10000",
         "tradeMethods": [
+          "Mobily Pay",
+          "Bank Transfer",
+          "Al Rajhi Bank",
+          "barq",
           "stc pay"
         ]
       }
@@ -143,16 +146,16 @@
         "price": 0.857,
         "pickedIndex": 1,
         "availableRows": 10,
-        "advNo": "13865169563769667584",
+        "advNo": "13864797426777096192",
         "nickName": "TEZER_Exchange",
         "minSingleTransAmount": "250",
-        "maxSingleTransAmount": "20000",
+        "maxSingleTransAmount": "10000",
         "tradeMethods": [
           "Bank Transfer",
           "SEPA Instant",
+          "SEPA (EU) bank transfer",
           "BBVA",
-          "Paysera",
-          "CaixaBank (Spain)"
+          "Paysera"
         ]
       },
       "SELL": {
