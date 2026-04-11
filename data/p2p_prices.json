@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1775898015023,
+  "updatedAt": 1775901219496,
   "source": "Binance P2P web endpoint",
   "asset": "USDT",
   "prices": {
@@ -35,25 +35,25 @@
     },
     "EGP": {
       "BUY": {
-        "price": 53.73,
+        "price": 53.61,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12874099951329075200",
-        "nickName": "Mohamed_El-Safty",
-        "minSingleTransAmount": "1000",
-        "maxSingleTransAmount": "6143",
+        "advNo": "12876219796858761216",
+        "nickName": "ZorinHub",
+        "minSingleTransAmount": "9000",
+        "maxSingleTransAmount": "9060",
         "tradeMethods": [
           "InstaPay"
         ]
       },
       "SELL": {
-        "price": 54.31,
+        "price": 54.14,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12829462955784151040",
-        "nickName": "Fast_Number1",
-        "minSingleTransAmount": "8000",
-        "maxSingleTransAmount": "8001",
+        "advNo": "12843981005943394304",
+        "nickName": "AbuGesse",
+        "minSingleTransAmount": "17000",
+        "maxSingleTransAmount": "17001",
         "tradeMethods": [
           "Vodafone cash"
         ]
@@ -61,54 +61,57 @@
     },
     "AED": {
       "BUY": {
-        "price": 3.672,
+        "price": 3.67,
         "pickedIndex": 1,
         "availableRows": 10,
-        "advNo": "13875624330634760192",
-        "nickName": "Abu_Sultan_BTC",
-        "minSingleTransAmount": "100",
-        "maxSingleTransAmount": "101",
+        "advNo": "12874886318029881344",
+        "nickName": "Abdullah__UAE",
+        "minSingleTransAmount": "2500",
+        "maxSingleTransAmount": "25000",
         "tradeMethods": [
-          "Bank Transfer",
-          "Aani"
+          "Aani",
+          "Bank Transfer"
         ]
       },
       "SELL": {
-        "price": 3.675,
+        "price": 3.68,
         "pickedIndex": 1,
         "availableRows": 10,
-        "advNo": "12858238847282851840",
-        "nickName": "HAJJ MOHAMAD HUSSEIN",
-        "minSingleTransAmount": "100",
-        "maxSingleTransAmount": "500",
+        "advNo": "12866439401645805568",
+        "nickName": "FASTUSDT1",
+        "minSingleTransAmount": "4000",
+        "maxSingleTransAmount": "4001",
         "tradeMethods": [
-          "ADIB: Abu Dhabi Islamic Bank"
+          "Transfers with specific bank",
+          "Abu Dhabi Commercial Bank ADCB",
+          "Bank Transfer (Middle East)",
+          "Bank Transfer"
         ]
       }
     },
     "SAR": {
       "BUY": {
-        "price": 3.8,
+        "price": 3.81,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "13861898564744634368",
-        "nickName": "طــــــويـــــق",
+        "advNo": "13823395733646798848",
+        "nickName": "AbuSaud8",
         "minSingleTransAmount": "10000",
         "maxSingleTransAmount": "100000",
         "tradeMethods": [
-          "Al Rajhi Bank"
+          "Transfers with specific bank"
         ]
       },
       "SELL": {
-        "price": 3.86,
+        "price": 4.0,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12773070154467164160",
-        "nickName": "siraj2226",
-        "minSingleTransAmount": "800",
-        "maxSingleTransAmount": "10001",
+        "advNo": "12876220057754476544",
+        "nickName": "Hussain228",
+        "minSingleTransAmount": "60",
+        "maxSingleTransAmount": "100",
         "tradeMethods": [
-          "urpay"
+          "Al Rajhi Bank"
         ]
       }
     },
@@ -156,15 +159,19 @@
         ]
       },
       "SELL": {
-        "price": 0.88,
+        "price": 0.875,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12857740286877384704",
-        "nickName": "Aivazovskky",
-        "minSingleTransAmount": "750",
-        "maxSingleTransAmount": "751",
+        "advNo": "12810624176747118592",
+        "nickName": "-Fast-Trade-",
+        "minSingleTransAmount": "1074",
+        "maxSingleTransAmount": "1075",
         "tradeMethods": [
-          "Bizum"
+          "BBVA",
+          "N26",
+          "Paysera",
+          "SEPA Instant",
+          "Bank Transfer"
         ]
       }
     }
