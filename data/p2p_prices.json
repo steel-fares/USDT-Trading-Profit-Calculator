@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1775864319571,
+  "updatedAt": 1775865902295,
   "source": "Binance P2P web endpoint",
   "asset": "USDT",
   "prices": {
@@ -35,14 +35,15 @@
     },
     "EGP": {
       "BUY": {
-        "price": 53.67,
+        "price": 53.68,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12866982891548598272",
-        "nickName": "King_Trader_0",
-        "minSingleTransAmount": "90",
-        "maxSingleTransAmount": "5000",
+        "advNo": "12803190402464927744",
+        "nickName": "Tranzl",
+        "minSingleTransAmount": "70000",
+        "maxSingleTransAmount": "500000",
         "tradeMethods": [
+          "Bank Transfer",
           "InstaPay"
         ]
       },
@@ -73,18 +74,17 @@
         ]
       },
       "SELL": {
-        "price": 3.674,
+        "price": 3.672,
         "pickedIndex": 1,
         "availableRows": 10,
-        "advNo": "12812385921810325504",
-        "nickName": "Sobhy_Ahmed",
-        "minSingleTransAmount": "880",
-        "maxSingleTransAmount": "7000000",
+        "advNo": "12823125522301431808",
+        "nickName": "_M_u_s_t_a_f_a_",
+        "minSingleTransAmount": "3800",
+        "maxSingleTransAmount": "3800",
         "tradeMethods": [
           "Bank Transfer",
-          "Transfers with specific bank",
-          "Bank Transfer (Middle East)",
-          "Abu Dhabi Commercial Bank ADCB"
+          "Abu Dhabi Commercial Bank ADCB",
+          "Aani"
         ]
       }
     },
