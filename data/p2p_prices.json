@@ -1,18 +1,20 @@
 {
-  "updatedAt": 1776119229601,
+  "updatedAt": 1776122715624,
   "source": "Binance P2P web endpoint",
   "asset": "USDT",
   "prices": {
     "OMR": {
       "BUY": {
-        "price": 0.39,
+        "price": 0.392,
         "pickedIndex": 1,
         "availableRows": 10,
-        "advNo": "12876346898460909568",
-        "nickName": "TScode24",
-        "minSingleTransAmount": "200",
+        "advNo": "12862761742054543360",
+        "nickName": "Munther_94",
+        "minSingleTransAmount": "150",
         "maxSingleTransAmount": "2500",
         "tradeMethods": [
+          "National Bank of Oman",
+          "Ahlibank",
           "Sohar International"
         ]
       },
@@ -31,19 +33,15 @@
     },
     "EGP": {
       "BUY": {
-        "price": 53.85,
+        "price": 53.86,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "13846251165859635200",
-        "nickName": "Point-",
-        "minSingleTransAmount": "200000",
-        "maxSingleTransAmount": "930000",
+        "advNo": "12875997376476516352",
+        "nickName": "Alderdiri",
+        "minSingleTransAmount": "17000",
+        "maxSingleTransAmount": "17075",
         "tradeMethods": [
-          "Banque Misr",
-          "InstaPay",
-          "CIB | Commercial International Bank Egypt",
-          "CIB Bank",
-          "Emirates NBD"
+          "InstaPay"
         ]
       },
       "SELL": {
@@ -61,13 +59,13 @@
     },
     "AED": {
       "BUY": {
-        "price": 3.691,
+        "price": 3.692,
         "pickedIndex": 1,
         "availableRows": 10,
-        "advNo": "13860450763260821504",
-        "nickName": "MKN-CRYPTO",
-        "minSingleTransAmount": "10000",
-        "maxSingleTransAmount": "185000",
+        "advNo": "12875261280701403136",
+        "nickName": "Mrcrepo",
+        "minSingleTransAmount": "1000",
+        "maxSingleTransAmount": "25000",
         "tradeMethods": [
           "Bank Transfer"
         ]
@@ -101,27 +99,31 @@
         ]
       },
       "SELL": {
-        "price": 3.87,
+        "price": 3.9,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12696833590079041536",
-        "nickName": "Ja1985",
-        "minSingleTransAmount": "60",
-        "maxSingleTransAmount": "285",
+        "advNo": "12777620334488010752",
+        "nickName": "1xCR7",
+        "minSingleTransAmount": "14199",
+        "maxSingleTransAmount": "14200",
         "tradeMethods": [
-          "urpay"
+          "Riyad Bank",
+          "Bank Transfer",
+          "Saudi National Bank (AlAhli Bank)",
+          "Al Rajhi Bank",
+          "Alinma Bank"
         ]
       }
     },
     "USD": {
       "BUY": {
-        "price": 0.999,
+        "price": 0.998,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "13877073213984088064",
-        "nickName": "JomSelawat_MYR",
-        "minSingleTransAmount": "20",
-        "maxSingleTransAmount": "15000",
+        "advNo": "13876195609465176064",
+        "nickName": "Naemi_MYR",
+        "minSingleTransAmount": "50",
+        "maxSingleTransAmount": "1500",
         "tradeMethods": [
           "Bank Transfer"
         ]
@@ -144,28 +146,28 @@
         "price": 0.855,
         "pickedIndex": 1,
         "availableRows": 10,
-        "advNo": "13864798073939087360",
-        "nickName": "TEZER_Exchange",
-        "minSingleTransAmount": "250",
-        "maxSingleTransAmount": "20000",
+        "advNo": "13819385243161866240",
+        "nickName": "PLUMEX",
+        "minSingleTransAmount": "300",
+        "maxSingleTransAmount": "100000",
         "tradeMethods": [
+          "ZEN",
           "Bank Transfer",
           "SEPA (EU) bank transfer",
-          "BBVA",
-          "Banco Santander (Spain)",
-          "CaixaBank (Spain)"
+          "SEPA Instant",
+          "N26"
         ]
       },
       "SELL": {
-        "price": 0.881,
+        "price": 0.872,
         "pickedIndex": 1,
         "availableRows": 10,
-        "advNo": "12876004898090414080",
-        "nickName": "DanteSword-rsi",
-        "minSingleTransAmount": "249",
-        "maxSingleTransAmount": "250",
+        "advNo": "12865842952011272192",
+        "nickName": "AKREM_P2P",
+        "minSingleTransAmount": "10",
+        "maxSingleTransAmount": "57",
         "tradeMethods": [
-          "Bizum"
+          "Dukascopy Bank"
         ]
       }
     }
