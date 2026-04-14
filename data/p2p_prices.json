@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1776157147681,
+  "updatedAt": 1776162215546,
   "source": "Binance P2P web endpoint",
   "asset": "USDT",
   "prices": {
@@ -35,14 +35,17 @@
     },
     "EGP": {
       "BUY": {
-        "price": 53.3,
+        "price": 52.85,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "13868600079619022848",
-        "nickName": "Mostafa_lawyer",
-        "minSingleTransAmount": "10000",
-        "maxSingleTransAmount": "555000",
+        "advNo": "13775932536536956928",
+        "nickName": "abdallah125",
+        "minSingleTransAmount": "50000",
+        "maxSingleTransAmount": "198000",
         "tradeMethods": [
+          "Banque Misr",
+          "National Bank of Egypt (NBE)",
+          "Alex Bank",
           "InstaPay"
         ]
       },
@@ -61,30 +64,32 @@
     },
     "AED": {
       "BUY": {
-        "price": 3.684,
+        "price": 3.671,
         "pickedIndex": 1,
         "availableRows": 10,
-        "advNo": "13876533254537551872",
-        "nickName": "User-8d773",
-        "minSingleTransAmount": "300",
-        "maxSingleTransAmount": "3000",
+        "advNo": "13811359717508816896",
+        "nickName": "MB52",
+        "minSingleTransAmount": "100",
+        "maxSingleTransAmount": "101",
         "tradeMethods": [
+          "Bank Transfer (Middle East)",
+          "Transfers with specific bank",
           "Bank Transfer"
         ]
       },
       "SELL": {
-        "price": 3.674,
+        "price": 3.676,
         "pickedIndex": 1,
         "availableRows": 10,
-        "advNo": "12877279417528537088",
-        "nickName": "UCXECURE",
-        "minSingleTransAmount": "20000",
-        "maxSingleTransAmount": "7000000",
+        "advNo": "12867846825412648960",
+        "nickName": "SAYED-MD-FAHIM",
+        "minSingleTransAmount": "990",
+        "maxSingleTransAmount": "1000",
         "tradeMethods": [
-          "Emirates NBD",
-          "Bank Transfer",
+          "Bank Transfer (Middle East)",
           "Abu Dhabi Commercial Bank ADCB",
-          "Cashpack",
+          "Emirates NBD",
+          "AL MASHREQ Bank",
           "ADIB: Abu Dhabi Islamic Bank"
         ]
       }
@@ -94,46 +99,44 @@
         "price": 3.8,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12877020959261126656",
-        "nickName": "NASSER-TRADER",
-        "minSingleTransAmount": "5000",
-        "maxSingleTransAmount": "100000",
+        "advNo": "12876974887090429952",
+        "nickName": "ابو سعود ",
+        "minSingleTransAmount": "10000",
+        "maxSingleTransAmount": "20000",
         "tradeMethods": [
-          "Alinma Bank",
           "Al Rajhi Bank",
+          "Alinma Bank",
           "Saudi National Bank (AlAhli Bank)",
           "Bank Transfer",
-          "Riyad Bank"
+          "Transfers with specific bank"
         ]
       },
       "SELL": {
         "price": 3.86,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12851700581638422528",
-        "nickName": "No-Restriction",
-        "minSingleTransAmount": "580",
-        "maxSingleTransAmount": "592",
+        "advNo": "12843768104658108416",
+        "nickName": "aboAli26",
+        "minSingleTransAmount": "95",
+        "maxSingleTransAmount": "100",
         "tradeMethods": [
           "Al Rajhi Bank",
-          "Bank Transfer",
-          "Saudi National Bank (AlAhli Bank)",
-          "The Saudi British Bank (SABB)",
-          "Alinma Bank"
+          "barq",
+          "Bank Transfer"
         ]
       }
     },
     "USD": {
       "BUY": {
-        "price": 1.0,
+        "price": 0.998,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12556206845790932992",
-        "nickName": "誌得其樂",
-        "minSingleTransAmount": "15",
-        "maxSingleTransAmount": "1500",
+        "advNo": "13818409617182965760",
+        "nickName": "Iriska7r",
+        "minSingleTransAmount": "150",
+        "maxSingleTransAmount": "24000",
         "tradeMethods": [
-          "Bank Transfer (Taiwan)"
+          "Bank of Georgia"
         ]
       },
       "SELL": {
@@ -151,35 +154,34 @@
     },
     "EUR": {
       "BUY": {
-        "price": 0.853,
+        "price": 0.851,
         "pickedIndex": 1,
-        "availableRows": 10,
-        "advNo": "13864798073939087360",
-        "nickName": "TEZER_Exchange",
-        "minSingleTransAmount": "250",
-        "maxSingleTransAmount": "20000",
+        "availableRows": 11,
+        "advNo": "13849127982920032256",
+        "nickName": "Novudi",
+        "minSingleTransAmount": "800",
+        "maxSingleTransAmount": "100000",
         "tradeMethods": [
-          "Bank Transfer",
+          "SEPA Instant",
           "SEPA (EU) bank transfer",
-          "BBVA",
-          "Banco Santander (Spain)",
-          "CaixaBank (Spain)"
+          "Bank Transfer",
+          "BBVA"
         ]
       },
       "SELL": {
-        "price": 0.88,
+        "price": 0.91,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12691138805628043264",
-        "nickName": "East_West_Best_Dest",
-        "minSingleTransAmount": "920",
-        "maxSingleTransAmount": "920",
+        "advNo": "12876948288003125248",
+        "nickName": "Nike0108",
+        "minSingleTransAmount": "5423",
+        "maxSingleTransAmount": "9964",
         "tradeMethods": [
-          "BBVA",
+          "SEPA Instant",
+          "SEPA (EU) bank transfer",
           "Banco Santander (Spain)",
-          "Bizum",
-          "CaixaBank (Spain)",
-          "Banco Sabadell (Spain)"
+          "International Wire (SWIFT)",
+          "Bank Transfer"
         ]
       }
     }
