@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1776267747019,
+  "updatedAt": 1776271497489,
   "source": "Binance P2P web endpoint",
   "asset": "USDT",
   "prices": {
@@ -40,22 +40,22 @@
         "price": 52.6,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12874937682867240960",
-        "nickName": "_DuDo_",
-        "minSingleTransAmount": "13740",
-        "maxSingleTransAmount": "13750",
+        "advNo": "12874172938774228992",
+        "nickName": "BZRA17MB3",
+        "minSingleTransAmount": "6410",
+        "maxSingleTransAmount": "6410",
         "tradeMethods": [
           "InstaPay"
         ]
       },
       "SELL": {
-        "price": 53.25,
+        "price": 53.24,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12754494656831004672",
-        "nickName": "Spark0",
-        "minSingleTransAmount": "50000",
-        "maxSingleTransAmount": "50001",
+        "advNo": "12873355528998019072",
+        "nickName": "USDT_4_Ever_1",
+        "minSingleTransAmount": "90",
+        "maxSingleTransAmount": "91",
         "tradeMethods": [
           "Vodafone cash"
         ]
@@ -78,19 +78,19 @@
         ]
       },
       "SELL": {
-        "price": 3.672,
+        "price": 3.675,
         "pickedIndex": 1,
         "availableRows": 10,
-        "advNo": "12877279417528537088",
-        "nickName": "UCXECURE",
-        "minSingleTransAmount": "20000",
+        "advNo": "12876084715358380032",
+        "nickName": "Sobhy_Ahmed",
+        "minSingleTransAmount": "599",
         "maxSingleTransAmount": "7000000",
         "tradeMethods": [
-          "Emirates NBD",
+          "Aani",
           "Bank Transfer",
-          "Abu Dhabi Commercial Bank ADCB",
-          "Cashpack",
-          "ADIB: Abu Dhabi Islamic Bank"
+          "Transfers with specific bank",
+          "Bank Transfer (Middle East)",
+          "Abu Dhabi Commercial Bank ADCB"
         ]
       }
     },
@@ -128,14 +128,17 @@
       "BUY": {
         "price": 0.998,
         "pickedIndex": 1,
-        "availableRows": 10,
-        "advNo": "13821223602001117184",
-        "nickName": "CambiosRapidoMC",
-        "minSingleTransAmount": "300",
-        "maxSingleTransAmount": "1000",
+        "availableRows": 11,
+        "advNo": "12877372998356217856",
+        "nickName": "Corporativo_Mendecar",
+        "minSingleTransAmount": "150",
+        "maxSingleTransAmount": "3500",
         "tradeMethods": [
-          "Banco Guayaquil",
-          "Banco Pichincha"
+          "Banco del Austro",
+          "Banco Pichincha",
+          "Produbanco",
+          "Banco Bolivariano",
+          "Banco del pacifico"
         ]
       },
       "SELL": {
@@ -153,18 +156,19 @@
     },
     "EUR": {
       "BUY": {
-        "price": 0.85,
+        "price": 0.843,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12873832154303848448",
-        "nickName": "fast-seeden",
-        "minSingleTransAmount": "12",
-        "maxSingleTransAmount": "12",
+        "advNo": "12877442629012254720",
+        "nickName": "Romchik_b11",
+        "minSingleTransAmount": "10",
+        "maxSingleTransAmount": "10",
         "tradeMethods": [
           "SEPA Instant",
+          "N26",
+          "Wise",
           "BBVA",
-          "Bizum",
-          "Wise"
+          "Paysera"
         ]
       },
       "SELL": {
