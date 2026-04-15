@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1776271497489,
+  "updatedAt": 1776275636524,
   "source": "Binance P2P web endpoint",
   "asset": "USDT",
   "prices": {
@@ -37,14 +37,15 @@
     },
     "EGP": {
       "BUY": {
-        "price": 52.6,
+        "price": 52.5,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12874172938774228992",
-        "nickName": "BZRA17MB3",
-        "minSingleTransAmount": "6410",
-        "maxSingleTransAmount": "6410",
+        "advNo": "13877777169476853760",
+        "nickName": "Kemoo301",
+        "minSingleTransAmount": "100000",
+        "maxSingleTransAmount": "100001",
         "tradeMethods": [
+          "Alex Bank",
           "InstaPay"
         ]
       },
@@ -78,37 +79,36 @@
         ]
       },
       "SELL": {
-        "price": 3.675,
+        "price": 3.672,
         "pickedIndex": 1,
         "availableRows": 10,
-        "advNo": "12876084715358380032",
-        "nickName": "Sobhy_Ahmed",
-        "minSingleTransAmount": "599",
-        "maxSingleTransAmount": "7000000",
+        "advNo": "12867846825412648960",
+        "nickName": "SAYED-MD-FAHIM",
+        "minSingleTransAmount": "890",
+        "maxSingleTransAmount": "900",
         "tradeMethods": [
-          "Aani",
-          "Bank Transfer",
-          "Transfers with specific bank",
           "Bank Transfer (Middle East)",
-          "Abu Dhabi Commercial Bank ADCB"
+          "Abu Dhabi Commercial Bank ADCB",
+          "Emirates NBD",
+          "AL MASHREQ Bank",
+          "ADIB: Abu Dhabi Islamic Bank"
         ]
       }
     },
     "SAR": {
       "BUY": {
-        "price": 3.8,
+        "price": 3.79,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "13838958999364165632",
-        "nickName": "obkh9",
-        "minSingleTransAmount": "20000",
-        "maxSingleTransAmount": "500000",
+        "advNo": "12869668955199234048",
+        "nickName": "Zeyadt",
+        "minSingleTransAmount": "36700",
+        "maxSingleTransAmount": "36701",
         "tradeMethods": [
-          "Saudi National Bank (AlAhli Bank)",
-          "Alinma Bank",
-          "Al Rajhi Bank",
           "Bank Transfer",
-          "Riyad Bank"
+          "stc pay",
+          "barq",
+          "urpay"
         ]
       },
       "SELL": {
@@ -126,19 +126,15 @@
     },
     "USD": {
       "BUY": {
-        "price": 0.998,
+        "price": 0.997,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12877372998356217856",
-        "nickName": "Corporativo_Mendecar",
-        "minSingleTransAmount": "150",
-        "maxSingleTransAmount": "3500",
+        "advNo": "13853484918900211712",
+        "nickName": "ChangeGT593",
+        "minSingleTransAmount": "100",
+        "maxSingleTransAmount": "5000",
         "tradeMethods": [
-          "Banco del Austro",
-          "Banco Pichincha",
-          "Produbanco",
-          "Banco Bolivariano",
-          "Banco del pacifico"
+          "Banco Pichincha"
         ]
       },
       "SELL": {
@@ -156,7 +152,7 @@
     },
     "EUR": {
       "BUY": {
-        "price": 0.843,
+        "price": 0.84,
         "pickedIndex": 1,
         "availableRows": 11,
         "advNo": "12877442629012254720",
