@@ -1,18 +1,20 @@
 {
-  "updatedAt": 1776248668510,
+  "updatedAt": 1776252876149,
   "source": "Binance P2P web endpoint",
   "asset": "USDT",
   "prices": {
     "OMR": {
       "BUY": {
-        "price": 0.391,
+        "price": 0.39,
         "pickedIndex": 1,
-        "availableRows": 10,
-        "advNo": "12877571894091059200",
-        "nickName": "SafeUSDT-Oman",
-        "minSingleTransAmount": "2000",
+        "availableRows": 11,
+        "advNo": "13842251845623316480",
+        "nickName": "alshars_________USDT",
+        "minSingleTransAmount": "100",
         "maxSingleTransAmount": "2500",
         "tradeMethods": [
+          "Bank Muscat",
+          "Airtime Mobile Top-Up",
           "Sohar International"
         ]
       },
@@ -34,27 +36,27 @@
     },
     "EGP": {
       "BUY": {
-        "price": 52.68,
+        "price": 52.62,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12873006182912614400",
-        "nickName": "jexbt",
-        "minSingleTransAmount": "20000",
-        "maxSingleTransAmount": "32300",
+        "advNo": "13858494867850477568",
+        "nickName": "one-piece_",
+        "minSingleTransAmount": "1155",
+        "maxSingleTransAmount": "1156",
         "tradeMethods": [
           "InstaPay"
         ]
       },
       "SELL": {
-        "price": 53.04,
+        "price": 53.1,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12871611346031017984",
-        "nickName": "User-c4ddc",
-        "minSingleTransAmount": "5000",
-        "maxSingleTransAmount": "15116",
+        "advNo": "12872918724412661760",
+        "nickName": "romany 88",
+        "minSingleTransAmount": "4999",
+        "maxSingleTransAmount": "5000",
         "tradeMethods": [
-          "SEPA Instant"
+          "Vodafone cash"
         ]
       }
     },
@@ -75,19 +77,17 @@
         ]
       },
       "SELL": {
-        "price": 3.673,
+        "price": 3.675,
         "pickedIndex": 1,
         "availableRows": 10,
-        "advNo": "12876618574954864640",
-        "nickName": "ABU-OMR",
-        "minSingleTransAmount": "7000",
-        "maxSingleTransAmount": "169600",
+        "advNo": "12875231709274415104",
+        "nickName": "ShuLax",
+        "minSingleTransAmount": "782",
+        "maxSingleTransAmount": "784",
         "tradeMethods": [
-          "Bank Transfer",
-          "Emirates NBD",
           "AL MASHREQ Bank",
-          "ADIB: Abu Dhabi Islamic Bank",
-          "Abu Dhabi Commercial Bank ADCB"
+          "Bank Transfer",
+          "Aani"
         ]
       }
     },
@@ -109,13 +109,13 @@
         ]
       },
       "SELL": {
-        "price": 3.9,
+        "price": 3.85,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12796166457700691968",
-        "nickName": "EL-BOB21",
-        "minSingleTransAmount": "499",
-        "maxSingleTransAmount": "1500",
+        "advNo": "12870095520579391488",
+        "nickName": "MOHAMMED_P2P_TOP1",
+        "minSingleTransAmount": "79",
+        "maxSingleTransAmount": "80",
         "tradeMethods": [
           "urpay"
         ]
@@ -123,15 +123,15 @@
     },
     "USD": {
       "BUY": {
-        "price": 0.998,
+        "price": 1.0,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12877393525353955328",
-        "nickName": "TetherGE",
-        "minSingleTransAmount": "700",
-        "maxSingleTransAmount": "704",
+        "advNo": "12556206845790932992",
+        "nickName": "誌得其樂",
+        "minSingleTransAmount": "15",
+        "maxSingleTransAmount": "1500",
         "tradeMethods": [
-          "TBC Bank"
+          "Bank Transfer (Taiwan)"
         ]
       },
       "SELL": {
@@ -149,18 +149,18 @@
     },
     "EUR": {
       "BUY": {
-        "price": 0.852,
+        "price": 0.85,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "13849127982920032256",
-        "nickName": "Novudi",
-        "minSingleTransAmount": "800",
-        "maxSingleTransAmount": "100000",
+        "advNo": "13862140499479326720",
+        "nickName": "EZE_EX",
+        "minSingleTransAmount": "77",
+        "maxSingleTransAmount": "77",
         "tradeMethods": [
-          "SEPA Instant",
-          "SEPA (EU) bank transfer",
+          "N26",
           "Bank Transfer",
-          "BBVA"
+          "SEPA Instant",
+          "Paysera"
         ]
       },
       "SELL": {
