@@ -1,21 +1,22 @@
 {
-  "updatedAt": 1776209123051,
+  "updatedAt": 1776211693918,
   "source": "Binance P2P web endpoint",
   "asset": "USDT",
   "prices": {
     "OMR": {
       "BUY": {
-        "price": 0.391,
+        "price": 0.392,
         "pickedIndex": 1,
         "availableRows": 10,
-        "advNo": "12868013635927453696",
-        "nickName": "Galaxy_Crypto",
-        "minSingleTransAmount": "10",
-        "maxSingleTransAmount": "2500",
+        "advNo": "13868022456644718592",
+        "nickName": "Moosacrypto",
+        "minSingleTransAmount": "250",
+        "maxSingleTransAmount": "10000",
         "tradeMethods": [
           "Bank Muscat",
-          "Sohar International",
-          "Airtime Mobile Top-Up"
+          "Bank Dhofar",
+          "Oman Arab Bank",
+          "Ahlibank"
         ]
       },
       "SELL": {
@@ -33,15 +34,17 @@
     },
     "EGP": {
       "BUY": {
-        "price": 52.88,
+        "price": 52.95,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12877503750259798016",
-        "nickName": "el_basha24",
-        "minSingleTransAmount": "120",
-        "maxSingleTransAmount": "1201",
+        "advNo": "12866207481546731520",
+        "nickName": "to-the-m00n",
+        "minSingleTransAmount": "70000",
+        "maxSingleTransAmount": "96800",
         "tradeMethods": [
-          "InstaPay"
+          "InstaPay",
+          "Bank Transfer",
+          "Emirates NBD"
         ]
       },
       "SELL": {
@@ -59,18 +62,15 @@
     },
     "AED": {
       "BUY": {
-        "price": 3.69,
+        "price": 3.691,
         "pickedIndex": 1,
         "availableRows": 10,
-        "advNo": "12874594538728284160",
-        "nickName": "Melbatal",
-        "minSingleTransAmount": "10000",
-        "maxSingleTransAmount": "25000",
+        "advNo": "13847089870490619904",
+        "nickName": "alajmi3093",
+        "minSingleTransAmount": "3000",
+        "maxSingleTransAmount": "7000000",
         "tradeMethods": [
-          "Abu Dhabi Commercial Bank ADCB",
-          "Bank Transfer",
-          "AL MASHREQ Bank",
-          "ADIB: Abu Dhabi Islamic Bank"
+          "Bank Transfer"
         ]
       },
       "SELL": {
