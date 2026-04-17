@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1776412354027,
+  "updatedAt": 1776417218387,
   "source": "Binance P2P web endpoint",
   "asset": "USDT",
   "prices": {
@@ -7,7 +7,7 @@
       "BUY": {
         "price": 0.391,
         "pickedIndex": 1,
-        "availableRows": 10,
+        "availableRows": 11,
         "advNo": "12872654147477008384",
         "nickName": "amalalrawahi",
         "minSingleTransAmount": "500",
@@ -34,25 +34,25 @@
     },
     "EGP": {
       "BUY": {
-        "price": 52.05,
+        "price": 52.15,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12877794254272450560",
-        "nickName": "User-2b1e1",
-        "minSingleTransAmount": "2000",
-        "maxSingleTransAmount": "5000",
+        "advNo": "13868600079619022848",
+        "nickName": "Mostafa_lawyer",
+        "minSingleTransAmount": "10000",
+        "maxSingleTransAmount": "555000",
         "tradeMethods": [
           "InstaPay"
         ]
       },
       "SELL": {
-        "price": 52.88,
+        "price": 52.79,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12878122700484685824",
-        "nickName": "The-Balck-Horse",
-        "minSingleTransAmount": "13999",
-        "maxSingleTransAmount": "14000",
+        "advNo": "12841292622055804928",
+        "nickName": "The_monster1",
+        "minSingleTransAmount": "8000",
+        "maxSingleTransAmount": "8001",
         "tradeMethods": [
           "Vodafone cash"
         ]
@@ -72,15 +72,18 @@
         ]
       },
       "SELL": {
-        "price": 3.674,
+        "price": 3.664,
         "pickedIndex": 1,
         "availableRows": 10,
-        "advNo": "12861454573689110528",
-        "nickName": "Studythemarket",
-        "minSingleTransAmount": "687",
-        "maxSingleTransAmount": "688",
+        "advNo": "12878011775670865920",
+        "nickName": "THE--GHOST",
+        "minSingleTransAmount": "20000",
+        "maxSingleTransAmount": "25000",
         "tradeMethods": [
-          "Aani"
+          "Abu Dhabi Commercial Bank ADCB",
+          "Emirates NBD",
+          "ADIB: Abu Dhabi Islamic Bank",
+          "Cash Deposit to Bank"
         ]
       }
     },
@@ -88,7 +91,7 @@
       "BUY": {
         "price": 3.81,
         "pickedIndex": 1,
-        "availableRows": 10,
+        "availableRows": 11,
         "advNo": "13874434449224937472",
         "nickName": "RAED-KSA",
         "minSingleTransAmount": "9000",
@@ -102,16 +105,15 @@
         ]
       },
       "SELL": {
-        "price": 3.92,
+        "price": 3.85,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12771408257364008960",
-        "nickName": "P2P-b1e5cfyk",
-        "minSingleTransAmount": "200",
-        "maxSingleTransAmount": "451",
+        "advNo": "12870095520579391488",
+        "nickName": "MOHAMMED_P2P_TOP1",
+        "minSingleTransAmount": "79",
+        "maxSingleTransAmount": "80",
         "tradeMethods": [
-          "Bank Transfer",
-          "AlinmaPay"
+          "urpay"
         ]
       }
     },
@@ -143,31 +145,34 @@
     },
     "EUR": {
       "BUY": {
-        "price": 0.853,
+        "price": 0.852,
         "pickedIndex": 1,
-        "availableRows": 10,
-        "advNo": "13865169563769667584",
-        "nickName": "TEZER_Exchange",
+        "availableRows": 11,
+        "advNo": "13867534951664902144",
+        "nickName": "LCS-Novudi",
         "minSingleTransAmount": "250",
-        "maxSingleTransAmount": "20000",
+        "maxSingleTransAmount": "100000",
         "tradeMethods": [
-          "Bank Transfer",
           "SEPA Instant",
-          "BBVA",
-          "Paysera",
-          "CaixaBank (Spain)"
+          "N26",
+          "Bank Transfer",
+          "BBVA"
         ]
       },
       "SELL": {
-        "price": 0.87,
+        "price": 0.92,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12860606789358616576",
-        "nickName": "Kidim",
-        "minSingleTransAmount": "349",
-        "maxSingleTransAmount": "349",
+        "advNo": "12878379955287805952",
+        "nickName": "TrustFlow01",
+        "minSingleTransAmount": "5309",
+        "maxSingleTransAmount": "13860",
         "tradeMethods": [
-          "SEPA Instant"
+          "SEPA (EU) bank transfer",
+          "SEPA Instant",
+          "Bank Transfer",
+          "N26",
+          "Wise"
         ]
       }
     }
