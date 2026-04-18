@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1776547672153,
+  "updatedAt": 1776549675179,
   "source": "Binance P2P web endpoint",
   "asset": "USDT",
   "prices": {
@@ -8,24 +8,26 @@
         "price": 0.391,
         "pickedIndex": 1,
         "availableRows": 10,
-        "advNo": "12878790025146703872",
-        "nickName": "amalalrawahi",
-        "minSingleTransAmount": "500",
+        "advNo": "12862761742054543360",
+        "nickName": "Munther_94",
+        "minSingleTransAmount": "150",
         "maxSingleTransAmount": "2500",
         "tradeMethods": [
-          "Bank Transfer"
+          "National Bank of Oman",
+          "Ahlibank",
+          "Sohar International"
         ]
       },
       "SELL": {
-        "price": 0.388,
+        "price": 0.389,
         "pickedIndex": 1,
         "availableRows": 10,
-        "advNo": "12787214580487294976",
-        "nickName": "Dollara_aalay",
-        "minSingleTransAmount": "27",
-        "maxSingleTransAmount": "27",
+        "advNo": "12857536726974525440",
+        "nickName": "karem-mohamed",
+        "minSingleTransAmount": "110",
+        "maxSingleTransAmount": "200",
         "tradeMethods": [
-          "Bank Muscat"
+          "Airtime Mobile Top-Up"
         ]
       }
     },
@@ -45,7 +47,7 @@
         ]
       },
       "SELL": {
-        "price": 52.97,
+        "price": 52.93,
         "pickedIndex": 1,
         "availableRows": 11,
         "advNo": "12868036441181618176",
@@ -122,16 +124,17 @@
     },
     "USD": {
       "BUY": {
-        "price": 0.995,
+        "price": 0.996,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12878142745463287808",
-        "nickName": "SteveLee",
-        "minSingleTransAmount": "500",
-        "maxSingleTransAmount": "1500",
+        "advNo": "12854961219122499584",
+        "nickName": "cambio_seguro_ec_R",
+        "minSingleTransAmount": "250",
+        "maxSingleTransAmount": "1000",
         "tradeMethods": [
+          "Banco Pichincha",
           "Banco Bolivariano",
-          "Banco Pichincha"
+          "Produbanco"
         ]
       },
       "SELL": {
@@ -152,28 +155,28 @@
         "price": 0.854,
         "pickedIndex": 1,
         "availableRows": 10,
-        "advNo": "13864797561543344128",
+        "advNo": "13864797426777096192",
         "nickName": "TEZER_Exchange",
         "minSingleTransAmount": "250",
-        "maxSingleTransAmount": "20000",
+        "maxSingleTransAmount": "10000",
         "tradeMethods": [
           "Bank Transfer",
           "SEPA Instant",
           "SEPA (EU) bank transfer",
-          "N26",
-          "Bunq"
+          "BBVA",
+          "Paysera"
         ]
       },
       "SELL": {
-        "price": 0.88,
+        "price": 0.862,
         "pickedIndex": 1,
         "availableRows": 10,
-        "advNo": "12832066509982187520",
-        "nickName": "CambiosOrion",
-        "minSingleTransAmount": "80",
-        "maxSingleTransAmount": "80",
+        "advNo": "12878844958998962176",
+        "nickName": "Trust_Pay_Pro",
+        "minSingleTransAmount": "10",
+        "maxSingleTransAmount": "91",
         "tradeMethods": [
-          "Bizum"
+          "Dukascopy Bank"
         ]
       }
     }
