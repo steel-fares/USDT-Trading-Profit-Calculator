@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1776552676007,
+  "updatedAt": 1776554883438,
   "source": "Binance P2P web endpoint",
   "asset": "USDT",
   "prices": {
@@ -47,11 +47,11 @@
         ]
       },
       "SELL": {
-        "price": 52.92,
+        "price": 52.99,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12842158002935197696",
-        "nickName": "MAR_1894",
+        "advNo": "12870585409354862592",
+        "nickName": "User-68f38",
         "minSingleTransAmount": "5000",
         "maxSingleTransAmount": "5001",
         "tradeMethods": [
@@ -61,32 +61,30 @@
     },
     "AED": {
       "BUY": {
-        "price": 3.684,
+        "price": 3.685,
         "pickedIndex": 1,
         "availableRows": 10,
-        "advNo": "12878743045232455680",
-        "nickName": "Melbatal",
-        "minSingleTransAmount": "15000",
-        "maxSingleTransAmount": "25000",
+        "advNo": "13847089870490619904",
+        "nickName": "alajmi3093",
+        "minSingleTransAmount": "3000",
+        "maxSingleTransAmount": "100000",
         "tradeMethods": [
-          "Abu Dhabi Commercial Bank ADCB",
-          "Bank Transfer",
-          "AL MASHREQ Bank",
-          "ADIB: Abu Dhabi Islamic Bank",
-          "Aani"
+          "Bank Transfer"
         ]
       },
       "SELL": {
         "price": 3.666,
         "pickedIndex": 1,
         "availableRows": 10,
-        "advNo": "12873115827319721984",
-        "nickName": "Mko777",
-        "minSingleTransAmount": "4000",
-        "maxSingleTransAmount": "9850",
+        "advNo": "12859156677886058496",
+        "nickName": "Mohammed-Al-Ghazali",
+        "minSingleTransAmount": "8460",
+        "maxSingleTransAmount": "8464",
         "tradeMethods": [
-          "Cash Deposit to Bank",
-          "Emirates NBD",
+          "Bank Transfer",
+          "Allied Bank Limited, Wholesale Branch",
+          "Abu Dhabi Commercial Bank ADCB",
+          "AL MASHREQ Bank",
           "ADIB: Abu Dhabi Islamic Bank"
         ]
       }
@@ -109,31 +107,37 @@
         ]
       },
       "SELL": {
-        "price": 3.93,
+        "price": 3.87,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12878584882092597248",
-        "nickName": "mhm12",
-        "minSingleTransAmount": "5000",
-        "maxSingleTransAmount": "100000",
+        "advNo": "12875390301410017280",
+        "nickName": "User-ac76a",
+        "minSingleTransAmount": "2755",
+        "maxSingleTransAmount": "2756",
         "tradeMethods": [
           "Bank Transfer",
           "stc pay",
-          "Al Rajhi Bank"
+          "Alinma Bank",
+          "Al Rajhi Bank",
+          "Saudi National Bank (AlAhli Bank)"
         ]
       }
     },
     "USD": {
       "BUY": {
-        "price": 0.995,
+        "price": 0.996,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12878942586221785088",
-        "nickName": "SteveLee",
-        "minSingleTransAmount": "298",
-        "maxSingleTransAmount": "301",
+        "advNo": "12874558864067571712",
+        "nickName": "Voley-exchange",
+        "minSingleTransAmount": "100",
+        "maxSingleTransAmount": "1000",
         "tradeMethods": [
-          "Produbanco"
+          "Banco Pichincha",
+          "Banco del pacifico",
+          "Banco Guayaquil",
+          "Produbanco",
+          "Banco Internacional"
         ]
       },
       "SELL": {
@@ -167,17 +171,18 @@
         ]
       },
       "SELL": {
-        "price": 0.87,
+        "price": 0.919,
         "pickedIndex": 1,
         "availableRows": 10,
-        "advNo": "12878068920441270272",
-        "nickName": "TP7DBWHII4JFFKZ5",
-        "minSingleTransAmount": "980",
-        "maxSingleTransAmount": "990",
+        "advNo": "12878847898557599744",
+        "nickName": "DavidOchoa",
+        "minSingleTransAmount": "29100",
+        "maxSingleTransAmount": "29900",
         "tradeMethods": [
-          "CaixaBank (Spain)",
+          "SEPA Instant",
+          "N26",
+          "ING",
           "Banco Santander (Spain)",
-          "Banco Sabadell (Spain)",
           "BBVA"
         ]
       }
