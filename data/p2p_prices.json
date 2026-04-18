@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1776506226052,
+  "updatedAt": 1776509526200,
   "source": "Binance P2P web endpoint",
   "asset": "USDT",
   "prices": {
@@ -8,14 +8,12 @@
         "price": 0.391,
         "pickedIndex": 1,
         "availableRows": 10,
-        "advNo": "12862761742054543360",
-        "nickName": "Munther_94",
-        "minSingleTransAmount": "150",
+        "advNo": "12872654147477008384",
+        "nickName": "amalalrawahi",
+        "minSingleTransAmount": "500",
         "maxSingleTransAmount": "2500",
         "tradeMethods": [
-          "National Bank of Oman",
-          "Ahlibank",
-          "Sohar International"
+          "Bank Transfer"
         ]
       },
       "SELL": {
@@ -52,10 +50,10 @@
         "price": 52.15,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12875045048901033984",
-        "nickName": "Marketing_Crypto",
-        "minSingleTransAmount": "5000",
-        "maxSingleTransAmount": "5001",
+        "advNo": "12842158002935197696",
+        "nickName": "MAR_1894",
+        "minSingleTransAmount": "10000",
+        "maxSingleTransAmount": "10001",
         "tradeMethods": [
           "Vodafone cash"
         ]
@@ -78,45 +76,41 @@
         ]
       },
       "SELL": {
-        "price": 3.665,
+        "price": 3.663,
         "pickedIndex": 1,
         "availableRows": 10,
-        "advNo": "12878648834042658816",
-        "nickName": "Butt",
-        "minSingleTransAmount": "10000",
-        "maxSingleTransAmount": "20000",
+        "advNo": "12808839461144944640",
+        "nickName": "Ghonim -",
+        "minSingleTransAmount": "5000",
+        "maxSingleTransAmount": "7000",
         "tradeMethods": [
-          "AL MASHREQ Bank"
+          "Aani"
         ]
       }
     },
     "SAR": {
       "BUY": {
-        "price": 3.81,
+        "price": 3.8,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "13876979348109479936",
-        "nickName": "saudi_bitcoin",
-        "minSingleTransAmount": "9000",
-        "maxSingleTransAmount": "75000",
+        "advNo": "12863049236757159936",
+        "nickName": "Offer_price_24",
+        "minSingleTransAmount": "150",
+        "maxSingleTransAmount": "150",
         "tradeMethods": [
-          "Saudi National Bank (AlAhli Bank)"
+          "barq"
         ]
       },
       "SELL": {
         "price": 3.85,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12867397952508039168",
-        "nickName": "majeed",
+        "advNo": "12696833590079041536",
+        "nickName": "Ja1985",
         "minSingleTransAmount": "60",
-        "maxSingleTransAmount": "500",
+        "maxSingleTransAmount": "85",
         "tradeMethods": [
-          "AlinmaPay",
-          "Bank Transfer",
-          "Transfers with specific bank",
-          "Bank Transfer (Middle East)",
-          "Al Rajhi Bank"
+          "urpay"
         ]
       }
     },
@@ -148,35 +142,31 @@
     },
     "EUR": {
       "BUY": {
-        "price": 0.853,
+        "price": 0.85,
         "pickedIndex": 1,
         "availableRows": 10,
-        "advNo": "13878147234327736320",
-        "nickName": "SpeedyXchange",
-        "minSingleTransAmount": "300",
-        "maxSingleTransAmount": "50000",
+        "advNo": "13878697407173742592",
+        "nickName": "FIN_EX",
+        "minSingleTransAmount": "500",
+        "maxSingleTransAmount": "2856",
         "tradeMethods": [
-          "SEPA (EU) bank transfer",
-          "Paysera",
-          "BBVA",
-          "N26",
-          "Bunq"
+          "Skrill (Moneybookers)"
         ]
       },
       "SELL": {
-        "price": 0.91,
+        "price": 0.885,
         "pickedIndex": 1,
-        "availableRows": 11,
-        "advNo": "12878748274273087488",
-        "nickName": "NBExchnage",
-        "minSingleTransAmount": "4900",
-        "maxSingleTransAmount": "6900",
+        "availableRows": 10,
+        "advNo": "12875200845048115200",
+        "nickName": "Olegofrend",
+        "minSingleTransAmount": "80",
+        "maxSingleTransAmount": "150",
         "tradeMethods": [
-          "N26",
-          "SEPA (EU) bank transfer",
-          "SEPA Instant",
           "Wise",
-          "ZEN"
+          "SEPA Instant",
+          "N26",
+          "Bunq",
+          "BBVA"
         ]
       }
     }
