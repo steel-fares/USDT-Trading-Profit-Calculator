@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1776615821803,
+  "updatedAt": 1776618345177,
   "source": "Binance P2P web endpoint",
   "asset": "USDT",
   "prices": {
@@ -77,15 +77,15 @@
         ]
       },
       "SELL": {
-        "price": 3.67,
+        "price": 3.669,
         "pickedIndex": 1,
         "availableRows": 10,
-        "advNo": "11420658518939258880",
-        "nickName": "XD12",
-        "minSingleTransAmount": "20000",
-        "maxSingleTransAmount": "25000",
+        "advNo": "12871964676543295488",
+        "nickName": "SecureTrade_AE",
+        "minSingleTransAmount": "1000",
+        "maxSingleTransAmount": "20000",
         "tradeMethods": [
-          "Cash Deposit to Bank"
+          "ADIB: Abu Dhabi Islamic Bank"
         ]
       }
     },
@@ -155,12 +155,16 @@
         "price": 0.851,
         "pickedIndex": 1,
         "availableRows": 10,
-        "advNo": "13862492007394840576",
-        "nickName": "User-4eb60",
-        "minSingleTransAmount": "100",
-        "maxSingleTransAmount": "300",
+        "advNo": "13879178713646133248",
+        "nickName": "Unisync_Safe",
+        "minSingleTransAmount": "200",
+        "maxSingleTransAmount": "5000",
         "tradeMethods": [
-          "Wise"
+          "SEPA Instant",
+          "SEPA (EU) bank transfer",
+          "N26",
+          "Bunq",
+          "Paysera"
         ]
       },
       "SELL": {
