@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1776631923831,
+  "updatedAt": 1776634246599,
   "source": "Binance P2P web endpoint",
   "asset": "USDT",
   "prices": {
@@ -21,14 +21,16 @@
         "price": 0.388,
         "pickedIndex": 1,
         "availableRows": 10,
-        "advNo": "12793235667293544448",
-        "nickName": "Abo Haroon Al-Qanawy",
-        "minSingleTransAmount": "100",
-        "maxSingleTransAmount": "1180",
+        "advNo": "12877285328939102208",
+        "nickName": "CRYPTO-_-SHOP1",
+        "minSingleTransAmount": "1000",
+        "maxSingleTransAmount": "2000",
         "tradeMethods": [
-          "Bank Transfer",
-          "Sohar International",
-          "Bank Muscat"
+          "Airtime Mobile Top-Up",
+          "Bank Muscat",
+          "Bank Dhofar",
+          "National Bank of Oman",
+          "Sohar International"
         ]
       }
     },
@@ -48,14 +50,16 @@
         ]
       },
       "SELL": {
-        "price": 52.92,
+        "price": 52.72,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12873355528998019072",
-        "nickName": "USDT_4_Ever_1",
-        "minSingleTransAmount": "5000",
-        "maxSingleTransAmount": "5001",
+        "advNo": "12873224070823534592",
+        "nickName": "Optimen0",
+        "minSingleTransAmount": "6499",
+        "maxSingleTransAmount": "6500",
         "tradeMethods": [
+          "Etisalat Cash",
+          "Orange Cash",
           "Vodafone cash"
         ]
       }
@@ -65,16 +69,12 @@
         "price": 3.683,
         "pickedIndex": 1,
         "availableRows": 10,
-        "advNo": "12878743045232455680",
-        "nickName": "Melbatal",
-        "minSingleTransAmount": "15000",
-        "maxSingleTransAmount": "25000",
+        "advNo": "13878764266726535168",
+        "nickName": "AbuHasan1001",
+        "minSingleTransAmount": "20000",
+        "maxSingleTransAmount": "50000",
         "tradeMethods": [
-          "Abu Dhabi Commercial Bank ADCB",
-          "Bank Transfer",
-          "AL MASHREQ Bank",
-          "ADIB: Abu Dhabi Islamic Bank",
-          "Aani"
+          "Bank Transfer"
         ]
       },
       "SELL": {
@@ -107,16 +107,15 @@
         ]
       },
       "SELL": {
-        "price": 3.85,
+        "price": 3.86,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12847272963339689984",
-        "nickName": "RAKAN1Q2",
-        "minSingleTransAmount": "60",
-        "maxSingleTransAmount": "100000",
+        "advNo": "12872668031407915008",
+        "nickName": "Niesha Shroyer EXU7",
+        "minSingleTransAmount": "1000",
+        "maxSingleTransAmount": "4000",
         "tradeMethods": [
-          "Mobily Pay",
-          "urpay"
+          "Al Rajhi Bank"
         ]
       }
     },
@@ -149,31 +148,34 @@
     },
     "EUR": {
       "BUY": {
-        "price": 0.853,
+        "price": 0.856,
         "pickedIndex": 1,
         "availableRows": 10,
-        "advNo": "13878078317533282304",
-        "nickName": "ALROVO",
-        "minSingleTransAmount": "1000",
-        "maxSingleTransAmount": "5000",
+        "advNo": "13842588518437269504",
+        "nickName": "NIMLAB",
+        "minSingleTransAmount": "350",
+        "maxSingleTransAmount": "10000",
         "tradeMethods": [
-          "SEPA Instant",
           "SEPA (EU) bank transfer",
-          "Paysera",
-          "BBVA",
+          "Bank Transfer",
+          "Bunq",
           "N26"
         ]
       },
       "SELL": {
-        "price": 0.88,
+        "price": 0.872,
         "pickedIndex": 1,
         "availableRows": 10,
-        "advNo": "12819397823645847552",
-        "nickName": "Elmejorpreciosqui999",
-        "minSingleTransAmount": "59",
-        "maxSingleTransAmount": "60",
+        "advNo": "12859184289851469824",
+        "nickName": "PrometeyX",
+        "minSingleTransAmount": "4000",
+        "maxSingleTransAmount": "20000",
         "tradeMethods": [
-          "Bizum"
+          "Wise",
+          "SEPA (EU) bank transfer",
+          "SEPA Instant",
+          "N26",
+          "BBVA"
         ]
       }
     }
