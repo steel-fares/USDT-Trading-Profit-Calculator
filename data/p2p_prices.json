@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1776641638989,
+  "updatedAt": 1776643569528,
   "source": "Binance P2P web endpoint",
   "asset": "USDT",
   "prices": {
@@ -50,13 +50,13 @@
         ]
       },
       "SELL": {
-        "price": 52.85,
+        "price": 52.87,
         "pickedIndex": 1,
         "availableRows": 11,
         "advNo": "12877957270004002816",
         "nickName": "Goseph",
-        "minSingleTransAmount": "6000",
-        "maxSingleTransAmount": "6001",
+        "minSingleTransAmount": "8000",
+        "maxSingleTransAmount": "8001",
         "tradeMethods": [
           "Vodafone cash"
         ]
@@ -64,15 +64,16 @@
     },
     "AED": {
       "BUY": {
-        "price": 3.683,
+        "price": 3.68,
         "pickedIndex": 1,
         "availableRows": 10,
-        "advNo": "13878764266726535168",
-        "nickName": "AbuHasan1001",
-        "minSingleTransAmount": "20000",
-        "maxSingleTransAmount": "50000",
+        "advNo": "12879332044473683968",
+        "nickName": "P2P-92fa1fno",
+        "minSingleTransAmount": "5220",
+        "maxSingleTransAmount": "5228",
         "tradeMethods": [
-          "Bank Transfer"
+          "Bank Transfer",
+          "ADIB: Abu Dhabi Islamic Bank"
         ]
       },
       "SELL": {
@@ -133,13 +134,14 @@
       "SELL": {
         "price": 1.1,
         "pickedIndex": 1,
-        "availableRows": 11,
-        "advNo": "12837566109293064192",
-        "nickName": "Rurisyz",
+        "availableRows": 10,
+        "advNo": "12812427088919478272",
+        "nickName": "ROYAL_TRADING_GROUP",
         "minSingleTransAmount": "500",
-        "maxSingleTransAmount": "6800",
+        "maxSingleTransAmount": "200000",
         "tradeMethods": [
-          "SEA Bank"
+          "Maybank",
+          "CIMB Niaga"
         ]
       }
     },
