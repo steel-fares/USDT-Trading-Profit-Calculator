@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1776772164355,
+  "updatedAt": 1776776083831,
   "source": "Binance P2P web endpoint",
   "asset": "USDT",
   "prices": {
@@ -34,15 +34,16 @@
     },
     "EGP": {
       "BUY": {
-        "price": 52.35,
+        "price": 51.9,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12848527026319159296",
-        "nickName": "a_bdoz",
-        "minSingleTransAmount": "5659",
-        "maxSingleTransAmount": "5660",
+        "advNo": "12878744910923964416",
+        "nickName": "amagdymkamal",
+        "minSingleTransAmount": "90",
+        "maxSingleTransAmount": "120",
         "tradeMethods": [
-          "InstaPay"
+          "InstaPay",
+          "Bank Transfer"
         ]
       },
       "SELL": {
@@ -63,25 +64,30 @@
         "price": 3.679,
         "pickedIndex": 1,
         "availableRows": 10,
-        "advNo": "12879871242539241472",
-        "nickName": "SweetRegi",
-        "minSingleTransAmount": "2800",
-        "maxSingleTransAmount": "2804",
+        "advNo": "12872173320288129024",
+        "nickName": "FZE",
+        "minSingleTransAmount": "500",
+        "maxSingleTransAmount": "1499",
         "tradeMethods": [
-          "Bank Transfer",
-          "AL MASHREQ Bank"
+          "Aani",
+          "Abu Dhabi Commercial Bank ADCB",
+          "Bank Transfer"
         ]
       },
       "SELL": {
         "price": 3.668,
         "pickedIndex": 1,
         "availableRows": 10,
-        "advNo": "12875117733685612544",
-        "nickName": "escorpióne",
-        "minSingleTransAmount": "5000",
-        "maxSingleTransAmount": "5001",
+        "advNo": "12846640834000285696",
+        "nickName": "World_Traders_OTC",
+        "minSingleTransAmount": "30000",
+        "maxSingleTransAmount": "7000000",
         "tradeMethods": [
-          "Aani"
+          "Bank Transfer",
+          "Cash Deposit to Bank",
+          "Abu Dhabi Commercial Bank ADCB",
+          "Emirates NBD",
+          "ADIB: Abu Dhabi Islamic Bank"
         ]
       }
     },
@@ -104,27 +110,27 @@
         "price": 3.86,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12847404605699219456",
-        "nickName": "Abu Nayef 24",
-        "minSingleTransAmount": "60",
+        "advNo": "12872668031407915008",
+        "nickName": "Niesha Shroyer EXU7",
+        "minSingleTransAmount": "1000",
         "maxSingleTransAmount": "3000",
         "tradeMethods": [
-          "barq"
+          "Al Rajhi Bank"
         ]
       }
     },
     "USD": {
       "BUY": {
-        "price": 0.998,
+        "price": 0.997,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "13867695876613775360",
-        "nickName": "KIRIKOU_ML",
+        "advNo": "12860046772505182208",
+        "nickName": "E_CAM05",
         "minSingleTransAmount": "10",
-        "maxSingleTransAmount": "11",
+        "maxSingleTransAmount": "200",
         "tradeMethods": [
-          "Moneygram",
-          "Western Union"
+          "Banco Guayaquil",
+          "Banco Pichincha"
         ]
       },
       "SELL": {
