@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1776831512006,
+  "updatedAt": 1776838529467,
   "source": "Binance P2P web endpoint",
   "asset": "USDT",
   "prices": {
@@ -35,25 +35,27 @@
     },
     "EGP": {
       "BUY": {
-        "price": 52.61,
+        "price": 52.67,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12879976170838675456",
-        "nickName": "WadahMohamed23",
-        "minSingleTransAmount": "1217",
-        "maxSingleTransAmount": "6216",
+        "advNo": "12880139164460793856",
+        "nickName": "P2P-d8726eh2",
+        "minSingleTransAmount": "50000",
+        "maxSingleTransAmount": "385000",
         "tradeMethods": [
-          "InstaPay"
+          "InstaPay",
+          "Alex Bank",
+          "Banque Misr"
         ]
       },
       "SELL": {
-        "price": 53.26,
+        "price": 52.96,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12783229856773730304",
-        "nickName": "BA-Fast",
-        "minSingleTransAmount": "40000",
-        "maxSingleTransAmount": "40001",
+        "advNo": "12877489918593622016",
+        "nickName": "USDT_4_Ever_2",
+        "minSingleTransAmount": "59999",
+        "maxSingleTransAmount": "60000",
         "tradeMethods": [
           "Vodafone cash"
         ]
@@ -64,23 +66,24 @@
         "price": 3.684,
         "pickedIndex": 1,
         "availableRows": 10,
-        "advNo": "13879757192474587136",
-        "nickName": "Trex-DXB",
-        "minSingleTransAmount": "5400",
-        "maxSingleTransAmount": "7000000",
+        "advNo": "13878764266726535168",
+        "nickName": "AbuHasan1001",
+        "minSingleTransAmount": "20000",
+        "maxSingleTransAmount": "50000",
         "tradeMethods": [
-          "Transfers with specific bank"
+          "Bank Transfer"
         ]
       },
       "SELL": {
-        "price": 3.666,
+        "price": 3.67,
         "pickedIndex": 1,
         "availableRows": 10,
-        "advNo": "12878788662156906496",
-        "nickName": "Aida_66",
-        "minSingleTransAmount": "10000",
-        "maxSingleTransAmount": "10298",
+        "advNo": "12862705737686368256",
+        "nickName": "MR_MOHAMED94",
+        "minSingleTransAmount": "2200",
+        "maxSingleTransAmount": "2245",
         "tradeMethods": [
+          "Bank Transfer",
           "Abu Dhabi Commercial Bank ADCB"
         ]
       }
@@ -90,40 +93,38 @@
         "price": 3.8,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "13863162306859773952",
-        "nickName": "Abu_Somo",
-        "minSingleTransAmount": "5000",
-        "maxSingleTransAmount": "10000000",
+        "advNo": "12880123329457934336",
+        "nickName": "MAB",
+        "minSingleTransAmount": "4632",
+        "maxSingleTransAmount": "4633",
         "tradeMethods": [
-          "Al Rajhi Bank",
-          "Saudi National Bank (AlAhli Bank)",
-          "Alinma Bank"
+          "Bank Transfer"
         ]
       },
       "SELL": {
         "price": 3.85,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12819185174366621696",
-        "nickName": "itx_KhansahiL",
-        "minSingleTransAmount": "60",
-        "maxSingleTransAmount": "300",
+        "advNo": "12879902710422966272",
+        "nickName": "_SKYNET__",
+        "minSingleTransAmount": "384",
+        "maxSingleTransAmount": "100000",
         "tradeMethods": [
-          "stc pay"
+          "urpay"
         ]
       }
     },
     "USD": {
       "BUY": {
-        "price": 0.998,
+        "price": 0.999,
         "pickedIndex": 1,
-        "availableRows": 11,
-        "advNo": "13873577727545528320",
-        "nickName": "RDJ",
-        "minSingleTransAmount": "100",
-        "maxSingleTransAmount": "20000",
+        "availableRows": 10,
+        "advNo": "12875923833552596992",
+        "nickName": "Yoyos69",
+        "minSingleTransAmount": "113",
+        "maxSingleTransAmount": "114",
         "tradeMethods": [
-          "Towerbank"
+          "Banco Pichincha"
         ]
       },
       "SELL": {
@@ -159,7 +160,7 @@
       "SELL": {
         "price": 0.919,
         "pickedIndex": 1,
-        "availableRows": 10,
+        "availableRows": 11,
         "advNo": "12878847898557599744",
         "nickName": "DavidOchoa",
         "minSingleTransAmount": "29100",
