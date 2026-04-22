@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1776845446200,
+  "updatedAt": 1776851613117,
   "source": "Binance P2P web endpoint",
   "asset": "USDT",
   "prices": {
@@ -38,22 +38,22 @@
         "price": 52.6,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12879416860132147200",
-        "nickName": "TurboTrustP2p",
-        "minSingleTransAmount": "16800",
-        "maxSingleTransAmount": "16850",
+        "advNo": "12876572223099920384",
+        "nickName": "Companyki",
+        "minSingleTransAmount": "10000",
+        "maxSingleTransAmount": "25000",
         "tradeMethods": [
-          "InstaPay"
+          "Bank Transfer"
         ]
       },
       "SELL": {
-        "price": 52.96,
+        "price": 53.01,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12877489918593622016",
-        "nickName": "USDT_4_Ever_2",
-        "minSingleTransAmount": "59999",
-        "maxSingleTransAmount": "60000",
+        "advNo": "12867076926752673792",
+        "nickName": "Mr Halmous ",
+        "minSingleTransAmount": "6999",
+        "maxSingleTransAmount": "7000",
         "tradeMethods": [
           "Vodafone cash"
         ]
@@ -61,14 +61,16 @@
     },
     "AED": {
       "BUY": {
-        "price": 3.665,
+        "price": 3.679,
         "pickedIndex": 1,
         "availableRows": 10,
-        "advNo": "13864945678073966592",
-        "nickName": "Ravan_USDT",
-        "minSingleTransAmount": "18000",
-        "maxSingleTransAmount": "18001",
+        "advNo": "12872173320288129024",
+        "nickName": "FZE",
+        "minSingleTransAmount": "500",
+        "maxSingleTransAmount": "1499",
         "tradeMethods": [
+          "Aani",
+          "Abu Dhabi Commercial Bank ADCB",
           "Bank Transfer"
         ]
       },
@@ -76,45 +78,40 @@
         "price": 3.667,
         "pickedIndex": 1,
         "availableRows": 10,
-        "advNo": "12880179055202418688",
-        "nickName": "Queenexchange",
-        "minSingleTransAmount": "10000",
-        "maxSingleTransAmount": "25000",
+        "advNo": "12878323305738194944",
+        "nickName": "Only cash deposit dubai and nepal",
+        "minSingleTransAmount": "3400",
+        "maxSingleTransAmount": "3500",
         "tradeMethods": [
-          "Bank Transfer",
-          "Abu Dhabi Commercial Bank ADCB",
-          "Emirates NBD",
-          "AL MASHREQ Bank",
-          "ADIB: Abu Dhabi Islamic Bank"
+          "Bank Transfer"
         ]
       }
     },
     "SAR": {
       "BUY": {
-        "price": 3.8,
+        "price": 3.81,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "13839230060407816192",
-        "nickName": "AboNaSeR -",
+        "advNo": "13875119792553488384",
+        "nickName": "usdt_7ksa",
         "minSingleTransAmount": "10000",
-        "maxSingleTransAmount": "1000000",
+        "maxSingleTransAmount": "100000",
         "tradeMethods": [
+          "Transfers with specific bank",
           "Al Rajhi Bank",
-          "Saudi National Bank (AlAhli Bank)",
-          "Alinma Bank",
-          "Bank Transfer"
+          "Saudi National Bank (AlAhli Bank)"
         ]
       },
       "SELL": {
         "price": 3.85,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12847404605699219456",
-        "nickName": "Abu Nayef 24",
+        "advNo": "12724197965584728064",
+        "nickName": "wdah_has10",
         "minSingleTransAmount": "60",
-        "maxSingleTransAmount": "3000",
+        "maxSingleTransAmount": "477",
         "tradeMethods": [
-          "barq"
+          "urpay"
         ]
       }
     },
