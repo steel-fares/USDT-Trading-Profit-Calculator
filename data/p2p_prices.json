@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1776964132739,
+  "updatedAt": 1776968119544,
   "source": "Binance P2P web endpoint",
   "asset": "USDT",
   "prices": {
@@ -35,25 +35,26 @@
     },
     "EGP": {
       "BUY": {
-        "price": 53.39,
+        "price": 52.9,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12879062092372516864",
-        "nickName": "Mr--CRYPTO--",
-        "minSingleTransAmount": "8000",
-        "maxSingleTransAmount": "8000",
+        "advNo": "12878744910923964416",
+        "nickName": "amagdymkamal",
+        "minSingleTransAmount": "100",
+        "maxSingleTransAmount": "130",
         "tradeMethods": [
-          "InstaPay"
+          "InstaPay",
+          "Bank Transfer"
         ]
       },
       "SELL": {
-        "price": 53.92,
+        "price": 54.12,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12783229856773730304",
-        "nickName": "BA-Fast",
-        "minSingleTransAmount": "11000",
-        "maxSingleTransAmount": "11001",
+        "advNo": "12867076926752673792",
+        "nickName": "Mr Halmous ",
+        "minSingleTransAmount": "9999",
+        "maxSingleTransAmount": "10000",
         "tradeMethods": [
           "Vodafone cash"
         ]
@@ -66,19 +67,19 @@
         "availableRows": 10,
         "advNo": "12879060898804797440",
         "nickName": "MISK_CRYPTO",
-        "minSingleTransAmount": "6424",
-        "maxSingleTransAmount": "6424",
+        "minSingleTransAmount": "15000",
+        "maxSingleTransAmount": "25000",
         "tradeMethods": [
           "Bank Transfer (Middle East)"
         ]
       },
       "SELL": {
-        "price": 3.671,
+        "price": 3.673,
         "pickedIndex": 1,
         "availableRows": 10,
         "advNo": "12873378117716443136",
         "nickName": "Issasalim",
-        "minSingleTransAmount": "24000",
+        "minSingleTransAmount": "24500",
         "maxSingleTransAmount": "25000",
         "tradeMethods": [
           "Cash Deposit to Bank"
@@ -87,22 +88,24 @@
     },
     "SAR": {
       "BUY": {
-        "price": 3.8,
+        "price": 3.81,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "13870881462187003904",
-        "nickName": "Abdulaziz mubairik alshreef",
-        "minSingleTransAmount": "490",
-        "maxSingleTransAmount": "503",
+        "advNo": "13875119792553488384",
+        "nickName": "usdt_7ksa",
+        "minSingleTransAmount": "10000",
+        "maxSingleTransAmount": "100000",
         "tradeMethods": [
-          "The Saudi British Bank (SABB)"
+          "Transfers with specific bank",
+          "Al Rajhi Bank",
+          "Saudi National Bank (AlAhli Bank)"
         ]
       },
       "SELL": {
-        "price": 4.5,
+        "price": 4.0,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12878167839373156352",
+        "advNo": "12880679612995678208",
         "nickName": "Abo-Ahmed94",
         "minSingleTransAmount": "569",
         "maxSingleTransAmount": "570",
@@ -113,19 +116,16 @@
     },
     "USD": {
       "BUY": {
-        "price": 0.996,
+        "price": 0.995,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12865062687256711168",
-        "nickName": "CryptoCambiosEC",
-        "minSingleTransAmount": "250",
-        "maxSingleTransAmount": "4000",
+        "advNo": "12880638779065597952",
+        "nickName": "Gra30",
+        "minSingleTransAmount": "500",
+        "maxSingleTransAmount": "5000",
         "tradeMethods": [
-          "Banco Guayaquil",
           "Banco Pichincha",
-          "Banco Bolivariano",
-          "Banco Internacional",
-          "Produbanco"
+          "Banco Internacional"
         ]
       },
       "SELL": {
@@ -143,7 +143,7 @@
     },
     "EUR": {
       "BUY": {
-        "price": 0.852,
+        "price": 0.855,
         "pickedIndex": 1,
         "availableRows": 11,
         "advNo": "12879519414872903680",
@@ -155,13 +155,13 @@
         ]
       },
       "SELL": {
-        "price": 0.9,
+        "price": 0.91,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12870895093089095680",
-        "nickName": "SrOmarr",
-        "minSingleTransAmount": "10",
-        "maxSingleTransAmount": "11",
+        "advNo": "12880693725583183872",
+        "nickName": "Isagil2007",
+        "minSingleTransAmount": "450",
+        "maxSingleTransAmount": "480",
         "tradeMethods": [
           "CaixaBank (Spain)"
         ]
