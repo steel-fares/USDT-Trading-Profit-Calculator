@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1777071572449,
+  "updatedAt": 1777074716194,
   "source": "Binance P2P web endpoint",
   "asset": "USDT",
   "prices": {
@@ -20,29 +20,28 @@
         ]
       },
       "SELL": {
-        "price": 0.389,
+        "price": 0.39,
         "pickedIndex": 1,
         "availableRows": 10,
-        "advNo": "12878742409233203200",
-        "nickName": "EL-deeeb",
-        "minSingleTransAmount": "100",
-        "maxSingleTransAmount": "1000",
+        "advNo": "12839823669546295296",
+        "nickName": "ALZANATY-2017",
+        "minSingleTransAmount": "10",
+        "maxSingleTransAmount": "202",
         "tradeMethods": [
           "Bank Muscat",
-          "Sohar International",
-          "Airtime Mobile Top-Up"
+          "Sohar International"
         ]
       }
     },
     "EGP": {
       "BUY": {
-        "price": 53.25,
+        "price": 53.2,
         "pickedIndex": 1,
         "availableRows": 11,
         "advNo": "12879180707757727744",
         "nickName": "EXCBRATE",
         "minSingleTransAmount": "100",
-        "maxSingleTransAmount": "200",
+        "maxSingleTransAmount": "300",
         "tradeMethods": [
           "InstaPay"
         ]
@@ -92,17 +91,15 @@
     },
     "SAR": {
       "BUY": {
-        "price": 3.81,
+        "price": 3.8,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "13875119792553488384",
-        "nickName": "usdt_7ksa",
-        "minSingleTransAmount": "10000",
-        "maxSingleTransAmount": "100000",
+        "advNo": "12869818947998912512",
+        "nickName": "bigmerchant",
+        "minSingleTransAmount": "5000",
+        "maxSingleTransAmount": "5000",
         "tradeMethods": [
-          "Transfers with specific bank",
-          "Al Rajhi Bank",
-          "Saudi National Bank (AlAhli Bank)"
+          "Al Rajhi Bank"
         ]
       },
       "SELL": {
@@ -120,15 +117,14 @@
     },
     "USD": {
       "BUY": {
-        "price": 0.997,
+        "price": 0.999,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12880494895337418752",
-        "nickName": "UsdtEcuaJs",
+        "advNo": "12875235585141944320",
+        "nickName": "kene1225",
         "minSingleTransAmount": "100",
-        "maxSingleTransAmount": "3500",
+        "maxSingleTransAmount": "3000",
         "tradeMethods": [
-          "Banco Internacional",
           "Banco Pichincha"
         ]
       },
@@ -147,19 +143,19 @@
     },
     "EUR": {
       "BUY": {
-        "price": 0.857,
+        "price": 0.855,
         "pickedIndex": 1,
-        "availableRows": 10,
-        "advNo": "13879178713646133248",
+        "availableRows": 11,
+        "advNo": "13880623722513641472",
         "nickName": "Unisync_Safe",
         "minSingleTransAmount": "200",
         "maxSingleTransAmount": "20000",
         "tradeMethods": [
           "SEPA Instant",
           "SEPA (EU) bank transfer",
-          "N26",
-          "Bunq",
-          "BBVA"
+          "Paysera",
+          "Bank Transfer",
+          "ZEN"
         ]
       },
       "SELL": {
