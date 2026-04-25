@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1777153270936,
+  "updatedAt": 1777155488909,
   "source": "Binance P2P web endpoint",
   "asset": "USDT",
   "prices": {
@@ -36,13 +36,13 @@
     },
     "EGP": {
       "BUY": {
-        "price": 52.8,
+        "price": 53.3,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12878744910923964416",
-        "nickName": "amagdymkamal",
-        "minSingleTransAmount": "90",
-        "maxSingleTransAmount": "110",
+        "advNo": "12880733149976932352",
+        "nickName": "salem242",
+        "minSingleTransAmount": "2000",
+        "maxSingleTransAmount": "16000",
         "tradeMethods": [
           "InstaPay"
         ]
@@ -62,29 +62,33 @@
     },
     "AED": {
       "BUY": {
-        "price": 3.683,
+        "price": 3.689,
         "pickedIndex": 1,
         "availableRows": 10,
-        "advNo": "13881093965550563328",
-        "nickName": "ICASH_R37",
-        "minSingleTransAmount": "9152",
-        "maxSingleTransAmount": "9152",
+        "advNo": "12881475891431346176",
+        "nickName": "Melbatal",
+        "minSingleTransAmount": "10000",
+        "maxSingleTransAmount": "25000",
         "tradeMethods": [
-          "Bank Transfer (Middle East)"
+          "Abu Dhabi Commercial Bank ADCB",
+          "Bank Transfer",
+          "AL MASHREQ Bank",
+          "ADIB: Abu Dhabi Islamic Bank",
+          "Aani"
         ]
       },
       "SELL": {
-        "price": 3.67,
+        "price": 3.668,
         "pickedIndex": 1,
         "availableRows": 10,
-        "advNo": "12881016611154776064",
-        "nickName": "Da7my",
-        "minSingleTransAmount": "100000",
-        "maxSingleTransAmount": "300000",
+        "advNo": "12874432251353161728",
+        "nickName": "User-23337",
+        "minSingleTransAmount": "4256",
+        "maxSingleTransAmount": "10800",
         "tradeMethods": [
-          "Bank Transfer",
           "Abu Dhabi Commercial Bank ADCB",
-          "Emirates NBD"
+          "Bank Transfer",
+          "ADIB: Abu Dhabi Islamic Bank"
         ]
       }
     },
@@ -146,7 +150,7 @@
       "BUY": {
         "price": 0.858,
         "pickedIndex": 1,
-        "availableRows": 10,
+        "availableRows": 11,
         "advNo": "13864797426777096192",
         "nickName": "TEZER_Exchange",
         "minSingleTransAmount": "250",
@@ -160,15 +164,17 @@
         ]
       },
       "SELL": {
-        "price": 0.89,
+        "price": 0.869,
         "pickedIndex": 1,
-        "availableRows": 11,
-        "advNo": "12881446271945625600",
-        "nickName": "Jecpve",
-        "minSingleTransAmount": "1780",
-        "maxSingleTransAmount": "2100",
+        "availableRows": 10,
+        "advNo": "12804803381087756288",
+        "nickName": "CriptoMcLaren",
+        "minSingleTransAmount": "1500",
+        "maxSingleTransAmount": "2850",
         "tradeMethods": [
-          "BBVA"
+          "Bank Transfer",
+          "SEPA (EU) bank transfer",
+          "Erste Bank"
         ]
       }
     }
