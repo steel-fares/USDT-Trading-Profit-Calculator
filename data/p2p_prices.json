@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1777118467278,
+  "updatedAt": 1777124187696,
   "source": "Binance P2P web endpoint",
   "asset": "USDT",
   "prices": {
@@ -8,11 +8,13 @@
         "price": 0.391,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12879888713678675968",
-        "nickName": "Cocoriki",
-        "minSingleTransAmount": "300",
-        "maxSingleTransAmount": "2500",
+        "advNo": "12870928459986563072",
+        "nickName": "Faisal_6m5",
+        "minSingleTransAmount": "500",
+        "maxSingleTransAmount": "801",
         "tradeMethods": [
+          "Bank Dhofar",
+          "Bank Muscat",
           "Airtime Mobile Top-Up"
         ]
       },
@@ -46,7 +48,7 @@
         ]
       },
       "SELL": {
-        "price": 53.89,
+        "price": 53.91,
         "pickedIndex": 1,
         "availableRows": 11,
         "advNo": "12808276496700526592",
@@ -60,19 +62,15 @@
     },
     "AED": {
       "BUY": {
-        "price": 3.681,
+        "price": 3.68,
         "pickedIndex": 1,
         "availableRows": 10,
-        "advNo": "13870200460026068992",
-        "nickName": "AbuAbdula",
-        "minSingleTransAmount": "5000",
-        "maxSingleTransAmount": "100000",
+        "advNo": "12875707987780976640",
+        "nickName": "User-94331",
+        "minSingleTransAmount": "300",
+        "maxSingleTransAmount": "3000",
         "tradeMethods": [
-          "Bank Transfer",
-          "Abu Dhabi Commercial Bank ADCB",
-          "AL MASHREQ Bank",
-          "ADIB: Abu Dhabi Islamic Bank",
-          "Emirates NBD"
+          "Bank Transfer (Middle East)"
         ]
       },
       "SELL": {
@@ -122,15 +120,15 @@
     },
     "USD": {
       "BUY": {
-        "price": 1.0,
+        "price": 0.998,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12556206845790932992",
-        "nickName": "誌得其樂",
-        "minSingleTransAmount": "15",
-        "maxSingleTransAmount": "1500",
+        "advNo": "12875235585141944320",
+        "nickName": "kene1225",
+        "minSingleTransAmount": "100",
+        "maxSingleTransAmount": "3000",
         "tradeMethods": [
-          "Bank Transfer (Taiwan)"
+          "Banco Pichincha"
         ]
       },
       "SELL": {
@@ -151,28 +149,24 @@
         "price": 0.856,
         "pickedIndex": 1,
         "availableRows": 10,
-        "advNo": "13880547694064832512",
+        "advNo": "13880666098423906304",
         "nickName": "Novudi",
         "minSingleTransAmount": "200",
         "maxSingleTransAmount": "100000",
         "tradeMethods": [
-          "SEPA Instant",
-          "SEPA (EU) bank transfer",
-          "N26",
-          "Bank Transfer",
-          "ZEN"
+          "BBVA"
         ]
       },
       "SELL": {
-        "price": 0.89,
+        "price": 0.87,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12877644698907684864",
-        "nickName": "EA7BOSS",
-        "minSingleTransAmount": "1999",
-        "maxSingleTransAmount": "2000",
+        "advNo": "12845247898872369152",
+        "nickName": "DavDoug",
+        "minSingleTransAmount": "199",
+        "maxSingleTransAmount": "200",
         "tradeMethods": [
-          "Paysera"
+          "Bizum"
         ]
       }
     }
