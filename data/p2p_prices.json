@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1777219467702,
+  "updatedAt": 1777222794007,
   "source": "Binance P2P web endpoint",
   "asset": "USDT",
   "prices": {
@@ -35,25 +35,25 @@
     },
     "EGP": {
       "BUY": {
-        "price": 53.23,
+        "price": 53.35,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12874433701593538560",
-        "nickName": "USDT-Arabian",
-        "minSingleTransAmount": "90",
-        "maxSingleTransAmount": "140",
+        "advNo": "12881763352119427072",
+        "nickName": "P2P-0ac018km",
+        "minSingleTransAmount": "25000",
+        "maxSingleTransAmount": "25001",
         "tradeMethods": [
-          "Vodafone cash"
+          "National Bank of Egypt (NBE)"
         ]
       },
       "SELL": {
-        "price": 53.72,
+        "price": 53.7,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12874122626018111488",
-        "nickName": "amrmaxcom199859_",
-        "minSingleTransAmount": "25000",
-        "maxSingleTransAmount": "25001",
+        "advNo": "12865014997196050432",
+        "nickName": "Fasster",
+        "minSingleTransAmount": "40000",
+        "maxSingleTransAmount": "40001",
         "tradeMethods": [
           "Vodafone cash"
         ]
@@ -61,15 +61,15 @@
     },
     "AED": {
       "BUY": {
-        "price": 3.677,
+        "price": 3.68,
         "pickedIndex": 1,
         "availableRows": 10,
-        "advNo": "12881703979327524864",
-        "nickName": "User-bd499",
-        "minSingleTransAmount": "100",
-        "maxSingleTransAmount": "5000",
+        "advNo": "12875707987780976640",
+        "nickName": "User-94331",
+        "minSingleTransAmount": "300",
+        "maxSingleTransAmount": "3000",
         "tradeMethods": [
-          "Bank Transfer"
+          "Bank Transfer (Middle East)"
         ]
       },
       "SELL": {
@@ -90,12 +90,14 @@
         "price": 3.8,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12881746922107703296",
-        "nickName": "NASSER",
+        "advNo": "12862189498996883456",
+        "nickName": "SaTrade",
         "minSingleTransAmount": "10000",
         "maxSingleTransAmount": "100000",
         "tradeMethods": [
-          "Saudi National Bank (AlAhli Bank)",
+          "Bank Transfer",
+          "stc pay",
+          "Alinma Bank",
           "Riyad Bank"
         ]
       },
@@ -114,13 +116,13 @@
     },
     "USD": {
       "BUY": {
-        "price": 0.9,
+        "price": 0.98,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "13881267966570938368",
-        "nickName": "Naemi",
-        "minSingleTransAmount": "80",
-        "maxSingleTransAmount": "15000",
+        "advNo": "12881678478222364672",
+        "nickName": "Safe-Ex-Hub",
+        "minSingleTransAmount": "15",
+        "maxSingleTransAmount": "210",
         "tradeMethods": [
           "Bank Transfer"
         ]
@@ -163,10 +165,10 @@
         "minSingleTransAmount": "980",
         "maxSingleTransAmount": "990",
         "tradeMethods": [
-          "CaixaBank (Spain)",
-          "Banco Santander (Spain)",
+          "BBVA",
           "Banco Sabadell (Spain)",
-          "BBVA"
+          "Banco Santander (Spain)",
+          "CaixaBank (Spain)"
         ]
       }
     }
