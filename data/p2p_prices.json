@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1777210698240,
+  "updatedAt": 1777213668912,
   "source": "Binance P2P web endpoint",
   "asset": "USDT",
   "prices": {
@@ -35,25 +35,26 @@
     },
     "EGP": {
       "BUY": {
-        "price": 53.27,
+        "price": 53.31,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12881361831683076096",
-        "nickName": "OM-AR-FAST-SAFE-P2P",
-        "minSingleTransAmount": "20480",
-        "maxSingleTransAmount": "20500",
+        "advNo": "12881718384139489280",
+        "nickName": "best-usdt-seller",
+        "minSingleTransAmount": "7000",
+        "maxSingleTransAmount": "10600",
         "tradeMethods": [
-          "Instant Transfer"
+          "InstaPay",
+          "Banque Misr"
         ]
       },
       "SELL": {
-        "price": 53.45,
+        "price": 53.55,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12880894771975901184",
-        "nickName": "romany 88",
-        "minSingleTransAmount": "49999",
-        "maxSingleTransAmount": "50000",
+        "advNo": "12842179151738761216",
+        "nickName": "KeroAlKnj",
+        "minSingleTransAmount": "3000",
+        "maxSingleTransAmount": "3001",
         "tradeMethods": [
           "Vodafone cash"
         ]
@@ -61,11 +62,11 @@
     },
     "AED": {
       "BUY": {
-        "price": 3.67,
+        "price": 3.679,
         "pickedIndex": 1,
         "availableRows": 10,
-        "advNo": "12881710096521236480",
-        "nickName": "abdurahimanck",
+        "advNo": "12881703979327524864",
+        "nickName": "User-bd499",
         "minSingleTransAmount": "100",
         "maxSingleTransAmount": "5000",
         "tradeMethods": [
@@ -76,12 +77,14 @@
         "price": 3.67,
         "pickedIndex": 1,
         "availableRows": 10,
-        "advNo": "12877277122149654528",
-        "nickName": "Alsenani",
-        "minSingleTransAmount": "24000",
-        "maxSingleTransAmount": "25000",
+        "advNo": "12881016611154776064",
+        "nickName": "Da7my",
+        "minSingleTransAmount": "100000",
+        "maxSingleTransAmount": "300000",
         "tradeMethods": [
-          "Cash Deposit to Bank"
+          "Bank Transfer",
+          "Abu Dhabi Commercial Bank ADCB",
+          "Emirates NBD"
         ]
       }
     },
@@ -115,13 +118,13 @@
     },
     "USD": {
       "BUY": {
-        "price": 0.98,
+        "price": 0.9,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12881678478222364672",
-        "nickName": "Safe-Ex-Hub",
-        "minSingleTransAmount": "15",
-        "maxSingleTransAmount": "210",
+        "advNo": "13881267966570938368",
+        "nickName": "Naemi",
+        "minSingleTransAmount": "80",
+        "maxSingleTransAmount": "15000",
         "tradeMethods": [
           "Bank Transfer"
         ]
@@ -144,28 +147,31 @@
         "price": 0.857,
         "pickedIndex": 1,
         "availableRows": 10,
-        "advNo": "13881707995735732224",
-        "nickName": "Unisync_Safe",
-        "minSingleTransAmount": "200",
-        "maxSingleTransAmount": "5000",
+        "advNo": "13875292513395884032",
+        "nickName": "YYGroup",
+        "minSingleTransAmount": "500",
+        "maxSingleTransAmount": "7000",
         "tradeMethods": [
-          "SEPA Instant",
-          "SEPA (EU) bank transfer",
-          "Paysera",
-          "Bank Transfer",
-          "ZEN"
+          "ING",
+          "Dukascopy Bank",
+          "CaixaBank (Spain)",
+          "Banco Santander (Spain)"
         ]
       },
       "SELL": {
-        "price": 0.866,
+        "price": 0.87,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12881603846607589376",
-        "nickName": "HappyTradingU",
-        "minSingleTransAmount": "100",
-        "maxSingleTransAmount": "1610",
+        "advNo": "12859184651921661952",
+        "nickName": "PrometeyX",
+        "minSingleTransAmount": "2499",
+        "maxSingleTransAmount": "2500",
         "tradeMethods": [
-          "Dukascopy Bank"
+          "Bank Transfer",
+          "SEPA (EU) bank transfer",
+          "SEPA Instant",
+          "N26",
+          "BBVA"
         ]
       }
     }
