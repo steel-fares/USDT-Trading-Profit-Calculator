@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1777240306486,
+  "updatedAt": 1777242744170,
   "source": "Binance P2P web endpoint",
   "asset": "USDT",
   "prices": {
@@ -22,12 +22,13 @@
         "price": 0.39,
         "pickedIndex": 1,
         "availableRows": 10,
-        "advNo": "12867525823250288640",
-        "nickName": "P2P-8c6ed9fi",
-        "minSingleTransAmount": "300",
-        "maxSingleTransAmount": "2300",
+        "advNo": "12839823669546295296",
+        "nickName": "ALZANATY-2017",
+        "minSingleTransAmount": "100",
+        "maxSingleTransAmount": "300",
         "tradeMethods": [
-          "Bank Dhofar"
+          "Bank Muscat",
+          "Sohar International"
         ]
       }
     },
@@ -47,13 +48,13 @@
         ]
       },
       "SELL": {
-        "price": 53.8,
+        "price": 53.89,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12868414197181263872",
-        "nickName": "M4_2025",
-        "minSingleTransAmount": "10000",
-        "maxSingleTransAmount": "10001",
+        "advNo": "12878005674480476160",
+        "nickName": "Misho_Al_Hawi",
+        "minSingleTransAmount": "100",
+        "maxSingleTransAmount": "101",
         "tradeMethods": [
           "Vodafone cash"
         ]
@@ -73,15 +74,15 @@
         ]
       },
       "SELL": {
-        "price": 3.672,
+        "price": 3.674,
         "pickedIndex": 1,
         "availableRows": 10,
-        "advNo": "11420658518939258880",
-        "nickName": "XD12",
-        "minSingleTransAmount": "24999",
-        "maxSingleTransAmount": "25000",
+        "advNo": "12861454573689110528",
+        "nickName": "Studythemarket",
+        "minSingleTransAmount": "797",
+        "maxSingleTransAmount": "798",
         "tradeMethods": [
-          "Cash Deposit to Bank"
+          "Aani"
         ]
       }
     },
@@ -90,39 +91,41 @@
         "price": 3.81,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12862541334587035648",
-        "nickName": "_USDT-COINS",
+        "advNo": "13875119792553488384",
+        "nickName": "usdt_7ksa",
         "minSingleTransAmount": "10000",
         "maxSingleTransAmount": "100000",
         "tradeMethods": [
-          "Bank Transfer"
+          "Transfers with specific bank",
+          "Al Rajhi Bank",
+          "Saudi National Bank (AlAhli Bank)"
         ]
       },
       "SELL": {
-        "price": 3.96,
+        "price": 3.87,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12881670785456406528",
-        "nickName": "haljarie",
+        "advNo": "12770047031094530048",
+        "nickName": "_x0x0x0x00x0x0x0x0x_",
         "minSingleTransAmount": "60",
-        "maxSingleTransAmount": "100000",
+        "maxSingleTransAmount": "500",
         "tradeMethods": [
-          "Bank Transfer",
           "stc pay"
         ]
       }
     },
     "USD": {
       "BUY": {
-        "price": 0.98,
+        "price": 0.999,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12881678478222364672",
-        "nickName": "Safe-Ex-Hub",
+        "advNo": "12881556400488603648",
+        "nickName": "Trader-frindly",
         "minSingleTransAmount": "15",
-        "maxSingleTransAmount": "210",
+        "maxSingleTransAmount": "1500",
         "tradeMethods": [
-          "Bank Transfer"
+          "Maybank",
+          "CIMB Niaga"
         ]
       },
       "SELL": {
@@ -140,35 +143,31 @@
     },
     "EUR": {
       "BUY": {
-        "price": 0.858,
+        "price": 0.857,
         "pickedIndex": 1,
-        "availableRows": 10,
-        "advNo": "13879399231986135040",
-        "nickName": "ALROVO",
-        "minSingleTransAmount": "2500",
-        "maxSingleTransAmount": "30000",
+        "availableRows": 11,
+        "advNo": "13881776474659328000",
+        "nickName": "Unisync_Safe",
+        "minSingleTransAmount": "200",
+        "maxSingleTransAmount": "11000",
         "tradeMethods": [
-          "CaixaBank (Spain)",
-          "ING",
-          "Banco Santander (Spain)",
-          "Banco Sabadell (Spain)",
-          "UniCredit"
+          "SEPA Instant",
+          "SEPA (EU) bank transfer",
+          "N26",
+          "Bunq",
+          "BBVA"
         ]
       },
       "SELL": {
-        "price": 0.867,
+        "price": 0.864,
         "pickedIndex": 1,
         "availableRows": 10,
-        "advNo": "12855699495637434368",
-        "nickName": "NE_2P_P2P",
-        "minSingleTransAmount": "98",
-        "maxSingleTransAmount": "99",
+        "advNo": "12850844107992694784",
+        "nickName": "HDCoins",
+        "minSingleTransAmount": "145",
+        "maxSingleTransAmount": "146",
         "tradeMethods": [
-          "Wise",
-          "SEPA (EU) bank transfer",
-          "Erste Bank",
-          "SEPA Instant",
-          "N26"
+          "Dukascopy Bank"
         ]
       }
     }
