@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1777202585768,
+  "updatedAt": 1777204955095,
   "source": "Binance P2P web endpoint",
   "asset": "USDT",
   "prices": {
@@ -35,25 +35,28 @@
     },
     "EGP": {
       "BUY": {
-        "price": 53.23,
+        "price": 53.24,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12881674455934910464",
-        "nickName": "Eng_Moh_55",
-        "minSingleTransAmount": "30000",
-        "maxSingleTransAmount": "34500",
+        "advNo": "12871598279036461056",
+        "nickName": "MN_Instant_Hub",
+        "minSingleTransAmount": "90",
+        "maxSingleTransAmount": "200",
         "tradeMethods": [
-          "InstaPay"
+          "Vodafone cash",
+          "Etisalat Cash",
+          "Orange Cash",
+          "Qahera Cash"
         ]
       },
       "SELL": {
-        "price": 53.5,
+        "price": 53.46,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12808276496700526592",
-        "nickName": "LoDa8",
-        "minSingleTransAmount": "60000",
-        "maxSingleTransAmount": "70000",
+        "advNo": "12842324553122287616",
+        "nickName": "Nimber1",
+        "minSingleTransAmount": "25000",
+        "maxSingleTransAmount": "25001",
         "tradeMethods": [
           "Vodafone cash"
         ]
@@ -105,15 +108,15 @@
         ]
       },
       "SELL": {
-        "price": 3.86,
+        "price": 3.89,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12847272963339689984",
-        "nickName": "RAKAN1Q2",
-        "minSingleTransAmount": "60",
-        "maxSingleTransAmount": "100000",
+        "advNo": "12876362225929445376",
+        "nickName": "44Im_Sky44",
+        "minSingleTransAmount": "299",
+        "maxSingleTransAmount": "301",
         "tradeMethods": [
-          "Mobily Pay"
+          "Bank Transfer"
         ]
       }
     },
@@ -147,35 +150,34 @@
     },
     "EUR": {
       "BUY": {
-        "price": 0.856,
+        "price": 0.857,
         "pickedIndex": 1,
         "availableRows": 10,
-        "advNo": "13880547694064832512",
-        "nickName": "Novudi",
-        "minSingleTransAmount": "200",
-        "maxSingleTransAmount": "100000",
+        "advNo": "13875292513395884032",
+        "nickName": "YYGroup",
+        "minSingleTransAmount": "500",
+        "maxSingleTransAmount": "7000",
         "tradeMethods": [
-          "SEPA Instant",
-          "SEPA (EU) bank transfer",
-          "N26",
-          "Bank Transfer",
-          "ZEN"
+          "ING",
+          "Dukascopy Bank",
+          "CaixaBank (Spain)",
+          "Banco Santander (Spain)"
         ]
       },
       "SELL": {
-        "price": 0.866,
+        "price": 0.933,
         "pickedIndex": 1,
-        "availableRows": 10,
-        "advNo": "12870069837766774784",
-        "nickName": "Nick7557",
-        "minSingleTransAmount": "5000",
-        "maxSingleTransAmount": "15000",
+        "availableRows": 11,
+        "advNo": "12881679134738251776",
+        "nickName": "User-3876e",
+        "minSingleTransAmount": "200",
+        "maxSingleTransAmount": "456",
         "tradeMethods": [
-          "Paysera",
-          "SEPA Instant",
-          "Bunq",
-          "BBVA",
-          "Vivid Money"
+          "Dukascopy Bank",
+          "Banco Santander (Spain)",
+          "Bank Transfer",
+          "SEPA (EU) bank transfer",
+          "SEPA Instant"
         ]
       }
     }
