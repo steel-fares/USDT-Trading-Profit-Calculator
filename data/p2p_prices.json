@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1777216957266,
+  "updatedAt": 1777219467702,
   "source": "Binance P2P web endpoint",
   "asset": "USDT",
   "prices": {
@@ -35,25 +35,25 @@
     },
     "EGP": {
       "BUY": {
-        "price": 53.3,
+        "price": 53.23,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12881432333314056192",
-        "nickName": "A7medBrown",
-        "minSingleTransAmount": "12000",
-        "maxSingleTransAmount": "13220",
+        "advNo": "12874433701593538560",
+        "nickName": "USDT-Arabian",
+        "minSingleTransAmount": "90",
+        "maxSingleTransAmount": "140",
         "tradeMethods": [
-          "InstaPay"
+          "Vodafone cash"
         ]
       },
       "SELL": {
-        "price": 53.77,
+        "price": 53.72,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12846632843843330048",
-        "nickName": "__mng__",
-        "minSingleTransAmount": "20000",
-        "maxSingleTransAmount": "20001",
+        "advNo": "12874122626018111488",
+        "nickName": "amrmaxcom199859_",
+        "minSingleTransAmount": "25000",
+        "maxSingleTransAmount": "25001",
         "tradeMethods": [
           "Vodafone cash"
         ]
@@ -61,7 +61,7 @@
     },
     "AED": {
       "BUY": {
-        "price": 3.679,
+        "price": 3.677,
         "pickedIndex": 1,
         "availableRows": 10,
         "advNo": "12881703979327524864",
@@ -87,15 +87,16 @@
     },
     "SAR": {
       "BUY": {
-        "price": 3.81,
+        "price": 3.8,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12862541334587035648",
-        "nickName": "_USDT-COINS",
+        "advNo": "12881746922107703296",
+        "nickName": "NASSER",
         "minSingleTransAmount": "10000",
         "maxSingleTransAmount": "100000",
         "tradeMethods": [
-          "Bank Transfer"
+          "Saudi National Bank (AlAhli Bank)",
+          "Riyad Bank"
         ]
       },
       "SELL": {
@@ -142,32 +143,30 @@
         "price": 0.857,
         "pickedIndex": 1,
         "availableRows": 10,
-        "advNo": "13881707995735732224",
-        "nickName": "Unisync_Safe",
-        "minSingleTransAmount": "200",
-        "maxSingleTransAmount": "5000",
+        "advNo": "13875292513395884032",
+        "nickName": "YYGroup",
+        "minSingleTransAmount": "500",
+        "maxSingleTransAmount": "7000",
         "tradeMethods": [
-          "SEPA Instant",
-          "SEPA (EU) bank transfer",
-          "Paysera",
-          "Bank Transfer",
-          "ZEN"
+          "ING",
+          "Dukascopy Bank",
+          "CaixaBank (Spain)",
+          "Banco Santander (Spain)"
         ]
       },
       "SELL": {
-        "price": 0.872,
+        "price": 0.87,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12856266175702298624",
-        "nickName": "NE_2P_P2P",
-        "minSingleTransAmount": "200",
-        "maxSingleTransAmount": "600",
+        "advNo": "12878068920441270272",
+        "nickName": "TP7DBWHII4JFFKZ5",
+        "minSingleTransAmount": "980",
+        "maxSingleTransAmount": "990",
         "tradeMethods": [
-          "Wise",
-          "Bank Transfer",
-          "SEPA (EU) bank transfer",
-          "SEPA Instant",
-          "N26"
+          "CaixaBank (Spain)",
+          "Banco Santander (Spain)",
+          "Banco Sabadell (Spain)",
+          "BBVA"
         ]
       }
     }
