@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1777460515314,
+  "updatedAt": 1777465325489,
   "source": "Binance P2P web endpoint",
   "asset": "USDT",
   "prices": {
@@ -34,13 +34,13 @@
     },
     "EGP": {
       "BUY": {
-        "price": 53.89,
+        "price": 53.83,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12850229096815788032",
-        "nickName": "_ABOU_",
-        "minSingleTransAmount": "111",
-        "maxSingleTransAmount": "25555",
+        "advNo": "12807050711037976576",
+        "nickName": "Engineer79",
+        "minSingleTransAmount": "47430",
+        "maxSingleTransAmount": "47435",
         "tradeMethods": [
           "InstaPay"
         ]
@@ -74,14 +74,18 @@
         ]
       },
       "SELL": {
-        "price": 3.9,
+        "price": 3.673,
         "pickedIndex": 1,
         "availableRows": 10,
-        "advNo": "12882723820162416640",
-        "nickName": "P2P-d2f5963k",
-        "minSingleTransAmount": "8000",
+        "advNo": "12879515345202987008",
+        "nickName": "Best_Price__",
+        "minSingleTransAmount": "12500",
         "maxSingleTransAmount": "25000",
         "tradeMethods": [
+          "Bank Transfer",
+          "Bank Transfer (Middle East)",
+          "Allied Bank Limited, Wholesale Branch",
+          "Abu Dhabi Commercial Bank ADCB",
           "ADIB: Abu Dhabi Islamic Bank"
         ]
       }
@@ -101,18 +105,18 @@
         ]
       },
       "SELL": {
-        "price": 3.9,
+        "price": 3.91,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12863956647741059072",
-        "nickName": "Sham3a",
+        "advNo": "12873471272657055744",
+        "nickName": "Optimen0",
         "minSingleTransAmount": "5000",
-        "maxSingleTransAmount": "20000",
+        "maxSingleTransAmount": "8000",
         "tradeMethods": [
           "Bank Transfer",
-          "stc pay",
           "Al Rajhi Bank",
-          "Saudi National Bank (AlAhli Bank)"
+          "Saudi National Bank (AlAhli Bank)",
+          "The Saudi British Bank (SABB)"
         ]
       }
     },
@@ -144,15 +148,18 @@
     },
     "EUR": {
       "BUY": {
-        "price": 0.857,
+        "price": 0.84,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12882053389246521344",
-        "nickName": "User-ee6ba",
-        "minSingleTransAmount": "100",
-        "maxSingleTransAmount": "300",
+        "advNo": "12881785735008047104",
+        "nickName": "Romchik_b20",
+        "minSingleTransAmount": "22",
+        "maxSingleTransAmount": "22",
         "tradeMethods": [
-          "Wise"
+          "SEPA Instant",
+          "Wise",
+          "Paysera",
+          "N26"
         ]
       },
       "SELL": {
