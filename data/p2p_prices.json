@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1777444436029,
+  "updatedAt": 1777453149645,
   "source": "Binance P2P web endpoint",
   "asset": "USDT",
   "prices": {
@@ -34,53 +34,59 @@
     },
     "EGP": {
       "BUY": {
-        "price": 53.65,
+        "price": 53.84,
         "pickedIndex": 1,
-        "availableRows": 10,
-        "advNo": "12881445801935343616",
-        "nickName": "Prestige_services",
-        "minSingleTransAmount": "5000",
-        "maxSingleTransAmount": "500000",
+        "availableRows": 11,
+        "advNo": "12872983162942541824",
+        "nickName": "0_second_release",
+        "minSingleTransAmount": "70000",
+        "maxSingleTransAmount": "70001",
         "tradeMethods": [
           "InstaPay"
         ]
       },
       "SELL": {
-        "price": 54.15,
+        "price": 54.06,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12878820824497946624",
-        "nickName": "S-m-a-r-t-Man",
-        "minSingleTransAmount": "7000",
-        "maxSingleTransAmount": "7001",
+        "advNo": "12880095624505765888",
+        "nickName": "ABCTrade28",
+        "minSingleTransAmount": "300000",
+        "maxSingleTransAmount": "930000",
         "tradeMethods": [
-          "Vodafone cash"
+          "Banque Misr",
+          "CIB | Commercial International Bank Egypt",
+          "InstaPay",
+          "National Bank of Egypt (NBE)",
+          "Alex Bank"
         ]
       }
     },
     "AED": {
       "BUY": {
-        "price": 3.69,
+        "price": 3.66,
         "pickedIndex": 1,
         "availableRows": 10,
-        "advNo": "12882498186141622272",
-        "nickName": "Melbatal",
-        "minSingleTransAmount": "15000",
-        "maxSingleTransAmount": "25000",
+        "advNo": "13811359717508816896",
+        "nickName": "MB52",
+        "minSingleTransAmount": "100",
+        "maxSingleTransAmount": "101",
         "tradeMethods": [
-          "ADIB: Abu Dhabi Islamic Bank"
+          "Bank Transfer (Middle East)",
+          "Transfers with specific bank",
+          "Bank Transfer"
         ]
       },
       "SELL": {
-        "price": 3.668,
+        "price": 3.672,
         "pickedIndex": 1,
         "availableRows": 10,
-        "advNo": "12856273912843038720",
-        "nickName": "Amoun-As",
-        "minSingleTransAmount": "2500",
+        "advNo": "12704228689228431360",
+        "nickName": "Piplumsh",
+        "minSingleTransAmount": "24999",
         "maxSingleTransAmount": "25000",
         "tradeMethods": [
-          "Bank Transfer"
+          "Cash Deposit to Bank"
         ]
       }
     },
@@ -99,12 +105,12 @@
         ]
       },
       "SELL": {
-        "price": 3.89,
+        "price": 3.9,
         "pickedIndex": 1,
         "availableRows": 11,
         "advNo": "12881327882416214016",
         "nickName": "Mohamad alemami",
-        "minSingleTransAmount": "2565",
+        "minSingleTransAmount": "1565",
         "maxSingleTransAmount": "2566",
         "tradeMethods": [
           "Ahlibank"
@@ -113,13 +119,13 @@
     },
     "USD": {
       "BUY": {
-        "price": 0.9,
+        "price": 0.98,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "13882090131130576896",
-        "nickName": "Naemi",
-        "minSingleTransAmount": "150",
-        "maxSingleTransAmount": "15000",
+        "advNo": "12881678478222364672",
+        "nickName": "Safe-Ex-Hub",
+        "minSingleTransAmount": "15",
+        "maxSingleTransAmount": "210",
         "tradeMethods": [
           "Bank Transfer"
         ]
@@ -139,28 +145,24 @@
     },
     "EUR": {
       "BUY": {
-        "price": 0.86,
+        "price": 0.857,
         "pickedIndex": 1,
         "availableRows": 10,
-        "advNo": "13667212931691413504",
-        "nickName": "XCHAINGER",
-        "minSingleTransAmount": "400",
-        "maxSingleTransAmount": "45000",
+        "advNo": "12882493767010570240",
+        "nickName": "Market Makers Crypto ",
+        "minSingleTransAmount": "300",
+        "maxSingleTransAmount": "1720",
         "tradeMethods": [
-          "ZEN",
-          "SEPA (EU) bank transfer",
-          "Bank Transfer",
-          "SEPA Instant",
-          "N26"
+          "Wise"
         ]
       },
       "SELL": {
-        "price": 0.88,
+        "price": 0.89,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12879172488088207360",
+        "advNo": "12880746214153097216",
         "nickName": "Very_Fast_Merchant",
-        "minSingleTransAmount": "5000",
+        "minSingleTransAmount": "2500",
         "maxSingleTransAmount": "100000",
         "tradeMethods": [
           "Wise",
