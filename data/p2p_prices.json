@@ -1,23 +1,22 @@
 {
-  "updatedAt": 1777485214128,
+  "updatedAt": 1777490629492,
   "source": "Binance P2P web endpoint",
   "asset": "USDT",
   "prices": {
     "OMR": {
       "BUY": {
-        "price": 0.391,
+        "price": 0.39,
         "pickedIndex": 1,
-        "availableRows": 10,
-        "advNo": "13875254429777575936",
-        "nickName": "USDT-OM",
-        "minSingleTransAmount": "300",
-        "maxSingleTransAmount": "2500",
+        "availableRows": 11,
+        "advNo": "12870158065756643328",
+        "nickName": "MUNTHER-71202",
+        "minSingleTransAmount": "100",
+        "maxSingleTransAmount": "948",
         "tradeMethods": [
+          "Bank Muscat",
           "Airtime Mobile Top-Up",
-          "Sohar International",
           "Bank Dhofar",
-          "Oman Arab Bank",
-          "Bank Muscat"
+          "Sohar International"
         ]
       },
       "SELL": {
@@ -38,26 +37,25 @@
     },
     "EGP": {
       "BUY": {
-        "price": 53.89,
+        "price": 53.69,
         "pickedIndex": 1,
-        "availableRows": 10,
-        "advNo": "12882721797542072320",
-        "nickName": "USDT_CRYPTOo",
-        "minSingleTransAmount": "60000",
-        "maxSingleTransAmount": "62000",
+        "availableRows": 11,
+        "advNo": "12882105846672646144",
+        "nickName": "EXCBRATE",
+        "minSingleTransAmount": "100",
+        "maxSingleTransAmount": "300",
         "tradeMethods": [
-          "InstaPay",
-          "Bank Transfer"
+          "InstaPay"
         ]
       },
       "SELL": {
-        "price": 54.33,
+        "price": 54.31,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12845658446082236416",
-        "nickName": "__G__A__N__A__A__T__",
-        "minSingleTransAmount": "20000",
-        "maxSingleTransAmount": "20001",
+        "advNo": "12783229856773730304",
+        "nickName": "BA-Fast",
+        "minSingleTransAmount": "40000",
+        "maxSingleTransAmount": "40001",
         "tradeMethods": [
           "Vodafone cash"
         ]
@@ -106,15 +104,15 @@
         ]
       },
       "SELL": {
-        "price": 3.88,
+        "price": 3.89,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12881675938402131968",
-        "nickName": "USDT-byCash",
-        "minSingleTransAmount": "600",
-        "maxSingleTransAmount": "2000",
+        "advNo": "12847885414269902848",
+        "nickName": "Trusted_Release",
+        "minSingleTransAmount": "60",
+        "maxSingleTransAmount": "111",
         "tradeMethods": [
-          "Cash app"
+          "urpay"
         ]
       }
     },
@@ -146,32 +144,35 @@
     },
     "EUR": {
       "BUY": {
-        "price": 0.851,
+        "price": 0.859,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12882860641572990976",
-        "nickName": "HELLO OUR CHANGER",
-        "minSingleTransAmount": "47",
-        "maxSingleTransAmount": "47",
+        "advNo": "13880623722513641472",
+        "nickName": "Unisync_Safe",
+        "minSingleTransAmount": "200",
+        "maxSingleTransAmount": "20000",
         "tradeMethods": [
+          "SEPA Instant",
+          "SEPA (EU) bank transfer",
+          "Paysera",
           "Bank Transfer",
-          "SEPA Instant"
+          "ZEN"
         ]
       },
       "SELL": {
-        "price": 0.89,
+        "price": 0.88,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12848674971132309504",
-        "nickName": "Joker_Trade7",
-        "minSingleTransAmount": "1500",
-        "maxSingleTransAmount": "15000",
+        "advNo": "12870069837766774784",
+        "nickName": "Nick7557",
+        "minSingleTransAmount": "5000",
+        "maxSingleTransAmount": "16880",
         "tradeMethods": [
-          "Wise",
           "Paysera",
           "SEPA Instant",
-          "N26",
-          "BBVA"
+          "Bunq",
+          "BBVA",
+          "Vivid Money"
         ]
       }
     }
