@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1777567888221,
+  "updatedAt": 1777572384403,
   "source": "Binance P2P web endpoint",
   "asset": "USDT",
   "prices": {
@@ -8,51 +8,51 @@
         "price": 0.391,
         "pickedIndex": 1,
         "availableRows": 10,
-        "advNo": "12882926413602586624",
-        "nickName": "Trusted-Person1",
+        "advNo": "12882393630267113472",
+        "nickName": "KaluPay",
         "minSingleTransAmount": "500",
-        "maxSingleTransAmount": "2500",
+        "maxSingleTransAmount": "782",
         "tradeMethods": [
-          "Bank Muscat"
+          "Bank Muscat",
+          "Bank Transfer",
+          "Oman Arab Bank",
+          "Bank Dhofar"
         ]
       },
       "SELL": {
-        "price": 0.39,
+        "price": 0.391,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12836464470759849984",
-        "nickName": "Ammar50005",
-        "minSingleTransAmount": "2499",
-        "maxSingleTransAmount": "2500",
+        "advNo": "12836152209350377472",
+        "nickName": "AL_OmDa",
+        "minSingleTransAmount": "200",
+        "maxSingleTransAmount": "201",
         "tradeMethods": [
-          "Oman Arab Bank",
-          "Bank Transfer (Middle East)",
-          "Bank Muscat",
-          "Airtime Mobile Top-Up"
+          "Bank Transfer"
         ]
       }
     },
     "EGP": {
       "BUY": {
-        "price": 53.73,
+        "price": 53.85,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12883202299524222976",
-        "nickName": "Aboodi_Crypto",
-        "minSingleTransAmount": "2490",
-        "maxSingleTransAmount": "2500",
+        "advNo": "12873174753156493312",
+        "nickName": "Rami_USDT",
+        "minSingleTransAmount": "3579",
+        "maxSingleTransAmount": "3580",
         "tradeMethods": [
           "InstaPay"
         ]
       },
       "SELL": {
-        "price": 54.61,
+        "price": 54.03,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12808276496700526592",
-        "nickName": "LoDa8",
-        "minSingleTransAmount": "51000",
-        "maxSingleTransAmount": "51555",
+        "advNo": "12883115189638938624",
+        "nickName": "User-1037a",
+        "minSingleTransAmount": "60000",
+        "maxSingleTransAmount": "60001",
         "tradeMethods": [
           "Vodafone cash"
         ]
@@ -73,15 +73,18 @@
         ]
       },
       "SELL": {
-        "price": 3.671,
+        "price": 3.669,
         "pickedIndex": 1,
         "availableRows": 10,
-        "advNo": "12853408898495365120",
-        "nickName": "USDT4EXCHANGE",
-        "minSingleTransAmount": "1835",
-        "maxSingleTransAmount": "10000",
+        "advNo": "12863888749950189568",
+        "nickName": "KSiD-2",
+        "minSingleTransAmount": "7200",
+        "maxSingleTransAmount": "25000",
         "tradeMethods": [
           "Bank Transfer",
+          "Abu Dhabi Commercial Bank ADCB",
+          "Emirates NBD",
+          "AL MASHREQ Bank",
           "ADIB: Abu Dhabi Islamic Bank"
         ]
       }
