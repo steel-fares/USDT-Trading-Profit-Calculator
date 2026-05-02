@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1777732249839,
+  "updatedAt": 1777735632109,
   "source": "Binance P2P web endpoint",
   "asset": "USDT",
   "prices": {
@@ -36,15 +36,14 @@
     },
     "EGP": {
       "BUY": {
-        "price": 53.84,
+        "price": 53.79,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12883208466835759104",
-        "nickName": "Moora",
-        "minSingleTransAmount": "2100",
-        "maxSingleTransAmount": "2110",
+        "advNo": "12881744763583717376",
+        "nickName": "HANYMOHAISEN",
+        "minSingleTransAmount": "7000",
+        "maxSingleTransAmount": "500000",
         "tradeMethods": [
-          "Bank Transfer",
           "InstaPay"
         ]
       },
@@ -66,28 +65,26 @@
         "price": 3.685,
         "pickedIndex": 1,
         "availableRows": 10,
-        "advNo": "12881492562056491008",
-        "nickName": "Horizon-Exchange",
-        "minSingleTransAmount": "250",
-        "maxSingleTransAmount": "251",
+        "advNo": "12883603288962224128",
+        "nickName": "Saeedaltmimi",
+        "minSingleTransAmount": "500",
+        "maxSingleTransAmount": "25000",
         "tradeMethods": [
-          "Bank Transfer",
-          "Aani"
+          "Bank Transfer"
         ]
       },
       "SELL": {
-        "price": 3.672,
+        "price": 3.67,
         "pickedIndex": 1,
         "availableRows": 10,
-        "advNo": "12817965222344892416",
-        "nickName": "FAST_CASH",
-        "minSingleTransAmount": "2500",
-        "maxSingleTransAmount": "2501",
+        "advNo": "12881283926025338880",
+        "nickName": "_Nahmed-",
+        "minSingleTransAmount": "24000",
+        "maxSingleTransAmount": "25000",
         "tradeMethods": [
           "Bank Transfer",
-          "AL MASHREQ Bank",
+          "Bank Transfer (Middle East)",
           "Abu Dhabi Commercial Bank ADCB",
-          "ADIB: Abu Dhabi Islamic Bank",
           "Emirates NBD"
         ]
       }
@@ -106,29 +103,30 @@
         ]
       },
       "SELL": {
-        "price": 3.88,
+        "price": 3.91,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12881675938402131968",
-        "nickName": "USDT-byCash",
-        "minSingleTransAmount": "600",
-        "maxSingleTransAmount": "2000",
+        "advNo": "12883487534083424256",
+        "nickName": "FLASH494",
+        "minSingleTransAmount": "1499",
+        "maxSingleTransAmount": "1500",
         "tradeMethods": [
-          "Cash app"
+          "stc pay",
+          "Al Rajhi Bank"
         ]
       }
     },
     "USD": {
       "BUY": {
-        "price": 0.9,
+        "price": 0.999,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "13883868838959714304",
-        "nickName": "Naemi",
+        "advNo": "13868525205176356864",
+        "nickName": "Freedom _BTC",
         "minSingleTransAmount": "100",
-        "maxSingleTransAmount": "900",
+        "maxSingleTransAmount": "10000",
         "tradeMethods": [
-          "Bank Transfer"
+          "Bank of Georgia"
         ]
       },
       "SELL": {
@@ -149,31 +147,27 @@
     },
     "EUR": {
       "BUY": {
-        "price": 0.854,
+        "price": 0.855,
         "pickedIndex": 1,
         "availableRows": 10,
-        "advNo": "12882053389246521344",
-        "nickName": "User-ee6ba",
+        "advNo": "13877782615299432448",
+        "nickName": "ExcellentOTC",
         "minSingleTransAmount": "100",
-        "maxSingleTransAmount": "500",
+        "maxSingleTransAmount": "350",
         "tradeMethods": [
           "Wise"
         ]
       },
       "SELL": {
-        "price": 0.919,
+        "price": 0.89,
         "pickedIndex": 1,
-        "availableRows": 11,
-        "advNo": "12883624715835170816",
-        "nickName": "DavidOchoa",
-        "minSingleTransAmount": "29100",
-        "maxSingleTransAmount": "29900",
+        "availableRows": 10,
+        "advNo": "12860684524918095872",
+        "nickName": "ReySolutions2",
+        "minSingleTransAmount": "209",
+        "maxSingleTransAmount": "210",
         "tradeMethods": [
-          "Banco Santander (Spain)",
-          "ING",
-          "N26",
-          "SEPA Instant",
-          "BBVA"
+          "Bizum"
         ]
       }
     }
