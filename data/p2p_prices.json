@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1777728415810,
+  "updatedAt": 1777732249839,
   "source": "Binance P2P web endpoint",
   "asset": "USDT",
   "prices": {
@@ -36,19 +36,20 @@
     },
     "EGP": {
       "BUY": {
-        "price": 53.86,
+        "price": 53.84,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12883457564379123712",
-        "nickName": "FxMAFIA",
-        "minSingleTransAmount": "5000",
-        "maxSingleTransAmount": "500000",
+        "advNo": "12883208466835759104",
+        "nickName": "Moora",
+        "minSingleTransAmount": "2100",
+        "maxSingleTransAmount": "2110",
         "tradeMethods": [
+          "Bank Transfer",
           "InstaPay"
         ]
       },
       "SELL": {
-        "price": 54.59,
+        "price": 54.46,
         "pickedIndex": 1,
         "availableRows": 11,
         "advNo": "12808276496700526592",
@@ -62,33 +63,32 @@
     },
     "AED": {
       "BUY": {
-        "price": 3.679,
+        "price": 3.685,
         "pickedIndex": 1,
         "availableRows": 10,
-        "advNo": "12883880106265911296",
-        "nickName": "Abdelkhalk-Bilal-Lachheb",
-        "minSingleTransAmount": "403",
-        "maxSingleTransAmount": "404",
+        "advNo": "12881492562056491008",
+        "nickName": "Horizon-Exchange",
+        "minSingleTransAmount": "250",
+        "maxSingleTransAmount": "251",
         "tradeMethods": [
-          "AL MASHREQ Bank",
           "Bank Transfer",
-          "Cash Deposit to Bank"
+          "Aani"
         ]
       },
       "SELL": {
         "price": 3.672,
         "pickedIndex": 1,
         "availableRows": 10,
-        "advNo": "12871675613648875520",
-        "nickName": "ShshiNeedsSpicy",
-        "minSingleTransAmount": "3200",
-        "maxSingleTransAmount": "3300",
+        "advNo": "12817965222344892416",
+        "nickName": "FAST_CASH",
+        "minSingleTransAmount": "2500",
+        "maxSingleTransAmount": "2501",
         "tradeMethods": [
           "Bank Transfer",
-          "Transfers with specific bank",
-          "Cash Deposit to Bank",
-          "Emirates NBD",
-          "AL MASHREQ Bank"
+          "AL MASHREQ Bank",
+          "Abu Dhabi Commercial Bank ADCB",
+          "ADIB: Abu Dhabi Islamic Bank",
+          "Emirates NBD"
         ]
       }
     },
@@ -106,29 +106,29 @@
         ]
       },
       "SELL": {
-        "price": 3.91,
+        "price": 3.88,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12883834133036077056",
-        "nickName": "Megad",
-        "minSingleTransAmount": "274",
-        "maxSingleTransAmount": "100000",
+        "advNo": "12881675938402131968",
+        "nickName": "USDT-byCash",
+        "minSingleTransAmount": "600",
+        "maxSingleTransAmount": "2000",
         "tradeMethods": [
-          "Al Rajhi Bank"
+          "Cash app"
         ]
       }
     },
     "USD": {
       "BUY": {
-        "price": 1.0,
+        "price": 0.9,
         "pickedIndex": 1,
-        "availableRows": 10,
-        "advNo": "12556206845790932992",
-        "nickName": "誌得其樂",
-        "minSingleTransAmount": "15",
-        "maxSingleTransAmount": "1500",
+        "availableRows": 11,
+        "advNo": "13883868838959714304",
+        "nickName": "Naemi",
+        "minSingleTransAmount": "100",
+        "maxSingleTransAmount": "900",
         "tradeMethods": [
-          "Bank Transfer (Taiwan)"
+          "Bank Transfer"
         ]
       },
       "SELL": {
@@ -155,7 +155,7 @@
         "advNo": "12882053389246521344",
         "nickName": "User-ee6ba",
         "minSingleTransAmount": "100",
-        "maxSingleTransAmount": "300",
+        "maxSingleTransAmount": "500",
         "tradeMethods": [
           "Wise"
         ]
