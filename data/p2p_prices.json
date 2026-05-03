@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1777764405928,
+  "updatedAt": 1777766989697,
   "source": "Binance P2P web endpoint",
   "asset": "USDT",
   "prices": {
@@ -40,20 +40,20 @@
         "availableRows": 11,
         "advNo": "13769706220963799040",
         "nickName": "ENG-Osos_-Trusted-_",
-        "minSingleTransAmount": "4770",
-        "maxSingleTransAmount": "4770",
+        "minSingleTransAmount": "6510",
+        "maxSingleTransAmount": "6510",
         "tradeMethods": [
           "InstaPay"
         ]
       },
       "SELL": {
-        "price": 54.31,
+        "price": 54.3,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12882614762252079104",
-        "nickName": "TRUSTED_SELLER_USDT",
+        "advNo": "12878068626145529856",
+        "nickName": "FooX-_-",
         "minSingleTransAmount": "10000",
-        "maxSingleTransAmount": "60000",
+        "maxSingleTransAmount": "10001",
         "tradeMethods": [
           "Vodafone cash"
         ]
@@ -61,46 +61,47 @@
     },
     "AED": {
       "BUY": {
-        "price": 3.688,
+        "price": 3.69,
         "pickedIndex": 1,
         "availableRows": 10,
-        "advNo": "13881068645072584704",
-        "nickName": "OFFICIAL__MERCHANT",
-        "minSingleTransAmount": "20967",
-        "maxSingleTransAmount": "20968",
+        "advNo": "13872479197924966400",
+        "nickName": "User-118b3",
+        "minSingleTransAmount": "10000",
+        "maxSingleTransAmount": "7000000",
         "tradeMethods": [
-          "Bank Transfer"
+          "Bank Transfer",
+          "AL MASHREQ Bank"
         ]
       },
       "SELL": {
-        "price": 3.678,
+        "price": 3.671,
         "pickedIndex": 1,
         "availableRows": 10,
-        "advNo": "12884032881633239040",
-        "nickName": "Futuer4005",
-        "minSingleTransAmount": "5000",
-        "maxSingleTransAmount": "11500",
+        "advNo": "12862826969524740096",
+        "nickName": "Cross77",
+        "minSingleTransAmount": "10000",
+        "maxSingleTransAmount": "11900",
         "tradeMethods": [
+          "AL MASHREQ Bank",
+          "Abu Dhabi Commercial Bank ADCB",
+          "Emirates NBD",
           "Bank Transfer",
-          "Abu Dhabi Commercial Bank ADCB"
+          "ADIB: Abu Dhabi Islamic Bank"
         ]
       }
     },
     "SAR": {
       "BUY": {
-        "price": 3.81,
+        "price": 3.8,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "13874434449224937472",
-        "nickName": "RAED-KSA",
-        "minSingleTransAmount": "9000",
-        "maxSingleTransAmount": "10000000",
+        "advNo": "13723417228355735552",
+        "nickName": "MR ALAA ADIN",
+        "minSingleTransAmount": "295",
+        "maxSingleTransAmount": "297",
         "tradeMethods": [
-          "Alinma Bank",
-          "Saudi National Bank (AlAhli Bank)",
-          "Al Rajhi Bank",
-          "Bank Transfer",
-          "Riyad Bank"
+          "Transfers with specific bank",
+          "Bank Transfer"
         ]
       },
       "SELL": {
