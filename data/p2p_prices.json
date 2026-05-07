@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1778171385434,
+  "updatedAt": 1778177477185,
   "source": "Binance P2P web endpoint",
   "asset": "USDT",
   "prices": {
@@ -37,22 +37,24 @@
         "price": 53.15,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12881744763583717376",
-        "nickName": "HANYMOHAISEN",
-        "minSingleTransAmount": "68000",
+        "advNo": "12877113501452640256",
+        "nickName": "FLF0L",
+        "minSingleTransAmount": "2000",
         "maxSingleTransAmount": "500000",
         "tradeMethods": [
-          "InstaPay"
+          "InstaPay",
+          "Bank Transfer",
+          "Alex Bank"
         ]
       },
       "SELL": {
-        "price": 53.56,
+        "price": 53.52,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12880370766116442112",
-        "nickName": "The Fast King 1",
-        "minSingleTransAmount": "35000",
-        "maxSingleTransAmount": "35001",
+        "advNo": "12875191147386220544",
+        "nickName": "king-Hosha",
+        "minSingleTransAmount": "10000",
+        "maxSingleTransAmount": "10001",
         "tradeMethods": [
           "Vodafone cash"
         ]
@@ -75,14 +77,14 @@
         "price": 3.67,
         "pickedIndex": 1,
         "availableRows": 10,
-        "advNo": "12879617916098564096",
-        "nickName": "Digital X EXCHANGE",
-        "minSingleTransAmount": "4500",
-        "maxSingleTransAmount": "63500",
+        "advNo": "12885754658452418560",
+        "nickName": "PramsolGenralTrading",
+        "minSingleTransAmount": "5000",
+        "maxSingleTransAmount": "15597",
         "tradeMethods": [
-          "Bank Transfer",
-          "Cash Deposit to Bank",
-          "Emirates NBD"
+          "AL MASHREQ Bank",
+          "Aani",
+          "Bank Transfer (Middle East)"
         ]
       }
     },
@@ -91,28 +93,25 @@
         "price": 3.8,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12868445724635893760",
-        "nickName": "ALDUGHAYLIBI",
-        "minSingleTransAmount": "3000",
-        "maxSingleTransAmount": "100000",
+        "advNo": "13798762285975609344",
+        "nickName": "Abo Saqer",
+        "minSingleTransAmount": "20000",
+        "maxSingleTransAmount": "10000000",
         "tradeMethods": [
-          "Alinma Bank",
-          "Al Rajhi Bank",
-          "Saudi National Bank (AlAhli Bank)"
+          "Bank Transfer"
         ]
       },
       "SELL": {
-        "price": 3.87,
+        "price": 3.86,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12837333241185329152",
-        "nickName": "1-MUBARAK",
-        "minSingleTransAmount": "500",
-        "maxSingleTransAmount": "550",
+        "advNo": "12866273436855316480",
+        "nickName": "P2pcome",
+        "minSingleTransAmount": "649",
+        "maxSingleTransAmount": "656",
         "tradeMethods": [
           "Bank Transfer",
-          "Alinma Bank",
-          "AlinmaPay"
+          "urpay"
         ]
       }
     },
@@ -144,34 +143,29 @@
     },
     "EUR": {
       "BUY": {
-        "price": 0.848,
+        "price": 0.855,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12856414676260380672",
-        "nickName": "Myr4ik001",
-        "minSingleTransAmount": "731",
-        "maxSingleTransAmount": "731",
+        "advNo": "13885006696177954816",
+        "nickName": "Crypto-Eli",
+        "minSingleTransAmount": "400",
+        "maxSingleTransAmount": "15000",
         "tradeMethods": [
-          "BBVA",
-          "Bizum",
-          "Banco Santander (Spain)",
-          "Banco Sabadell (Spain)"
+          "SEPA Instant",
+          "N26",
+          "Bank Transfer"
         ]
       },
       "SELL": {
         "price": 0.88,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12879172488088207360",
-        "nickName": "Very_Fast_Merchant",
-        "minSingleTransAmount": "3599",
-        "maxSingleTransAmount": "3600",
+        "advNo": "12836529306872807424",
+        "nickName": "josedpu23",
+        "minSingleTransAmount": "29",
+        "maxSingleTransAmount": "30",
         "tradeMethods": [
-          "Banco Santander (Spain)",
-          "SEPA (EU) bank transfer",
-          "SEPA Instant",
-          "BBVA",
-          "ING"
+          "Bizum"
         ]
       }
     }
