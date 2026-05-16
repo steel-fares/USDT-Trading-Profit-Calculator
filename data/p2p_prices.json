@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1778888326697,
+  "updatedAt": 1778894659643,
   "source": "Binance P2P web endpoint",
   "asset": "USDT",
   "prices": {
@@ -8,13 +8,15 @@
         "price": 0.39,
         "pickedIndex": 1,
         "availableRows": 10,
-        "advNo": "12887500071109787648",
-        "nickName": "Cocoriki",
+        "advNo": "13888700137066409984",
+        "nickName": "00_001L_1_",
         "minSingleTransAmount": "400",
-        "maxSingleTransAmount": "2500",
+        "maxSingleTransAmount": "75000",
         "tradeMethods": [
-          "Bank Dhofar",
-          "Airtime Mobile Top-Up"
+          "Bank Transfer",
+          "Sohar International",
+          "Airtime Mobile Top-Up",
+          "Bank Muscat"
         ]
       },
       "SELL": {
@@ -44,7 +46,7 @@
         ]
       },
       "SELL": {
-        "price": 53.95,
+        "price": 53.94,
         "pickedIndex": 1,
         "availableRows": 11,
         "advNo": "12845658446082236416",
@@ -58,18 +60,15 @@
     },
     "AED": {
       "BUY": {
-        "price": 3.682,
+        "price": 3.681,
         "pickedIndex": 1,
         "availableRows": 10,
-        "advNo": "12882108416870658048",
-        "nickName": "Abood711",
-        "minSingleTransAmount": "5000",
-        "maxSingleTransAmount": "25000",
+        "advNo": "13870127027182141440",
+        "nickName": "UAE-Trader-OTC",
+        "minSingleTransAmount": "10000",
+        "maxSingleTransAmount": "50000",
         "tradeMethods": [
-          "Bank Transfer",
-          "ADIB: Abu Dhabi Islamic Bank",
-          "Abu Dhabi Commercial Bank ADCB",
-          "Aani"
+          "Bank Transfer"
         ]
       },
       "SELL": {
@@ -99,30 +98,32 @@
         ]
       },
       "SELL": {
-        "price": 3.84,
+        "price": 3.9,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12888699648924319744",
-        "nickName": "fahad albakr",
-        "minSingleTransAmount": "5000",
-        "maxSingleTransAmount": "8000",
+        "advNo": "12888755933825691648",
+        "nickName": "P2P-fbd6f1zm",
+        "minSingleTransAmount": "4017",
+        "maxSingleTransAmount": "4120",
         "tradeMethods": [
-          "Al Rajhi Bank"
+          "barq"
         ]
       }
     },
     "USD": {
       "BUY": {
-        "price": 0.992,
+        "price": 0.999,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "13827755773491462144",
-        "nickName": "Sparrow_Jack",
-        "minSingleTransAmount": "300",
-        "maxSingleTransAmount": "500",
+        "advNo": "13853494170605809664",
+        "nickName": "Chhay_An-Exchange",
+        "minSingleTransAmount": "100",
+        "maxSingleTransAmount": "109",
         "tradeMethods": [
-          "Banco Pichincha",
-          "Banco Guayaquil"
+          "KHQR",
+          "ACLEDA Bank",
+          "Wing Money",
+          "ABA"
         ]
       },
       "SELL": {
@@ -147,31 +148,24 @@
         "price": 0.865,
         "pickedIndex": 1,
         "availableRows": 10,
-        "advNo": "13887050706050564096",
-        "nickName": "Crypto-Simple",
-        "minSingleTransAmount": "400",
-        "maxSingleTransAmount": "5000",
+        "advNo": "12888710550698938368",
+        "nickName": "PetrKino",
+        "minSingleTransAmount": "90",
+        "maxSingleTransAmount": "300",
         "tradeMethods": [
-          "Bank Transfer",
-          "SEPA Instant",
-          "SEPA (EU) bank transfer",
-          "N26"
+          "SEPA (EU) bank transfer"
         ]
       },
       "SELL": {
-        "price": 0.875,
+        "price": 0.866,
         "pickedIndex": 1,
         "availableRows": 10,
-        "advNo": "12859184289851469824",
-        "nickName": "PrometeyX",
-        "minSingleTransAmount": "4000",
-        "maxSingleTransAmount": "50000",
+        "advNo": "12883974331835744256",
+        "nickName": "HappyTradingU",
+        "minSingleTransAmount": "50",
+        "maxSingleTransAmount": "520",
         "tradeMethods": [
-          "Banco Santander (Spain)",
-          "Banco Sabadell (Spain)",
-          "CaixaBank (Spain)",
-          "Paysera",
-          "ING"
+          "Dukascopy Bank"
         ]
       }
     }
