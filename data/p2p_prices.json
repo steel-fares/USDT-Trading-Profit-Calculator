@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1779147983373,
+  "updatedAt": 1779155472406,
   "source": "Binance P2P web endpoint",
   "asset": "USDT",
   "prices": {
@@ -34,39 +34,43 @@
     },
     "EGP": {
       "BUY": {
-        "price": 53.76,
+        "price": 53.79,
         "pickedIndex": 1,
-        "availableRows": 11,
-        "advNo": "12879234664566333440",
-        "nickName": "ElsayedMohaisen",
-        "minSingleTransAmount": "70",
-        "maxSingleTransAmount": "200",
+        "availableRows": 10,
+        "advNo": "12889834792876568576",
+        "nickName": "AFM007",
+        "minSingleTransAmount": "500",
+        "maxSingleTransAmount": "500000",
         "tradeMethods": [
-          "InstaPay"
+          "InstaPay",
+          "Banque Misr",
+          "Bank Transfer",
+          "AL MASHREQ Bank"
         ]
       },
       "SELL": {
-        "price": 54.5,
+        "price": 54.46,
         "pickedIndex": 1,
-        "availableRows": 11,
-        "advNo": "12845658446082236416",
-        "nickName": "__G__A__N__A__A__T__",
-        "minSingleTransAmount": "20000",
-        "maxSingleTransAmount": "20001",
+        "availableRows": 10,
+        "advNo": "12889140795689795584",
+        "nickName": "Magdy90",
+        "minSingleTransAmount": "49000",
+        "maxSingleTransAmount": "500000",
         "tradeMethods": [
-          "Vodafone cash"
+          "Vodafone cash",
+          "7-Eleven"
         ]
       }
     },
     "AED": {
       "BUY": {
-        "price": 3.684,
+        "price": 3.679,
         "pickedIndex": 1,
         "availableRows": 10,
-        "advNo": "12759233664740556800",
-        "nickName": "McLaren19",
-        "minSingleTransAmount": "2208",
-        "maxSingleTransAmount": "25000",
+        "advNo": "13851100617507299328",
+        "nickName": "Trade king_x",
+        "minSingleTransAmount": "1170",
+        "maxSingleTransAmount": "1170",
         "tradeMethods": [
           "Bank Transfer"
         ]
@@ -112,13 +116,13 @@
     },
     "USD": {
       "BUY": {
-        "price": 0.991,
+        "price": 0.99,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "13846640356941860864",
-        "nickName": "Cadenasman",
-        "minSingleTransAmount": "20",
-        "maxSingleTransAmount": "51",
+        "advNo": "12889859008632745984",
+        "nickName": "Kinarf",
+        "minSingleTransAmount": "10",
+        "maxSingleTransAmount": "1500",
         "tradeMethods": [
           "Wally Tech"
         ]
@@ -158,13 +162,13 @@
         ]
       },
       "SELL": {
-        "price": 0.868,
+        "price": 0.867,
         "pickedIndex": 1,
         "availableRows": 10,
-        "advNo": "12889184201051500544",
-        "nickName": "Gasti96",
-        "minSingleTransAmount": "20",
-        "maxSingleTransAmount": "800",
+        "advNo": "12884971674535563264",
+        "nickName": "sara2p2p",
+        "minSingleTransAmount": "150",
+        "maxSingleTransAmount": "500",
         "tradeMethods": [
           "Dukascopy Bank"
         ]
