@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1779250930417,
+  "updatedAt": 1779263974190,
   "source": "Binance P2P web endpoint",
   "asset": "USDT",
   "prices": {
@@ -36,53 +36,57 @@
     },
     "EGP": {
       "BUY": {
-        "price": 53.7,
+        "price": 53.64,
         "pickedIndex": 1,
-        "availableRows": 10,
-        "advNo": "12866131981181972480",
-        "nickName": "mahmoudtiger",
-        "minSingleTransAmount": "5000",
-        "maxSingleTransAmount": "500000",
+        "availableRows": 11,
+        "advNo": "12890319333060538368",
+        "nickName": "MeroGaming",
+        "minSingleTransAmount": "50000",
+        "maxSingleTransAmount": "70000",
         "tradeMethods": [
-          "CIB Bank"
+          "InstaPay"
         ]
       },
       "SELL": {
-        "price": 54.28,
+        "price": 55.7,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12882773690674745344",
-        "nickName": "Number1111111",
-        "minSingleTransAmount": "10000",
-        "maxSingleTransAmount": "10001",
+        "advNo": "12890237803795734528",
+        "nickName": "SKTradersZ",
+        "minSingleTransAmount": "5500",
+        "maxSingleTransAmount": "500000",
         "tradeMethods": [
-          "Vodafone cash"
+          "Meezan Bank",
+          "Easypaisa-PK Only",
+          "UPI",
+          "PhonePe",
+          "Paytm"
         ]
       }
     },
     "AED": {
       "BUY": {
-        "price": 3.685,
+        "price": 3.68,
         "pickedIndex": 1,
         "availableRows": 10,
-        "advNo": "12890040623947522048",
-        "nickName": "Rehmanlatif",
-        "minSingleTransAmount": "3000",
-        "maxSingleTransAmount": "6807",
+        "advNo": "12889632381756977152",
+        "nickName": "User-06c4c",
+        "minSingleTransAmount": "400",
+        "maxSingleTransAmount": "1700",
         "tradeMethods": [
           "Bank Transfer"
         ]
       },
       "SELL": {
-        "price": 3.668,
+        "price": 3.672,
         "pickedIndex": 1,
         "availableRows": 10,
-        "advNo": "12890066478814162944",
-        "nickName": "KEMOLANDS",
-        "minSingleTransAmount": "5500",
-        "maxSingleTransAmount": "6000",
+        "advNo": "12889928983385714688",
+        "nickName": "KPH-Trader",
+        "minSingleTransAmount": "3990",
+        "maxSingleTransAmount": "3995",
         "tradeMethods": [
-          "Bank Transfer"
+          "Aani"
         ]
       }
     },
@@ -103,12 +107,12 @@
         "price": 3.84,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12889933171139203072",
-        "nickName": "khadkadurga",
+        "advNo": "12888184836849098752",
+        "nickName": "ABO HMODI",
         "minSingleTransAmount": "60",
-        "maxSingleTransAmount": "335",
+        "maxSingleTransAmount": "100000",
         "tradeMethods": [
-          "urpay"
+          "barq"
         ]
       }
     },
@@ -160,15 +164,19 @@
         ]
       },
       "SELL": {
-        "price": 0.868,
+        "price": 0.885,
         "pickedIndex": 1,
-        "availableRows": 10,
-        "advNo": "12883974331835744256",
-        "nickName": "HappyTradingU",
-        "minSingleTransAmount": "50",
-        "maxSingleTransAmount": "415",
+        "availableRows": 11,
+        "advNo": "12870069837766774784",
+        "nickName": "Nick7557",
+        "minSingleTransAmount": "3500",
+        "maxSingleTransAmount": "15000",
         "tradeMethods": [
-          "Dukascopy Bank"
+          "Wise",
+          "SEPA Instant",
+          "N26",
+          "Bunq",
+          "BBVA"
         ]
       }
     }
