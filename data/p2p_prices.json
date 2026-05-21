@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1779403269749,
+  "updatedAt": 1779406928385,
   "source": "Binance P2P web endpoint",
   "asset": "USDT",
   "prices": {
@@ -24,52 +24,58 @@
         "price": 0.388,
         "pickedIndex": 1,
         "availableRows": 10,
-        "advNo": "12890890556300288000",
-        "nickName": "Solysaif",
-        "minSingleTransAmount": "25",
-        "maxSingleTransAmount": "2500",
+        "advNo": "12885679151175421952",
+        "nickName": "aboseta",
+        "minSingleTransAmount": "100",
+        "maxSingleTransAmount": "400",
         "tradeMethods": [
-          "Bank Muscat"
+          "Bank Muscat",
+          "Sohar International",
+          "Bank Transfer"
         ]
       }
     },
     "EGP": {
       "BUY": {
-        "price": 53.4,
+        "price": 53.45,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12861060282760744960",
-        "nickName": "Elmasry-om",
-        "minSingleTransAmount": "24999",
-        "maxSingleTransAmount": "25000",
+        "advNo": "12888339922007568384",
+        "nickName": "IGMSS",
+        "minSingleTransAmount": "1000",
+        "maxSingleTransAmount": "500000",
         "tradeMethods": [
-          "InstaPay"
+          "Bank Transfer",
+          "CIB Bank",
+          "Banque Misr",
+          "Alex Bank"
         ]
       },
       "SELL": {
-        "price": 53.99,
+        "price": 54.04,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12878147088105619456",
-        "nickName": "AbOali1232",
-        "minSingleTransAmount": "100000",
+        "advNo": "12889140795689795584",
+        "nickName": "Magdy90",
+        "minSingleTransAmount": "49000",
         "maxSingleTransAmount": "500000",
         "tradeMethods": [
-          "Vodafone cash"
+          "Vodafone cash",
+          "7-Eleven"
         ]
       }
     },
     "AED": {
       "BUY": {
-        "price": 3.679,
+        "price": 3.677,
         "pickedIndex": 1,
         "availableRows": 10,
-        "advNo": "13889724570799009792",
-        "nickName": "Melbatal",
-        "minSingleTransAmount": "30000",
-        "maxSingleTransAmount": "100000",
+        "advNo": "12842625559956557824",
+        "nickName": "Capitano14",
+        "minSingleTransAmount": "2930",
+        "maxSingleTransAmount": "10000",
         "tradeMethods": [
-          "ADIB: Abu Dhabi Islamic Bank"
+          "Bank Transfer"
         ]
       },
       "SELL": {
@@ -99,30 +105,29 @@
         ]
       },
       "SELL": {
-        "price": 3.87,
+        "price": 3.86,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12886565525173960704",
-        "nickName": "User-4106f",
-        "minSingleTransAmount": "150",
-        "maxSingleTransAmount": "150",
+        "advNo": "12890840600389906432",
+        "nickName": "OwlSaid",
+        "minSingleTransAmount": "30",
+        "maxSingleTransAmount": "110",
         "tradeMethods": [
-          "Bank Transfer",
           "stc pay"
         ]
       }
     },
     "USD": {
       "BUY": {
-        "price": 0.999,
+        "price": 1.0,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "13885667672666386432",
-        "nickName": "RiderCripto",
-        "minSingleTransAmount": "200",
-        "maxSingleTransAmount": "15000",
+        "advNo": "12556206845790932992",
+        "nickName": "誌得其樂",
+        "minSingleTransAmount": "15",
+        "maxSingleTransAmount": "1500",
         "tradeMethods": [
-          "Towerbank"
+          "Bank Transfer (Taiwan)"
         ]
       },
       "SELL": {
@@ -144,27 +149,27 @@
     },
     "EUR": {
       "BUY": {
-        "price": 0.863,
+        "price": 0.865,
         "pickedIndex": 1,
         "availableRows": 10,
-        "advNo": "13730263028184322048",
-        "nickName": "Sashok",
-        "minSingleTransAmount": "849",
-        "maxSingleTransAmount": "849",
+        "advNo": "13849347986420588544",
+        "nickName": "13_cash_13",
+        "minSingleTransAmount": "150",
+        "maxSingleTransAmount": "2000",
         "tradeMethods": [
           "Wise"
         ]
       },
       "SELL": {
-        "price": 0.88,
+        "price": 0.87,
         "pickedIndex": 1,
         "availableRows": 10,
-        "advNo": "12865186046421397504",
-        "nickName": "Andre2593",
-        "minSingleTransAmount": "530",
-        "maxSingleTransAmount": "530",
+        "advNo": "12746295902561484800",
+        "nickName": "p2ptruth",
+        "minSingleTransAmount": "189",
+        "maxSingleTransAmount": "190",
         "tradeMethods": [
-          "CaixaBank (Spain)"
+          "Skrill (Moneybookers)"
         ]
       }
     }
