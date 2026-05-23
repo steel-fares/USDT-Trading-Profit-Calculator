@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1779495409994,
+  "updatedAt": 1779509503014,
   "source": "Binance P2P web endpoint",
   "asset": "USDT",
   "prices": {
@@ -7,25 +7,28 @@
       "BUY": {
         "price": 0.389,
         "pickedIndex": 1,
-        "availableRows": 10,
-        "advNo": "12890522555033350144",
-        "nickName": "User-66cce",
-        "minSingleTransAmount": "160",
-        "maxSingleTransAmount": "800",
+        "availableRows": 11,
+        "advNo": "12688259736970010624",
+        "nickName": "Airbus320-251",
+        "minSingleTransAmount": "500",
+        "maxSingleTransAmount": "2500",
         "tradeMethods": [
+          "Airtime Mobile Top-Up",
           "Bank Muscat",
-          "Sohar International"
+          "Bank Dhofar"
         ]
       },
       "SELL": {
-        "price": 0.388,
+        "price": 0.39,
         "pickedIndex": 1,
-        "availableRows": 10,
-        "advNo": "12891225409032658944",
-        "nickName": "A56N",
-        "minSingleTransAmount": "40",
-        "maxSingleTransAmount": "50",
+        "availableRows": 11,
+        "advNo": "12836464470759849984",
+        "nickName": "Ammar50005",
+        "minSingleTransAmount": "2499",
+        "maxSingleTransAmount": "2500",
         "tradeMethods": [
+          "Oman Arab Bank",
+          "Bank Transfer (Middle East)",
           "Bank Muscat",
           "Airtime Mobile Top-Up"
         ]
@@ -33,38 +36,37 @@
     },
     "EGP": {
       "BUY": {
-        "price": 53.21,
+        "price": 53.3,
         "pickedIndex": 1,
-        "availableRows": 11,
-        "advNo": "12891075849625972736",
-        "nickName": "8bd_6",
-        "minSingleTransAmount": "70",
-        "maxSingleTransAmount": "929",
+        "availableRows": 10,
+        "advNo": "12862219386601672704",
+        "nickName": "Dollar101",
+        "minSingleTransAmount": "10000",
+        "maxSingleTransAmount": "500000",
         "tradeMethods": [
           "InstaPay"
         ]
       },
       "SELL": {
-        "price": 53.88,
+        "price": 53.66,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12889140795689795584",
-        "nickName": "Magdy90",
-        "minSingleTransAmount": "49000",
-        "maxSingleTransAmount": "500000",
+        "advNo": "12875045048901033984",
+        "nickName": "Marketing_Crypto",
+        "minSingleTransAmount": "5000",
+        "maxSingleTransAmount": "5001",
         "tradeMethods": [
-          "Vodafone cash",
-          "7-Eleven"
+          "Vodafone cash"
         ]
       }
     },
     "AED": {
       "BUY": {
-        "price": 3.697,
+        "price": 3.699,
         "pickedIndex": 1,
         "availableRows": 10,
-        "advNo": "12889941522404642816",
-        "nickName": "Alexandria_Prince",
+        "advNo": "12890421675869917184",
+        "nickName": "Mrcrepo",
         "minSingleTransAmount": "1000",
         "maxSingleTransAmount": "25000",
         "tradeMethods": [
@@ -73,18 +75,14 @@
         ]
       },
       "SELL": {
-        "price": 3.67,
+        "price": 3.675,
         "pickedIndex": 1,
         "availableRows": 10,
-        "advNo": "12878897177433649152",
-        "nickName": "TRUST__COMBANY",
-        "minSingleTransAmount": "9000",
-        "maxSingleTransAmount": "25000",
+        "advNo": "12890806207238135808",
+        "nickName": "Moe-Aani",
+        "minSingleTransAmount": "500",
+        "maxSingleTransAmount": "15000",
         "tradeMethods": [
-          "Bank Transfer",
-          "ADIB: Abu Dhabi Islamic Bank",
-          "Abu Dhabi Commercial Bank ADCB",
-          "Emirates NBD",
           "Aani"
         ]
       }
@@ -120,63 +118,61 @@
     },
     "USD": {
       "BUY": {
-        "price": 0.998,
+        "price": 1.0,
         "pickedIndex": 1,
-        "availableRows": 11,
-        "advNo": "12891294801277276160",
-        "nickName": "KokSeang",
-        "minSingleTransAmount": "10",
-        "maxSingleTransAmount": "19",
+        "availableRows": 10,
+        "advNo": "12556206845790932992",
+        "nickName": "誌得其樂",
+        "minSingleTransAmount": "15",
+        "maxSingleTransAmount": "1500",
         "tradeMethods": [
-          "Wing Money",
-          "ACLEDA Bank",
-          "ABA",
-          "True Money (Cambodia)",
-          "KHQR"
+          "Bank Transfer (Taiwan)"
         ]
       },
       "SELL": {
         "price": 1.1,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "11544762966308917248",
-        "nickName": "Unify",
-        "minSingleTransAmount": "10",
-        "maxSingleTransAmount": "462",
+        "advNo": "12885343937109921792",
+        "nickName": "SKTradersZ",
+        "minSingleTransAmount": "15",
+        "maxSingleTransAmount": "1500",
         "tradeMethods": [
-          "PayPro",
-          "Paytm",
-          "Payme.io"
+          "Google Pay (GPay)",
+          "IMPS",
+          "stc pay",
+          "PhonePe",
+          "Paytm"
         ]
       }
     },
     "EUR": {
       "BUY": {
-        "price": 0.865,
+        "price": 0.867,
         "pickedIndex": 1,
-        "availableRows": 11,
-        "advNo": "13864797561543344128",
-        "nickName": "TEZER_Exchange",
-        "minSingleTransAmount": "250",
+        "availableRows": 10,
+        "advNo": "13886768836707422208",
+        "nickName": "Crypto-Simple",
+        "minSingleTransAmount": "400",
         "maxSingleTransAmount": "10000",
         "tradeMethods": [
           "Bank Transfer",
           "SEPA Instant",
           "SEPA (EU) bank transfer",
-          "N26",
-          "Bunq"
+          "N26"
         ]
       },
       "SELL": {
         "price": 0.87,
         "pickedIndex": 1,
-        "availableRows": 11,
-        "advNo": "12836827218162323456",
-        "nickName": "Mariyko_11",
-        "minSingleTransAmount": "1467",
-        "maxSingleTransAmount": "5000",
+        "availableRows": 10,
+        "advNo": "12881351975162363904",
+        "nickName": "Sharive",
+        "minSingleTransAmount": "120",
+        "maxSingleTransAmount": "121",
         "tradeMethods": [
-          "SEPA Instant"
+          "BBVA",
+          "Bizum"
         ]
       }
     }
