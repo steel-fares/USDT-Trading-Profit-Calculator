@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1779550683954,
+  "updatedAt": 1779554451793,
   "source": "Binance P2P web endpoint",
   "asset": "USDT",
   "prices": {
@@ -36,25 +36,25 @@
     },
     "EGP": {
       "BUY": {
-        "price": 53.1,
+        "price": 53.12,
         "pickedIndex": 1,
-        "availableRows": 11,
-        "advNo": "12886205107727884288",
-        "nickName": "mma_071099",
-        "minSingleTransAmount": "2100",
-        "maxSingleTransAmount": "2140",
+        "availableRows": 10,
+        "advNo": "12866131981181972480",
+        "nickName": "mahmoudtiger",
+        "minSingleTransAmount": "5000",
+        "maxSingleTransAmount": "500000",
         "tradeMethods": [
-          "InstaPay"
+          "CIB Bank"
         ]
       },
       "SELL": {
-        "price": 53.38,
+        "price": 53.31,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12877960340499918848",
-        "nickName": "Elbasha-Online",
-        "minSingleTransAmount": "18500",
-        "maxSingleTransAmount": "18501",
+        "advNo": "12875861071139598336",
+        "nickName": "bolbol1122",
+        "minSingleTransAmount": "18000",
+        "maxSingleTransAmount": "18001",
         "tradeMethods": [
           "Vodafone cash"
         ]
@@ -62,26 +62,25 @@
     },
     "AED": {
       "BUY": {
-        "price": 3.693,
+        "price": 3.692,
         "pickedIndex": 1,
         "availableRows": 10,
-        "advNo": "12891495365337874432",
-        "nickName": "P2P-8773eera",
-        "minSingleTransAmount": "15000",
-        "maxSingleTransAmount": "25000",
+        "advNo": "12891537529381486592",
+        "nickName": "Teccue",
+        "minSingleTransAmount": "6700",
+        "maxSingleTransAmount": "6750",
         "tradeMethods": [
-          "Bank Transfer",
-          "Cash Deposit to Bank"
+          "Bank Transfer"
         ]
       },
       "SELL": {
-        "price": 3.683,
+        "price": 3.686,
         "pickedIndex": 1,
         "availableRows": 10,
-        "advNo": "12891509590738784256",
-        "nickName": "Cliq-Orange",
-        "minSingleTransAmount": "1303",
-        "maxSingleTransAmount": "1304",
+        "advNo": "12871482867226824704",
+        "nickName": "VerifiedMerchant99",
+        "minSingleTransAmount": "2000",
+        "maxSingleTransAmount": "2210",
         "tradeMethods": [
           "Bank Transfer"
         ]
@@ -92,14 +91,14 @@
         "price": 3.78,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12891432251035951104",
+        "advNo": "12891539103827755008",
         "nickName": "user_mohamed22",
         "minSingleTransAmount": "8000",
         "maxSingleTransAmount": "17300",
         "tradeMethods": [
           "Al Rajhi Bank",
           "stc pay",
-          "Alinma Bank"
+          "Ahlibank"
         ]
       },
       "SELL": {
@@ -133,39 +132,45 @@
       "SELL": {
         "price": 1.1,
         "pickedIndex": 1,
-        "availableRows": 10,
-        "advNo": "12823890774028124160",
-        "nickName": "Cele_13",
+        "availableRows": 11,
+        "advNo": "12885343937109921792",
+        "nickName": "SKTradersZ",
         "minSingleTransAmount": "15",
-        "maxSingleTransAmount": "19",
+        "maxSingleTransAmount": "1500",
         "tradeMethods": [
-          "Payme.io",
-          "Paynet",
-          "PayPro"
+          "Google Pay (GPay)",
+          "IMPS",
+          "stc pay",
+          "PhonePe",
+          "Paytm"
         ]
       }
     },
     "EUR": {
       "BUY": {
-        "price": 0.86,
+        "price": 0.863,
         "pickedIndex": 1,
         "availableRows": 10,
-        "advNo": "13891125457991630848",
-        "nickName": "PadAir_24h",
-        "minSingleTransAmount": "200",
-        "maxSingleTransAmount": "350",
+        "advNo": "13868239521361895424",
+        "nickName": "MoneTek",
+        "minSingleTransAmount": "2000",
+        "maxSingleTransAmount": "10000",
         "tradeMethods": [
+          "SEPA Instant",
+          "Bank Transfer",
+          "VISA Direct",
+          "Mastercard Send",
           "Wise"
         ]
       },
       "SELL": {
-        "price": 0.885,
+        "price": 0.89,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12833990197660401664",
-        "nickName": "SHINEMORE",
-        "minSingleTransAmount": "599",
-        "maxSingleTransAmount": "600",
+        "advNo": "12888266719772045312",
+        "nickName": "CambiosOrion",
+        "minSingleTransAmount": "200",
+        "maxSingleTransAmount": "200",
         "tradeMethods": [
           "BBVA"
         ]
