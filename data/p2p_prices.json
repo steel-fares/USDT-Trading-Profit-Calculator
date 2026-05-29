@@ -1,21 +1,19 @@
 {
-  "updatedAt": 1780043392444,
+  "updatedAt": 1780055461059,
   "source": "Binance P2P web endpoint",
   "asset": "USDT",
   "prices": {
     "OMR": {
       "BUY": {
-        "price": 0.391,
+        "price": 0.39,
         "pickedIndex": 1,
-        "availableRows": 10,
-        "advNo": "13815005586803834880",
-        "nickName": "CryptoAnalysts",
-        "minSingleTransAmount": "200",
-        "maxSingleTransAmount": "10000",
+        "availableRows": 11,
+        "advNo": "12893628167064481792",
+        "nickName": "BASEL-L",
+        "minSingleTransAmount": "100",
+        "maxSingleTransAmount": "2500",
         "tradeMethods": [
-          "Bank Muscat",
-          "Bank Dhofar",
-          "Ahlibank"
+          "Sohar International"
         ]
       },
       "SELL": {
@@ -36,28 +34,28 @@
     },
     "EGP": {
       "BUY": {
-        "price": 53.34,
+        "price": 53.25,
         "pickedIndex": 1,
-        "availableRows": 10,
-        "advNo": "13861734725375938560",
-        "nickName": "Ninja_Golden_Su",
-        "minSingleTransAmount": "100000",
-        "maxSingleTransAmount": "930000",
+        "availableRows": 11,
+        "advNo": "12893586241536557056",
+        "nickName": "samsoma",
+        "minSingleTransAmount": "42448",
+        "maxSingleTransAmount": "42450",
         "tradeMethods": [
-          "InstaPay",
-          "Alex Bank",
-          "Banque Misr",
-          "Bank Transfer"
+          "National Bank of Egypt (NBE)",
+          "Bank Transfer",
+          "CIB | Commercial International Bank Egypt",
+          "InstaPay"
         ]
       },
       "SELL": {
-        "price": 54.41,
+        "price": 54.7,
         "pickedIndex": 1,
-        "availableRows": 10,
-        "advNo": "12892154818445901824",
-        "nickName": "smsm12m",
-        "minSingleTransAmount": "10000",
-        "maxSingleTransAmount": "100001",
+        "availableRows": 11,
+        "advNo": "12850237209083248640",
+        "nickName": "USD_KING96",
+        "minSingleTransAmount": "90",
+        "maxSingleTransAmount": "100",
         "tradeMethods": [
           "Vodafone cash"
         ]
@@ -65,27 +63,29 @@
     },
     "AED": {
       "BUY": {
-        "price": 3.69,
+        "price": 3.682,
         "pickedIndex": 1,
         "availableRows": 10,
-        "advNo": "12889632381756977152",
-        "nickName": "User-06c4c",
-        "minSingleTransAmount": "800",
-        "maxSingleTransAmount": "4000",
+        "advNo": "12889930564037771264",
+        "nickName": "usma241",
+        "minSingleTransAmount": "200",
+        "maxSingleTransAmount": "210",
         "tradeMethods": [
           "Bank Transfer"
         ]
       },
       "SELL": {
-        "price": 3.682,
+        "price": 3.674,
         "pickedIndex": 1,
         "availableRows": 10,
-        "advNo": "12882252063274663936",
-        "nickName": "Moh_AR",
+        "advNo": "12886311100068941824",
+        "nickName": "Wa_fa",
         "minSingleTransAmount": "5000",
-        "maxSingleTransAmount": "10000",
+        "maxSingleTransAmount": "15380",
         "tradeMethods": [
-          "Aani"
+          "Aani",
+          "Bank Transfer",
+          "Abu Dhabi Commercial Bank ADCB"
         ]
       }
     },
@@ -147,7 +147,7 @@
       "BUY": {
         "price": 0.861,
         "pickedIndex": 1,
-        "availableRows": 11,
+        "availableRows": 10,
         "advNo": "13893581914696544256",
         "nickName": "PadAir_24h",
         "minSingleTransAmount": "150",
