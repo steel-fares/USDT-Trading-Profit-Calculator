@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1780256455182,
+  "updatedAt": 1780260120682,
   "source": "Binance P2P web endpoint",
   "asset": "USDT",
   "prices": {
@@ -33,25 +33,25 @@
     },
     "EGP": {
       "BUY": {
-        "price": 52.83,
+        "price": 52.87,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12879288558748909568",
-        "nickName": "A7md14",
-        "minSingleTransAmount": "7200",
-        "maxSingleTransAmount": "7201",
+        "advNo": "13769706220963799040",
+        "nickName": "ENG-Osos_-Trusted-_",
+        "minSingleTransAmount": "23650",
+        "maxSingleTransAmount": "23650",
         "tradeMethods": [
           "InstaPay"
         ]
       },
       "SELL": {
-        "price": 53.54,
+        "price": 53.9,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12878184818359562240",
-        "nickName": "Crypto_gemy",
-        "minSingleTransAmount": "4034",
-        "maxSingleTransAmount": "4035",
+        "advNo": "12875503182109560832",
+        "nickName": "EL_FADY",
+        "minSingleTransAmount": "15000",
+        "maxSingleTransAmount": "15001",
         "tradeMethods": [
           "Vodafone cash"
         ]
@@ -59,28 +59,29 @@
     },
     "AED": {
       "BUY": {
-        "price": 3.679,
+        "price": 3.678,
         "pickedIndex": 1,
         "availableRows": 10,
-        "advNo": "13888512824804753408",
-        "nickName": "B3OTC",
-        "minSingleTransAmount": "15000",
+        "advNo": "13889609327987245056",
+        "nickName": "Hanysa3d",
+        "minSingleTransAmount": "10000",
         "maxSingleTransAmount": "50000",
         "tradeMethods": [
-          "Bank Transfer"
+          "Bank Transfer (Middle East)",
+          "Bank Transfer",
+          "Instant Transfer"
         ]
       },
       "SELL": {
-        "price": 3.675,
+        "price": 3.671,
         "pickedIndex": 1,
         "availableRows": 10,
-        "advNo": "12889690613342638080",
-        "nickName": "ShuLax",
-        "minSingleTransAmount": "695",
-        "maxSingleTransAmount": "700",
+        "advNo": "11420658518939258880",
+        "nickName": "XD12",
+        "minSingleTransAmount": "24999",
+        "maxSingleTransAmount": "25000",
         "tradeMethods": [
-          "Bank Transfer",
-          "Aani"
+          "Cash Deposit to Bank"
         ]
       }
     },
@@ -116,7 +117,7 @@
     },
     "USD": {
       "BUY": {
-        "price": 0.994,
+        "price": 0.995,
         "pickedIndex": 1,
         "availableRows": 11,
         "advNo": "12874555261987708928",
@@ -143,31 +144,35 @@
     },
     "EUR": {
       "BUY": {
-        "price": 0.859,
+        "price": 0.862,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12894483343092461568",
-        "nickName": "User-bdc9a",
-        "minSingleTransAmount": "10",
-        "maxSingleTransAmount": "50",
+        "advNo": "13864798073939087360",
+        "nickName": "TEZER_Exchange",
+        "minSingleTransAmount": "250",
+        "maxSingleTransAmount": "10000",
         "tradeMethods": [
-          "Wise"
+          "Bank Transfer",
+          "SEPA (EU) bank transfer",
+          "BBVA",
+          "Banco Santander (Spain)",
+          "CaixaBank (Spain)"
         ]
       },
       "SELL": {
-        "price": 0.87,
+        "price": 0.875,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12691138805628043264",
-        "nickName": "East_West_Best_Dest",
-        "minSingleTransAmount": "100",
-        "maxSingleTransAmount": "100",
+        "advNo": "12865115531708309504",
+        "nickName": "PrometeyX",
+        "minSingleTransAmount": "4000",
+        "maxSingleTransAmount": "10900",
         "tradeMethods": [
-          "BBVA",
-          "CaixaBank (Spain)",
-          "Banco Sabadell (Spain)",
-          "Banco Santander (Spain)",
-          "Bizum"
+          "Wise",
+          "SEPA (EU) bank transfer",
+          "SEPA Instant",
+          "N26",
+          "BBVA"
         ]
       }
     }
