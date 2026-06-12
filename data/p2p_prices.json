@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1781218661046,
+  "updatedAt": 1781223755578,
   "source": "Binance P2P web endpoint",
   "asset": "USDT",
   "prices": {
@@ -37,25 +37,23 @@
         "price": 52.95,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "13699699591856562176",
-        "nickName": "Abouyousef",
-        "minSingleTransAmount": "50000",
-        "maxSingleTransAmount": "150000",
+        "advNo": "13829897674334871552",
+        "nickName": "HOOTINTRNATIONAL",
+        "minSingleTransAmount": "20000",
+        "maxSingleTransAmount": "930000",
         "tradeMethods": [
-          "Banque Misr",
-          "Bank Transfer",
           "Alex Bank",
-          "Instant Transfer"
+          "InstaPay"
         ]
       },
       "SELL": {
-        "price": 53.48,
+        "price": 53.49,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12877960340499918848",
-        "nickName": "Elbasha-Online",
-        "minSingleTransAmount": "6000",
-        "maxSingleTransAmount": "6001",
+        "advNo": "12888350825921642496",
+        "nickName": "enj-youssef",
+        "minSingleTransAmount": "20000",
+        "maxSingleTransAmount": "20001",
         "tradeMethods": [
           "Vodafone cash"
         ]
@@ -63,30 +61,28 @@
     },
     "AED": {
       "BUY": {
-        "price": 3.678,
+        "price": 3.68,
         "pickedIndex": 1,
         "availableRows": 10,
-        "advNo": "13896322387863355392",
-        "nickName": "Fast Traders",
-        "minSingleTransAmount": "4837",
-        "maxSingleTransAmount": "4838",
+        "advNo": "13871859053140672512",
+        "nickName": "DXB_DEALS",
+        "minSingleTransAmount": "13000",
+        "maxSingleTransAmount": "15000",
         "tradeMethods": [
-          "Bank Transfer",
-          "Emirates NBD",
-          "Abu Dhabi Commercial Bank ADCB",
-          "ADIB: Abu Dhabi Islamic Bank"
+          "ADIB: Abu Dhabi Islamic Bank",
+          "Bank Transfer"
         ]
       },
       "SELL": {
-        "price": 3.668,
+        "price": 3.67,
         "pickedIndex": 1,
         "availableRows": 10,
-        "advNo": "12890006062993338368",
-        "nickName": "Mr Onyi Dee ",
-        "minSingleTransAmount": "350",
-        "maxSingleTransAmount": "2086",
+        "advNo": "12874402332805521408",
+        "nickName": "FAST_SUPER_FAST",
+        "minSingleTransAmount": "500",
+        "maxSingleTransAmount": "2500",
         "tradeMethods": [
-          "Aani"
+          "Bank Transfer"
         ]
       }
     },
@@ -95,13 +91,16 @@
         "price": 3.82,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12898379539449929728",
-        "nickName": "User-66b15",
-        "minSingleTransAmount": "7000",
-        "maxSingleTransAmount": "11800",
+        "advNo": "12896680137059057664",
+        "nickName": "NASSER-TRADER",
+        "minSingleTransAmount": "10000",
+        "maxSingleTransAmount": "100000",
         "tradeMethods": [
+          "Alinma Bank",
           "Al Rajhi Bank",
-          "stc pay"
+          "Saudi National Bank (AlAhli Bank)",
+          "Bank Transfer",
+          "Riyad Bank"
         ]
       },
       "SELL": {
@@ -136,15 +135,16 @@
         ]
       },
       "SELL": {
-        "price": 1.09,
+        "price": 1.095,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12892628130608885760",
-        "nickName": "Gh25N",
-        "minSingleTransAmount": "15",
-        "maxSingleTransAmount": "30",
+        "advNo": "12897757082635153408",
+        "nickName": "Fast__online__2026",
+        "minSingleTransAmount": "1500",
+        "maxSingleTransAmount": "7500",
         "tradeMethods": [
-          "Pyypl"
+          "Zelle",
+          "Bank of America"
         ]
       }
     },
@@ -165,16 +165,15 @@
         ]
       },
       "SELL": {
-        "price": 0.885,
+        "price": 0.89,
         "pickedIndex": 1,
-        "availableRows": 11,
-        "advNo": "12888531355005026304",
-        "nickName": "PROMETEY_MERCHANT",
-        "minSingleTransAmount": "7000",
-        "maxSingleTransAmount": "7485",
+        "availableRows": 10,
+        "advNo": "12898528122059149312",
+        "nickName": "P2PBUSINESS",
+        "minSingleTransAmount": "30",
+        "maxSingleTransAmount": "30",
         "tradeMethods": [
-          "Bank Transfer",
-          "SEPA (EU) bank transfer"
+          "Bizum"
         ]
       }
     }
