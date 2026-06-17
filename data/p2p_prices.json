@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1781731799857,
+  "updatedAt": 1781737436212,
   "source": "Binance P2P web endpoint",
   "asset": "USDT",
   "prices": {
@@ -35,25 +35,25 @@
     },
     "EGP": {
       "BUY": {
-        "price": 51.14,
+        "price": 51.11,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "13827347839041814528",
-        "nickName": "HELP_1",
-        "minSingleTransAmount": "200000",
-        "maxSingleTransAmount": "500001",
+        "advNo": "13883886111290142720",
+        "nickName": "one-piece_",
+        "minSingleTransAmount": "19390",
+        "maxSingleTransAmount": "19450",
         "tradeMethods": [
           "InstaPay"
         ]
       },
       "SELL": {
-        "price": 51.82,
+        "price": 51.81,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12877997113958342656",
-        "nickName": "alpha200",
-        "minSingleTransAmount": "5000",
-        "maxSingleTransAmount": "5001",
+        "advNo": "12888721656989048832",
+        "nickName": "User-7d3a4",
+        "minSingleTransAmount": "15000",
+        "maxSingleTransAmount": "15001",
         "tradeMethods": [
           "Vodafone cash"
         ]
@@ -61,28 +61,31 @@
     },
     "AED": {
       "BUY": {
-        "price": 3.672,
+        "price": 3.674,
         "pickedIndex": 1,
         "availableRows": 10,
-        "advNo": "12900471020891615232",
-        "nickName": "Maitha Hassan",
-        "minSingleTransAmount": "1000",
-        "maxSingleTransAmount": "4350",
+        "advNo": "13900135884890542080",
+        "nickName": "BLOCKSY",
+        "minSingleTransAmount": "5000",
+        "maxSingleTransAmount": "50000",
         "tradeMethods": [
+          "AL MASHREQ Bank",
           "Bank Transfer",
-          "ADIB: Abu Dhabi Islamic Bank"
+          "Bank Transfer (Middle East)"
         ]
       },
       "SELL": {
-        "price": 3.663,
+        "price": 3.662,
         "pickedIndex": 1,
         "availableRows": 10,
-        "advNo": "12898802374717296640",
-        "nickName": "aljawdah ",
-        "minSingleTransAmount": "500",
-        "maxSingleTransAmount": "25000",
+        "advNo": "12812882004956893184",
+        "nickName": "USDT101",
+        "minSingleTransAmount": "20000",
+        "maxSingleTransAmount": "50000",
         "tradeMethods": [
-          "Aani"
+          "Cash Deposit to Bank",
+          "Abu Dhabi Commercial Bank ADCB",
+          "Emirates NBD"
         ]
       }
     },
@@ -102,21 +105,21 @@
         ]
       },
       "SELL": {
-        "price": 3.86,
+        "price": 3.87,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12724197965584728064",
-        "nickName": "wdah_has10",
+        "advNo": "12881377444942823424",
+        "nickName": "Ahmad skullf",
         "minSingleTransAmount": "60",
-        "maxSingleTransAmount": "235",
+        "maxSingleTransAmount": "100000",
         "tradeMethods": [
-          "urpay"
+          "Bank Transfer"
         ]
       }
     },
     "USD": {
       "BUY": {
-        "price": 0.997,
+        "price": 0.996,
         "pickedIndex": 1,
         "availableRows": 11,
         "advNo": "12900636562117361664",
@@ -146,29 +149,28 @@
         "price": 0.873,
         "pickedIndex": 1,
         "availableRows": 10,
-        "advNo": "13899763288395964416",
-        "nickName": "Novudi",
-        "minSingleTransAmount": "1000",
-        "maxSingleTransAmount": "100000",
+        "advNo": "13898285275472228352",
+        "nickName": "Faster_Pay",
+        "minSingleTransAmount": "412",
+        "maxSingleTransAmount": "413",
         "tradeMethods": [
-          "SEPA Instant",
-          "SEPA (EU) bank transfer",
+          "Paysera",
+          "ZEN",
           "N26",
-          "Bank Transfer",
-          "BBVA"
+          "SEPA Instant",
+          "Wise"
         ]
       },
       "SELL": {
         "price": 0.89,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12888531355005026304",
-        "nickName": "PROMETEY_MERCHANT",
-        "minSingleTransAmount": "4499",
-        "maxSingleTransAmount": "4500",
+        "advNo": "12887502896226000896",
+        "nickName": "CambiosOrion",
+        "minSingleTransAmount": "70",
+        "maxSingleTransAmount": "70",
         "tradeMethods": [
-          "Bank Transfer",
-          "SEPA (EU) bank transfer"
+          "Bizum"
         ]
       }
     }
