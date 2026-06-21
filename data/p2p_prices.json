@@ -1,50 +1,49 @@
 {
-  "updatedAt": 1782061458425,
+  "updatedAt": 1782067590489,
   "source": "Binance P2P web endpoint",
   "asset": "USDT",
   "prices": {
     "OMR": {
       "BUY": {
-        "price": 0.389,
+        "price": 0.39,
         "pickedIndex": 1,
-        "availableRows": 11,
-        "advNo": "12900930079557062656",
-        "nickName": "Abu Muhammad 88",
-        "minSingleTransAmount": "100",
-        "maxSingleTransAmount": "2500",
+        "availableRows": 10,
+        "advNo": "13815005586803834880",
+        "nickName": "CryptoAnalysts",
+        "minSingleTransAmount": "200",
+        "maxSingleTransAmount": "10000",
         "tradeMethods": [
           "Bank Muscat",
-          "Arab Bank",
-          "Sohar International"
+          "Bank Dhofar",
+          "Ahlibank"
         ]
       },
       "SELL": {
         "price": 0.388,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12836706971490566144",
-        "nickName": "malhi-traders1",
-        "minSingleTransAmount": "75",
-        "maxSingleTransAmount": "76",
+        "advNo": "12900778136579080192",
+        "nickName": "Fast_Exchange25",
+        "minSingleTransAmount": "10",
+        "maxSingleTransAmount": "50",
         "tradeMethods": [
           "Bank Muscat",
-          "Airtime Mobile Top-Up"
+          "Sohar International"
         ]
       }
     },
     "EGP": {
       "BUY": {
-        "price": 51.32,
+        "price": 51.35,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12901197204004851712",
-        "nickName": "NewFolder",
-        "minSingleTransAmount": "2599",
-        "maxSingleTransAmount": "2600",
+        "advNo": "13880925761277865984",
+        "nickName": "Horus-X",
+        "minSingleTransAmount": "13125",
+        "maxSingleTransAmount": "13130",
         "tradeMethods": [
-          "CIB | Commercial International Bank Egypt",
-          "CIB Bank",
-          "InstaPay"
+          "InstaPay",
+          "Bank Transfer"
         ]
       },
       "SELL": {
@@ -65,68 +64,67 @@
         "price": 3.671,
         "pickedIndex": 1,
         "availableRows": 10,
-        "advNo": "13884438950507421696",
-        "nickName": "Mooddy",
-        "minSingleTransAmount": "7000",
-        "maxSingleTransAmount": "25000",
+        "advNo": "12901979465843007488",
+        "nickName": "UAE_Ahmed",
+        "minSingleTransAmount": "100",
+        "maxSingleTransAmount": "1500",
         "tradeMethods": [
-          "Bank Transfer"
+          "Bank Transfer (Middle East)"
         ]
       },
       "SELL": {
-        "price": 3.66,
+        "price": 3.661,
         "pickedIndex": 1,
         "availableRows": 10,
-        "advNo": "12759997983381364736",
-        "nickName": "User-4c1aa",
-        "minSingleTransAmount": "15000",
-        "maxSingleTransAmount": "20000",
+        "advNo": "12901333956537982976",
+        "nickName": "Kha93",
+        "minSingleTransAmount": "10000",
+        "maxSingleTransAmount": "7000000",
         "tradeMethods": [
-          "Bank Transfer"
+          "ADIB: Abu Dhabi Islamic Bank"
         ]
       }
     },
     "SAR": {
       "BUY": {
-        "price": 3.81,
+        "price": 3.8,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "13901768281197031424",
-        "nickName": "طــــــويـــــق",
+        "advNo": "12900890109349900288",
+        "nickName": "Saudalmutiq",
         "minSingleTransAmount": "10000",
-        "maxSingleTransAmount": "10000000",
+        "maxSingleTransAmount": "100000",
         "tradeMethods": [
           "Al Rajhi Bank",
-          "Saudi National Bank (AlAhli Bank)"
+          "Bank Transfer"
         ]
       },
       "SELL": {
-        "price": 3.87,
+        "price": 3.92,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12901262592766976000",
-        "nickName": "FLASH494",
-        "minSingleTransAmount": "4000",
-        "maxSingleTransAmount": "26500",
+        "advNo": "12902062591992291328",
+        "nickName": "H_R_B",
+        "minSingleTransAmount": "500",
+        "maxSingleTransAmount": "5000",
         "tradeMethods": [
-          "Bank Transfer",
-          "stc pay",
           "Al Rajhi Bank",
-          "Saudi National Bank (AlAhli Bank)"
+          "urpay"
         ]
       }
     },
     "USD": {
       "BUY": {
-        "price": 0.999,
+        "price": 0.998,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "13892309270581911552",
-        "nickName": "Irishka7r",
-        "minSingleTransAmount": "150",
-        "maxSingleTransAmount": "24000",
+        "advNo": "13838214894039859200",
+        "nickName": "Black_coin23",
+        "minSingleTransAmount": "100",
+        "maxSingleTransAmount": "3000",
         "tradeMethods": [
-          "Bank of Georgia"
+          "Banco Pichincha",
+          "Produbanco"
         ]
       },
       "SELL": {
@@ -145,26 +143,32 @@
     },
     "EUR": {
       "BUY": {
-        "price": 0.876,
+        "price": 0.875,
         "pickedIndex": 1,
         "availableRows": 10,
-        "advNo": "12900983103217119232",
-        "nickName": "User-3bd82",
-        "minSingleTransAmount": "10",
-        "maxSingleTransAmount": "100",
+        "advNo": "13844066523807158272",
+        "nickName": "Money_yard",
+        "minSingleTransAmount": "1041",
+        "maxSingleTransAmount": "1041",
         "tradeMethods": [
+          "Paysera",
+          "SEPA Instant",
           "Wise"
         ]
       },
       "SELL": {
-        "price": 0.91,
+        "price": 0.9,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12891846893752520704",
-        "nickName": "CambiosOrion1",
-        "minSingleTransAmount": "208",
-        "maxSingleTransAmount": "208",
+        "advNo": "12870069837766774784",
+        "nickName": "Nick7557",
+        "minSingleTransAmount": "3000",
+        "maxSingleTransAmount": "3900",
         "tradeMethods": [
+          "Banco Santander (Spain)",
+          "CaixaBank (Spain)",
+          "SEPA Instant",
+          "N26",
           "BBVA"
         ]
       }
