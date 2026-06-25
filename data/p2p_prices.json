@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1782362125600,
+  "updatedAt": 1782374502884,
   "source": "Binance P2P web endpoint",
   "asset": "USDT",
   "prices": {
@@ -36,26 +36,25 @@
     },
     "EGP": {
       "BUY": {
-        "price": 51.25,
+        "price": 51.1,
         "pickedIndex": 1,
-        "availableRows": 10,
-        "advNo": "12903317210263277568",
-        "nickName": "SirHassan24",
-        "minSingleTransAmount": "5000",
-        "maxSingleTransAmount": "500000",
+        "availableRows": 11,
+        "advNo": "13856707336147165184",
+        "nickName": "Madeira_Rocket",
+        "minSingleTransAmount": "38000",
+        "maxSingleTransAmount": "38001",
         "tradeMethods": [
-          "InstaPay",
-          "Bank Transfer"
+          "InstaPay"
         ]
       },
       "SELL": {
-        "price": 51.95,
+        "price": 51.91,
         "pickedIndex": 1,
-        "availableRows": 10,
-        "advNo": "12867076926752673792",
-        "nickName": "Vip--p2p",
-        "minSingleTransAmount": "13999",
-        "maxSingleTransAmount": "14000",
+        "availableRows": 11,
+        "advNo": "12903228482602012672",
+        "nickName": "USDT_4_Ever_2",
+        "minSingleTransAmount": "59999",
+        "maxSingleTransAmount": "60000",
         "tradeMethods": [
           "Vodafone cash"
         ]
@@ -63,19 +62,22 @@
     },
     "AED": {
       "BUY": {
-        "price": 3.678,
+        "price": 3.686,
         "pickedIndex": 1,
         "availableRows": 10,
-        "advNo": "12903130741362614272",
-        "nickName": "Rosiedoanbxb",
-        "minSingleTransAmount": "24990",
-        "maxSingleTransAmount": "25000",
+        "advNo": "12900370113319870464",
+        "nickName": "Hot-Dollars",
+        "minSingleTransAmount": "100",
+        "maxSingleTransAmount": "1000",
         "tradeMethods": [
-          "Bank Transfer (Middle East)"
+          "ADIB: Abu Dhabi Islamic Bank",
+          "Aani",
+          "Bank Transfer",
+          "Transfers with specific bank"
         ]
       },
       "SELL": {
-        "price": 3.665,
+        "price": 3.67,
         "pickedIndex": 1,
         "availableRows": 10,
         "advNo": "12704228689228431360",
@@ -115,15 +117,16 @@
     },
     "USD": {
       "BUY": {
-        "price": 0.991,
+        "price": 0.992,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12885803594710212608",
-        "nickName": "Voley-exchange",
+        "advNo": "12898799316636184576",
+        "nickName": "UsdtEcuaJs",
         "minSingleTransAmount": "100",
-        "maxSingleTransAmount": "1900",
+        "maxSingleTransAmount": "4000",
         "tradeMethods": [
-          "Banco Pichincha"
+          "Banco Pichincha",
+          "Banco del pacifico"
         ]
       },
       "SELL": {
@@ -142,31 +145,33 @@
     },
     "EUR": {
       "BUY": {
-        "price": 0.885,
+        "price": 0.88,
         "pickedIndex": 1,
-        "availableRows": 10,
-        "advNo": "13903132283982073856",
-        "nickName": "ONE_TWO_CHAOS",
-        "minSingleTransAmount": "250",
-        "maxSingleTransAmount": "100000",
+        "availableRows": 11,
+        "advNo": "12903358200883023872",
+        "nickName": "WhitmoreEX",
+        "minSingleTransAmount": "500",
+        "maxSingleTransAmount": "4000",
         "tradeMethods": [
-          "Bank Transfer",
-          "Bunq",
-          "N26",
-          "SEPA Instant"
+          "SEPA Instant",
+          "Paysera",
+          "Wise"
         ]
       },
       "SELL": {
-        "price": 0.895,
+        "price": 0.911,
         "pickedIndex": 1,
-        "availableRows": 10,
-        "advNo": "12875131917944942592",
-        "nickName": "Aivazovskky",
-        "minSingleTransAmount": "600",
-        "maxSingleTransAmount": "980",
+        "availableRows": 11,
+        "advNo": "12903052268681646080",
+        "nickName": "IanRussoHere",
+        "minSingleTransAmount": "3178",
+        "maxSingleTransAmount": "7435",
         "tradeMethods": [
-          "N26",
-          "Bunq"
+          "Bank Transfer",
+          "Paysera",
+          "International Wire (SWIFT)",
+          "SEPA (EU) bank transfer",
+          "SEPA Instant"
         ]
       }
     }
