@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1783289445365,
+  "updatedAt": 1783293563558,
   "source": "Binance P2P web endpoint",
   "asset": "USDT",
   "prices": {
@@ -23,36 +23,40 @@
         "price": 0.388,
         "pickedIndex": 1,
         "availableRows": 10,
-        "advNo": "12843613289170059264",
-        "nickName": "abdullah-omani",
-        "minSingleTransAmount": "10",
-        "maxSingleTransAmount": "34",
+        "advNo": "12878742409233203200",
+        "nickName": "EL-deeeb",
+        "minSingleTransAmount": "250",
+        "maxSingleTransAmount": "1000",
         "tradeMethods": [
           "Bank Muscat",
           "Sohar International",
-          "mBank"
+          "Airtime Mobile Top-Up"
         ]
       }
     },
     "EGP": {
       "BUY": {
-        "price": 49.4,
+        "price": 49.42,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12853888124557414400",
-        "nickName": "EngAhm",
-        "minSingleTransAmount": "13500",
-        "maxSingleTransAmount": "13501",
+        "advNo": "13894367108384628736",
+        "nickName": "LioMiX",
+        "minSingleTransAmount": "70000",
+        "maxSingleTransAmount": "930000",
         "tradeMethods": [
-          "InstaPay"
+          "Alex Bank",
+          "CIB | Commercial International Bank Egypt",
+          "InstaPay",
+          "Banque Misr",
+          "Emirates NBD"
         ]
       },
       "SELL": {
-        "price": 49.89,
+        "price": 49.93,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12878147088105619456",
-        "nickName": "AbOali1232",
+        "advNo": "12845658446082236416",
+        "nickName": "__G__A__N__A__A__T__",
         "minSingleTransAmount": "100",
         "maxSingleTransAmount": "101",
         "tradeMethods": [
@@ -62,16 +66,15 @@
     },
     "AED": {
       "BUY": {
-        "price": 3.68,
+        "price": 3.683,
         "pickedIndex": 1,
         "availableRows": 10,
-        "advNo": "12907154915516153856",
-        "nickName": "Jone Gastello IWDl",
-        "minSingleTransAmount": "2000",
-        "maxSingleTransAmount": "2010",
+        "advNo": "12903472914161786880",
+        "nickName": "ALWSAL - cryptocurrency exchange",
+        "minSingleTransAmount": "3000",
+        "maxSingleTransAmount": "25000",
         "tradeMethods": [
-          "Abu Dhabi Commercial Bank ADCB",
-          "Bank Transfer (Middle East)"
+          "Bank Transfer"
         ]
       },
       "SELL": {
@@ -102,15 +105,16 @@
         ]
       },
       "SELL": {
-        "price": 3.88,
+        "price": 3.85,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12906448589403328512",
-        "nickName": "EL_FADY",
-        "minSingleTransAmount": "1990",
-        "maxSingleTransAmount": "2500",
+        "advNo": "12892378653425782784",
+        "nickName": "User-669b6",
+        "minSingleTransAmount": "10000",
+        "maxSingleTransAmount": "50000",
         "tradeMethods": [
-          "Al Rajhi Bank"
+          "WeChat",
+          "Liv. KSA"
         ]
       }
     },
@@ -145,28 +149,24 @@
         "price": 0.891,
         "pickedIndex": 1,
         "availableRows": 10,
-        "advNo": "12892237837785563136",
-        "nickName": "MyFin_Wise_N26_Paysr",
-        "minSingleTransAmount": "500",
-        "maxSingleTransAmount": "4999",
+        "advNo": "12885726698570850304",
+        "nickName": "MyFin_Bank_24h",
+        "minSingleTransAmount": "100",
+        "maxSingleTransAmount": "5000",
         "tradeMethods": [
           "SEPA Instant"
         ]
       },
       "SELL": {
-        "price": 0.895,
+        "price": 0.92,
         "pickedIndex": 1,
         "availableRows": 10,
-        "advNo": "12896319210827186176",
-        "nickName": "PrometeyX",
-        "minSingleTransAmount": "3000",
-        "maxSingleTransAmount": "24800",
+        "advNo": "12889374643462115328",
+        "nickName": "CambiosOrion1",
+        "minSingleTransAmount": "70",
+        "maxSingleTransAmount": "70",
         "tradeMethods": [
-          "Bank Transfer",
-          "Paysera",
-          "SEPA (EU) bank transfer",
-          "SEPA Instant",
-          "Bunq"
+          "Bizum"
         ]
       }
     }
