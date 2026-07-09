@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1783586922549,
+  "updatedAt": 1783597116087,
   "source": "Binance P2P web endpoint",
   "asset": "USDT",
   "prices": {
@@ -20,28 +20,30 @@
         ]
       },
       "SELL": {
-        "price": 0.389,
+        "price": 0.388,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12908453674910494720",
-        "nickName": "Bismiltrader",
-        "minSingleTransAmount": "10",
-        "maxSingleTransAmount": "15",
+        "advNo": "12762941592487391232",
+        "nickName": "alshars_________USDT",
+        "minSingleTransAmount": "100",
+        "maxSingleTransAmount": "150",
         "tradeMethods": [
+          "Airtime Mobile Top-Up",
           "Bank Muscat",
-          "Airtime Mobile Top-Up"
+          "Sohar International",
+          "Bank Dhofar"
         ]
       }
     },
     "EGP": {
       "BUY": {
-        "price": 50.35,
+        "price": 50.15,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "13908450687202336768",
-        "nickName": "NFS Digital_Aani_FastPay",
-        "minSingleTransAmount": "20000",
-        "maxSingleTransAmount": "20040",
+        "advNo": "12908497769871777792",
+        "nickName": "ABDO_BOSIRY",
+        "minSingleTransAmount": "1124",
+        "maxSingleTransAmount": "1125",
         "tradeMethods": [
           "InstaPay"
         ]
@@ -50,52 +52,53 @@
         "price": 50.56,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12887255498808299520",
-        "nickName": "2018-s1",
-        "minSingleTransAmount": "25000",
-        "maxSingleTransAmount": "25001",
+        "advNo": "12881830149821808640",
+        "nickName": "_abosefoo_",
+        "minSingleTransAmount": "38000",
+        "maxSingleTransAmount": "38001",
         "tradeMethods": [
-          "Vodafone cash",
-          "Orange Cash",
-          "Etisalat Cash"
+          "Vodafone cash"
         ]
       }
     },
     "AED": {
       "BUY": {
-        "price": 3.678,
+        "price": 3.676,
         "pickedIndex": 1,
         "availableRows": 10,
-        "advNo": "12901979465843007488",
-        "nickName": "UAE_Ahmed",
-        "minSingleTransAmount": "300",
-        "maxSingleTransAmount": "3200",
+        "advNo": "12908209656748494848",
+        "nickName": "Noname131995",
+        "minSingleTransAmount": "24999",
+        "maxSingleTransAmount": "25000",
         "tradeMethods": [
-          "Bank Transfer (Middle East)"
+          "Cash Deposit to Bank"
         ]
       },
       "SELL": {
-        "price": 3.665,
+        "price": 3.664,
         "pickedIndex": 1,
         "availableRows": 10,
-        "advNo": "12908208715772866560",
-        "nickName": "Ztony-1668",
-        "minSingleTransAmount": "2000",
-        "maxSingleTransAmount": "5000",
+        "advNo": "12896349991849754624",
+        "nickName": "ShweNyarThu_Exchange",
+        "minSingleTransAmount": "2650",
+        "maxSingleTransAmount": "2670",
         "tradeMethods": [
-          "ADIB: Abu Dhabi Islamic Bank"
+          "Bank Transfer",
+          "Cash Deposit to Bank",
+          "Emirates NBD",
+          "Bank Transfer (Middle East)"
         ]
       }
     },
     "SAR": {
       "BUY": {
-        "price": 3.8,
+        "price": 3.81,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "13876979348109479936",
-        "nickName": "saudi_bitcoin",
+        "advNo": "13897311917314912256",
+        "nickName": "usdt_7ksa",
         "minSingleTransAmount": "10000",
-        "maxSingleTransAmount": "75000",
+        "maxSingleTransAmount": "150000",
         "tradeMethods": [
           "Transfers with specific bank",
           "Al Rajhi Bank",
@@ -150,27 +153,27 @@
         "price": 0.884,
         "pickedIndex": 1,
         "availableRows": 10,
-        "advNo": "13884209003691515904",
-        "nickName": "Wise MultiZone P2P",
-        "minSingleTransAmount": "300",
+        "advNo": "12899777004094169088",
+        "nickName": "ApexxChange",
+        "minSingleTransAmount": "100",
         "maxSingleTransAmount": "2000",
         "tradeMethods": [
           "Wise"
         ]
       },
       "SELL": {
-        "price": 0.95,
+        "price": 0.955,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12908181063408422912",
-        "nickName": "Trumpex",
-        "minSingleTransAmount": "3412",
-        "maxSingleTransAmount": "11365",
+        "advNo": "12905943096887046144",
+        "nickName": "Team_Change",
+        "minSingleTransAmount": "3670",
+        "maxSingleTransAmount": "15510",
         "tradeMethods": [
-          "Dukascopy Bank",
-          "Wise",
-          "Paysera",
+          "Bank Transfer",
+          "International Wire (SWIFT)",
           "SEPA Instant",
+          "N26",
           "ZEN"
         ]
       }
