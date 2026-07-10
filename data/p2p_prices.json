@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1783639422566,
+  "updatedAt": 1783645684751,
   "source": "Binance P2P web endpoint",
   "asset": "USDT",
   "prices": {
@@ -37,25 +37,25 @@
     },
     "EGP": {
       "BUY": {
-        "price": 50.35,
+        "price": 50.29,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12908260502773092352",
-        "nickName": "P2P-7d93ffh4",
-        "minSingleTransAmount": "2000",
-        "maxSingleTransAmount": "2050",
+        "advNo": "12874433701593538560",
+        "nickName": "USDT-Arabian",
+        "minSingleTransAmount": "90",
+        "maxSingleTransAmount": "127",
         "tradeMethods": [
-          "InstaPay"
+          "Vodafone cash"
         ]
       },
       "SELL": {
-        "price": 51.2,
+        "price": 51.02,
         "pickedIndex": 1,
-        "availableRows": 11,
-        "advNo": "12904144999285219328",
-        "nickName": "King-op",
-        "minSingleTransAmount": "25000",
-        "maxSingleTransAmount": "25001",
+        "availableRows": 10,
+        "advNo": "12755197079526731776",
+        "nickName": "algentel",
+        "minSingleTransAmount": "30000",
+        "maxSingleTransAmount": "30001",
         "tradeMethods": [
           "Vodafone cash"
         ]
@@ -63,30 +63,29 @@
     },
     "AED": {
       "BUY": {
-        "price": 3.67,
+        "price": 3.673,
         "pickedIndex": 1,
         "availableRows": 10,
-        "advNo": "12908660829318057984",
-        "nickName": "DR_ADEL_NO_1",
-        "minSingleTransAmount": "10000",
-        "maxSingleTransAmount": "25000",
+        "advNo": "12907076997884334080",
+        "nickName": "amro_sd",
+        "minSingleTransAmount": "5000",
+        "maxSingleTransAmount": "12080",
         "tradeMethods": [
           "Bank Transfer",
-          "Cash Deposit to Bank"
+          "Cash Deposit to Bank",
+          "Aani"
         ]
       },
       "SELL": {
-        "price": 3.665,
+        "price": 3.664,
         "pickedIndex": 1,
         "availableRows": 10,
-        "advNo": "12904853113218162688",
-        "nickName": "ShweNyarThu_Exchange",
-        "minSingleTransAmount": "600",
-        "maxSingleTransAmount": "610",
+        "advNo": "12895184645841543168",
+        "nickName": "THR_Alrawahi",
+        "minSingleTransAmount": "24999",
+        "maxSingleTransAmount": "25000",
         "tradeMethods": [
-          "Bank Transfer",
-          "Transfers with specific bank",
-          "Bank Transfer (Middle East)"
+          "Cash Deposit to Bank"
         ]
       }
     },
@@ -105,15 +104,15 @@
         ]
       },
       "SELL": {
-        "price": 3.9,
+        "price": 3.86,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12906698674936684544",
-        "nickName": "EL-BOB20",
-        "minSingleTransAmount": "1000",
-        "maxSingleTransAmount": "4300",
+        "advNo": "12904286505637629952",
+        "nickName": "raghad97",
+        "minSingleTransAmount": "60",
+        "maxSingleTransAmount": "100000",
         "tradeMethods": [
-          "urpay"
+          "barq"
         ]
       }
     },
@@ -150,26 +149,27 @@
     },
     "EUR": {
       "BUY": {
-        "price": 0.887,
+        "price": 0.888,
         "pickedIndex": 1,
         "availableRows": 10,
-        "advNo": "12900921940932689920",
-        "nickName": "User-f3785cci",
-        "minSingleTransAmount": "50",
+        "advNo": "13879241168672878592",
+        "nickName": "Exchange-shop-Wise",
+        "minSingleTransAmount": "300",
         "maxSingleTransAmount": "2000",
         "tradeMethods": [
           "Wise"
         ]
       },
       "SELL": {
-        "price": 0.891,
+        "price": 0.89,
         "pickedIndex": 1,
         "availableRows": 10,
-        "advNo": "12905691510921039872",
-        "nickName": "DuncanMcLeod",
-        "minSingleTransAmount": "300",
-        "maxSingleTransAmount": "605",
+        "advNo": "12791830535833837568",
+        "nickName": "treidingusy",
+        "minSingleTransAmount": "329",
+        "maxSingleTransAmount": "330",
         "tradeMethods": [
+          "BBVA",
           "Bizum"
         ]
       }
