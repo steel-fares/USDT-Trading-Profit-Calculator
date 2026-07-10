@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1783720688877,
+  "updatedAt": 1783724887088,
   "source": "Binance P2P web endpoint",
   "asset": "USDT",
   "prices": {
@@ -31,7 +31,7 @@
     },
     "EGP": {
       "BUY": {
-        "price": 50.24,
+        "price": 50.19,
         "pickedIndex": 1,
         "availableRows": 11,
         "advNo": "12874433701593538560",
@@ -60,12 +60,16 @@
         "price": 3.675,
         "pickedIndex": 1,
         "availableRows": 10,
-        "advNo": "13884438950507421696",
-        "nickName": "Mooddy",
-        "minSingleTransAmount": "7000",
-        "maxSingleTransAmount": "25000",
+        "advNo": "13891082148807991296",
+        "nickName": "FAST__TRADE__DIGITAL",
+        "minSingleTransAmount": "20000",
+        "maxSingleTransAmount": "49990",
         "tradeMethods": [
-          "Bank Transfer"
+          "Bank Transfer",
+          "Abu Dhabi Commercial Bank ADCB",
+          "ADIB: Abu Dhabi Islamic Bank",
+          "Aani",
+          "Transfers with specific bank"
         ]
       },
       "SELL": {
@@ -96,17 +100,18 @@
         ]
       },
       "SELL": {
-        "price": 3.85,
+        "price": 3.86,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12909014207501893632",
-        "nickName": "k_x_q",
-        "minSingleTransAmount": "385",
-        "maxSingleTransAmount": "1925",
+        "advNo": "12805484221358727168",
+        "nickName": "Nawaf",
+        "minSingleTransAmount": "95",
+        "maxSingleTransAmount": "100",
         "tradeMethods": [
           "AlinmaPay",
+          "Mobily Pay",
           "Bank Transfer",
-          "Al Rajhi Bank",
+          "stc pay",
           "urpay"
         ]
       }
@@ -158,15 +163,15 @@
         ]
       },
       "SELL": {
-        "price": 0.956,
+        "price": 0.89,
         "pickedIndex": 1,
-        "availableRows": 11,
-        "advNo": "12908956483749683200",
-        "nickName": "CRYPTO-DELACOSTA",
-        "minSingleTransAmount": "210",
-        "maxSingleTransAmount": "211",
+        "availableRows": 10,
+        "advNo": "12904205200091914240",
+        "nickName": "Abouloay",
+        "minSingleTransAmount": "10",
+        "maxSingleTransAmount": "190",
         "tradeMethods": [
-          "ING"
+          "Dukascopy Bank"
         ]
       }
     }
