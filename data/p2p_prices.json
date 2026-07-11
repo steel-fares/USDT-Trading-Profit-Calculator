@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1783724887088,
+  "updatedAt": 1783728506273,
   "source": "Binance P2P web endpoint",
   "asset": "USDT",
   "prices": {
@@ -17,33 +17,35 @@
         ]
       },
       "SELL": {
-        "price": 0.389,
+        "price": 0.388,
         "pickedIndex": 1,
         "availableRows": 10,
-        "advNo": "12902281640978309120",
-        "nickName": "Solysaif",
-        "minSingleTransAmount": "10",
-        "maxSingleTransAmount": "2500",
+        "advNo": "12886262163130032128",
+        "nickName": "Mohammed_alsalhi",
+        "minSingleTransAmount": "5",
+        "maxSingleTransAmount": "10",
         "tradeMethods": [
-          "Bank Muscat"
+          "Bank Muscat",
+          "Sohar International",
+          "Airtime Mobile Top-Up"
         ]
       }
     },
     "EGP": {
       "BUY": {
-        "price": 50.19,
+        "price": 50.2,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12874433701593538560",
-        "nickName": "USDT-Arabian",
-        "minSingleTransAmount": "90",
-        "maxSingleTransAmount": "135",
+        "advNo": "12907843314425790464",
+        "nickName": "a_bdoz",
+        "minSingleTransAmount": "13570",
+        "maxSingleTransAmount": "13571",
         "tradeMethods": [
-          "Vodafone cash"
+          "InstaPay"
         ]
       },
       "SELL": {
-        "price": 51.16,
+        "price": 51.11,
         "pickedIndex": 1,
         "availableRows": 11,
         "advNo": "12845658446082236416",
@@ -57,19 +59,15 @@
     },
     "AED": {
       "BUY": {
-        "price": 3.675,
+        "price": 3.676,
         "pickedIndex": 1,
         "availableRows": 10,
-        "advNo": "13891082148807991296",
-        "nickName": "FAST__TRADE__DIGITAL",
-        "minSingleTransAmount": "20000",
-        "maxSingleTransAmount": "49990",
+        "advNo": "13900958576162877440",
+        "nickName": "QinXhao",
+        "minSingleTransAmount": "50000",
+        "maxSingleTransAmount": "400000",
         "tradeMethods": [
-          "Bank Transfer",
-          "Abu Dhabi Commercial Bank ADCB",
-          "ADIB: Abu Dhabi Islamic Bank",
-          "Aani",
-          "Transfers with specific bank"
+          "Bank Transfer"
         ]
       },
       "SELL": {
@@ -100,19 +98,17 @@
         ]
       },
       "SELL": {
-        "price": 3.86,
+        "price": 3.9,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12805484221358727168",
-        "nickName": "Nawaf",
-        "minSingleTransAmount": "95",
+        "advNo": "12909047125478363136",
+        "nickName": "noumeir",
+        "minSingleTransAmount": "10",
         "maxSingleTransAmount": "100",
         "tradeMethods": [
-          "AlinmaPay",
-          "Mobily Pay",
-          "Bank Transfer",
-          "stc pay",
-          "urpay"
+          "Alinma Bank",
+          "barq",
+          "stc pay"
         ]
       }
     },
@@ -148,30 +144,27 @@
     },
     "EUR": {
       "BUY": {
-        "price": 0.886,
+        "price": 0.899,
         "pickedIndex": 1,
         "availableRows": 10,
-        "advNo": "13667212931691413504",
-        "nickName": "XCHAINGER_P2P",
-        "minSingleTransAmount": "500",
-        "maxSingleTransAmount": "45000",
+        "advNo": "13846998885534150656",
+        "nickName": "BiT000000000000000000001k",
+        "minSingleTransAmount": "100",
+        "maxSingleTransAmount": "1000",
         "tradeMethods": [
-          "SEPA (EU) bank transfer",
-          "Bank Transfer",
-          "SEPA Instant",
-          "N26"
+          "ZEN"
         ]
       },
       "SELL": {
-        "price": 0.89,
+        "price": 0.895,
         "pickedIndex": 1,
         "availableRows": 10,
-        "advNo": "12904205200091914240",
-        "nickName": "Abouloay",
-        "minSingleTransAmount": "10",
-        "maxSingleTransAmount": "190",
+        "advNo": "12909046916870606848",
+        "nickName": "DARLISTRADING",
+        "minSingleTransAmount": "50",
+        "maxSingleTransAmount": "50",
         "tradeMethods": [
-          "Dukascopy Bank"
+          "Bank Transfer"
         ]
       }
     }
