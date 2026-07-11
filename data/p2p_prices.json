@@ -1,21 +1,23 @@
 {
-  "updatedAt": 1783766878831,
+  "updatedAt": 1783769933761,
   "source": "Binance P2P web endpoint",
   "asset": "USDT",
   "prices": {
     "OMR": {
       "BUY": {
-        "price": 0.39,
+        "price": 0.389,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "13906418868802232320",
-        "nickName": "CryptoAnalysts",
-        "minSingleTransAmount": "200",
-        "maxSingleTransAmount": "10000",
+        "advNo": "13888280699367448576",
+        "nickName": "Al-habsi",
+        "minSingleTransAmount": "500",
+        "maxSingleTransAmount": "75000",
         "tradeMethods": [
           "Bank Muscat",
+          "Airtime Mobile Top-Up",
           "Bank Dhofar",
-          "Ahlibank"
+          "Sohar International",
+          "Bank Transfer"
         ]
       },
       "SELL": {
@@ -33,25 +35,25 @@
     },
     "EGP": {
       "BUY": {
-        "price": 50.2,
+        "price": 50.17,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12908775122317488128",
-        "nickName": "Omar",
-        "minSingleTransAmount": "100000",
-        "maxSingleTransAmount": "500000",
+        "advNo": "13906653175752265728",
+        "nickName": "Mari-7",
+        "minSingleTransAmount": "20000",
+        "maxSingleTransAmount": "20001",
         "tradeMethods": [
           "InstaPay"
         ]
       },
       "SELL": {
-        "price": 50.43,
+        "price": 50.54,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12882157196738719744",
-        "nickName": "Goseph",
-        "minSingleTransAmount": "5000",
-        "maxSingleTransAmount": "5001",
+        "advNo": "12842158002935197696",
+        "nickName": "MAR_1894",
+        "minSingleTransAmount": "3000",
+        "maxSingleTransAmount": "3001",
         "tradeMethods": [
           "Vodafone cash"
         ]
@@ -59,15 +61,19 @@
     },
     "AED": {
       "BUY": {
-        "price": 3.667,
+        "price": 3.665,
         "pickedIndex": 1,
         "availableRows": 10,
-        "advNo": "12904200727761133568",
-        "nickName": "8thfloormediafzco",
-        "minSingleTransAmount": "10000",
-        "maxSingleTransAmount": "12000",
+        "advNo": "13901292012014768128",
+        "nickName": "HappyCryptoAE",
+        "minSingleTransAmount": "5000",
+        "maxSingleTransAmount": "50000",
         "tradeMethods": [
-          "Cash Deposit to Bank"
+          "Bank Transfer",
+          "Abu Dhabi Commercial Bank ADCB",
+          "ADIB: Abu Dhabi Islamic Bank",
+          "mBank",
+          "Emirates NBD"
         ]
       },
       "SELL": {
@@ -85,16 +91,17 @@
     },
     "SAR": {
       "BUY": {
-        "price": 3.8,
+        "price": 3.81,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12907856337638432768",
-        "nickName": "Moh713",
+        "advNo": "13897311917314912256",
+        "nickName": "usdt_7ksa",
         "minSingleTransAmount": "10000",
-        "maxSingleTransAmount": "100000",
+        "maxSingleTransAmount": "150000",
         "tradeMethods": [
-          "Saudi National Bank (AlAhli Bank)",
-          "Riyad Bank"
+          "Transfers with specific bank",
+          "Al Rajhi Bank",
+          "Saudi National Bank (AlAhli Bank)"
         ]
       },
       "SELL": {
@@ -103,8 +110,8 @@
         "availableRows": 11,
         "advNo": "12906698674936684544",
         "nickName": "EL-BOB20",
-        "minSingleTransAmount": "1000",
-        "maxSingleTransAmount": "4998",
+        "minSingleTransAmount": "4999",
+        "maxSingleTransAmount": "5000",
         "tradeMethods": [
           "urpay"
         ]
@@ -112,7 +119,7 @@
     },
     "USD": {
       "BUY": {
-        "price": 0.996,
+        "price": 0.993,
         "pickedIndex": 1,
         "availableRows": 11,
         "advNo": "12908895537548005376",
@@ -142,17 +149,15 @@
     },
     "EUR": {
       "BUY": {
-        "price": 0.885,
+        "price": 0.886,
         "pickedIndex": 1,
         "availableRows": 10,
-        "advNo": "13905611179838791680",
-        "nickName": "Crypto-Eli",
-        "minSingleTransAmount": "500",
-        "maxSingleTransAmount": "15000",
+        "advNo": "12909210860285276160",
+        "nickName": "P2P-ed7d08hs",
+        "minSingleTransAmount": "96",
+        "maxSingleTransAmount": "993",
         "tradeMethods": [
-          "SEPA Instant",
-          "N26",
-          "Bank Transfer"
+          "Wise"
         ]
       },
       "SELL": {
