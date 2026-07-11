@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1783779069793,
+  "updatedAt": 1783783042362,
   "source": "Binance P2P web endpoint",
   "asset": "USDT",
   "prices": {
@@ -31,26 +31,25 @@
     },
     "EGP": {
       "BUY": {
-        "price": 50.18,
+        "price": 50.2,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12909186528493080576",
-        "nickName": "DR_KHEDR",
-        "minSingleTransAmount": "39735",
-        "maxSingleTransAmount": "39736",
+        "advNo": "12896628727733456896",
+        "nickName": "SAMEH_CRYPTO",
+        "minSingleTransAmount": "500",
+        "maxSingleTransAmount": "500000",
         "tradeMethods": [
-          "Bank Transfer",
           "InstaPay"
         ]
       },
       "SELL": {
-        "price": 50.45,
+        "price": 50.5,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12882157196738719744",
-        "nickName": "Goseph",
-        "minSingleTransAmount": "20000",
-        "maxSingleTransAmount": "20001",
+        "advNo": "12908221018375639040",
+        "nickName": "AB-Alp",
+        "minSingleTransAmount": "6000",
+        "maxSingleTransAmount": "6001",
         "tradeMethods": [
           "Vodafone cash"
         ]
@@ -58,31 +57,27 @@
     },
     "AED": {
       "BUY": {
-        "price": 3.665,
+        "price": 3.664,
         "pickedIndex": 1,
         "availableRows": 10,
-        "advNo": "13901292012014768128",
-        "nickName": "HappyCryptoAE",
-        "minSingleTransAmount": "5000",
-        "maxSingleTransAmount": "50000",
+        "advNo": "13908906680016334848",
+        "nickName": "Takethiswave",
+        "minSingleTransAmount": "7000",
+        "maxSingleTransAmount": "7000000",
         "tradeMethods": [
-          "Bank Transfer",
-          "Abu Dhabi Commercial Bank ADCB",
-          "ADIB: Abu Dhabi Islamic Bank",
-          "mBank",
-          "Emirates NBD"
+          "Bank Transfer"
         ]
       },
       "SELL": {
-        "price": 3.665,
+        "price": 3.664,
         "pickedIndex": 1,
         "availableRows": 10,
-        "advNo": "12817965222344892416",
-        "nickName": "Ro-Rom",
-        "minSingleTransAmount": "5999",
-        "maxSingleTransAmount": "6000",
+        "advNo": "12895980924805402624",
+        "nickName": "Issasalim",
+        "minSingleTransAmount": "24999",
+        "maxSingleTransAmount": "25000",
         "tradeMethods": [
-          "Aani"
+          "Cash Deposit to Bank"
         ]
       }
     },
@@ -118,13 +113,13 @@
     },
     "USD": {
       "BUY": {
-        "price": 0.993,
+        "price": 0.992,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12908895537548005376",
-        "nickName": "vesel11",
-        "minSingleTransAmount": "4000",
-        "maxSingleTransAmount": "5000",
+        "advNo": "13854940547832745984",
+        "nickName": "Issam_FattouhCryp",
+        "minSingleTransAmount": "20",
+        "maxSingleTransAmount": "2000",
         "tradeMethods": [
           "Bank of Georgia"
         ]
@@ -148,27 +143,31 @@
     },
     "EUR": {
       "BUY": {
-        "price": 0.886,
+        "price": 0.888,
         "pickedIndex": 1,
         "availableRows": 10,
-        "advNo": "13906475182199373824",
-        "nickName": "sxhhzhzz",
-        "minSingleTransAmount": "50",
-        "maxSingleTransAmount": "2000",
+        "advNo": "13908913911133806592",
+        "nickName": "Alice-reliable-24H",
+        "minSingleTransAmount": "400",
+        "maxSingleTransAmount": "3000",
         "tradeMethods": [
-          "Wise"
+          "BBVA",
+          "SEPA (EU) bank transfer",
+          "Bank Transfer",
+          "SEPA Instant",
+          "N26"
         ]
       },
       "SELL": {
-        "price": 0.926,
+        "price": 0.956,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12902410365853843456",
-        "nickName": "Roland Carabajal PwMD",
-        "minSingleTransAmount": "324",
-        "maxSingleTransAmount": "325",
+        "advNo": "12908896155899908096",
+        "nickName": "Adriana Canelones",
+        "minSingleTransAmount": "100",
+        "maxSingleTransAmount": "500",
         "tradeMethods": [
-          "BBVA"
+          "Wise"
         ]
       }
     }
