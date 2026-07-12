@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1783888365663,
+  "updatedAt": 1783891704653,
   "source": "Binance P2P web endpoint",
   "asset": "USDT",
   "prices": {
@@ -46,11 +46,11 @@
         ]
       },
       "SELL": {
-        "price": 51.16,
+        "price": 51.21,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12870433736198373376",
-        "nickName": "User-920e1",
+        "advNo": "12846632843843330048",
+        "nickName": "__mng__",
         "minSingleTransAmount": "10000",
         "maxSingleTransAmount": "10001",
         "tradeMethods": [
@@ -60,7 +60,7 @@
     },
     "AED": {
       "BUY": {
-        "price": 3.666,
+        "price": 3.668,
         "pickedIndex": 1,
         "availableRows": 10,
         "advNo": "13907520403654893568",
@@ -119,46 +119,43 @@
     },
     "USD": {
       "BUY": {
-        "price": 0.998,
+        "price": 0.999,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12804317970226028544",
-        "nickName": "MABE_11",
+        "advNo": "13908536749882920960",
+        "nickName": "StormMVP",
         "minSingleTransAmount": "500",
         "maxSingleTransAmount": "1000",
         "tradeMethods": [
-          "Banco Guayaquil",
-          "Banco Pichincha",
-          "Banco Internacional",
-          "Produbanco"
+          "Banco Pichincha"
         ]
       },
       "SELL": {
         "price": 1.1,
         "pickedIndex": 1,
-        "availableRows": 10,
-        "advNo": "12907804740866424832",
-        "nickName": "SKTradersZ",
-        "minSingleTransAmount": "15",
-        "maxSingleTransAmount": "5000",
+        "availableRows": 11,
+        "advNo": "12909294095091351552",
+        "nickName": "TakuVnzl",
+        "minSingleTransAmount": "18",
+        "maxSingleTransAmount": "20",
         "tradeMethods": [
-          "Google Pay (GPay)",
-          "IMPS",
+          "Payme.io",
+          "Paynet",
+          "Paysera",
           "Paytm",
-          "PhonePe",
-          "Easypaisa-PK Only"
+          "PayPro"
         ]
       }
     },
     "EUR": {
       "BUY": {
-        "price": 0.891,
+        "price": 0.892,
         "pickedIndex": 1,
-        "availableRows": 11,
-        "advNo": "12906714404142780416",
-        "nickName": "MyFin_only21",
-        "minSingleTransAmount": "300",
-        "maxSingleTransAmount": "1910",
+        "availableRows": 10,
+        "advNo": "12881427250021355520",
+        "nickName": "MyFin-MaghreB",
+        "minSingleTransAmount": "100",
+        "maxSingleTransAmount": "5000",
         "tradeMethods": [
           "SEPA Instant"
         ]
