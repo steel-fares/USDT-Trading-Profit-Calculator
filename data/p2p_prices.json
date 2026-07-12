@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1783891704653,
+  "updatedAt": 1783895230170,
   "source": "Binance P2P web endpoint",
   "asset": "USDT",
   "prices": {
@@ -20,39 +20,41 @@
         ]
       },
       "SELL": {
-        "price": 0.391,
+        "price": 0.388,
         "pickedIndex": 1,
         "availableRows": 10,
-        "advNo": "12882618961788301312",
-        "nickName": "Al-habsi",
-        "minSingleTransAmount": "73000",
-        "maxSingleTransAmount": "75000",
+        "advNo": "12839823669546295296",
+        "nickName": "ALZANATY-2017",
+        "minSingleTransAmount": "50",
+        "maxSingleTransAmount": "270",
         "tradeMethods": [
-          "Arab Bank"
+          "Sohar International",
+          "Bank Muscat"
         ]
       }
     },
     "EGP": {
       "BUY": {
-        "price": 50.62,
+        "price": 50.75,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12909461645014605824",
-        "nickName": "Wez679",
-        "minSingleTransAmount": "4750",
-        "maxSingleTransAmount": "4751",
+        "advNo": "12907407018154696704",
+        "nickName": "Manoflaw88",
+        "minSingleTransAmount": "2000",
+        "maxSingleTransAmount": "500000",
         "tradeMethods": [
+          "Banque Misr",
           "InstaPay"
         ]
       },
       "SELL": {
-        "price": 51.21,
+        "price": 51.1,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12846632843843330048",
-        "nickName": "__mng__",
-        "minSingleTransAmount": "10000",
-        "maxSingleTransAmount": "10001",
+        "advNo": "12882115953709101056",
+        "nickName": "99KHALIL99",
+        "minSingleTransAmount": "5000",
+        "maxSingleTransAmount": "5001",
         "tradeMethods": [
           "Vodafone cash"
         ]
@@ -152,8 +154,8 @@
         "price": 0.892,
         "pickedIndex": 1,
         "availableRows": 10,
-        "advNo": "12881427250021355520",
-        "nickName": "MyFin-MaghreB",
+        "advNo": "12885726698570850304",
+        "nickName": "MyFin_Bank_24h",
         "minSingleTransAmount": "100",
         "maxSingleTransAmount": "5000",
         "tradeMethods": [
@@ -161,15 +163,19 @@
         ]
       },
       "SELL": {
-        "price": 0.92,
+        "price": 0.89,
         "pickedIndex": 1,
-        "availableRows": 11,
-        "advNo": "12909709750727983104",
-        "nickName": "P2P-b6e7794g",
-        "minSingleTransAmount": "1400",
-        "maxSingleTransAmount": "30000",
+        "availableRows": 10,
+        "advNo": "12691138805628043264",
+        "nickName": "East_West_Best_Dest",
+        "minSingleTransAmount": "500",
+        "maxSingleTransAmount": "1000",
         "tradeMethods": [
-          "Bank Transfer"
+          "Bizum",
+          "CaixaBank (Spain)",
+          "Banco Santander (Spain)",
+          "Banco Sabadell (Spain)",
+          "BBVA"
         ]
       }
     }
