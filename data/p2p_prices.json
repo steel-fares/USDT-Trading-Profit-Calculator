@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1784388403520,
+  "updatedAt": 1784392062442,
   "source": "Binance P2P web endpoint",
   "asset": "USDT",
   "prices": {
@@ -31,31 +31,27 @@
     },
     "EGP": {
       "BUY": {
-        "price": 51.1,
+        "price": 51.12,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "13880925761277865984",
-        "nickName": "Horus-X",
-        "minSingleTransAmount": "38000",
-        "maxSingleTransAmount": "38001",
+        "advNo": "13906653175752265728",
+        "nickName": "Mari-7",
+        "minSingleTransAmount": "15000",
+        "maxSingleTransAmount": "15001",
         "tradeMethods": [
           "InstaPay"
         ]
       },
       "SELL": {
-        "price": 51.9,
+        "price": 51.5,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12893412881667153920",
-        "nickName": "Blazma_USDT",
-        "minSingleTransAmount": "40000",
-        "maxSingleTransAmount": "300000",
+        "advNo": "12887158233133981696",
+        "nickName": "abofahd711",
+        "minSingleTransAmount": "20000",
+        "maxSingleTransAmount": "20001",
         "tradeMethods": [
-          "Alex Bank",
-          "Banque Misr",
-          "CIB Bank",
-          "InstaPay",
-          "National Bank of Egypt (NBE)"
+          "Vodafone cash"
         ]
       }
     },
@@ -73,31 +69,32 @@
         ]
       },
       "SELL": {
-        "price": 3.662,
+        "price": 3.66,
         "pickedIndex": 1,
         "availableRows": 10,
-        "advNo": "12888578903768522752",
-        "nickName": "Alhoreg",
-        "minSingleTransAmount": "1000",
-        "maxSingleTransAmount": "20000",
+        "advNo": "12801631604373794816",
+        "nickName": "DXB_DEALS",
+        "minSingleTransAmount": "50000",
+        "maxSingleTransAmount": "5000000",
         "tradeMethods": [
-          "Aani",
           "Bank Transfer",
+          "Bank Transfer (Middle East)",
+          "Cash Deposit to Bank",
+          "Emirates NBD",
           "ADIB: Abu Dhabi Islamic Bank"
         ]
       }
     },
     "SAR": {
       "BUY": {
-        "price": 3.79,
+        "price": 3.8,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12902378971082121216",
-        "nickName": "User-faa29",
-        "minSingleTransAmount": "130",
-        "maxSingleTransAmount": "130",
+        "advNo": "13911227717037129728",
+        "nickName": "طــــــويـــــق",
+        "minSingleTransAmount": "10000",
+        "maxSingleTransAmount": "150000",
         "tradeMethods": [
-          "Bank Transfer",
           "Al Rajhi Bank",
           "Saudi National Bank (AlAhli Bank)"
         ]
@@ -147,28 +144,27 @@
     },
     "EUR": {
       "BUY": {
-        "price": 0.884,
+        "price": 0.886,
         "pickedIndex": 1,
-        "availableRows": 11,
-        "advNo": "12910749124133158912",
-        "nickName": "Labubu-wise",
-        "minSingleTransAmount": "50",
-        "maxSingleTransAmount": "230",
+        "availableRows": 10,
+        "advNo": "12911745828721065984",
+        "nickName": "P2P-89b415zi",
+        "minSingleTransAmount": "103",
+        "maxSingleTransAmount": "854",
         "tradeMethods": [
           "Wise"
         ]
       },
       "SELL": {
-        "price": 0.9,
+        "price": 0.92,
         "pickedIndex": 1,
         "availableRows": 10,
-        "advNo": "12911806510767902720",
-        "nickName": "P2P-e559bfla",
-        "minSingleTransAmount": "428",
-        "maxSingleTransAmount": "430",
+        "advNo": "12904285923883036672",
+        "nickName": "CambiosOrion",
+        "minSingleTransAmount": "150",
+        "maxSingleTransAmount": "150",
         "tradeMethods": [
-          "BBVA",
-          "Banco Santander (Spain)"
+          "BBVA"
         ]
       }
     }
