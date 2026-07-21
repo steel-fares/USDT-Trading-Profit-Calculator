@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1784590647292,
+  "updatedAt": 1784596055365,
   "source": "Binance P2P web endpoint",
   "asset": "USDT",
   "prices": {
@@ -22,7 +22,7 @@
       "SELL": {
         "price": 0.388,
         "pickedIndex": 1,
-        "availableRows": 10,
+        "availableRows": 11,
         "advNo": "12907002228753686528",
         "nickName": "fasttrade24hours",
         "minSingleTransAmount": "10",
@@ -38,13 +38,13 @@
     },
     "EGP": {
       "BUY": {
-        "price": 51.75,
+        "price": 51.7,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12911908068935573504",
-        "nickName": "Smartpayyy",
-        "minSingleTransAmount": "50000",
-        "maxSingleTransAmount": "59000",
+        "advNo": "13906653175752265728",
+        "nickName": "Mari-7",
+        "minSingleTransAmount": "10300",
+        "maxSingleTransAmount": "10301",
         "tradeMethods": [
           "InstaPay"
         ]
@@ -68,27 +68,24 @@
         "price": 3.674,
         "pickedIndex": 1,
         "availableRows": 10,
-        "advNo": "12912592351615393792",
-        "nickName": "Noname131995",
-        "minSingleTransAmount": "20000",
-        "maxSingleTransAmount": "25000",
+        "advNo": "13908906680016334848",
+        "nickName": "Takethiswave",
+        "minSingleTransAmount": "6000",
+        "maxSingleTransAmount": "7000000",
         "tradeMethods": [
-          "Cash Deposit to Bank"
+          "Bank Transfer"
         ]
       },
       "SELL": {
-        "price": 3.661,
+        "price": 3.664,
         "pickedIndex": 1,
         "availableRows": 10,
-        "advNo": "12904840961665331200",
-        "nickName": "L-69",
-        "minSingleTransAmount": "4999",
-        "maxSingleTransAmount": "5000",
+        "advNo": "12704228689228431360",
+        "nickName": "Piplumsh",
+        "minSingleTransAmount": "19999",
+        "maxSingleTransAmount": "20000",
         "tradeMethods": [
-          "Aani",
-          "Bank Transfer (Middle East)",
-          "Abu Dhabi Commercial Bank ADCB",
-          "ADIB: Abu Dhabi Islamic Bank"
+          "Cash Deposit to Bank"
         ]
       }
     },
@@ -108,15 +105,15 @@
         ]
       },
       "SELL": {
-        "price": 3.83,
+        "price": 3.9,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12736161376127221760",
-        "nickName": "dahoom",
-        "minSingleTransAmount": "20000",
-        "maxSingleTransAmount": "40000",
+        "advNo": "12912678150220304384",
+        "nickName": "KALmutairi",
+        "minSingleTransAmount": "10",
+        "maxSingleTransAmount": "100000",
         "tradeMethods": [
-          "Skrill (Moneybookers)"
+          "Bank Transfer"
         ]
       }
     },
@@ -134,33 +131,35 @@
         ]
       },
       "SELL": {
-        "price": 1.1,
+        "price": 1.095,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12911790787540951040",
-        "nickName": "Luis-cripto07",
-        "minSingleTransAmount": "1997",
-        "maxSingleTransAmount": "15000",
+        "advNo": "12826313861223272448",
+        "nickName": "owfer60",
+        "minSingleTransAmount": "10",
+        "maxSingleTransAmount": "900",
         "tradeMethods": [
-          "Zelle"
+          "PayPro",
+          "Payme.io",
+          "Paynet"
         ]
       }
     },
     "EUR": {
       "BUY": {
-        "price": 0.889,
+        "price": 0.89,
         "pickedIndex": 1,
         "availableRows": 10,
-        "advNo": "13906087919293976576",
-        "nickName": "XCHAlNGER",
-        "minSingleTransAmount": "450",
+        "advNo": "13823636502878023680",
+        "nickName": "zenoluna_exchange",
+        "minSingleTransAmount": "300",
         "maxSingleTransAmount": "100000",
         "tradeMethods": [
-          "SEPA (EU) bank transfer",
-          "Bunq",
-          "SEPA Instant",
           "Bank Transfer",
-          "Wise"
+          "SEPA Instant",
+          "ZEN",
+          "Wise",
+          "SEPA (EU) bank transfer"
         ]
       },
       "SELL": {
