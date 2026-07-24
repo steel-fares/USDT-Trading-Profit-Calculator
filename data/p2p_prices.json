@@ -1,19 +1,21 @@
 {
-  "updatedAt": 1784851816541,
+  "updatedAt": 1784864699593,
   "source": "Binance P2P web endpoint",
   "asset": "USDT",
   "prices": {
     "OMR": {
       "BUY": {
-        "price": 0.389,
+        "price": 0.39,
         "pickedIndex": 1,
         "availableRows": 10,
-        "advNo": "12903100155889836032",
-        "nickName": "OMAN_OTC_SERVICE",
-        "minSingleTransAmount": "350",
-        "maxSingleTransAmount": "2500",
+        "advNo": "13892168838597554176",
+        "nickName": "TradersParadise ",
+        "minSingleTransAmount": "250",
+        "maxSingleTransAmount": "10000",
         "tradeMethods": [
           "Bank Muscat",
+          "Bank Dhofar",
+          "Airtime Mobile Top-Up",
           "Ahlibank"
         ]
       },
@@ -36,23 +38,23 @@
     },
     "EGP": {
       "BUY": {
-        "price": 51.81,
+        "price": 51.8,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12913553210246189056",
-        "nickName": "User-3ffa6",
-        "minSingleTransAmount": "8000",
-        "maxSingleTransAmount": "500000",
+        "advNo": "12913751167276040192",
+        "nickName": "Altyebmohammed",
+        "minSingleTransAmount": "5568",
+        "maxSingleTransAmount": "10138",
         "tradeMethods": [
           "InstaPay"
         ]
       },
       "SELL": {
-        "price": 52.49,
+        "price": 52.45,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12878147088105619456",
-        "nickName": "AbOali1232",
+        "advNo": "12845658446082236416",
+        "nickName": "__G__A__N__A__A__T__",
         "minSingleTransAmount": "100",
         "maxSingleTransAmount": "101",
         "tradeMethods": [
@@ -62,73 +64,69 @@
     },
     "AED": {
       "BUY": {
-        "price": 3.671,
+        "price": 3.669,
         "pickedIndex": 1,
         "availableRows": 10,
-        "advNo": "12905618127946551296",
-        "nickName": "Trades unlimited ",
-        "minSingleTransAmount": "5000",
-        "maxSingleTransAmount": "25000",
+        "advNo": "12913813639919992832",
+        "nickName": "mhassan",
+        "minSingleTransAmount": "5860",
+        "maxSingleTransAmount": "5870",
         "tradeMethods": [
-          "Abu Dhabi Commercial Bank ADCB",
-          "Bank Transfer (Middle East)",
-          "Bank Transfer"
+          "ADIB: Abu Dhabi Islamic Bank"
         ]
       },
       "SELL": {
-        "price": 3.66,
+        "price": 3.661,
         "pickedIndex": 1,
         "availableRows": 10,
-        "advNo": "12812142717861384192",
-        "nickName": "dety_crypto",
-        "minSingleTransAmount": "1000",
-        "maxSingleTransAmount": "9000",
+        "advNo": "12895980924805402624",
+        "nickName": "Issasalim",
+        "minSingleTransAmount": "24999",
+        "maxSingleTransAmount": "25000",
         "tradeMethods": [
-          "Aani"
+          "Cash Deposit to Bank"
         ]
       }
     },
     "SAR": {
       "BUY": {
-        "price": 3.79,
+        "price": 3.8,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12912801281681899520",
-        "nickName": "lovemiumiu",
-        "minSingleTransAmount": "1500",
-        "maxSingleTransAmount": "1500",
+        "advNo": "13897311917314912256",
+        "nickName": "usdt_7ksa",
+        "minSingleTransAmount": "10000",
+        "maxSingleTransAmount": "150000",
         "tradeMethods": [
-          "stc pay"
+          "Transfers with specific bank",
+          "Al Rajhi Bank",
+          "Saudi National Bank (AlAhli Bank)"
         ]
       },
       "SELL": {
-        "price": 3.84,
+        "price": 3.83,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12900228295405572096",
-        "nickName": "iiovvo ",
-        "minSingleTransAmount": "60",
-        "maxSingleTransAmount": "1997",
+        "advNo": "12736161376127221760",
+        "nickName": "dahoom",
+        "minSingleTransAmount": "20000",
+        "maxSingleTransAmount": "40000",
         "tradeMethods": [
-          "barq",
-          "Bank Transfer",
-          "Transfers with specific bank",
-          "stc pay",
-          "Al Rajhi Bank"
+          "Skrill (Moneybookers)"
         ]
       }
     },
     "USD": {
       "BUY": {
-        "price": 0.995,
+        "price": 0.999,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12913601932827451392",
-        "nickName": "Alejandro414",
+        "advNo": "12913230728163266560",
+        "nickName": "cambios Daymon",
         "minSingleTransAmount": "10",
-        "maxSingleTransAmount": "100",
+        "maxSingleTransAmount": "2000",
         "tradeMethods": [
-          "Whish MONEY"
+          "Banco Guayaquil"
         ]
       },
       "SELL": {
@@ -146,35 +144,31 @@
     },
     "EUR": {
       "BUY": {
-        "price": 0.89,
+        "price": 0.888,
         "pickedIndex": 1,
         "availableRows": 10,
-        "advNo": "13909755665014747136",
-        "nickName": "BWliquidity",
-        "minSingleTransAmount": "521",
-        "maxSingleTransAmount": "4100",
+        "advNo": "12913677177017737216",
+        "nickName": "User-b944b",
+        "minSingleTransAmount": "100",
+        "maxSingleTransAmount": "1000",
         "tradeMethods": [
-          "BBVA",
-          "CaixaBank (Spain)",
-          "SEPA Instant",
-          "N26",
-          "Bank Transfer"
+          "Wise"
         ]
       },
       "SELL": {
-        "price": 0.91,
+        "price": 0.89,
         "pickedIndex": 1,
         "availableRows": 10,
-        "advNo": "12900244668723179520",
-        "nickName": "User-8871f",
-        "minSingleTransAmount": "4999",
-        "maxSingleTransAmount": "5000",
+        "advNo": "12907418715202793472",
+        "nickName": "ibaza",
+        "minSingleTransAmount": "850",
+        "maxSingleTransAmount": "875",
         "tradeMethods": [
-          "SEPA (EU) bank transfer",
-          "SEPA Instant",
-          "N26",
+          "Wise",
           "BBVA",
-          "ING"
+          "Paysera",
+          "SEPA Instant",
+          "ZEN"
         ]
       }
     }
