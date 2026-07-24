@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1784932688761,
+  "updatedAt": 1784936578686,
   "source": "Binance P2P web endpoint",
   "asset": "USDT",
   "prices": {
@@ -8,14 +8,13 @@
         "price": 0.39,
         "pickedIndex": 1,
         "availableRows": 10,
-        "advNo": "13892168838597554176",
-        "nickName": "TradersParadise ",
-        "minSingleTransAmount": "250",
+        "advNo": "13906418868802232320",
+        "nickName": "CryptoAnalysts",
+        "minSingleTransAmount": "200",
         "maxSingleTransAmount": "10000",
         "tradeMethods": [
           "Bank Muscat",
           "Bank Dhofar",
-          "Airtime Mobile Top-Up",
           "Ahlibank"
         ]
       },
@@ -38,15 +37,14 @@
     },
     "EGP": {
       "BUY": {
-        "price": 51.74,
+        "price": 51.75,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "13829897674334871552",
-        "nickName": "HOOTINTRNATIONAL",
-        "minSingleTransAmount": "20000",
-        "maxSingleTransAmount": "930000",
+        "advNo": "12914095742293577728",
+        "nickName": "Black-Falcon-1",
+        "minSingleTransAmount": "5000",
+        "maxSingleTransAmount": "500000",
         "tradeMethods": [
-          "CIB | Commercial International Bank Egypt",
           "InstaPay"
         ]
       },
@@ -77,13 +75,13 @@
         ]
       },
       "SELL": {
-        "price": 3.668,
+        "price": 3.665,
         "pickedIndex": 1,
         "availableRows": 10,
-        "advNo": "12914033288219127808",
-        "nickName": "User-b072b",
-        "minSingleTransAmount": "4500",
-        "maxSingleTransAmount": "25000",
+        "advNo": "12898100852471345152",
+        "nickName": "sh_am_ez",
+        "minSingleTransAmount": "2149",
+        "maxSingleTransAmount": "2150",
         "tradeMethods": [
           "Bank Transfer"
         ]
@@ -149,31 +147,30 @@
     },
     "EUR": {
       "BUY": {
-        "price": 0.888,
+        "price": 0.899,
         "pickedIndex": 1,
         "availableRows": 10,
-        "advNo": "13730263028184322048",
-        "nickName": "Sashok",
-        "minSingleTransAmount": "587",
-        "maxSingleTransAmount": "587",
+        "advNo": "12910669024779862016",
+        "nickName": "3rd-P4rty-account-m",
+        "minSingleTransAmount": "300",
+        "maxSingleTransAmount": "500",
         "tradeMethods": [
-          "Wise"
+          "Skrill (Moneybookers)"
         ]
       },
       "SELL": {
-        "price": 0.92,
+        "price": 0.895,
         "pickedIndex": 1,
         "availableRows": 10,
-        "advNo": "12913873283862396928",
-        "nickName": "User-76d86",
-        "minSingleTransAmount": "328",
-        "maxSingleTransAmount": "329",
+        "advNo": "12908613096595628032",
+        "nickName": "-Fast-Exchanger",
+        "minSingleTransAmount": "1198",
+        "maxSingleTransAmount": "1199",
         "tradeMethods": [
-          "Banco Santander (Spain)",
-          "Banco Sabadell (Spain)",
-          "CaixaBank (Spain)",
-          "Bizum",
-          "BBVA"
+          "Bank Transfer",
+          "Paysera",
+          "SEPA Instant",
+          "N26"
         ]
       }
     }
