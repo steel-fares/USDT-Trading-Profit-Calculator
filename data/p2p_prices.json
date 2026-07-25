@@ -1,20 +1,19 @@
 {
-  "updatedAt": 1784941957855,
+  "updatedAt": 1784953902990,
   "source": "Binance P2P web endpoint",
   "asset": "USDT",
   "prices": {
     "OMR": {
       "BUY": {
-        "price": 0.39,
+        "price": 0.389,
         "pickedIndex": 1,
-        "availableRows": 10,
-        "advNo": "13906418868802232320",
-        "nickName": "CryptoAnalysts",
-        "minSingleTransAmount": "200",
-        "maxSingleTransAmount": "10000",
+        "availableRows": 11,
+        "advNo": "12903100155889836032",
+        "nickName": "OMAN_OTC_SERVICE",
+        "minSingleTransAmount": "350",
+        "maxSingleTransAmount": "2500",
         "tradeMethods": [
           "Bank Muscat",
-          "Bank Dhofar",
           "Ahlibank"
         ]
       },
@@ -39,23 +38,22 @@
         "price": 51.65,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12905794739537690624",
-        "nickName": "trustwalletusdt",
-        "minSingleTransAmount": "12000",
-        "maxSingleTransAmount": "500000",
+        "advNo": "12908131360629780480",
+        "nickName": "HB_STORE",
+        "minSingleTransAmount": "10000",
+        "maxSingleTransAmount": "98400",
         "tradeMethods": [
-          "CIB | Commercial International Bank Egypt",
           "InstaPay"
         ]
       },
       "SELL": {
-        "price": 52.39,
+        "price": 52.27,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12845658446082236416",
-        "nickName": "__G__A__N__A__A__T__",
-        "minSingleTransAmount": "100",
-        "maxSingleTransAmount": "101",
+        "advNo": "12882157196738719744",
+        "nickName": "Goseph",
+        "minSingleTransAmount": "6000",
+        "maxSingleTransAmount": "6001",
         "tradeMethods": [
           "Vodafone cash"
         ]
@@ -63,30 +61,28 @@
     },
     "AED": {
       "BUY": {
-        "price": 3.676,
+        "price": 3.674,
         "pickedIndex": 1,
         "availableRows": 10,
-        "advNo": "13846076997589045248",
-        "nickName": "Nexus-Trader",
-        "minSingleTransAmount": "5000",
-        "maxSingleTransAmount": "1000000",
+        "advNo": "13900958576162877440",
+        "nickName": "QinXhao",
+        "minSingleTransAmount": "50000",
+        "maxSingleTransAmount": "400000",
         "tradeMethods": [
-          "Bank Transfer",
-          "Abu Dhabi Commercial Bank ADCB",
-          "Emirates NBD",
-          "ADIB: Abu Dhabi Islamic Bank"
+          "Bank Transfer"
         ]
       },
       "SELL": {
-        "price": 3.665,
+        "price": 3.664,
         "pickedIndex": 1,
         "availableRows": 10,
-        "advNo": "12898100852471345152",
-        "nickName": "sh_am_ez",
-        "minSingleTransAmount": "2149",
-        "maxSingleTransAmount": "2150",
+        "advNo": "12914189718169559040",
+        "nickName": "MZ-TRADER2050",
+        "minSingleTransAmount": "4990",
+        "maxSingleTransAmount": "5000",
         "tradeMethods": [
-          "Bank Transfer"
+          "Bank Transfer",
+          "Aani"
         ]
       }
     },
@@ -146,33 +142,31 @@
     },
     "EUR": {
       "BUY": {
-        "price": 0.893,
+        "price": 0.896,
         "pickedIndex": 1,
         "availableRows": 10,
-        "advNo": "13909755665014747136",
-        "nickName": "BWliquidity",
-        "minSingleTransAmount": "450",
-        "maxSingleTransAmount": "4200",
+        "advNo": "13823636502878023680",
+        "nickName": "zenoluna_exchange",
+        "minSingleTransAmount": "300",
+        "maxSingleTransAmount": "100000",
         "tradeMethods": [
-          "BBVA",
-          "CaixaBank (Spain)",
+          "Bank Transfer",
           "SEPA Instant",
-          "N26",
-          "Bank Transfer"
+          "ZEN",
+          "Wise",
+          "SEPA (EU) bank transfer"
         ]
       },
       "SELL": {
-        "price": 0.89,
+        "price": 0.9,
         "pickedIndex": 1,
         "availableRows": 10,
-        "advNo": "12828457031986102272",
-        "nickName": "CriptoMcLaren",
-        "minSingleTransAmount": "1999",
-        "maxSingleTransAmount": "2000",
+        "advNo": "12865442344879800320",
+        "nickName": "ExchangeLRS",
+        "minSingleTransAmount": "698",
+        "maxSingleTransAmount": "698",
         "tradeMethods": [
-          "Bank Transfer",
-          "SEPA (EU) bank transfer",
-          "Erste Bank"
+          "SEPA Instant"
         ]
       }
     }
