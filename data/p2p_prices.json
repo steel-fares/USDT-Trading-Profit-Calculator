@@ -1,56 +1,58 @@
 {
-  "updatedAt": 1784980229481,
+  "updatedAt": 1784984505682,
   "source": "Binance P2P web endpoint",
   "asset": "USDT",
   "prices": {
     "OMR": {
       "BUY": {
-        "price": 0.389,
+        "price": 0.39,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12914290531936964608",
-        "nickName": "zhraa sham",
-        "minSingleTransAmount": "1070",
-        "maxSingleTransAmount": "1070",
+        "advNo": "13906418868802232320",
+        "nickName": "CryptoAnalysts",
+        "minSingleTransAmount": "200",
+        "maxSingleTransAmount": "10000",
         "tradeMethods": [
-          "Bank Muscat"
+          "Bank Muscat",
+          "Bank Dhofar",
+          "Ahlibank"
         ]
       },
       "SELL": {
         "price": 0.389,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12910315968506519552",
-        "nickName": "Solysaif",
-        "minSingleTransAmount": "11",
+        "advNo": "12912143905248292864",
+        "nickName": "P2P-8c6ed9fi",
+        "minSingleTransAmount": "500",
         "maxSingleTransAmount": "2500",
         "tradeMethods": [
+          "Sohar International",
           "Bank Muscat"
         ]
       }
     },
     "EGP": {
       "BUY": {
-        "price": 51.58,
+        "price": 51.56,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "13891154545400795136",
-        "nickName": "aboobida82",
-        "minSingleTransAmount": "2640",
-        "maxSingleTransAmount": "2645",
+        "advNo": "12914297604136685568",
+        "nickName": "P2P-1fcef4u4",
+        "minSingleTransAmount": "1800",
+        "maxSingleTransAmount": "1801",
         "tradeMethods": [
-          "InstaPay",
-          "National Bank of Egypt (NBE)"
+          "InstaPay"
         ]
       },
       "SELL": {
-        "price": 51.97,
+        "price": 52.01,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12914286205242580992",
-        "nickName": "Khaled Bebo 2",
-        "minSingleTransAmount": "60000",
-        "maxSingleTransAmount": "120000",
+        "advNo": "12908449940105900032",
+        "nickName": "The_captain1",
+        "minSingleTransAmount": "5000",
+        "maxSingleTransAmount": "5001",
         "tradeMethods": [
           "Vodafone cash"
         ]
@@ -61,29 +63,31 @@
         "price": 3.67,
         "pickedIndex": 1,
         "availableRows": 10,
-        "advNo": "13910621783881408512",
-        "nickName": "BLOCKSY",
-        "minSingleTransAmount": "10000",
-        "maxSingleTransAmount": "65000",
+        "advNo": "13891082148807991296",
+        "nickName": "FAST__TRADE__DIGITAL",
+        "minSingleTransAmount": "20000",
+        "maxSingleTransAmount": "50000",
         "tradeMethods": [
-          "AL MASHREQ Bank",
-          "Bank Transfer"
+          "Bank Transfer",
+          "Abu Dhabi Commercial Bank ADCB",
+          "ADIB: Abu Dhabi Islamic Bank",
+          "Transfers with specific bank"
         ]
       },
       "SELL": {
         "price": 3.662,
         "pickedIndex": 1,
         "availableRows": 10,
-        "advNo": "12845054410305155072",
-        "nickName": "SECURE_CRYPTO_XCHANG",
-        "minSingleTransAmount": "50000",
-        "maxSingleTransAmount": "1500000",
+        "advNo": "12846640834000285696",
+        "nickName": "World_Traders_OTC",
+        "minSingleTransAmount": "25000",
+        "maxSingleTransAmount": "7000000",
         "tradeMethods": [
-          "Abu Dhabi Commercial Bank ADCB",
           "Bank Transfer",
-          "ADIB: Abu Dhabi Islamic Bank",
-          "Bank Transfer (Middle East)",
-          "Transfers with specific bank"
+          "Cash Deposit to Bank",
+          "Abu Dhabi Commercial Bank ADCB",
+          "Emirates NBD",
+          "ADIB: Abu Dhabi Islamic Bank"
         ]
       }
     },
@@ -117,15 +121,16 @@
     },
     "USD": {
       "BUY": {
-        "price": 1.0,
+        "price": 0.996,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12556206845790932992",
-        "nickName": "誌得其樂",
-        "minSingleTransAmount": "15",
-        "maxSingleTransAmount": "1500",
+        "advNo": "13829273689805656064",
+        "nickName": "ScammersWillBlocked",
+        "minSingleTransAmount": "100",
+        "maxSingleTransAmount": "15000",
         "tradeMethods": [
-          "Bank Transfer (Taiwan)"
+          "TBC Bank",
+          "Bank of Georgia"
         ]
       },
       "SELL": {
