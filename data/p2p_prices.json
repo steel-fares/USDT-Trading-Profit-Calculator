@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1785080884250,
+  "updatedAt": 1785084027056,
   "source": "Binance P2P web endpoint",
   "asset": "USDT",
   "prices": {
@@ -37,10 +37,10 @@
         "price": 51.6,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12866146280537436160",
-        "nickName": "Trade500",
-        "minSingleTransAmount": "11600",
-        "maxSingleTransAmount": "11601",
+        "advNo": "12913144725263237120",
+        "nickName": "Mohamedelsodany",
+        "minSingleTransAmount": "25750",
+        "maxSingleTransAmount": "500000",
         "tradeMethods": [
           "InstaPay"
         ]
@@ -49,10 +49,10 @@
         "price": 52.1,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12908519193949392896",
-        "nickName": "The_monster1",
-        "minSingleTransAmount": "80000",
-        "maxSingleTransAmount": "80001",
+        "advNo": "12908296373145751552",
+        "nickName": "AbuKhalil1",
+        "minSingleTransAmount": "5000",
+        "maxSingleTransAmount": "5001",
         "tradeMethods": [
           "Vodafone cash"
         ]
@@ -60,27 +60,27 @@
     },
     "AED": {
       "BUY": {
-        "price": 3.67,
+        "price": 3.671,
         "pickedIndex": 1,
         "availableRows": 10,
-        "advNo": "12901979465843007488",
-        "nickName": "UAE_Ahmed",
-        "minSingleTransAmount": "500",
-        "maxSingleTransAmount": "3000",
+        "advNo": "13905650123402620928",
+        "nickName": "DXB_EXCHANGE_24-7",
+        "minSingleTransAmount": "5000",
+        "maxSingleTransAmount": "50000",
         "tradeMethods": [
-          "Bank Transfer (Middle East)"
+          "Bank Transfer"
         ]
       },
       "SELL": {
-        "price": 3.666,
+        "price": 3.665,
         "pickedIndex": 1,
         "availableRows": 10,
-        "advNo": "12911488671854481408",
-        "nickName": "UmSalama",
-        "minSingleTransAmount": "50000",
-        "maxSingleTransAmount": "200000",
+        "advNo": "12883810651430146048",
+        "nickName": "P2P-UAE-ALI",
+        "minSingleTransAmount": "995",
+        "maxSingleTransAmount": "1000",
         "tradeMethods": [
-          "Cash Deposit to Bank"
+          "Aani"
         ]
       }
     },
@@ -100,29 +100,30 @@
         ]
       },
       "SELL": {
-        "price": 3.83,
+        "price": 3.9,
         "pickedIndex": 1,
-        "availableRows": 10,
-        "advNo": "12736161376127221760",
-        "nickName": "dahoom",
-        "minSingleTransAmount": "20000",
-        "maxSingleTransAmount": "40000",
+        "availableRows": 11,
+        "advNo": "12914721251862929408",
+        "nickName": "P2P-b1e5cfyk",
+        "minSingleTransAmount": "200",
+        "maxSingleTransAmount": "371",
         "tradeMethods": [
-          "Skrill (Moneybookers)"
+          "Bank Transfer"
         ]
       }
     },
     "USD": {
       "BUY": {
-        "price": 0.991,
+        "price": 0.997,
         "pickedIndex": 1,
-        "availableRows": 11,
-        "advNo": "13914720871342518272",
-        "nickName": "Anitacrush",
-        "minSingleTransAmount": "2800",
-        "maxSingleTransAmount": "15000",
+        "availableRows": 10,
+        "advNo": "12914361399045816320",
+        "nickName": "CryptoGeo2025",
+        "minSingleTransAmount": "75",
+        "maxSingleTransAmount": "618",
         "tradeMethods": [
-          "Wally Tech"
+          "TBC Bank",
+          "Bank of Georgia"
         ]
       },
       "SELL": {
@@ -144,27 +145,31 @@
     },
     "EUR": {
       "BUY": {
-        "price": 0.883,
+        "price": 0.88,
         "pickedIndex": 1,
         "availableRows": 10,
-        "advNo": "12913921449281953792",
-        "nickName": "BURGENK",
-        "minSingleTransAmount": "50",
-        "maxSingleTransAmount": "100",
+        "advNo": "12914376098799132672",
+        "nickName": "STARBUCKS-嘎嘎好喝",
+        "minSingleTransAmount": "10",
+        "maxSingleTransAmount": "60",
         "tradeMethods": [
           "Wise"
         ]
       },
       "SELL": {
-        "price": 0.92,
+        "price": 0.901,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12914717068068429824",
-        "nickName": "CambiosOrion1",
-        "minSingleTransAmount": "40",
-        "maxSingleTransAmount": "40",
+        "advNo": "12914591956395237376",
+        "nickName": "dealwithtrust",
+        "minSingleTransAmount": "3500",
+        "maxSingleTransAmount": "6900",
         "tradeMethods": [
-          "BBVA"
+          "Dukascopy Bank",
+          "N26",
+          "Paysera",
+          "Bunq",
+          "SEPA (EU) bank transfer"
         ]
       }
     }
