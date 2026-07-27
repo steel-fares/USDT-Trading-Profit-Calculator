@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1785185286168,
+  "updatedAt": 1785189207574,
   "source": "Binance P2P web endpoint",
   "asset": "USDT",
   "prices": {
@@ -31,13 +31,13 @@
     },
     "EGP": {
       "BUY": {
-        "price": 51.04,
+        "price": 51.0,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "13906653175752265728",
-        "nickName": "Mari-7",
-        "minSingleTransAmount": "50000",
-        "maxSingleTransAmount": "50001",
+        "advNo": "12914006518188982272",
+        "nickName": "Ahmedmoawia",
+        "minSingleTransAmount": "543",
+        "maxSingleTransAmount": "544",
         "tradeMethods": [
           "InstaPay"
         ]
@@ -57,25 +57,26 @@
     },
     "AED": {
       "BUY": {
-        "price": 3.675,
+        "price": 3.67,
         "pickedIndex": 1,
         "availableRows": 10,
-        "advNo": "12901979465843007488",
-        "nickName": "UAE_Ahmed",
-        "minSingleTransAmount": "500",
-        "maxSingleTransAmount": "3000",
+        "advNo": "12913979360729088000",
+        "nickName": "solamy",
+        "minSingleTransAmount": "250",
+        "maxSingleTransAmount": "300",
         "tradeMethods": [
-          "Bank Transfer (Middle East)"
+          "Cash Deposit to Bank",
+          "Bank Transfer"
         ]
       },
       "SELL": {
-        "price": 3.7,
+        "price": 3.666,
         "pickedIndex": 1,
         "availableRows": 10,
-        "advNo": "12915151257663733760",
-        "nickName": "Ajaj__Ansari",
-        "minSingleTransAmount": "1000",
-        "maxSingleTransAmount": "4940",
+        "advNo": "12895159950649442304",
+        "nickName": "Habib_USDT",
+        "minSingleTransAmount": "34",
+        "maxSingleTransAmount": "35",
         "tradeMethods": [
           "Aani"
         ]
@@ -142,27 +143,27 @@
     },
     "EUR": {
       "BUY": {
-        "price": 0.884,
+        "price": 0.88,
         "pickedIndex": 1,
         "availableRows": 10,
-        "advNo": "13913552053567086592",
-        "nickName": "RAC00N",
-        "minSingleTransAmount": "100",
-        "maxSingleTransAmount": "100000",
+        "advNo": "12915082537716539392",
+        "nickName": "CriptoISARAC",
+        "minSingleTransAmount": "10",
+        "maxSingleTransAmount": "1663",
         "tradeMethods": [
-          "TBC Bank"
+          "Skrill (Moneybookers)"
         ]
       },
       "SELL": {
-        "price": 0.915,
+        "price": 0.92,
         "pickedIndex": 1,
-        "availableRows": 10,
-        "advNo": "12901984188681543680",
-        "nickName": "User-a70a9",
-        "minSingleTransAmount": "1299",
-        "maxSingleTransAmount": "1300",
+        "availableRows": 11,
+        "advNo": "12892314940575682560",
+        "nickName": "NexPaySAC",
+        "minSingleTransAmount": "15000",
+        "maxSingleTransAmount": "100000",
         "tradeMethods": [
-          "SEPA Instant"
+          "Bank Transfer"
         ]
       }
     }
