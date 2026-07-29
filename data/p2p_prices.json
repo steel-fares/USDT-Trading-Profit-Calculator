@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1785287320469,
+  "updatedAt": 1785299418315,
   "source": "Binance P2P web endpoint",
   "asset": "USDT",
   "prices": {
@@ -8,50 +8,58 @@
         "price": 0.39,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12907183085653188608",
-        "nickName": "SaidHamed",
-        "minSingleTransAmount": "100",
+        "advNo": "12903100155889836032",
+        "nickName": "OMAN_OTC_SERVICE",
+        "minSingleTransAmount": "500",
         "maxSingleTransAmount": "2500",
         "tradeMethods": [
+          "Bank Muscat",
           "Sohar International",
-          "Bank Muscat"
+          "Ahlibank"
         ]
       },
       "SELL": {
         "price": 0.389,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12890882195515183104",
-        "nickName": "abdo _ salah",
-        "minSingleTransAmount": "200",
-        "maxSingleTransAmount": "560",
+        "advNo": "12907002228753686528",
+        "nickName": "fasttrade24hours",
+        "minSingleTransAmount": "300",
+        "maxSingleTransAmount": "1000",
         "tradeMethods": [
-          "Bank Muscat"
+          "Bank Transfer",
+          "Bank Muscat",
+          "Bank Dhofar",
+          "Airtime Mobile Top-Up",
+          "Ahlibank"
         ]
       }
     },
     "EGP": {
       "BUY": {
-        "price": 51.29,
+        "price": 51.27,
         "pickedIndex": 1,
-        "availableRows": 11,
-        "advNo": "12911969481814003712",
-        "nickName": "Hamo_USDT",
-        "minSingleTransAmount": "200",
-        "maxSingleTransAmount": "1131",
+        "availableRows": 10,
+        "advNo": "13910675517434871808",
+        "nickName": "Point-",
+        "minSingleTransAmount": "100000",
+        "maxSingleTransAmount": "930000",
         "tradeMethods": [
+          "Banque Misr",
+          "Bank Transfer",
           "InstaPay",
-          "Bank Transfer"
+          "CIB | Commercial International Bank Egypt",
+          "Emirates NBD"
         ]
       },
       "SELL": {
-        "price": 51.81,
+        "price": 51.68,
         "pickedIndex": 1,
-        "availableRows": 11,
-        "advNo": "12883270638124294144",
-        "nickName": "YOUgg",
-        "minSingleTransAmount": "5000",
-        "maxSingleTransAmount": "5001",
+        "availableRows": 10,
+        "advNo": "12912131451995414528",
+        "nickName": "Marketing_Crypto",
+        "minSingleTransAmount": "6000",
+        "maxSingleTransAmount": "6001",
         "tradeMethods": [
           "Vodafone cash"
         ]
@@ -59,13 +67,13 @@
     },
     "AED": {
       "BUY": {
-        "price": 3.677,
+        "price": 3.672,
         "pickedIndex": 1,
         "availableRows": 10,
-        "advNo": "13900958576162877440",
-        "nickName": "QinXhao",
-        "minSingleTransAmount": "50000",
-        "maxSingleTransAmount": "400000",
+        "advNo": "13908906680016334848",
+        "nickName": "Takethiswave",
+        "minSingleTransAmount": "6000",
+        "maxSingleTransAmount": "7000000",
         "tradeMethods": [
           "Bank Transfer"
         ]
@@ -113,27 +121,32 @@
     },
     "USD": {
       "BUY": {
-        "price": 0.997,
+        "price": 0.998,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12915129640455827456",
-        "nickName": "CRYTO_ELITE ",
-        "minSingleTransAmount": "980",
-        "maxSingleTransAmount": "3000",
+        "advNo": "12910007079967825920",
+        "nickName": "OficinadeCris",
+        "minSingleTransAmount": "150",
+        "maxSingleTransAmount": "4000",
         "tradeMethods": [
-          "Banco Pichincha"
+          "Banco Pichincha",
+          "Banco del pacifico"
         ]
       },
       "SELL": {
         "price": 1.1,
         "pickedIndex": 1,
-        "availableRows": 10,
-        "advNo": "12915118375900930048",
-        "nickName": "assouka",
-        "minSingleTransAmount": "1800",
-        "maxSingleTransAmount": "2000",
+        "availableRows": 11,
+        "advNo": "12912089075832750080",
+        "nickName": "Eleven00",
+        "minSingleTransAmount": "15",
+        "maxSingleTransAmount": "5000",
         "tradeMethods": [
-          "Skrill (Moneybookers)"
+          "IMPS",
+          "Paytm",
+          "PhonePe",
+          "Google Pay (GPay)",
+          "Easypaisa-PK Only"
         ]
       }
     },
