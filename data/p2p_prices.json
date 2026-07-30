@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1785450613466,
+  "updatedAt": 1785454519712,
   "source": "Binance P2P web endpoint",
   "asset": "USDT",
   "prices": {
@@ -8,13 +8,14 @@
         "price": 0.391,
         "pickedIndex": 1,
         "availableRows": 10,
-        "advNo": "13915381302418497536",
-        "nickName": "Moosacrypto",
+        "advNo": "13892168838597554176",
+        "nickName": "TradersParadise ",
         "minSingleTransAmount": "250",
         "maxSingleTransAmount": "10000",
         "tradeMethods": [
           "Bank Muscat",
           "Bank Dhofar",
+          "Airtime Mobile Top-Up",
           "Ahlibank"
         ]
       },
@@ -45,13 +46,13 @@
         ]
       },
       "SELL": {
-        "price": 52.06,
+        "price": 52.25,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12906609558804369408",
-        "nickName": "marly2055",
-        "minSingleTransAmount": "49999",
-        "maxSingleTransAmount": "50000",
+        "advNo": "12867076926752673792",
+        "nickName": "Vip--p2p",
+        "minSingleTransAmount": "4999",
+        "maxSingleTransAmount": "5000",
         "tradeMethods": [
           "Vodafone cash"
         ]
@@ -59,32 +60,28 @@
     },
     "AED": {
       "BUY": {
-        "price": 3.685,
+        "price": 3.68,
         "pickedIndex": 1,
         "availableRows": 10,
-        "advNo": "12913979360729088000",
-        "nickName": "solamy",
-        "minSingleTransAmount": "450",
-        "maxSingleTransAmount": "500",
+        "advNo": "12916200438421729280",
+        "nickName": "Fast Payment ",
+        "minSingleTransAmount": "24000",
+        "maxSingleTransAmount": "25000",
         "tradeMethods": [
-          "Cash Deposit to Bank",
           "Bank Transfer"
         ]
       },
       "SELL": {
-        "price": 3.72,
+        "price": 3.666,
         "pickedIndex": 1,
         "availableRows": 10,
-        "advNo": "12904538345658404864",
-        "nickName": "almemlka",
-        "minSingleTransAmount": "6490",
-        "maxSingleTransAmount": "6500",
+        "advNo": "12916240685117095936",
+        "nickName": "FK_m149",
+        "minSingleTransAmount": "1000",
+        "maxSingleTransAmount": "5000",
         "tradeMethods": [
-          "Bank Transfer",
-          "ADIB: Abu Dhabi Islamic Bank",
-          "Abu Dhabi Commercial Bank ADCB",
-          "Emirates NBD",
-          "CIB | Commercial International Bank Egypt"
+          "Aani",
+          "ADIB: Abu Dhabi Islamic Bank"
         ]
       }
     },
@@ -121,16 +118,15 @@
     },
     "USD": {
       "BUY": {
-        "price": 0.998,
+        "price": 0.999,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12915616891951333376",
-        "nickName": "User-fe4b2dhq",
-        "minSingleTransAmount": "15",
-        "maxSingleTransAmount": "300",
+        "advNo": "12916004177489211392",
+        "nickName": "COMERCIO-URBAN-2",
+        "minSingleTransAmount": "100",
+        "maxSingleTransAmount": "7500",
         "tradeMethods": [
-          "ABA",
-          "KHQR"
+          "Banco Pichincha"
         ]
       },
       "SELL": {
@@ -152,27 +148,29 @@
     },
     "EUR": {
       "BUY": {
-        "price": 0.891,
+        "price": 0.868,
         "pickedIndex": 1,
         "availableRows": 10,
-        "advNo": "12916131771536326656",
-        "nickName": "MAGNA_CAPITAL",
-        "minSingleTransAmount": "10",
-        "maxSingleTransAmount": "837",
+        "advNo": "13911029597150162944",
+        "nickName": "Rpaat86",
+        "minSingleTransAmount": "100",
+        "maxSingleTransAmount": "4000",
         "tradeMethods": [
-          "Dukascopy Bank"
+          "Fastoo wallet",
+          "Bank of Georgia",
+          "TBC Bank"
         ]
       },
       "SELL": {
-        "price": 0.9,
+        "price": 0.89,
         "pickedIndex": 1,
         "availableRows": 10,
-        "advNo": "12916240863083257856",
-        "nickName": "CambiosJVGO",
-        "minSingleTransAmount": "100",
-        "maxSingleTransAmount": "150",
+        "advNo": "12570491162479042560",
+        "nickName": "ARIMARKET",
+        "minSingleTransAmount": "10000",
+        "maxSingleTransAmount": "10000",
         "tradeMethods": [
-          "BBVA"
+          "SEPA Instant"
         ]
       }
     }
