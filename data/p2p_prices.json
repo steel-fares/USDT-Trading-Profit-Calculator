@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1785382497804,
+  "updatedAt": 1785391876484,
   "source": "Binance P2P web endpoint",
   "asset": "USDT",
   "prices": {
@@ -23,40 +23,36 @@
         "price": 0.389,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12907002228753686528",
-        "nickName": "fasttrade24hours",
-        "minSingleTransAmount": "1500",
-        "maxSingleTransAmount": "2500",
+        "advNo": "12915774151112286208",
+        "nickName": "kazido-snake",
+        "minSingleTransAmount": "80",
+        "maxSingleTransAmount": "500",
         "tradeMethods": [
-          "Ahlibank",
-          "Airtime Mobile Top-Up",
-          "Bank Dhofar",
-          "Bank Muscat",
-          "Bank Transfer"
+          "Bank Muscat"
         ]
       }
     },
     "EGP": {
       "BUY": {
-        "price": 51.25,
+        "price": 51.21,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12915987109385461760",
-        "nickName": "UniversalConverter",
-        "minSingleTransAmount": "14750",
-        "maxSingleTransAmount": "14800",
+        "advNo": "12913095253275684864",
+        "nickName": "User-a70b2",
+        "minSingleTransAmount": "500",
+        "maxSingleTransAmount": "100000",
         "tradeMethods": [
           "InstaPay"
         ]
       },
       "SELL": {
-        "price": 51.91,
+        "price": 51.95,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12902291576603410432",
-        "nickName": "_The_Dragon_",
-        "minSingleTransAmount": "10000",
-        "maxSingleTransAmount": "10001",
+        "advNo": "12824981697856655360",
+        "nickName": "El_Pop1",
+        "minSingleTransAmount": "20000",
+        "maxSingleTransAmount": "20001",
         "tradeMethods": [
           "Vodafone cash"
         ]
@@ -83,10 +79,10 @@
         "price": 3.668,
         "pickedIndex": 1,
         "availableRows": 10,
-        "advNo": "12895186079253585920",
-        "nickName": "Umlayan",
-        "minSingleTransAmount": "30000",
-        "maxSingleTransAmount": "200000",
+        "advNo": "12900240353818693632",
+        "nickName": "Trusted_zone_usdt",
+        "minSingleTransAmount": "18000",
+        "maxSingleTransAmount": "25000",
         "tradeMethods": [
           "Cash Deposit to Bank"
         ]
@@ -125,15 +121,16 @@
     },
     "USD": {
       "BUY": {
-        "price": 0.999,
+        "price": 0.998,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12910007079967825920",
-        "nickName": "OficinadeCris",
-        "minSingleTransAmount": "100",
-        "maxSingleTransAmount": "4000",
+        "advNo": "12911984928808624128",
+        "nickName": "COMERCIO-URBANO",
+        "minSingleTransAmount": "50",
+        "maxSingleTransAmount": "7500",
         "tradeMethods": [
           "Banco Pichincha",
+          "Banco Internacional",
           "Banco del pacifico"
         ]
       },
@@ -156,27 +153,30 @@
     },
     "EUR": {
       "BUY": {
-        "price": 0.891,
+        "price": 0.89,
         "pickedIndex": 1,
         "availableRows": 10,
-        "advNo": "13910734745582346240",
-        "nickName": "GuruGambling2000",
-        "minSingleTransAmount": "100",
-        "maxSingleTransAmount": "5000",
+        "advNo": "13890376951671607296",
+        "nickName": "Honest-crypto-trader",
+        "minSingleTransAmount": "200",
+        "maxSingleTransAmount": "2000",
         "tradeMethods": [
-          "Skrill (Moneybookers)"
+          "Wise"
         ]
       },
       "SELL": {
-        "price": 0.895,
+        "price": 0.901,
         "pickedIndex": 1,
-        "availableRows": 10,
-        "advNo": "12915844510386749440",
-        "nickName": "P2P_24Hrs",
-        "minSingleTransAmount": "1000",
-        "maxSingleTransAmount": "2800",
+        "availableRows": 11,
+        "advNo": "12915007955328851968",
+        "nickName": "User-8871f",
+        "minSingleTransAmount": "2000",
+        "maxSingleTransAmount": "7500",
         "tradeMethods": [
-          "Bizum",
+          "CaixaBank (Spain)",
+          "Wise",
+          "SEPA Instant",
+          "Bunq",
           "BBVA"
         ]
       }
