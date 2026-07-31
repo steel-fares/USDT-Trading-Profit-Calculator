@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1785460244316,
+  "updatedAt": 1785472978017,
   "source": "Binance P2P web endpoint",
   "asset": "USDT",
   "prices": {
@@ -34,25 +34,25 @@
     },
     "EGP": {
       "BUY": {
-        "price": 51.46,
+        "price": 51.59,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "13904971958604144640",
-        "nickName": "pikata_",
-        "minSingleTransAmount": "91",
-        "maxSingleTransAmount": "150",
+        "advNo": "12915338184785780736",
+        "nickName": "P2PSAFEPAY",
+        "minSingleTransAmount": "6020",
+        "maxSingleTransAmount": "80000",
         "tradeMethods": [
-          "Vodafone cash"
+          "InstaPay"
         ]
       },
       "SELL": {
-        "price": 52.24,
+        "price": 52.15,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12878147088105619456",
-        "nickName": "AbOali1232",
-        "minSingleTransAmount": "99",
-        "maxSingleTransAmount": "100",
+        "advNo": "12882157196738719744",
+        "nickName": "Goseph",
+        "minSingleTransAmount": "27000",
+        "maxSingleTransAmount": "27001",
         "tradeMethods": [
           "Vodafone cash"
         ]
@@ -60,29 +60,28 @@
     },
     "AED": {
       "BUY": {
-        "price": 3.68,
+        "price": 3.685,
         "pickedIndex": 1,
         "availableRows": 10,
-        "advNo": "12916200438421729280",
-        "nickName": "Fast Payment ",
-        "minSingleTransAmount": "24000",
-        "maxSingleTransAmount": "25000",
+        "advNo": "13916318436457758720",
+        "nickName": "_AliX_",
+        "minSingleTransAmount": "9000",
+        "maxSingleTransAmount": "7000000",
         "tradeMethods": [
-          "Bank Transfer"
+          "Bank Transfer",
+          "Cash Deposit to Bank"
         ]
       },
       "SELL": {
-        "price": 3.666,
+        "price": 3.669,
         "pickedIndex": 1,
         "availableRows": 10,
-        "advNo": "12915969655883530240",
-        "nickName": "BORKANCOINS",
-        "minSingleTransAmount": "24999",
-        "maxSingleTransAmount": "25000",
+        "advNo": "12898100852471345152",
+        "nickName": "sh_am_ez",
+        "minSingleTransAmount": "3042",
+        "maxSingleTransAmount": "3044",
         "tradeMethods": [
-          "Abu Dhabi Commercial Bank ADCB",
-          "Bank Transfer",
-          "ADIB: Abu Dhabi Islamic Bank"
+          "Bank Transfer"
         ]
       }
     },
@@ -122,10 +121,10 @@
         "price": 0.998,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12915616891951333376",
-        "nickName": "User-fe4b2dhq",
+        "advNo": "12915447737763155968",
+        "nickName": "User-3ee58al0",
         "minSingleTransAmount": "15",
-        "maxSingleTransAmount": "300",
+        "maxSingleTransAmount": "240",
         "tradeMethods": [
           "ABA",
           "KHQR"
@@ -150,18 +149,14 @@
     },
     "EUR": {
       "BUY": {
-        "price": 0.891,
+        "price": 0.886,
         "pickedIndex": 1,
         "availableRows": 10,
-        "advNo": "13906087919293976576",
-        "nickName": "XCHAlNGER",
-        "minSingleTransAmount": "450",
-        "maxSingleTransAmount": "100000",
+        "advNo": "13875051437773242368",
+        "nickName": "Wise白泽-Instant",
+        "minSingleTransAmount": "100",
+        "maxSingleTransAmount": "3000",
         "tradeMethods": [
-          "SEPA (EU) bank transfer",
-          "Bunq",
-          "SEPA Instant",
-          "Bank Transfer",
           "Wise"
         ]
       },
