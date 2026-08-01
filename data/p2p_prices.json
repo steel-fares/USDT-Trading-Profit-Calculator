@@ -1,23 +1,26 @@
 {
-  "updatedAt": 1785556535268,
+  "updatedAt": 1785565960565,
   "source": "Binance P2P web endpoint",
   "asset": "USDT",
   "prices": {
     "OMR": {
       "BUY": {
-        "price": 0.39,
+        "price": 0.391,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12900251104431861760",
-        "nickName": "King_Crypto_Trust",
-        "minSingleTransAmount": "100",
-        "maxSingleTransAmount": "2500",
+        "advNo": "13892168838597554176",
+        "nickName": "TradersParadise ",
+        "minSingleTransAmount": "250",
+        "maxSingleTransAmount": "10000",
         "tradeMethods": [
-          "Bank Muscat"
+          "Bank Muscat",
+          "Bank Dhofar",
+          "Airtime Mobile Top-Up",
+          "Ahlibank"
         ]
       },
       "SELL": {
-        "price": 0.403,
+        "price": 0.404,
         "pickedIndex": 1,
         "availableRows": 11,
         "advNo": "12916570842238431232",
@@ -31,25 +34,25 @@
     },
     "EGP": {
       "BUY": {
-        "price": 51.52,
+        "price": 51.4,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12916485128989917184",
-        "nickName": "A7MED_25",
-        "minSingleTransAmount": "10000",
-        "maxSingleTransAmount": "10595",
+        "advNo": "12912777356460326912",
+        "nickName": "Exchange_Crypto10",
+        "minSingleTransAmount": "21999",
+        "maxSingleTransAmount": "22000",
         "tradeMethods": [
           "InstaPay"
         ]
       },
       "SELL": {
-        "price": 52.19,
+        "price": 52.1,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12878147088105619456",
-        "nickName": "AbOali1232",
-        "minSingleTransAmount": "99",
-        "maxSingleTransAmount": "100",
+        "advNo": "12835963754104635392",
+        "nickName": "karlos-basha",
+        "minSingleTransAmount": "5000",
+        "maxSingleTransAmount": "5001",
         "tradeMethods": [
           "Vodafone cash"
         ]
@@ -57,29 +60,28 @@
     },
     "AED": {
       "BUY": {
-        "price": 3.679,
+        "price": 3.675,
         "pickedIndex": 1,
         "availableRows": 10,
-        "advNo": "12915827370976034816",
-        "nickName": "Faster-_Usdt",
-        "minSingleTransAmount": "10000",
-        "maxSingleTransAmount": "10050",
+        "advNo": "12916754845851688960",
+        "nickName": "Surajmadusanka",
+        "minSingleTransAmount": "5192",
+        "maxSingleTransAmount": "5193",
         "tradeMethods": [
+          "Emirates NBD",
           "Bank Transfer"
         ]
       },
       "SELL": {
-        "price": 3.666,
+        "price": 3.667,
         "pickedIndex": 1,
         "availableRows": 10,
-        "advNo": "12915969655883530240",
-        "nickName": "BORKANCOINS",
+        "advNo": "12895980924805402624",
+        "nickName": "Issasalim",
         "minSingleTransAmount": "24999",
         "maxSingleTransAmount": "25000",
         "tradeMethods": [
-          "Abu Dhabi Commercial Bank ADCB",
-          "Bank Transfer",
-          "ADIB: Abu Dhabi Islamic Bank"
+          "Cash Deposit to Bank"
         ]
       }
     },
@@ -88,36 +90,40 @@
         "price": 3.79,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12910931967301025792",
-        "nickName": "Quick1_",
-        "minSingleTransAmount": "5000",
-        "maxSingleTransAmount": "10675",
+        "advNo": "12911862767361048576",
+        "nickName": "Zainab Nasser",
+        "minSingleTransAmount": "700",
+        "maxSingleTransAmount": "701",
         "tradeMethods": [
           "Al Rajhi Bank"
         ]
       },
       "SELL": {
-        "price": 3.87,
+        "price": 3.85,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12897487627350495232",
-        "nickName": "onlytrustedpersonpls",
-        "minSingleTransAmount": "10",
-        "maxSingleTransAmount": "33",
+        "advNo": "12851700581638422528",
+        "nickName": "No-Restriction",
+        "minSingleTransAmount": "600",
+        "maxSingleTransAmount": "780",
         "tradeMethods": [
-          "barq"
+          "Alinma Bank",
+          "The Saudi British Bank (SABB)",
+          "Saudi National Bank (AlAhli Bank)",
+          "Bank Transfer",
+          "Al Rajhi Bank"
         ]
       }
     },
     "USD": {
       "BUY": {
-        "price": 0.997,
+        "price": 0.998,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12915616891951333376",
-        "nickName": "User-fe4b2dhq",
+        "advNo": "12915447737763155968",
+        "nickName": "User-3ee58al0",
         "minSingleTransAmount": "15",
-        "maxSingleTransAmount": "300",
+        "maxSingleTransAmount": "240",
         "tradeMethods": [
           "ABA",
           "KHQR"
@@ -142,28 +148,29 @@
     },
     "EUR": {
       "BUY": {
-        "price": 0.893,
+        "price": 0.868,
         "pickedIndex": 1,
-        "availableRows": 10,
-        "advNo": "13832145516965543936",
-        "nickName": "Astroworld-",
-        "minSingleTransAmount": "45",
-        "maxSingleTransAmount": "10000",
+        "availableRows": 11,
+        "advNo": "13911029597150162944",
+        "nickName": "Rpaat86",
+        "minSingleTransAmount": "100",
+        "maxSingleTransAmount": "4000",
         "tradeMethods": [
-          "Dukascopy Bank"
+          "Fastoo wallet",
+          "Bank of Georgia",
+          "TBC Bank"
         ]
       },
       "SELL": {
-        "price": 0.887,
+        "price": 0.946,
         "pickedIndex": 1,
-        "availableRows": 10,
-        "advNo": "12893651476554502144",
-        "nickName": "EnchikTop_Old",
-        "minSingleTransAmount": "390",
-        "maxSingleTransAmount": "10000",
+        "availableRows": 11,
+        "advNo": "12916750903478329344",
+        "nickName": "User-e1768",
+        "minSingleTransAmount": "380",
+        "maxSingleTransAmount": "381",
         "tradeMethods": [
-          "Bank Transfer",
-          "SEPA (EU) bank transfer"
+          "CaixaBank (Spain)"
         ]
       }
     }
