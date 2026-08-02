@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1785708341347,
+  "updatedAt": 1785712088879,
   "source": "Binance P2P web endpoint",
   "asset": "USDT",
   "prices": {
@@ -22,26 +22,28 @@
         "price": 0.389,
         "pickedIndex": 1,
         "availableRows": 10,
-        "advNo": "12914561825074937856",
-        "nickName": "Mohammed_alsalhi",
+        "advNo": "12916798772226191360",
+        "nickName": "fasttrade24hours",
         "minSingleTransAmount": "10",
-        "maxSingleTransAmount": "59",
+        "maxSingleTransAmount": "500",
         "tradeMethods": [
-          "Arab Bank",
+          "Bank Transfer",
           "Bank Muscat",
-          "Sohar International"
+          "Bank Dhofar",
+          "Airtime Mobile Top-Up",
+          "Ahlibank"
         ]
       }
     },
     "EGP": {
       "BUY": {
-        "price": 51.12,
+        "price": 51.0,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12913582387208011776",
-        "nickName": "EM3D",
-        "minSingleTransAmount": "5000",
-        "maxSingleTransAmount": "500000",
+        "advNo": "12916259483966218240",
+        "nickName": "a_bdoz",
+        "minSingleTransAmount": "774",
+        "maxSingleTransAmount": "800",
         "tradeMethods": [
           "InstaPay"
         ]
@@ -61,7 +63,7 @@
     },
     "AED": {
       "BUY": {
-        "price": 3.681,
+        "price": 3.692,
         "pickedIndex": 1,
         "availableRows": 10,
         "advNo": "13846076997589045248",
@@ -119,14 +121,15 @@
     },
     "USD": {
       "BUY": {
-        "price": 0.997,
+        "price": 0.999,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12917345407017459712",
-        "nickName": "irakli",
-        "minSingleTransAmount": "680",
-        "maxSingleTransAmount": "685",
+        "advNo": "13912594849781755904",
+        "nickName": "Fast_Secure__Trader",
+        "minSingleTransAmount": "400",
+        "maxSingleTransAmount": "8000",
         "tradeMethods": [
+          "TBC Bank",
           "Bank of Georgia"
         ]
       },
@@ -149,31 +152,31 @@
     },
     "EUR": {
       "BUY": {
-        "price": 0.867,
+        "price": 0.885,
         "pickedIndex": 1,
         "availableRows": 10,
-        "advNo": "13917303003284185088",
-        "nickName": "Irishka7r",
-        "minSingleTransAmount": "400",
-        "maxSingleTransAmount": "10000",
+        "advNo": "13916980326320316416",
+        "nickName": "AltcoinX",
+        "minSingleTransAmount": "1000",
+        "maxSingleTransAmount": "12321",
         "tradeMethods": [
-          "Bank of Georgia"
+          "SEPA Instant",
+          "SEPA (EU) bank transfer",
+          "Paysera",
+          "BBVA",
+          "Wise"
         ]
       },
       "SELL": {
-        "price": 0.892,
+        "price": 0.883,
         "pickedIndex": 1,
         "availableRows": 10,
-        "advNo": "12893356028754591744",
-        "nickName": "Blandino_34",
-        "minSingleTransAmount": "383",
-        "maxSingleTransAmount": "384",
+        "advNo": "12912381856792989696",
+        "nickName": "cryusdtsa",
+        "minSingleTransAmount": "353",
+        "maxSingleTransAmount": "354",
         "tradeMethods": [
-          "Wise",
-          "SEPA Instant",
-          "Paysera",
-          "N26",
-          "BBVA"
+          "Dukascopy Bank"
         ]
       }
     }
