@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1785959243814,
+  "updatedAt": 1785962960021,
   "source": "Binance P2P web endpoint",
   "asset": "USDT",
   "prices": {
@@ -24,10 +24,10 @@
         "price": 0.389,
         "pickedIndex": 1,
         "availableRows": 10,
-        "advNo": "12910315968506519552",
-        "nickName": "Solysaif",
-        "minSingleTransAmount": "11",
-        "maxSingleTransAmount": "2500",
+        "advNo": "12917946981593800704",
+        "nickName": "M-BlueDiamond",
+        "minSingleTransAmount": "5",
+        "maxSingleTransAmount": "15",
         "tradeMethods": [
           "Bank Muscat"
         ]
@@ -35,25 +35,25 @@
     },
     "EGP": {
       "BUY": {
-        "price": 50.2,
+        "price": 50.35,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "13910767417065877504",
-        "nickName": "Kmexbank",
+        "advNo": "12866131981181972480",
+        "nickName": "mahmoudtiger",
         "minSingleTransAmount": "5000",
-        "maxSingleTransAmount": "5001",
+        "maxSingleTransAmount": "500000",
         "tradeMethods": [
-          "InstaPay"
+          "CIB | Commercial International Bank Egypt"
         ]
       },
       "SELL": {
-        "price": 50.56,
+        "price": 50.75,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12914625541358772224",
-        "nickName": "User-440d180o",
-        "minSingleTransAmount": "12000",
-        "maxSingleTransAmount": "12001",
+        "advNo": "12875253636259995648",
+        "nickName": "king_kivu",
+        "minSingleTransAmount": "12500",
+        "maxSingleTransAmount": "12501",
         "tradeMethods": [
           "Vodafone cash"
         ]
@@ -87,28 +87,32 @@
     },
     "SAR": {
       "BUY": {
-        "price": 3.78,
+        "price": 3.79,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12918367134988648448",
-        "nickName": "traderone23",
-        "minSingleTransAmount": "7000",
-        "maxSingleTransAmount": "12000",
+        "advNo": "13900275607789953024",
+        "nickName": "obkh9",
+        "minSingleTransAmount": "20000",
+        "maxSingleTransAmount": "500000",
         "tradeMethods": [
-          "stc pay",
-          "Al Rajhi Bank"
+          "Saudi National Bank (AlAhli Bank)",
+          "Alinma Bank",
+          "Al Rajhi Bank",
+          "Riyad Bank",
+          "Bank Transfer"
         ]
       },
       "SELL": {
-        "price": 3.85,
+        "price": 3.95,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12864398051784671232",
-        "nickName": "Md-Shepan-Miah",
-        "minSingleTransAmount": "49",
-        "maxSingleTransAmount": "50",
+        "advNo": "12918422340481716224",
+        "nickName": "Express-USDT-",
+        "minSingleTransAmount": "10",
+        "maxSingleTransAmount": "40",
         "tradeMethods": [
-          "Bank Transfer"
+          "AlinmaPay",
+          "Mobily Pay"
         ]
       }
     },
@@ -145,29 +149,27 @@
     },
     "EUR": {
       "BUY": {
-        "price": 0.866,
+        "price": 0.877,
         "pickedIndex": 1,
-        "availableRows": 11,
-        "advNo": "13911029597150162944",
-        "nickName": "Rpaat86",
-        "minSingleTransAmount": "100",
-        "maxSingleTransAmount": "4000",
+        "availableRows": 10,
+        "advNo": "12887842542527131648",
+        "nickName": "Safeusdt-pro",
+        "minSingleTransAmount": "10",
+        "maxSingleTransAmount": "30",
         "tradeMethods": [
-          "Fastoo wallet",
-          "Bank of Georgia",
-          "TBC Bank"
+          "Wise"
         ]
       },
       "SELL": {
-        "price": 0.94,
+        "price": 0.946,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12918345934479962112",
-        "nickName": "anonymus-23",
-        "minSingleTransAmount": "375",
-        "maxSingleTransAmount": "376",
+        "advNo": "12918416247915888640",
+        "nickName": "G-B-L-M",
+        "minSingleTransAmount": "1850",
+        "maxSingleTransAmount": "1900",
         "tradeMethods": [
-          "BBVA"
+          "Bank Transfer"
         ]
       }
     }
