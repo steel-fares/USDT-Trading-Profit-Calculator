@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1786126324382,
+  "updatedAt": 1786130264866,
   "source": "Binance P2P web endpoint",
   "asset": "USDT",
   "prices": {
@@ -7,7 +7,7 @@
       "BUY": {
         "price": 0.39,
         "pickedIndex": 1,
-        "availableRows": 11,
+        "availableRows": 10,
         "advNo": "13915769275121754112",
         "nickName": "Mohammed-Al-Ghazali",
         "minSingleTransAmount": "100",
@@ -19,41 +19,40 @@
       "SELL": {
         "price": 0.388,
         "pickedIndex": 1,
-        "availableRows": 11,
-        "advNo": "12916798772226191360",
-        "nickName": "fasttrade24hours",
-        "minSingleTransAmount": "1000",
-        "maxSingleTransAmount": "2500",
+        "availableRows": 10,
+        "advNo": "12890697212454801408",
+        "nickName": "oman-crypto77",
+        "minSingleTransAmount": "100",
+        "maxSingleTransAmount": "400",
         "tradeMethods": [
-          "Sohar International",
           "Bank Muscat",
-          "Bank Dhofar",
-          "Airtime Mobile Top-Up",
-          "Ahlibank"
+          "National Bank of Oman",
+          "Sohar International",
+          "Airtime Mobile Top-Up"
         ]
       }
     },
     "EGP": {
       "BUY": {
-        "price": 50.25,
+        "price": 50.3,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12919105531495800832",
-        "nickName": "SMS_101",
-        "minSingleTransAmount": "7499",
-        "maxSingleTransAmount": "7500",
+        "advNo": "12919122699679416320",
+        "nickName": "7araka1",
+        "minSingleTransAmount": "50000",
+        "maxSingleTransAmount": "53000",
         "tradeMethods": [
           "InstaPay"
         ]
       },
       "SELL": {
-        "price": 50.6,
+        "price": 50.71,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12911689325944553472",
-        "nickName": "DR_karasa2 ",
-        "minSingleTransAmount": "15000",
-        "maxSingleTransAmount": "15001",
+        "advNo": "12916088517277429760",
+        "nickName": "Falcon111 ",
+        "minSingleTransAmount": "5000",
+        "maxSingleTransAmount": "5001",
         "tradeMethods": [
           "Vodafone cash"
         ]
@@ -61,27 +60,34 @@
     },
     "AED": {
       "BUY": {
-        "price": 3.673,
+        "price": 3.672,
         "pickedIndex": 1,
         "availableRows": 10,
-        "advNo": "13911872318290452480",
-        "nickName": "NASSER-TRADER",
-        "minSingleTransAmount": "272107",
-        "maxSingleTransAmount": "3000000",
+        "advNo": "13915657789236006912",
+        "nickName": "Binance_Vet",
+        "minSingleTransAmount": "5000",
+        "maxSingleTransAmount": "7000000",
         "tradeMethods": [
-          "Transfers with specific bank"
+          "Aani",
+          "Bank Transfer",
+          "ADIB: Abu Dhabi Islamic Bank",
+          "Abu Dhabi Commercial Bank ADCB",
+          "Emirates NBD"
         ]
       },
       "SELL": {
-        "price": 3.668,
+        "price": 3.667,
         "pickedIndex": 1,
         "availableRows": 10,
-        "advNo": "12911465748951842816",
-        "nickName": "TrustyBinancian",
-        "minSingleTransAmount": "4000",
-        "maxSingleTransAmount": "8000",
+        "advNo": "12904955638581858304",
+        "nickName": "yacDZA-p2p",
+        "minSingleTransAmount": "7500",
+        "maxSingleTransAmount": "7650",
         "tradeMethods": [
-          "Bank Transfer"
+          "ADIB: Abu Dhabi Islamic Bank",
+          "Abu Dhabi Commercial Bank ADCB",
+          "CIB | Commercial International Bank Egypt",
+          "Emirates NBD"
         ]
       }
     },
@@ -99,27 +105,27 @@
         ]
       },
       "SELL": {
-        "price": 3.88,
+        "price": 3.83,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12919002889631088640",
-        "nickName": "P2P-02eb2bt6",
-        "minSingleTransAmount": "350",
-        "maxSingleTransAmount": "350",
+        "advNo": "12736161376127221760",
+        "nickName": "dahoom",
+        "minSingleTransAmount": "20000",
+        "maxSingleTransAmount": "40000",
         "tradeMethods": [
-          "urpay"
+          "Skrill (Moneybookers)"
         ]
       }
     },
     "USD": {
       "BUY": {
-        "price": 0.996,
+        "price": 0.995,
         "pickedIndex": 1,
-        "availableRows": 10,
+        "availableRows": 11,
         "advNo": "12915791768004018176",
         "nickName": "Angellyn VIP 1 ",
         "minSingleTransAmount": "500",
-        "maxSingleTransAmount": "1950",
+        "maxSingleTransAmount": "2500",
         "tradeMethods": [
           "Banco Pichincha"
         ]
@@ -157,15 +163,15 @@
         ]
       },
       "SELL": {
-        "price": 0.902,
+        "price": 0.9,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12916200485504008192",
-        "nickName": "Goxstore",
-        "minSingleTransAmount": "100",
-        "maxSingleTransAmount": "100",
+        "advNo": "12919096581312815104",
+        "nickName": "Very_Fast_Merchant",
+        "minSingleTransAmount": "1500",
+        "maxSingleTransAmount": "3400",
         "tradeMethods": [
-          "Bizum"
+          "BBVA"
         ]
       }
     }
