@@ -1,57 +1,54 @@
 {
-  "updatedAt": 1786116457828,
+  "updatedAt": 1786119970304,
   "source": "Binance P2P web endpoint",
   "asset": "USDT",
   "prices": {
     "OMR": {
       "BUY": {
-        "price": 0.39,
+        "price": 0.389,
         "pickedIndex": 1,
         "availableRows": 11,
         "advNo": "13919025256352296960",
         "nickName": "Airbus320-251",
-        "minSingleTransAmount": "500",
+        "minSingleTransAmount": "100",
         "maxSingleTransAmount": "5000",
         "tradeMethods": [
-          "Airtime Mobile Top-Up",
-          "Bank Dhofar"
+          "Airtime Mobile Top-Up"
         ]
       },
       "SELL": {
-        "price": 0.388,
+        "price": 0.389,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12762941592487391232",
-        "nickName": "alshars_________USDT",
-        "minSingleTransAmount": "250",
-        "maxSingleTransAmount": "1500",
+        "advNo": "12917487910932590592",
+        "nickName": "p2p-quick",
+        "minSingleTransAmount": "59",
+        "maxSingleTransAmount": "60",
         "tradeMethods": [
-          "Airtime Mobile Top-Up",
-          "Bank Muscat",
-          "Sohar International",
-          "Bank Dhofar"
+          "mBank",
+          "Bank Muscat"
         ]
       }
     },
     "EGP": {
       "BUY": {
-        "price": 50.27,
+        "price": 50.29,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12916161608529895424",
-        "nickName": "User-62e6e",
-        "minSingleTransAmount": "750",
-        "maxSingleTransAmount": "500000",
+        "advNo": "13916134358491086848",
+        "nickName": "Mari-7",
+        "minSingleTransAmount": "10000",
+        "maxSingleTransAmount": "10001",
         "tradeMethods": [
           "InstaPay"
         ]
       },
       "SELL": {
-        "price": 50.62,
+        "price": 50.7,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12877960340499918848",
-        "nickName": "Elbasha-Online",
+        "advNo": "12842158002935197696",
+        "nickName": "MAR_1894",
         "minSingleTransAmount": "5000",
         "maxSingleTransAmount": "5001",
         "tradeMethods": [
@@ -61,29 +58,29 @@
     },
     "AED": {
       "BUY": {
-        "price": 3.67,
+        "price": 3.675,
         "pickedIndex": 1,
         "availableRows": 10,
-        "advNo": "12919064030682873856",
-        "nickName": "taysonyt",
-        "minSingleTransAmount": "24000",
-        "maxSingleTransAmount": "25000",
+        "advNo": "13916040190838132736",
+        "nickName": "TRADE_EDGE",
+        "minSingleTransAmount": "20000",
+        "maxSingleTransAmount": "50000",
         "tradeMethods": [
-          "ADIB: Abu Dhabi Islamic Bank"
+          "Bank Transfer"
         ]
       },
       "SELL": {
-        "price": 3.667,
+        "price": 3.668,
         "pickedIndex": 1,
         "availableRows": 10,
-        "advNo": "12887862452172488704",
-        "nickName": "Covena",
-        "minSingleTransAmount": "3550",
-        "maxSingleTransAmount": "3600",
+        "advNo": "12919071983298297856",
+        "nickName": "Global-Trade-P2P-亗",
+        "minSingleTransAmount": "2700",
+        "maxSingleTransAmount": "2700",
         "tradeMethods": [
-          "Bank Transfer",
-          "Abu Dhabi Commercial Bank ADCB",
-          "Emirates NBD"
+          "Transfers with specific bank",
+          "Bank Transfer (Middle East)",
+          "Bank Transfer"
         ]
       }
     },
@@ -92,12 +89,13 @@
         "price": 3.79,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12916626389043621888",
-        "nickName": "____R__i____",
+        "advNo": "12918942646061531136",
+        "nickName": "us-faa28",
         "minSingleTransAmount": "110",
         "maxSingleTransAmount": "110",
         "tradeMethods": [
-          "barq"
+          "Al Rajhi Bank",
+          "Saudi National Bank (AlAhli Bank)"
         ]
       },
       "SELL": {
@@ -159,16 +157,18 @@
         ]
       },
       "SELL": {
-        "price": 0.946,
+        "price": 0.94,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12872733209095327744",
-        "nickName": "Hang Villetas H3YG",
-        "minSingleTransAmount": "2799",
-        "maxSingleTransAmount": "2800",
+        "advNo": "12919079858126569472",
+        "nickName": "User-91cfd3lp",
+        "minSingleTransAmount": "320",
+        "maxSingleTransAmount": "330",
         "tradeMethods": [
           "Banco Santander (Spain)",
+          "Banco Sabadell (Spain)",
           "CaixaBank (Spain)",
+          "N26",
           "BBVA"
         ]
       }
