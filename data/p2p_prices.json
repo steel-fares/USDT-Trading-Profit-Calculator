@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1786227401817,
+  "updatedAt": 1786229493668,
   "source": "Binance P2P web endpoint",
   "asset": "USDT",
   "prices": {
@@ -35,15 +35,19 @@
     },
     "EGP": {
       "BUY": {
-        "price": 50.17,
+        "price": 50.2,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12917331885823770624",
-        "nickName": "Mo-Sherif",
-        "minSingleTransAmount": "150000",
-        "maxSingleTransAmount": "500000",
+        "advNo": "13916211710103207936",
+        "nickName": "Point-",
+        "minSingleTransAmount": "40000",
+        "maxSingleTransAmount": "40001",
         "tradeMethods": [
-          "Banque Misr"
+          "Banque Misr",
+          "Bank Transfer",
+          "InstaPay",
+          "National Bank of Egypt (NBE)",
+          "CIB | Commercial International Bank Egypt"
         ]
       },
       "SELL": {
@@ -61,34 +65,31 @@
     },
     "AED": {
       "BUY": {
-        "price": 3.673,
+        "price": 3.672,
         "pickedIndex": 1,
         "availableRows": 10,
-        "advNo": "13891082148807991296",
-        "nickName": "FAST__TRADE__DIGITAL",
-        "minSingleTransAmount": "20000",
-        "maxSingleTransAmount": "50000",
+        "advNo": "13917722783032590336",
+        "nickName": "三GRAND-OPENMARKETs三",
+        "minSingleTransAmount": "19980",
+        "maxSingleTransAmount": "19984",
         "tradeMethods": [
-          "Bank Transfer",
-          "Abu Dhabi Commercial Bank ADCB",
-          "ADIB: Abu Dhabi Islamic Bank",
-          "Emirates NBD",
-          "Aani"
+          "Bank Transfer"
         ]
       },
       "SELL": {
         "price": 3.67,
         "pickedIndex": 1,
         "availableRows": 10,
-        "advNo": "12911714182252482560",
-        "nickName": "marly2055",
-        "minSingleTransAmount": "1999",
-        "maxSingleTransAmount": "2000",
+        "advNo": "12906962626649718784",
+        "nickName": "ST-GOLDEN",
+        "minSingleTransAmount": "3800",
+        "maxSingleTransAmount": "3810",
         "tradeMethods": [
-          "Transfers with specific bank",
           "Emirates NBD",
           "Abu Dhabi Commercial Bank ADCB",
-          "Bank Transfer"
+          "Bank Transfer",
+          "Aani",
+          "ADIB: Abu Dhabi Islamic Bank"
         ]
       }
     },
@@ -129,15 +130,16 @@
         "price": 0.996,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "13918556495349170176",
-        "nickName": "DIGITAL-EXCHANGE-董事長",
-        "minSingleTransAmount": "500",
+        "advNo": "13760567518483742720",
+        "nickName": "ONE PIECE V",
+        "minSingleTransAmount": "1000",
         "maxSingleTransAmount": "5000",
         "tradeMethods": [
+          "ABA",
+          "ACLEDA Bank",
           "KHQR",
           "Wing Money",
-          "ACLEDA Bank",
-          "ABA"
+          "True Money (Cambodia)"
         ]
       },
       "SELL": {
@@ -174,15 +176,15 @@
         ]
       },
       "SELL": {
-        "price": 0.883,
+        "price": 0.9,
         "pickedIndex": 1,
         "availableRows": 10,
-        "advNo": "12904205200091914240",
-        "nickName": "Abouloay",
-        "minSingleTransAmount": "215",
-        "maxSingleTransAmount": "216",
+        "advNo": "12916492494890827776",
+        "nickName": "Cambios_jr7",
+        "minSingleTransAmount": "109",
+        "maxSingleTransAmount": "110",
         "tradeMethods": [
-          "Dukascopy Bank"
+          "BBVA"
         ]
       }
     }
