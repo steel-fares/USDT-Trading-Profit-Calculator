@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1786168037096,
+  "updatedAt": 1786170366611,
   "source": "Binance P2P web endpoint",
   "asset": "USDT",
   "prices": {
@@ -50,13 +50,13 @@
         ]
       },
       "SELL": {
-        "price": 50.74,
+        "price": 50.81,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12804336135081504768",
-        "nickName": "Speed_4X4",
-        "minSingleTransAmount": "25000",
-        "maxSingleTransAmount": "25001",
+        "advNo": "12912131451995414528",
+        "nickName": "Marketing_Crypto",
+        "minSingleTransAmount": "15000",
+        "maxSingleTransAmount": "15001",
         "tradeMethods": [
           "Vodafone cash"
         ]
@@ -76,22 +76,21 @@
         ]
       },
       "SELL": {
-        "price": 3.667,
+        "price": 3.668,
         "pickedIndex": 1,
         "availableRows": 10,
-        "advNo": "12918992010951774208",
-        "nickName": "KING_USDT12",
-        "minSingleTransAmount": "2299",
-        "maxSingleTransAmount": "2300",
+        "advNo": "12917798223446126592",
+        "nickName": "GULF_TRADERS",
+        "minSingleTransAmount": "1000",
+        "maxSingleTransAmount": "25000",
         "tradeMethods": [
-          "Bank Transfer (Middle East)",
-          "Abu Dhabi Commercial Bank ADCB"
+          "Bank Transfer"
         ]
       }
     },
     "SAR": {
       "BUY": {
-        "price": 3.79,
+        "price": 3.78,
         "pickedIndex": 1,
         "availableRows": 11,
         "advNo": "12918942646061531136",
@@ -147,27 +146,32 @@
     },
     "EUR": {
       "BUY": {
-        "price": 0.889,
+        "price": 0.879,
         "pickedIndex": 1,
         "availableRows": 10,
-        "advNo": "12919058188562407424",
-        "nickName": "BestRateToday",
-        "minSingleTransAmount": "280",
-        "maxSingleTransAmount": "10000",
+        "advNo": "12919287953741684736",
+        "nickName": "PEPE0000",
+        "minSingleTransAmount": "340",
+        "maxSingleTransAmount": "343",
         "tradeMethods": [
+          "SEPA (EU) bank transfer",
           "SEPA Instant"
         ]
       },
       "SELL": {
-        "price": 0.9,
+        "price": 0.896,
         "pickedIndex": 1,
-        "availableRows": 10,
-        "advNo": "12919260995773980672",
-        "nickName": "User-7cc1b13g",
-        "minSingleTransAmount": "460",
-        "maxSingleTransAmount": "465",
+        "availableRows": 11,
+        "advNo": "12903025724717211648",
+        "nickName": "GodWillingTrade",
+        "minSingleTransAmount": "1099",
+        "maxSingleTransAmount": "1100",
         "tradeMethods": [
-          "Bizum"
+          "Banco Santander (Spain)",
+          "Banco Sabadell (Spain)",
+          "CaixaBank (Spain)",
+          "Bizum",
+          "BBVA"
         ]
       }
     }
