@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1786218251991,
+  "updatedAt": 1786219860191,
   "source": "Binance P2P web endpoint",
   "asset": "USDT",
   "prices": {
@@ -7,7 +7,7 @@
       "BUY": {
         "price": 0.39,
         "pickedIndex": 1,
-        "availableRows": 11,
+        "availableRows": 10,
         "advNo": "13843681497071730688",
         "nickName": "saeid5080",
         "minSingleTransAmount": "500",
@@ -21,11 +21,11 @@
       "SELL": {
         "price": 0.388,
         "pickedIndex": 1,
-        "availableRows": 11,
-        "advNo": "12904504347279273984",
-        "nickName": "Eilish Liyun",
-        "minSingleTransAmount": "119",
-        "maxSingleTransAmount": "120",
+        "availableRows": 10,
+        "advNo": "12915870323504029696",
+        "nickName": "MUR-CRYPTO",
+        "minSingleTransAmount": "10",
+        "maxSingleTransAmount": "340",
         "tradeMethods": [
           "Bank Muscat"
         ]
@@ -59,13 +59,13 @@
     },
     "AED": {
       "BUY": {
-        "price": 3.671,
+        "price": 3.67,
         "pickedIndex": 1,
         "availableRows": 10,
-        "advNo": "12910365490240192512",
-        "nickName": "Babarali693",
-        "minSingleTransAmount": "6546",
-        "maxSingleTransAmount": "6546",
+        "advNo": "13919494211892326400",
+        "nickName": "WORLD_EX_LTD",
+        "minSingleTransAmount": "2076",
+        "maxSingleTransAmount": "2076",
         "tradeMethods": [
           "Bank Transfer"
         ]
@@ -120,12 +120,15 @@
         "price": 0.995,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12910411615082811392",
-        "nickName": "ecufinance160915",
-        "minSingleTransAmount": "10",
-        "maxSingleTransAmount": "1500",
+        "advNo": "13878188372500303872",
+        "nickName": "Ariesie",
+        "minSingleTransAmount": "30",
+        "maxSingleTransAmount": "15000",
         "tradeMethods": [
-          "Produbanco"
+          "ABA",
+          "KHQR",
+          "Wing Money",
+          "True Money (Cambodia)"
         ]
       },
       "SELL": {
@@ -147,7 +150,7 @@
     },
     "EUR": {
       "BUY": {
-        "price": 0.865,
+        "price": 0.866,
         "pickedIndex": 1,
         "availableRows": 11,
         "advNo": "13911029597150162944",
@@ -161,15 +164,19 @@
         ]
       },
       "SELL": {
-        "price": 0.884,
+        "price": 0.891,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12917568929761808384",
-        "nickName": "Rabah_exch",
-        "minSingleTransAmount": "100",
-        "maxSingleTransAmount": "101",
+        "advNo": "12913655312020688896",
+        "nickName": "Mercedes_C_class",
+        "minSingleTransAmount": "400",
+        "maxSingleTransAmount": "430",
         "tradeMethods": [
-          "Dukascopy Bank"
+          "Wise",
+          "Bank Transfer",
+          "SEPA Instant",
+          "N26",
+          "BBVA"
         ]
       }
     }
