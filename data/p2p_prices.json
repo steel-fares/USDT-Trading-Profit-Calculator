@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1786308908548,
+  "updatedAt": 1786311278521,
   "source": "Binance P2P web endpoint",
   "asset": "USDT",
   "prices": {
@@ -23,7 +23,7 @@
       "SELL": {
         "price": 0.388,
         "pickedIndex": 1,
-        "availableRows": 11,
+        "availableRows": 10,
         "advNo": "12793235667293544448",
         "nickName": "33AboHaroon",
         "minSingleTransAmount": "250",
@@ -36,25 +36,26 @@
     },
     "EGP": {
       "BUY": {
-        "price": 50.34,
+        "price": 50.4,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "13916134358491086848",
-        "nickName": "Mari-7",
-        "minSingleTransAmount": "10309",
-        "maxSingleTransAmount": "10310",
+        "advNo": "12919339371168530432",
+        "nickName": "User-e122e",
+        "minSingleTransAmount": "6000",
+        "maxSingleTransAmount": "7500",
         "tradeMethods": [
+          "Bank Transfer",
           "InstaPay"
         ]
       },
       "SELL": {
-        "price": 50.94,
+        "price": 50.98,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12846632843843330048",
-        "nickName": "__mng__",
-        "minSingleTransAmount": "20000",
-        "maxSingleTransAmount": "20001",
+        "advNo": "12911292866198618112",
+        "nickName": "abozyad711",
+        "minSingleTransAmount": "15000",
+        "maxSingleTransAmount": "15001",
         "tradeMethods": [
           "Vodafone cash"
         ]
@@ -62,15 +63,15 @@
     },
     "AED": {
       "BUY": {
-        "price": 3.673,
+        "price": 3.676,
         "pickedIndex": 1,
         "availableRows": 10,
-        "advNo": "13911872318290452480",
-        "nickName": "NASSER-TRADER",
-        "minSingleTransAmount": "271088",
-        "maxSingleTransAmount": "3000000",
+        "advNo": "13871859053140672512",
+        "nickName": "DXB_DEALS",
+        "minSingleTransAmount": "20000",
+        "maxSingleTransAmount": "600000",
         "tradeMethods": [
-          "Transfers with specific bank"
+          "Bank Transfer"
         ]
       },
       "SELL": {
@@ -119,13 +120,13 @@
         "price": 0.997,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12910007079967825920",
-        "nickName": "OficinadeCris",
-        "minSingleTransAmount": "200",
-        "maxSingleTransAmount": "4000",
+        "advNo": "13851320890754699264",
+        "nickName": "ses001",
+        "minSingleTransAmount": "100",
+        "maxSingleTransAmount": "15000",
         "tradeMethods": [
-          "Banco Pichincha",
-          "Banco del pacifico"
+          "KHQR",
+          "ABA"
         ]
       },
       "SELL": {
@@ -159,13 +160,13 @@
         ]
       },
       "SELL": {
-        "price": 0.884,
+        "price": 0.883,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12865442344879800320",
-        "nickName": "ExchangeLRS",
-        "minSingleTransAmount": "340",
-        "maxSingleTransAmount": "340",
+        "advNo": "12877674136985280512",
+        "nickName": "Myfin-Dz",
+        "minSingleTransAmount": "1000",
+        "maxSingleTransAmount": "3000",
         "tradeMethods": [
           "SEPA Instant"
         ]
