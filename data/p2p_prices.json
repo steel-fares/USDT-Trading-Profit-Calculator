@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1786293330998,
+  "updatedAt": 1786295370592,
   "source": "Binance P2P web endpoint",
   "asset": "USDT",
   "prices": {
@@ -21,25 +21,27 @@
         "price": 0.388,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12839823669546295296",
-        "nickName": "ALZANATY-2017",
+        "advNo": "12790608731997507584",
+        "nickName": "VIP_Exchange",
         "minSingleTransAmount": "50",
-        "maxSingleTransAmount": "388",
+        "maxSingleTransAmount": "131",
         "tradeMethods": [
-          "Sohar International",
-          "Bank Muscat"
+          "Bank Muscat",
+          "Bank Dhofar",
+          "National Bank of Oman",
+          "Bank Transfer"
         ]
       }
     },
     "EGP": {
       "BUY": {
-        "price": 50.25,
+        "price": 50.28,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12855668139670847488",
-        "nickName": "Khareef ",
-        "minSingleTransAmount": "8349",
-        "maxSingleTransAmount": "8350",
+        "advNo": "12913095253275684864",
+        "nickName": "User-a70b2",
+        "minSingleTransAmount": "975",
+        "maxSingleTransAmount": "100000",
         "tradeMethods": [
           "InstaPay"
         ]
@@ -71,45 +73,47 @@
         ]
       },
       "SELL": {
-        "price": 3.665,
+        "price": 3.67,
         "pickedIndex": 1,
         "availableRows": 10,
-        "advNo": "12883810651430146048",
-        "nickName": "P2P-UAE-ALI",
-        "minSingleTransAmount": "995",
-        "maxSingleTransAmount": "1000",
+        "advNo": "12916554703720742912",
+        "nickName": "USDT4EXCHANGE",
+        "minSingleTransAmount": "2000",
+        "maxSingleTransAmount": "10000",
         "tradeMethods": [
-          "Aani"
+          "ADIB: Abu Dhabi Islamic Bank",
+          "Bank Transfer"
         ]
       }
     },
     "SAR": {
       "BUY": {
-        "price": 3.77,
+        "price": 3.8,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12912139033648451584",
-        "nickName": "BB-RR",
-        "minSingleTransAmount": "7000",
-        "maxSingleTransAmount": "100000",
+        "advNo": "13916939184015822848",
+        "nickName": "طــــــويـــــق",
+        "minSingleTransAmount": "10000",
+        "maxSingleTransAmount": "150000",
         "tradeMethods": [
-          "Bank Transfer",
-          "barq",
-          "urpay"
+          "Al Rajhi Bank",
+          "Saudi National Bank (AlAhli Bank)"
         ]
       },
       "SELL": {
-        "price": 3.86,
+        "price": 3.84,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12906752576678649856",
-        "nickName": "Dr-Mra",
-        "minSingleTransAmount": "1000",
-        "maxSingleTransAmount": "2375",
+        "advNo": "12919773543535403008",
+        "nickName": "THE-KING-",
+        "minSingleTransAmount": "3000",
+        "maxSingleTransAmount": "5000",
         "tradeMethods": [
+          "Bank Transfer (Middle East)",
           "barq",
-          "Bank Transfer",
-          "Al Rajhi Bank"
+          "Al Rajhi Bank",
+          "Transfers with specific bank",
+          "Alinma Bank"
         ]
       }
     },
@@ -147,25 +151,29 @@
     },
     "EUR": {
       "BUY": {
-        "price": 0.883,
+        "price": 0.885,
         "pickedIndex": 1,
         "availableRows": 10,
-        "advNo": "13918627916041056256",
-        "nickName": "supertrader-001",
-        "minSingleTransAmount": "300",
-        "maxSingleTransAmount": "1500",
+        "advNo": "13911285874860032000",
+        "nickName": "Alice-reliable-24H",
+        "minSingleTransAmount": "500",
+        "maxSingleTransAmount": "3000",
         "tradeMethods": [
-          "Wise"
+          "BBVA",
+          "SEPA (EU) bank transfer",
+          "Bank Transfer",
+          "SEPA Instant",
+          "N26"
         ]
       },
       "SELL": {
-        "price": 0.9,
+        "price": 0.905,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12872284964454760448",
-        "nickName": "CambiosGugool",
-        "minSingleTransAmount": "20",
-        "maxSingleTransAmount": "20",
+        "advNo": "12913370159936479232",
+        "nickName": "What_a_deal",
+        "minSingleTransAmount": "1222",
+        "maxSingleTransAmount": "1223",
         "tradeMethods": [
           "BBVA"
         ]
