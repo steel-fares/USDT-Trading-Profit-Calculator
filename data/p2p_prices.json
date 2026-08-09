@@ -1,44 +1,52 @@
 {
-  "updatedAt": 1786256707428,
+  "updatedAt": 1786260794084,
   "source": "Binance P2P web endpoint",
   "asset": "USDT",
   "prices": {
     "OMR": {
       "BUY": {
-        "price": 0.389,
+        "price": 0.39,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12915467840215982080",
-        "nickName": "Abdoo1",
-        "minSingleTransAmount": "70",
-        "maxSingleTransAmount": "2500",
+        "advNo": "13888280699367448576",
+        "nickName": "Al-habsi",
+        "minSingleTransAmount": "100",
+        "maxSingleTransAmount": "75000",
         "tradeMethods": [
-          "Airtime Mobile Top-Up"
+          "Bank Muscat",
+          "Airtime Mobile Top-Up",
+          "Bank Dhofar",
+          "Sohar International",
+          "Bank Transfer"
         ]
       },
       "SELL": {
         "price": 0.388,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12919606802257125376",
-        "nickName": "kazido-snake",
-        "minSingleTransAmount": "100",
-        "maxSingleTransAmount": "500",
+        "advNo": "12843613289170059264",
+        "nickName": "abdullah-omani",
+        "minSingleTransAmount": "10",
+        "maxSingleTransAmount": "34",
         "tradeMethods": [
-          "Bank Muscat"
+          "Bank Muscat",
+          "Sohar International",
+          "mBank"
         ]
       }
     },
     "EGP": {
       "BUY": {
-        "price": 50.17,
+        "price": 50.27,
         "pickedIndex": 1,
-        "availableRows": 11,
-        "advNo": "12919510500758757376",
-        "nickName": "Tarek-AbdAllah",
-        "minSingleTransAmount": "2500",
-        "maxSingleTransAmount": "2509",
+        "availableRows": 10,
+        "advNo": "12919434215855824896",
+        "nickName": "USDT_AE",
+        "minSingleTransAmount": "50000",
+        "maxSingleTransAmount": "500000",
         "tradeMethods": [
+          "National Bank of Egypt (NBE)",
+          "HSBC Bank Egypt",
           "InstaPay"
         ]
       },
@@ -57,21 +65,19 @@
     },
     "AED": {
       "BUY": {
-        "price": 3.673,
+        "price": 3.671,
         "pickedIndex": 1,
         "availableRows": 10,
-        "advNo": "13910621783881408512",
-        "nickName": "BLOCKSY",
-        "minSingleTransAmount": "10000",
-        "maxSingleTransAmount": "70000",
+        "advNo": "13911872318290452480",
+        "nickName": "NASSER-TRADER",
+        "minSingleTransAmount": "271088",
+        "maxSingleTransAmount": "3000000",
         "tradeMethods": [
-          "AL MASHREQ Bank",
-          "Bank Transfer",
-          "Bank Transfer (Middle East)"
+          "Transfers with specific bank"
         ]
       },
       "SELL": {
-        "price": 3.668,
+        "price": 3.672,
         "pickedIndex": 1,
         "availableRows": 10,
         "advNo": "12916811363595255808",
@@ -85,17 +91,15 @@
     },
     "SAR": {
       "BUY": {
-        "price": 3.78,
+        "price": 3.8,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12919436774148784128",
-        "nickName": "traderone23",
-        "minSingleTransAmount": "7000",
-        "maxSingleTransAmount": "12000",
+        "advNo": "13823395733646798848",
+        "nickName": "AbuSaud8",
+        "minSingleTransAmount": "10000",
+        "maxSingleTransAmount": "100000",
         "tradeMethods": [
-          "stc pay",
-          "Al Rajhi Bank",
-          "AlinmaPay"
+          "Transfers with specific bank"
         ]
       },
       "SELL": {
@@ -113,19 +117,15 @@
     },
     "USD": {
       "BUY": {
-        "price": 0.996,
+        "price": 0.989,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "13852912368439582720",
-        "nickName": "Green_EXC",
-        "minSingleTransAmount": "500",
-        "maxSingleTransAmount": "15000",
+        "advNo": "12916800697993637888",
+        "nickName": "User-bc937",
+        "minSingleTransAmount": "17",
+        "maxSingleTransAmount": "17",
         "tradeMethods": [
-          "ABA",
-          "KHQR",
-          "Wing Money",
-          "ACLEDA Bank",
-          "True Money (Cambodia)"
+          "Wise"
         ]
       },
       "SELL": {
@@ -147,21 +147,21 @@
     },
     "EUR": {
       "BUY": {
-        "price": 0.879,
+        "price": 0.88,
         "pickedIndex": 1,
         "availableRows": 10,
-        "advNo": "12918361802287624192",
-        "nickName": "Minfin_Official",
-        "minSingleTransAmount": "1191",
-        "maxSingleTransAmount": "1191",
+        "advNo": "12919317283058802688",
+        "nickName": "Tech-Shot-Wise",
+        "minSingleTransAmount": "500",
+        "maxSingleTransAmount": "1700",
         "tradeMethods": [
-          "SEPA Instant"
+          "Wise"
         ]
       },
       "SELL": {
         "price": 0.885,
         "pickedIndex": 1,
-        "availableRows": 11,
+        "availableRows": 10,
         "advNo": "12919534772967030784",
         "nickName": "Cleiver28",
         "minSingleTransAmount": "405",
