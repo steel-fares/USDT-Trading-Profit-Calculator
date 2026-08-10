@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1786395396301,
+  "updatedAt": 1786398588508,
   "source": "Binance P2P web endpoint",
   "asset": "USDT",
   "prices": {
@@ -19,7 +19,7 @@
       "SELL": {
         "price": 0.388,
         "pickedIndex": 1,
-        "availableRows": 11,
+        "availableRows": 10,
         "advNo": "12918958210384048128",
         "nickName": "A56N",
         "minSingleTransAmount": "11",
@@ -33,15 +33,16 @@
     },
     "EGP": {
       "BUY": {
-        "price": 50.36,
+        "price": 50.5,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "13883885957529493504",
-        "nickName": "one-piece_",
-        "minSingleTransAmount": "442",
-        "maxSingleTransAmount": "443",
+        "advNo": "12897021609169743872",
+        "nickName": "EKKO ESSAM",
+        "minSingleTransAmount": "1000",
+        "maxSingleTransAmount": "10000",
         "tradeMethods": [
-          "InstaPay"
+          "InstaPay",
+          "AL MASHREQ Bank"
         ]
       },
       "SELL": {
@@ -62,14 +63,12 @@
         "price": 3.673,
         "pickedIndex": 1,
         "availableRows": 10,
-        "advNo": "13910621783881408512",
-        "nickName": "BLOCKSY",
-        "minSingleTransAmount": "15000",
-        "maxSingleTransAmount": "70000",
+        "advNo": "13860687544600252416",
+        "nickName": "CamelP2P",
+        "minSingleTransAmount": "10000",
+        "maxSingleTransAmount": "50000",
         "tradeMethods": [
-          "AL MASHREQ Bank",
-          "Bank Transfer",
-          "Bank Transfer (Middle East)"
+          "Bank Transfer"
         ]
       },
       "SELL": {
@@ -87,15 +86,16 @@
     },
     "SAR": {
       "BUY": {
-        "price": 3.79,
+        "price": 3.8,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12916598995596836864",
-        "nickName": "Superdadytrader",
-        "minSingleTransAmount": "295",
-        "maxSingleTransAmount": "295",
+        "advNo": "13916939184015822848",
+        "nickName": "طــــــويـــــق",
+        "minSingleTransAmount": "10000",
+        "maxSingleTransAmount": "150000",
         "tradeMethods": [
-          "barq"
+          "Al Rajhi Bank",
+          "Saudi National Bank (AlAhli Bank)"
         ]
       },
       "SELL": {
@@ -133,43 +133,47 @@
       "SELL": {
         "price": 1.1,
         "pickedIndex": 1,
-        "availableRows": 10,
-        "advNo": "12919964285459349504",
-        "nickName": "Shammy036",
-        "minSingleTransAmount": "7450",
-        "maxSingleTransAmount": "7500",
+        "availableRows": 11,
+        "advNo": "12918177341462491136",
+        "nickName": "princessFatimaRani",
+        "minSingleTransAmount": "15",
+        "maxSingleTransAmount": "5000",
         "tradeMethods": [
-          "Zelle"
+          "stc pay",
+          "Google Pay (GPay)",
+          "IMPS",
+          "PhonePe",
+          "Easypaisa-PK Only"
         ]
       }
     },
     "EUR": {
       "BUY": {
-        "price": 0.879,
+        "price": 0.88,
         "pickedIndex": 1,
         "availableRows": 10,
-        "advNo": "12920225452317380608",
-        "nickName": "-XCHAlNGER-",
-        "minSingleTransAmount": "500",
-        "maxSingleTransAmount": "1000",
+        "advNo": "13909755665014747136",
+        "nickName": "BWliquidity",
+        "minSingleTransAmount": "516",
+        "maxSingleTransAmount": "4000",
         "tradeMethods": [
+          "BBVA",
+          "CaixaBank (Spain)",
           "SEPA Instant",
-          "SEPA (EU) bank transfer",
-          "ING",
-          "Bunq",
-          "ZEN"
+          "N26",
+          "Bank Transfer"
         ]
       },
       "SELL": {
-        "price": 0.94,
+        "price": 0.9,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12920229670379794432",
-        "nickName": "User-91cfd3lp",
-        "minSingleTransAmount": "350",
-        "maxSingleTransAmount": "355",
+        "advNo": "12920236237881176064",
+        "nickName": "Cleiver28",
+        "minSingleTransAmount": "990",
+        "maxSingleTransAmount": "990",
         "tradeMethods": [
-          "CaixaBank (Spain)"
+          "BBVA"
         ]
       }
     }
