@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1786398588508,
+  "updatedAt": 1786400664924,
   "source": "Binance P2P web endpoint",
   "asset": "USDT",
   "prices": {
@@ -33,20 +33,19 @@
     },
     "EGP": {
       "BUY": {
-        "price": 50.5,
+        "price": 50.47,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12897021609169743872",
-        "nickName": "EKKO ESSAM",
-        "minSingleTransAmount": "1000",
-        "maxSingleTransAmount": "10000",
+        "advNo": "12919113218237734912",
+        "nickName": "Trader717",
+        "minSingleTransAmount": "100",
+        "maxSingleTransAmount": "800",
         "tradeMethods": [
-          "InstaPay",
-          "AL MASHREQ Bank"
+          "InstaPay"
         ]
       },
       "SELL": {
-        "price": 50.88,
+        "price": 51.03,
         "pickedIndex": 1,
         "availableRows": 11,
         "advNo": "12808276496700526592",
@@ -72,30 +71,32 @@
         ]
       },
       "SELL": {
-        "price": 3.662,
+        "price": 3.661,
         "pickedIndex": 1,
         "availableRows": 10,
-        "advNo": "12895980924805402624",
-        "nickName": "Issasalim",
-        "minSingleTransAmount": "24999",
-        "maxSingleTransAmount": "25000",
+        "advNo": "12919071983298297856",
+        "nickName": "Global-Trade-P2P-亗",
+        "minSingleTransAmount": "2000",
+        "maxSingleTransAmount": "15000",
         "tradeMethods": [
-          "Cash Deposit to Bank"
+          "Transfers with specific bank",
+          "Bank Transfer (Middle East)",
+          "Bank Transfer"
         ]
       }
     },
     "SAR": {
       "BUY": {
-        "price": 3.8,
+        "price": 3.79,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "13916939184015822848",
-        "nickName": "طــــــويـــــق",
-        "minSingleTransAmount": "10000",
-        "maxSingleTransAmount": "150000",
+        "advNo": "12920257178328166400",
+        "nickName": "MFR_TRADER",
+        "minSingleTransAmount": "136",
+        "maxSingleTransAmount": "136",
         "tradeMethods": [
           "Al Rajhi Bank",
-          "Saudi National Bank (AlAhli Bank)"
+          "Bank Transfer"
         ]
       },
       "SELL": {
@@ -117,17 +118,17 @@
     },
     "USD": {
       "BUY": {
-        "price": 0.996,
+        "price": 0.995,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "13920115712999784448",
-        "nickName": "Mayura-USDT",
-        "minSingleTransAmount": "100",
-        "maxSingleTransAmount": "9300",
+        "advNo": "12821350332886548480",
+        "nickName": "CambioElite_USDT",
+        "minSingleTransAmount": "1000",
+        "maxSingleTransAmount": "7500",
         "tradeMethods": [
-          "ABA",
-          "Wing Money",
-          "ACLEDA Bank"
+          "Banco Pichincha",
+          "Produbanco",
+          "Banco Guayaquil"
         ]
       },
       "SELL": {
@@ -167,7 +168,7 @@
       "SELL": {
         "price": 0.9,
         "pickedIndex": 1,
-        "availableRows": 11,
+        "availableRows": 10,
         "advNo": "12920236237881176064",
         "nickName": "Cleiver28",
         "minSingleTransAmount": "990",
