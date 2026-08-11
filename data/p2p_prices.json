@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1786437746978,
+  "updatedAt": 1786441409351,
   "source": "Binance P2P web endpoint",
   "asset": "USDT",
   "prices": {
@@ -37,26 +37,28 @@
     },
     "EGP": {
       "BUY": {
-        "price": 50.68,
+        "price": 50.58,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "13901433125661163520",
-        "nickName": "USDT_4_Ever_1",
-        "minSingleTransAmount": "10000",
-        "maxSingleTransAmount": "300000",
+        "advNo": "12911518204524150784",
+        "nickName": "abdop2p93",
+        "minSingleTransAmount": "200",
+        "maxSingleTransAmount": "500000",
         "tradeMethods": [
-          "Banque Misr",
-          "InstaPay"
+          "InstaPay",
+          "National Bank of Egypt (NBE)",
+          "Emirates NBD",
+          "Credit Agricole (Card)"
         ]
       },
       "SELL": {
-        "price": 50.95,
+        "price": 51.05,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12894151778810331136",
-        "nickName": "Alaa amib",
-        "minSingleTransAmount": "30400",
-        "maxSingleTransAmount": "30401",
+        "advNo": "12882115953709101056",
+        "nickName": "99KHALIL99",
+        "minSingleTransAmount": "5000",
+        "maxSingleTransAmount": "5001",
         "tradeMethods": [
           "Vodafone cash"
         ]
@@ -64,30 +66,35 @@
     },
     "AED": {
       "BUY": {
-        "price": 3.67,
+        "price": 3.668,
         "pickedIndex": 1,
         "availableRows": 10,
-        "advNo": "13910673919369580544",
-        "nickName": "ABU-OMR",
-        "minSingleTransAmount": "10000",
+        "advNo": "13919957737153130496",
+        "nickName": "Binance_Vet",
+        "minSingleTransAmount": "5000",
         "maxSingleTransAmount": "7000000",
         "tradeMethods": [
-          "Abu Dhabi Commercial Bank ADCB",
-          "Emirates NBD",
+          "Aani",
           "Bank Transfer",
-          "ADIB: Abu Dhabi Islamic Bank"
+          "ADIB: Abu Dhabi Islamic Bank",
+          "Abu Dhabi Commercial Bank ADCB",
+          "Emirates NBD"
         ]
       },
       "SELL": {
-        "price": 3.66,
+        "price": 3.661,
         "pickedIndex": 1,
         "availableRows": 10,
-        "advNo": "12815821390008229888",
-        "nickName": "FAST-SERVICE-COIN",
-        "minSingleTransAmount": "2900",
-        "maxSingleTransAmount": "2950",
+        "advNo": "12908981366841581568",
+        "nickName": "UCXECURE_VARA_REG",
+        "minSingleTransAmount": "20000",
+        "maxSingleTransAmount": "900000",
         "tradeMethods": [
-          "Aani"
+          "Abu Dhabi Commercial Bank ADCB",
+          "Bank Transfer",
+          "Emirates NBD",
+          "ADIB: Abu Dhabi Islamic Bank",
+          "AL MASHREQ Bank"
         ]
       }
     },
@@ -96,14 +103,15 @@
         "price": 3.79,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12915878088339234816",
-        "nickName": "FAST_SUPER_FAST",
-        "minSingleTransAmount": "5000",
-        "maxSingleTransAmount": "50000",
+        "advNo": "13920406789784248320",
+        "nickName": "Naif_Ahmed",
+        "minSingleTransAmount": "20000",
+        "maxSingleTransAmount": "190000",
         "tradeMethods": [
-          "Al Rajhi Bank",
           "Saudi National Bank (AlAhli Bank)",
           "Alinma Bank",
+          "Riyad Bank",
+          "Al Rajhi Bank",
           "Bank Transfer"
         ]
       },
@@ -125,15 +133,16 @@
         "price": 0.995,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "13893115215159177216",
-        "nickName": "Chhay_An-Exchange",
-        "minSingleTransAmount": "1000",
-        "maxSingleTransAmount": "8890",
+        "advNo": "13774398720531890176",
+        "nickName": "PR22222222222",
+        "minSingleTransAmount": "22",
+        "maxSingleTransAmount": "4500",
         "tradeMethods": [
+          "ABA",
+          "Wing Money",
           "KHQR",
           "ACLEDA Bank",
-          "Wing Money",
-          "ABA"
+          "True Money (Cambodia)"
         ]
       },
       "SELL": {
@@ -167,13 +176,13 @@
         ]
       },
       "SELL": {
-        "price": 0.9,
+        "price": 0.91,
         "pickedIndex": 1,
-        "availableRows": 10,
-        "advNo": "12916111883225022464",
+        "availableRows": 11,
+        "advNo": "12912438483045294080",
         "nickName": "_maryssod_",
-        "minSingleTransAmount": "3000",
-        "maxSingleTransAmount": "12000",
+        "minSingleTransAmount": "1800",
+        "maxSingleTransAmount": "5000",
         "tradeMethods": [
           "SEPA Instant"
         ]
