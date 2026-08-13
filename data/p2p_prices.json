@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1786586238770,
+  "updatedAt": 1786594670489,
   "source": "Binance P2P web endpoint",
   "asset": "USDT",
   "prices": {
@@ -8,9 +8,9 @@
         "price": 0.39,
         "pickedIndex": 1,
         "availableRows": 10,
-        "advNo": "13915381302418497536",
-        "nickName": "Moosacrypto",
-        "minSingleTransAmount": "250",
+        "advNo": "13906418868802232320",
+        "nickName": "CryptoAnalysts",
+        "minSingleTransAmount": "200",
         "maxSingleTransAmount": "10000",
         "tradeMethods": [
           "Bank Muscat",
@@ -36,15 +36,16 @@
     },
     "EGP": {
       "BUY": {
-        "price": 50.79,
+        "price": 50.78,
         "pickedIndex": 1,
         "availableRows": 10,
-        "advNo": "13919286667556245504",
-        "nickName": "Dr-Jana",
-        "minSingleTransAmount": "5000",
-        "maxSingleTransAmount": "50000",
+        "advNo": "13892368504590872576",
+        "nickName": "Crypto On Demand",
+        "minSingleTransAmount": "16500",
+        "maxSingleTransAmount": "16500",
         "tradeMethods": [
-          "InstaPay"
+          "InstaPay",
+          "Bank Transfer"
         ]
       },
       "SELL": {
@@ -65,26 +66,28 @@
         "price": 3.668,
         "pickedIndex": 1,
         "availableRows": 10,
-        "advNo": "13910621783881408512",
-        "nickName": "BLOCKSY",
-        "minSingleTransAmount": "10000",
-        "maxSingleTransAmount": "70000",
+        "advNo": "13907444595637538816",
+        "nickName": "B3OTC",
+        "minSingleTransAmount": "15000",
+        "maxSingleTransAmount": "50000",
         "tradeMethods": [
-          "AL MASHREQ Bank",
-          "Bank Transfer",
-          "Bank Transfer (Middle East)"
+          "Bank Transfer"
         ]
       },
       "SELL": {
         "price": 3.661,
         "pickedIndex": 1,
         "availableRows": 10,
-        "advNo": "12906317443172196352",
-        "nickName": "Roach_07",
-        "minSingleTransAmount": "1000",
-        "maxSingleTransAmount": "10300",
+        "advNo": "12919261126380412928",
+        "nickName": "Virtual-Pro",
+        "minSingleTransAmount": "14000",
+        "maxSingleTransAmount": "25000",
         "tradeMethods": [
-          "Aani"
+          "ADIB: Abu Dhabi Islamic Bank",
+          "Abu Dhabi Commercial Bank ADCB",
+          "Emirates NBD",
+          "Bank Transfer",
+          "Bank Transfer (Middle East)"
         ]
       }
     },
@@ -93,40 +96,39 @@
         "price": 3.79,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12916626389043621888",
-        "nickName": "____R__i____",
-        "minSingleTransAmount": "242",
-        "maxSingleTransAmount": "242",
+        "advNo": "12857807184867467264",
+        "nickName": "Trust_selling_24",
+        "minSingleTransAmount": "150",
+        "maxSingleTransAmount": "150",
         "tradeMethods": [
-          "Bank Transfer",
-          "Al Rajhi Bank"
+          "stc pay"
         ]
       },
       "SELL": {
-        "price": 3.95,
+        "price": 3.83,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "11388565463584944128",
-        "nickName": "asr3wa7d",
-        "minSingleTransAmount": "100",
-        "maxSingleTransAmount": "100000",
+        "advNo": "12736161376127221760",
+        "nickName": "dahoom",
+        "minSingleTransAmount": "20000",
+        "maxSingleTransAmount": "40000",
         "tradeMethods": [
-          "AlinmaPay",
-          "Mobily Pay"
+          "Skrill (Moneybookers)"
         ]
       }
     },
     "USD": {
       "BUY": {
-        "price": 0.993,
+        "price": 0.994,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12892675751368945664",
-        "nickName": "Speed_coin_Exchange_",
-        "minSingleTransAmount": "500",
-        "maxSingleTransAmount": "2500",
+        "advNo": "12910007079967825920",
+        "nickName": "OficinadeCris",
+        "minSingleTransAmount": "150",
+        "maxSingleTransAmount": "4000",
         "tradeMethods": [
-          "Banco Pichincha"
+          "Banco Pichincha",
+          "Banco del pacifico"
         ]
       },
       "SELL": {
@@ -148,12 +150,12 @@
     },
     "EUR": {
       "BUY": {
-        "price": 0.886,
+        "price": 0.884,
         "pickedIndex": 1,
         "availableRows": 10,
-        "advNo": "13893374854400425984",
-        "nickName": "Wise_FastSettle_",
-        "minSingleTransAmount": "50",
+        "advNo": "12854461200495681536",
+        "nickName": "Digital_Club_Wise",
+        "minSingleTransAmount": "200",
         "maxSingleTransAmount": "2000",
         "tradeMethods": [
           "Wise"
