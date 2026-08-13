@@ -1,22 +1,21 @@
 {
-  "updatedAt": 1786658143486,
+  "updatedAt": 1786661315999,
   "source": "Binance P2P web endpoint",
   "asset": "USDT",
   "prices": {
     "OMR": {
       "BUY": {
-        "price": 0.389,
+        "price": 0.39,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "13917873732757336064",
-        "nickName": "ALFARSI-USDT",
-        "minSingleTransAmount": "200",
-        "maxSingleTransAmount": "5000",
+        "advNo": "13915381302418497536",
+        "nickName": "Moosacrypto",
+        "minSingleTransAmount": "250",
+        "maxSingleTransAmount": "10000",
         "tradeMethods": [
           "Bank Muscat",
-          "Sohar International",
-          "mBank",
-          "Bank Transfer"
+          "Bank Dhofar",
+          "Ahlibank"
         ]
       },
       "SELL": {
@@ -34,12 +33,12 @@
     },
     "EGP": {
       "BUY": {
-        "price": 50.75,
+        "price": 50.85,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12920266088799444992",
-        "nickName": "P2P_INTERNATIONAL_",
-        "minSingleTransAmount": "90",
+        "advNo": "12916240650029690880",
+        "nickName": "User-acc22",
+        "minSingleTransAmount": "100",
         "maxSingleTransAmount": "500",
         "tradeMethods": [
           "InstaPay"
@@ -49,10 +48,10 @@
         "price": 51.45,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12921276941678882816",
-        "nickName": "amrmaxcom199859_",
-        "minSingleTransAmount": "85000",
-        "maxSingleTransAmount": "85001",
+        "advNo": "12893040792261038080",
+        "nickName": "KeroAlKnj",
+        "minSingleTransAmount": "5000",
+        "maxSingleTransAmount": "5001",
         "tradeMethods": [
           "Vodafone cash"
         ]
@@ -60,13 +59,13 @@
     },
     "AED": {
       "BUY": {
-        "price": 3.667,
+        "price": 3.669,
         "pickedIndex": 1,
         "availableRows": 10,
-        "advNo": "12920431877716766720",
-        "nickName": "Raheel",
-        "minSingleTransAmount": "15000",
-        "maxSingleTransAmount": "25000",
+        "advNo": "13917577253916155904",
+        "nickName": "DXB_EXCHANGE_24-7",
+        "minSingleTransAmount": "5000",
+        "maxSingleTransAmount": "50000",
         "tradeMethods": [
           "Bank Transfer"
         ]
@@ -87,15 +86,17 @@
     },
     "SAR": {
       "BUY": {
-        "price": 3.79,
+        "price": 3.8,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12921320972669046784",
-        "nickName": "Int_Transfer_only",
-        "minSingleTransAmount": "100",
-        "maxSingleTransAmount": "100",
+        "advNo": "13919184473588178944",
+        "nickName": "usdt_7ksa",
+        "minSingleTransAmount": "10000",
+        "maxSingleTransAmount": "150000",
         "tradeMethods": [
-          "barq"
+          "Transfers with specific bank",
+          "Al Rajhi Bank",
+          "Saudi National Bank (AlAhli Bank)"
         ]
       },
       "SELL": {
@@ -113,16 +114,15 @@
     },
     "USD": {
       "BUY": {
-        "price": 0.99,
+        "price": 0.991,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12910007079967825920",
-        "nickName": "OficinadeCris",
-        "minSingleTransAmount": "150",
-        "maxSingleTransAmount": "4000",
+        "advNo": "13908536749882920960",
+        "nickName": "StormMVP",
+        "minSingleTransAmount": "500",
+        "maxSingleTransAmount": "1000",
         "tradeMethods": [
-          "Banco Pichincha",
-          "Banco del pacifico"
+          "Banco Pichincha"
         ]
       },
       "SELL": {
@@ -156,15 +156,15 @@
         ]
       },
       "SELL": {
-        "price": 0.945,
+        "price": 0.887,
         "pickedIndex": 1,
         "availableRows": 10,
-        "advNo": "12920857722306027520",
-        "nickName": "anonymus-23",
-        "minSingleTransAmount": "270",
-        "maxSingleTransAmount": "271",
+        "advNo": "12895152450638381056",
+        "nickName": "Horizon_remesas",
+        "minSingleTransAmount": "150",
+        "maxSingleTransAmount": "150",
         "tradeMethods": [
-          "CaixaBank (Spain)"
+          "Bizum"
         ]
       }
     }
