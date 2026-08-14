@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1786704680940,
+  "updatedAt": 1786707504430,
   "source": "Binance P2P web endpoint",
   "asset": "USDT",
   "prices": {
@@ -8,40 +8,39 @@
         "price": 0.389,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "13918280168692264960",
-        "nickName": "Al-habsi",
-        "minSingleTransAmount": "500",
+        "advNo": "13914406041074532352",
+        "nickName": "Abu Muhammad 88",
+        "minSingleTransAmount": "100",
         "maxSingleTransAmount": "75000",
         "tradeMethods": [
-          "Bank Muscat",
-          "Airtime Mobile Top-Up",
-          "Bank Dhofar",
-          "Sohar International",
-          "Bank Transfer"
+          "Bank Muscat"
         ]
       },
       "SELL": {
         "price": 0.388,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12921225526456934400",
-        "nickName": "hamssaif",
-        "minSingleTransAmount": "20",
-        "maxSingleTransAmount": "2500",
+        "advNo": "12843613289170059264",
+        "nickName": "abdullah-omani",
+        "minSingleTransAmount": "10",
+        "maxSingleTransAmount": "34",
         "tradeMethods": [
+          "Sohar International",
+          "mBank",
+          "Airtime Mobile Top-Up",
           "Bank Muscat"
         ]
       }
     },
     "EGP": {
       "BUY": {
-        "price": 51.01,
+        "price": 50.93,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12873481894010515456",
-        "nickName": "Doctor Mustafa",
-        "minSingleTransAmount": "6000",
-        "maxSingleTransAmount": "6001",
+        "advNo": "12921489611822981120",
+        "nickName": "3tra25",
+        "minSingleTransAmount": "16000",
+        "maxSingleTransAmount": "16001",
         "tradeMethods": [
           "InstaPay"
         ]
@@ -63,12 +62,15 @@
       "BUY": {
         "price": 3.663,
         "pickedIndex": 1,
-        "availableRows": 11,
-        "advNo": "13892794217670598656",
-        "nickName": "CheapRate_Desk",
-        "minSingleTransAmount": "7290",
-        "maxSingleTransAmount": "7290",
+        "availableRows": 10,
+        "advNo": "13849397386834935808",
+        "nickName": "AUREX-DIGITALTRADING",
+        "minSingleTransAmount": "8000",
+        "maxSingleTransAmount": "25000",
         "tradeMethods": [
+          "ADIB: Abu Dhabi Islamic Bank",
+          "Abu Dhabi Commercial Bank ADCB",
+          "AL MASHREQ Bank",
           "Bank Transfer"
         ]
       },
@@ -76,41 +78,42 @@
         "price": 3.657,
         "pickedIndex": 1,
         "availableRows": 10,
-        "advNo": "12916744328204042240",
-        "nickName": "trusted999",
-        "minSingleTransAmount": "4987",
-        "maxSingleTransAmount": "4988",
+        "advNo": "12906317443172196352",
+        "nickName": "Roach_07",
+        "minSingleTransAmount": "299",
+        "maxSingleTransAmount": "300",
         "tradeMethods": [
-          "Emirates NBD",
           "Aani"
         ]
       }
     },
     "SAR": {
       "BUY": {
-        "price": 3.8,
+        "price": 3.79,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "13919184473588178944",
-        "nickName": "usdt_7ksa",
-        "minSingleTransAmount": "10000",
-        "maxSingleTransAmount": "150000",
+        "advNo": "12921528804101533696",
+        "nickName": "sma123",
+        "minSingleTransAmount": "113",
+        "maxSingleTransAmount": "100000",
         "tradeMethods": [
-          "Transfers with specific bank",
-          "Al Rajhi Bank",
-          "Saudi National Bank (AlAhli Bank)"
+          "Bank Transfer"
         ]
       },
       "SELL": {
         "price": 4.0,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12920112442094510080",
+        "advNo": "12916586971741265920",
         "nickName": "User-be0a7",
         "minSingleTransAmount": "5000",
         "maxSingleTransAmount": "20000",
         "tradeMethods": [
-          "Al Rajhi Bank"
+          "Bank Transfer",
+          "Arab Bank",
+          "Alinma Bank",
+          "Al Rajhi Bank",
+          "Saudi National Bank (AlAhli Bank)"
         ]
       }
     },
