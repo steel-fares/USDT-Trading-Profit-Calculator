@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1786744512804,
+  "updatedAt": 1786746354015,
   "source": "Binance P2P web endpoint",
   "asset": "USDT",
   "prices": {
@@ -7,45 +7,42 @@
       "BUY": {
         "price": 0.389,
         "pickedIndex": 1,
-        "availableRows": 11,
-        "advNo": "12903100155889836032",
-        "nickName": "OMAN_OTC_SERVICE",
-        "minSingleTransAmount": "350",
+        "availableRows": 10,
+        "advNo": "12919488509102678016",
+        "nickName": "BOOOOS1",
+        "minSingleTransAmount": "200",
         "maxSingleTransAmount": "2500",
         "tradeMethods": [
           "Bank Muscat",
           "Sohar International",
-          "Ahlibank"
+          "Airtime Mobile Top-Up"
         ]
       },
       "SELL": {
         "price": 0.387,
         "pickedIndex": 1,
-        "availableRows": 11,
-        "advNo": "12904354603997466624",
-        "nickName": "ImranTradeCenter",
-        "minSingleTransAmount": "350",
-        "maxSingleTransAmount": "700",
+        "availableRows": 10,
+        "advNo": "12920370041985986560",
+        "nickName": "Msahdrashid",
+        "minSingleTransAmount": "100",
+        "maxSingleTransAmount": "2500",
         "tradeMethods": [
-          "mBank",
-          "Bank Transfer",
-          "Bank Muscat",
-          "Bank Dhofar",
-          "Airtime Mobile Top-Up"
+          "Airtime Mobile Top-Up",
+          "Sohar International"
         ]
       }
     },
     "EGP": {
       "BUY": {
-        "price": 50.75,
+        "price": 50.7,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12920980948320481280",
-        "nickName": "MO3Z",
-        "minSingleTransAmount": "26300",
-        "maxSingleTransAmount": "176300",
+        "advNo": "13914717383814582272",
+        "nickName": "TurboTrustP2p",
+        "minSingleTransAmount": "100",
+        "maxSingleTransAmount": "50000",
         "tradeMethods": [
-          "InstaPay"
+          "telda"
         ]
       },
       "SELL": {
@@ -92,17 +89,20 @@
         "price": 3.79,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12917241452904751104",
-        "nickName": "Kadam__P2P",
-        "minSingleTransAmount": "120",
-        "maxSingleTransAmount": "120",
+        "advNo": "12921211270176935936",
+        "nickName": "المصرفية الخاصة",
+        "minSingleTransAmount": "10000",
+        "maxSingleTransAmount": "100000",
         "tradeMethods": [
           "Bank Transfer",
-          "Saudi National Bank (AlAhli Bank)"
+          "Saudi National Bank (AlAhli Bank)",
+          "Al Rajhi Bank",
+          "Alinma Bank",
+          "Riyad Bank"
         ]
       },
       "SELL": {
-        "price": 3.87,
+        "price": 3.88,
         "pickedIndex": 1,
         "availableRows": 11,
         "advNo": "12921420372900057088",
@@ -110,22 +110,25 @@
         "minSingleTransAmount": "32",
         "maxSingleTransAmount": "33",
         "tradeMethods": [
-          "Bank Transfer",
-          "Riyad Bank"
+          "Riyad Bank",
+          "Bank Transfer"
         ]
       }
     },
     "USD": {
       "BUY": {
-        "price": 0.989,
+        "price": 0.99,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12910411615082811392",
-        "nickName": "ecufinance160915",
-        "minSingleTransAmount": "10",
+        "advNo": "12921282584476676096",
+        "nickName": "Me_llamo_cristina",
+        "minSingleTransAmount": "100",
         "maxSingleTransAmount": "1500",
         "tradeMethods": [
-          "Produbanco"
+          "Banco Pichincha",
+          "Banco del pacifico",
+          "Produbanco",
+          "Banco Internacional"
         ]
       },
       "SELL": {
@@ -150,16 +153,12 @@
         "price": 0.875,
         "pickedIndex": 1,
         "availableRows": 10,
-        "advNo": "13918023718531371008",
-        "nickName": "kvolichka",
-        "minSingleTransAmount": "50",
-        "maxSingleTransAmount": "50",
+        "advNo": "13726976028637945856",
+        "nickName": "Sashok",
+        "minSingleTransAmount": "800",
+        "maxSingleTransAmount": "1637",
         "tradeMethods": [
-          "ZEN",
-          "SEPA Instant",
-          "Wise",
-          "Paysera",
-          "N26"
+          "Wise"
         ]
       },
       "SELL": {
