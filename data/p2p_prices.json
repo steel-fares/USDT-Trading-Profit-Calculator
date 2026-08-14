@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1786747877391,
+  "updatedAt": 1786749242923,
   "source": "Binance P2P web endpoint",
   "asset": "USDT",
   "prices": {
@@ -8,14 +8,14 @@
         "price": 0.389,
         "pickedIndex": 1,
         "availableRows": 10,
-        "advNo": "12919488509102678016",
-        "nickName": "BOOOOS1",
-        "minSingleTransAmount": "200",
+        "advNo": "12903100155889836032",
+        "nickName": "OMAN_OTC_SERVICE",
+        "minSingleTransAmount": "350",
         "maxSingleTransAmount": "2500",
         "tradeMethods": [
           "Bank Muscat",
           "Sohar International",
-          "Airtime Mobile Top-Up"
+          "Ahlibank"
         ]
       },
       "SELL": {
@@ -34,15 +34,15 @@
     },
     "EGP": {
       "BUY": {
-        "price": 50.7,
+        "price": 50.82,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "13914717383814582272",
-        "nickName": "TurboTrustP2p",
-        "minSingleTransAmount": "100",
-        "maxSingleTransAmount": "50000",
+        "advNo": "12921538911590240256",
+        "nickName": "b_k_f",
+        "minSingleTransAmount": "1000",
+        "maxSingleTransAmount": "500000",
         "tradeMethods": [
-          "telda"
+          "InstaPay"
         ]
       },
       "SELL": {
@@ -107,11 +107,11 @@
         "availableRows": 11,
         "advNo": "12921420372900057088",
         "nickName": "User-6542",
-        "minSingleTransAmount": "32",
-        "maxSingleTransAmount": "33",
+        "minSingleTransAmount": "29",
+        "maxSingleTransAmount": "30",
         "tradeMethods": [
-          "Riyad Bank",
-          "Bank Transfer"
+          "Bank Transfer",
+          "Riyad Bank"
         ]
       }
     },
@@ -120,16 +120,12 @@
         "price": 0.99,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "13915638413152940032",
-        "nickName": "HERBRA",
+        "advNo": "12916308261536112640",
+        "nickName": "CriptosAmerica",
         "minSingleTransAmount": "200",
-        "maxSingleTransAmount": "15000",
+        "maxSingleTransAmount": "5000",
         "tradeMethods": [
-          "Banco Pichincha",
-          "Banco Bolivariano",
-          "Banco Guayaquil",
-          "Produbanco",
-          "Banco Internacional"
+          "Banco Pichincha"
         ]
       },
       "SELL": {
@@ -151,19 +147,19 @@
     },
     "EUR": {
       "BUY": {
-        "price": 0.878,
+        "price": 0.88,
         "pickedIndex": 1,
         "availableRows": 10,
-        "advNo": "13918023718531371008",
-        "nickName": "kvolichka",
-        "minSingleTransAmount": "112",
-        "maxSingleTransAmount": "112",
+        "advNo": "13909755665014747136",
+        "nickName": "BWliquidity",
+        "minSingleTransAmount": "516",
+        "maxSingleTransAmount": "4000",
         "tradeMethods": [
-          "ZEN",
+          "BBVA",
+          "CaixaBank (Spain)",
           "SEPA Instant",
-          "Wise",
-          "Paysera",
-          "N26"
+          "N26",
+          "Bank Transfer"
         ]
       },
       "SELL": {
