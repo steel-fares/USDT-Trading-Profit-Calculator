@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1786701087082,
+  "updatedAt": 1786704680940,
   "source": "Binance P2P web endpoint",
   "asset": "USDT",
   "prices": {
@@ -8,13 +8,16 @@
         "price": 0.389,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12921504675230408704",
-        "nickName": "Mkfx93",
-        "minSingleTransAmount": "250",
-        "maxSingleTransAmount": "2500",
+        "advNo": "13918280168692264960",
+        "nickName": "Al-habsi",
+        "minSingleTransAmount": "500",
+        "maxSingleTransAmount": "75000",
         "tradeMethods": [
           "Bank Muscat",
-          "Sohar International"
+          "Airtime Mobile Top-Up",
+          "Bank Dhofar",
+          "Sohar International",
+          "Bank Transfer"
         ]
       },
       "SELL": {
@@ -23,7 +26,7 @@
         "availableRows": 11,
         "advNo": "12921225526456934400",
         "nickName": "hamssaif",
-        "minSingleTransAmount": "5",
+        "minSingleTransAmount": "20",
         "maxSingleTransAmount": "2500",
         "tradeMethods": [
           "Bank Muscat"
@@ -35,10 +38,10 @@
         "price": 51.01,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12921486527942430720",
-        "nickName": "JonyMero",
-        "minSingleTransAmount": "3010",
-        "maxSingleTransAmount": "3011",
+        "advNo": "12873481894010515456",
+        "nickName": "Doctor Mustafa",
+        "minSingleTransAmount": "6000",
+        "maxSingleTransAmount": "6001",
         "tradeMethods": [
           "InstaPay"
         ]
@@ -58,13 +61,13 @@
     },
     "AED": {
       "BUY": {
-        "price": 3.66,
+        "price": 3.663,
         "pickedIndex": 1,
-        "availableRows": 10,
-        "advNo": "13903651663676485632",
-        "nickName": "Ravan_USDT",
-        "minSingleTransAmount": "18125",
-        "maxSingleTransAmount": "18126",
+        "availableRows": 11,
+        "advNo": "13892794217670598656",
+        "nickName": "CheapRate_Desk",
+        "minSingleTransAmount": "7290",
+        "maxSingleTransAmount": "7290",
         "tradeMethods": [
           "Bank Transfer"
         ]
@@ -85,15 +88,17 @@
     },
     "SAR": {
       "BUY": {
-        "price": 3.79,
+        "price": 3.8,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12921156821269520384",
-        "nickName": "Hope_x_Crypto",
-        "minSingleTransAmount": "126",
-        "maxSingleTransAmount": "126",
+        "advNo": "13919184473588178944",
+        "nickName": "usdt_7ksa",
+        "minSingleTransAmount": "10000",
+        "maxSingleTransAmount": "150000",
         "tradeMethods": [
-          "stc pay"
+          "Transfers with specific bank",
+          "Al Rajhi Bank",
+          "Saudi National Bank (AlAhli Bank)"
         ]
       },
       "SELL": {
@@ -141,28 +146,33 @@
     },
     "EUR": {
       "BUY": {
-        "price": 0.875,
+        "price": 0.878,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "13917507850059231232",
-        "nickName": "ApexxChange",
-        "minSingleTransAmount": "70",
-        "maxSingleTransAmount": "2000",
+        "advNo": "13919730846484201472",
+        "nickName": "Zura",
+        "minSingleTransAmount": "200",
+        "maxSingleTransAmount": "5000",
         "tradeMethods": [
-          "Wise"
+          "Fastoo wallet",
+          "TBC Bank",
+          "Bank of Georgia"
         ]
       },
       "SELL": {
-        "price": 0.9,
+        "price": 0.905,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12847674225449070592",
-        "nickName": "Aivazovskky",
-        "minSingleTransAmount": "950",
-        "maxSingleTransAmount": "980",
+        "advNo": "12921532617656012800",
+        "nickName": "User-65cef",
+        "minSingleTransAmount": "3170",
+        "maxSingleTransAmount": "7830",
         "tradeMethods": [
-          "N26",
-          "Bunq"
+          "Bank Transfer",
+          "Paysera",
+          "International Wire (SWIFT)",
+          "SEPA Instant",
+          "ZEN"
         ]
       }
     }
