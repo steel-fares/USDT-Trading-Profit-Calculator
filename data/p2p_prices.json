@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1786746354015,
+  "updatedAt": 1786747877391,
   "source": "Binance P2P web endpoint",
   "asset": "USDT",
   "prices": {
@@ -60,15 +60,15 @@
     },
     "AED": {
       "BUY": {
-        "price": 3.66,
+        "price": 3.662,
         "pickedIndex": 1,
         "availableRows": 10,
-        "advNo": "12895065269278195712",
-        "nickName": "MISK_CRYPTO",
-        "minSingleTransAmount": "5053",
-        "maxSingleTransAmount": "5053",
+        "advNo": "13908906680016334848",
+        "nickName": "Takethiswave",
+        "minSingleTransAmount": "8000",
+        "maxSingleTransAmount": "7000000",
         "tradeMethods": [
-          "Bank Transfer (Middle East)"
+          "Bank Transfer"
         ]
       },
       "SELL": {
@@ -120,13 +120,14 @@
         "price": 0.99,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12921282584476676096",
-        "nickName": "Me_llamo_cristina",
-        "minSingleTransAmount": "100",
-        "maxSingleTransAmount": "1500",
+        "advNo": "13915638413152940032",
+        "nickName": "HERBRA",
+        "minSingleTransAmount": "200",
+        "maxSingleTransAmount": "15000",
         "tradeMethods": [
           "Banco Pichincha",
-          "Banco del pacifico",
+          "Banco Bolivariano",
+          "Banco Guayaquil",
           "Produbanco",
           "Banco Internacional"
         ]
@@ -150,31 +151,31 @@
     },
     "EUR": {
       "BUY": {
-        "price": 0.875,
+        "price": 0.878,
         "pickedIndex": 1,
         "availableRows": 10,
-        "advNo": "13726976028637945856",
-        "nickName": "Sashok",
-        "minSingleTransAmount": "800",
-        "maxSingleTransAmount": "1637",
+        "advNo": "13918023718531371008",
+        "nickName": "kvolichka",
+        "minSingleTransAmount": "112",
+        "maxSingleTransAmount": "112",
         "tradeMethods": [
-          "Wise"
+          "ZEN",
+          "SEPA Instant",
+          "Wise",
+          "Paysera",
+          "N26"
         ]
       },
       "SELL": {
-        "price": 0.885,
+        "price": 0.882,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12908729360040779776",
-        "nickName": "Smurfeta_Obmen",
-        "minSingleTransAmount": "4000",
-        "maxSingleTransAmount": "4001",
+        "advNo": "12842342284204126208",
+        "nickName": "Traders_Haslo-Seguro",
+        "minSingleTransAmount": "50",
+        "maxSingleTransAmount": "50",
         "tradeMethods": [
-          "Wise",
-          "Bank Transfer",
-          "SEPA (EU) bank transfer",
-          "SEPA Instant",
-          "ZEN"
+          "Bizum"
         ]
       }
     }
