@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1786787451597,
+  "updatedAt": 1786788831093,
   "source": "Binance P2P web endpoint",
   "asset": "USDT",
   "prices": {
@@ -20,30 +20,33 @@
         "price": 0.388,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12921225526456934400",
-        "nickName": "hamssaif",
-        "minSingleTransAmount": "20",
+        "advNo": "12845064789867180032",
+        "nickName": "Abu_Yazan2018",
+        "minSingleTransAmount": "100",
         "maxSingleTransAmount": "2500",
         "tradeMethods": [
-          "Bank Muscat"
+          "Airtime Mobile Top-Up",
+          "Bank Muscat",
+          "Sohar International",
+          "Bank Dhofar"
         ]
       }
     },
     "EGP": {
       "BUY": {
-        "price": 50.69,
+        "price": 50.65,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12921581996385091584",
-        "nickName": "Cyrpto_AE",
-        "minSingleTransAmount": "5000",
-        "maxSingleTransAmount": "5500",
+        "advNo": "13916109308765093888",
+        "nickName": "cryptobooss",
+        "minSingleTransAmount": "5020",
+        "maxSingleTransAmount": "5021",
         "tradeMethods": [
           "InstaPay"
         ]
       },
       "SELL": {
-        "price": 51.23,
+        "price": 51.29,
         "pickedIndex": 1,
         "availableRows": 11,
         "advNo": "12808276496700526592",
@@ -57,15 +60,19 @@
     },
     "AED": {
       "BUY": {
-        "price": 3.667,
+        "price": 3.666,
         "pickedIndex": 1,
         "availableRows": 10,
-        "advNo": "12921586507904741376",
-        "nickName": "Samana101",
-        "minSingleTransAmount": "20499",
-        "maxSingleTransAmount": "20500",
+        "advNo": "13920126929020071936",
+        "nickName": "RAHEEM-TRADER",
+        "minSingleTransAmount": "2523",
+        "maxSingleTransAmount": "2524",
         "tradeMethods": [
-          "Bank Transfer"
+          "Bank Transfer",
+          "Emirates NBD",
+          "ADIB: Abu Dhabi Islamic Bank",
+          "Abu Dhabi Commercial Bank ADCB",
+          "Cash Deposit to Bank"
         ]
       },
       "SELL": {
@@ -77,25 +84,23 @@
         "minSingleTransAmount": "3000",
         "maxSingleTransAmount": "20000",
         "tradeMethods": [
-          "Bank Transfer (Middle East)",
+          "Bank Transfer",
           "Transfers with specific bank",
-          "Bank Transfer"
+          "Bank Transfer (Middle East)"
         ]
       }
     },
     "SAR": {
       "BUY": {
-        "price": 3.8,
+        "price": 3.79,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "13919184473588178944",
-        "nickName": "usdt_7ksa",
-        "minSingleTransAmount": "10000",
-        "maxSingleTransAmount": "150000",
+        "advNo": "12921719083134468096",
+        "nickName": "MFR_TRADER",
+        "minSingleTransAmount": "110",
+        "maxSingleTransAmount": "110",
         "tradeMethods": [
-          "Transfers with specific bank",
-          "Al Rajhi Bank",
-          "Saudi National Bank (AlAhli Bank)"
+          "stc pay"
         ]
       },
       "SELL": {
