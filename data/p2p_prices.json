@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1786794568137,
+  "updatedAt": 1786795988828,
   "source": "Binance P2P web endpoint",
   "asset": "USDT",
   "prices": {
@@ -8,12 +8,15 @@
         "price": 0.389,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "13902446530506285056",
-        "nickName": "ALKAABI-USDT",
-        "minSingleTransAmount": "191",
-        "maxSingleTransAmount": "500",
+        "advNo": "13917873732757336064",
+        "nickName": "ALFARSI-USDT",
+        "minSingleTransAmount": "300",
+        "maxSingleTransAmount": "5000",
         "tradeMethods": [
-          "Airtime Mobile Top-Up"
+          "Bank Muscat",
+          "Sohar International",
+          "mBank",
+          "Bank Transfer"
         ]
       },
       "SELL": {
@@ -61,31 +64,29 @@
     },
     "AED": {
       "BUY": {
-        "price": 3.668,
+        "price": 3.667,
         "pickedIndex": 1,
         "availableRows": 10,
-        "advNo": "13911872318290452480",
-        "nickName": "NASSER-TRADER",
-        "minSingleTransAmount": "271000",
-        "maxSingleTransAmount": "500000",
+        "advNo": "12921909349418549248",
+        "nickName": "Faast-paying",
+        "minSingleTransAmount": "1818",
+        "maxSingleTransAmount": "1819",
         "tradeMethods": [
-          "Transfers with specific bank"
+          "Bank Transfer"
         ]
       },
       "SELL": {
-        "price": 3.659,
+        "price": 3.66,
         "pickedIndex": 1,
         "availableRows": 10,
-        "advNo": "12908981366841581568",
-        "nickName": "UCXECURE_VARA_REG",
-        "minSingleTransAmount": "20000",
-        "maxSingleTransAmount": "900000",
+        "advNo": "12920471754990448640",
+        "nickName": "Global-Trade-P2P-亗",
+        "minSingleTransAmount": "3000",
+        "maxSingleTransAmount": "22000",
         "tradeMethods": [
-          "Abu Dhabi Commercial Bank ADCB",
-          "Bank Transfer",
-          "Emirates NBD",
-          "ADIB: Abu Dhabi Islamic Bank",
-          "AL MASHREQ Bank"
+          "Bank Transfer (Middle East)",
+          "Transfers with specific bank",
+          "Bank Transfer"
         ]
       }
     },
@@ -94,12 +95,12 @@
         "price": 3.79,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12921719083134468096",
-        "nickName": "MFR_TRADER",
-        "minSingleTransAmount": "100",
-        "maxSingleTransAmount": "100",
+        "advNo": "12916136156890521600",
+        "nickName": "P2P_TrustPro",
+        "minSingleTransAmount": "210",
+        "maxSingleTransAmount": "211",
         "tradeMethods": [
-          "stc pay"
+          "barq"
         ]
       },
       "SELL": {
@@ -123,7 +124,7 @@
       "BUY": {
         "price": 0.992,
         "pickedIndex": 1,
-        "availableRows": 11,
+        "availableRows": 10,
         "advNo": "13920903127983722496",
         "nickName": "-CRIPTO_REVOLUTION-",
         "minSingleTransAmount": "501",
@@ -167,18 +168,14 @@
         ]
       },
       "SELL": {
-        "price": 0.885,
+        "price": 0.9,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12920852732055130112",
-        "nickName": "Very_Fast_Merchant",
-        "minSingleTransAmount": "2000",
-        "maxSingleTransAmount": "50000",
+        "advNo": "12921915759134171136",
+        "nickName": "claudia0307",
+        "minSingleTransAmount": "850",
+        "maxSingleTransAmount": "850",
         "tradeMethods": [
-          "Banco Santander (Spain)",
-          "Wise",
-          "SEPA Instant",
-          "N26",
           "BBVA"
         ]
       }
