@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1786795988828,
+  "updatedAt": 1786798876901,
   "source": "Binance P2P web endpoint",
   "asset": "USDT",
   "prices": {
@@ -38,14 +38,15 @@
     },
     "EGP": {
       "BUY": {
-        "price": 50.68,
+        "price": 50.6,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12919113218237734912",
-        "nickName": "Trader717",
-        "minSingleTransAmount": "100",
-        "maxSingleTransAmount": "1000",
+        "advNo": "12917852116151066624",
+        "nickName": "Elmaistroo",
+        "minSingleTransAmount": "146440",
+        "maxSingleTransAmount": "500000",
         "tradeMethods": [
+          "Banque Misr",
           "InstaPay"
         ]
       },
@@ -64,15 +65,16 @@
     },
     "AED": {
       "BUY": {
-        "price": 3.667,
+        "price": 3.66,
         "pickedIndex": 1,
         "availableRows": 10,
-        "advNo": "12921909349418549248",
-        "nickName": "Faast-paying",
-        "minSingleTransAmount": "1818",
-        "maxSingleTransAmount": "1819",
+        "advNo": "12921924174815551488",
+        "nickName": "AcodRemits_MBankAani",
+        "minSingleTransAmount": "200",
+        "maxSingleTransAmount": "220",
         "tradeMethods": [
-          "Bank Transfer"
+          "Bank Transfer",
+          "Aani"
         ]
       },
       "SELL": {
@@ -81,12 +83,12 @@
         "availableRows": 10,
         "advNo": "12920471754990448640",
         "nickName": "Global-Trade-P2P-亗",
-        "minSingleTransAmount": "3000",
+        "minSingleTransAmount": "2500",
         "maxSingleTransAmount": "22000",
         "tradeMethods": [
-          "Bank Transfer (Middle East)",
+          "Bank Transfer",
           "Transfers with specific bank",
-          "Bank Transfer"
+          "Bank Transfer (Middle East)"
         ]
       }
     },
@@ -95,12 +97,16 @@
         "price": 3.79,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12916136156890521600",
-        "nickName": "P2P_TrustPro",
-        "minSingleTransAmount": "210",
-        "maxSingleTransAmount": "211",
+        "advNo": "12921211270176935936",
+        "nickName": "المصرفية الخاصة",
+        "minSingleTransAmount": "10000",
+        "maxSingleTransAmount": "100000",
         "tradeMethods": [
-          "barq"
+          "Bank Transfer",
+          "Saudi National Bank (AlAhli Bank)",
+          "Al Rajhi Bank",
+          "Alinma Bank",
+          "Riyad Bank"
         ]
       },
       "SELL": {
@@ -122,19 +128,15 @@
     },
     "USD": {
       "BUY": {
-        "price": 0.992,
+        "price": 0.985,
         "pickedIndex": 1,
         "availableRows": 10,
-        "advNo": "13920903127983722496",
-        "nickName": "-CRIPTO_REVOLUTION-",
-        "minSingleTransAmount": "501",
-        "maxSingleTransAmount": "502",
+        "advNo": "12921770345697226752",
+        "nickName": "P2P-90d6169l",
+        "minSingleTransAmount": "15",
+        "maxSingleTransAmount": "25",
         "tradeMethods": [
-          "Banco Pichincha",
-          "Banco Guayaquil",
-          "Produbanco",
-          "Banco Bolivariano",
-          "Banco del Austro"
+          "Pyypl"
         ]
       },
       "SELL": {
@@ -156,27 +158,31 @@
     },
     "EUR": {
       "BUY": {
-        "price": 0.873,
+        "price": 0.86,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "13921844514267156480",
-        "nickName": "Bliskavka",
-        "minSingleTransAmount": "530",
-        "maxSingleTransAmount": "530",
+        "advNo": "13886933261272276992",
+        "nickName": "Universal Money",
+        "minSingleTransAmount": "5000",
+        "maxSingleTransAmount": "60000",
         "tradeMethods": [
-          "TBC Bank"
+          "BBVA"
         ]
       },
       "SELL": {
-        "price": 0.9,
+        "price": 0.891,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12921915759134171136",
-        "nickName": "claudia0307",
-        "minSingleTransAmount": "850",
-        "maxSingleTransAmount": "850",
+        "advNo": "12913867155418099712",
+        "nickName": "Mercedes_C_class",
+        "minSingleTransAmount": "500",
+        "maxSingleTransAmount": "590",
         "tradeMethods": [
-          "BBVA"
+          "Banco Santander (Spain)",
+          "Banco Sabadell (Spain)",
+          "CaixaBank (Spain)",
+          "Bunq",
+          "ING"
         ]
       }
     }
