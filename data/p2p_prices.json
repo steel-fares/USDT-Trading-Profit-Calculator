@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1786793358761,
+  "updatedAt": 1786794568137,
   "source": "Binance P2P web endpoint",
   "asset": "USDT",
   "prices": {
@@ -35,16 +35,15 @@
     },
     "EGP": {
       "BUY": {
-        "price": 50.69,
+        "price": 50.68,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "13892368504590872576",
-        "nickName": "Crypto On Demand",
-        "minSingleTransAmount": "2200",
-        "maxSingleTransAmount": "2200",
+        "advNo": "12919113218237734912",
+        "nickName": "Trader717",
+        "minSingleTransAmount": "100",
+        "maxSingleTransAmount": "1000",
         "tradeMethods": [
-          "InstaPay",
-          "Bank Transfer"
+          "InstaPay"
         ]
       },
       "SELL": {
@@ -77,28 +76,30 @@
         "price": 3.659,
         "pickedIndex": 1,
         "availableRows": 10,
-        "advNo": "12903900111464108032",
-        "nickName": "User-5e264",
-        "minSingleTransAmount": "9500",
-        "maxSingleTransAmount": "10000",
+        "advNo": "12908981366841581568",
+        "nickName": "UCXECURE_VARA_REG",
+        "minSingleTransAmount": "20000",
+        "maxSingleTransAmount": "900000",
         "tradeMethods": [
-          "Bank Transfer"
+          "Abu Dhabi Commercial Bank ADCB",
+          "Bank Transfer",
+          "Emirates NBD",
+          "ADIB: Abu Dhabi Islamic Bank",
+          "AL MASHREQ Bank"
         ]
       }
     },
     "SAR": {
       "BUY": {
-        "price": 3.8,
+        "price": 3.79,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "13919184473588178944",
-        "nickName": "usdt_7ksa",
-        "minSingleTransAmount": "10000",
-        "maxSingleTransAmount": "150000",
+        "advNo": "12921719083134468096",
+        "nickName": "MFR_TRADER",
+        "minSingleTransAmount": "100",
+        "maxSingleTransAmount": "100",
         "tradeMethods": [
-          "Transfers with specific bank",
-          "Al Rajhi Bank",
-          "Saudi National Bank (AlAhli Bank)"
+          "stc pay"
         ]
       },
       "SELL": {
@@ -120,15 +121,19 @@
     },
     "USD": {
       "BUY": {
-        "price": 0.985,
+        "price": 0.992,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12921770345697226752",
-        "nickName": "P2P-90d6169l",
-        "minSingleTransAmount": "15",
-        "maxSingleTransAmount": "25",
+        "advNo": "13920903127983722496",
+        "nickName": "-CRIPTO_REVOLUTION-",
+        "minSingleTransAmount": "501",
+        "maxSingleTransAmount": "502",
         "tradeMethods": [
-          "Pyypl"
+          "Banco Pichincha",
+          "Banco Guayaquil",
+          "Produbanco",
+          "Banco Bolivariano",
+          "Banco del Austro"
         ]
       },
       "SELL": {
@@ -164,7 +169,7 @@
       "SELL": {
         "price": 0.885,
         "pickedIndex": 1,
-        "availableRows": 10,
+        "availableRows": 11,
         "advNo": "12920852732055130112",
         "nickName": "Very_Fast_Merchant",
         "minSingleTransAmount": "2000",
