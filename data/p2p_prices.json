@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1786766565716,
+  "updatedAt": 1786768941997,
   "source": "Binance P2P web endpoint",
   "asset": "USDT",
   "prices": {
@@ -27,33 +27,34 @@
         "minSingleTransAmount": "200",
         "maxSingleTransAmount": "201",
         "tradeMethods": [
-          "Airtime Mobile Top-Up",
+          "National Bank of Oman",
           "Bank Muscat",
-          "National Bank of Oman"
+          "Airtime Mobile Top-Up"
         ]
       }
     },
     "EGP": {
       "BUY": {
-        "price": 50.87,
+        "price": 50.85,
         "pickedIndex": 1,
         "availableRows": 10,
-        "advNo": "12921169353672839168",
-        "nickName": "P2PSAFEPAY",
-        "minSingleTransAmount": "1000",
+        "advNo": "12840472655634472960",
+        "nickName": "elexlans",
+        "minSingleTransAmount": "70000",
         "maxSingleTransAmount": "500000",
         "tradeMethods": [
+          "Bank Transfer",
           "InstaPay"
         ]
       },
       "SELL": {
-        "price": 51.41,
+        "price": 51.49,
         "pickedIndex": 1,
         "availableRows": 10,
-        "advNo": "12902291576603410432",
-        "nickName": "_The_Dragon_",
-        "minSingleTransAmount": "5000",
-        "maxSingleTransAmount": "5001",
+        "advNo": "12808276496700526592",
+        "nickName": "LoDa8",
+        "minSingleTransAmount": "200",
+        "maxSingleTransAmount": "500",
         "tradeMethods": [
           "Vodafone cash"
         ]
@@ -90,16 +91,17 @@
     },
     "SAR": {
       "BUY": {
-        "price": 3.79,
+        "price": 3.8,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12921789734971572224",
-        "nickName": "Digishark",
-        "minSingleTransAmount": "1898",
-        "maxSingleTransAmount": "1900",
+        "advNo": "13919184473588178944",
+        "nickName": "usdt_7ksa",
+        "minSingleTransAmount": "10000",
+        "maxSingleTransAmount": "150000",
         "tradeMethods": [
-          "Bank Transfer",
-          "stc pay"
+          "Transfers with specific bank",
+          "Al Rajhi Bank",
+          "Saudi National Bank (AlAhli Bank)"
         ]
       },
       "SELL": {
@@ -123,7 +125,7 @@
       "BUY": {
         "price": 0.992,
         "pickedIndex": 1,
-        "availableRows": 10,
+        "availableRows": 11,
         "advNo": "13920903127983722496",
         "nickName": "-CRIPTO_REVOLUTION-",
         "minSingleTransAmount": "501",
@@ -175,7 +177,7 @@
         "minSingleTransAmount": "300",
         "maxSingleTransAmount": "324",
         "tradeMethods": [
-          "Skrill (Moneybookers)"
+          "Skrill"
         ]
       }
     }
