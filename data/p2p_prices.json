@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1786802308934,
+  "updatedAt": 1786804283621,
   "source": "Binance P2P web endpoint",
   "asset": "USDT",
   "prices": {
@@ -7,7 +7,7 @@
       "BUY": {
         "price": 0.389,
         "pickedIndex": 1,
-        "availableRows": 10,
+        "availableRows": 11,
         "advNo": "12912468943157481472",
         "nickName": "ابوهمااام ",
         "minSingleTransAmount": "700",
@@ -42,10 +42,10 @@
         "price": 50.63,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12916259263569248256",
-        "nickName": "Alderdiri",
-        "minSingleTransAmount": "5169",
-        "maxSingleTransAmount": "5170",
+        "advNo": "12918141000576806912",
+        "nickName": "SafeFast",
+        "minSingleTransAmount": "7589",
+        "maxSingleTransAmount": "500000",
         "tradeMethods": [
           "InstaPay"
         ]
@@ -65,30 +65,29 @@
     },
     "AED": {
       "BUY": {
-        "price": 3.667,
+        "price": 3.666,
         "pickedIndex": 1,
         "availableRows": 10,
-        "advNo": "12921922948847951872",
-        "nickName": "ArmanSabir",
-        "minSingleTransAmount": "470",
-        "maxSingleTransAmount": "5000",
+        "advNo": "13879757192474587136",
+        "nickName": "Trex-DXB",
+        "minSingleTransAmount": "790",
+        "maxSingleTransAmount": "1000000",
         "tradeMethods": [
-          "Bank Transfer"
+          "ADIB: Abu Dhabi Islamic Bank"
         ]
       },
       "SELL": {
         "price": 3.66,
         "pickedIndex": 1,
         "availableRows": 10,
-        "advNo": "12912952049904578560",
-        "nickName": "Hossain",
-        "minSingleTransAmount": "30000",
-        "maxSingleTransAmount": "52000",
+        "advNo": "12920471754990448640",
+        "nickName": "Global-Trade-P2P-亗",
+        "minSingleTransAmount": "2500",
+        "maxSingleTransAmount": "4100",
         "tradeMethods": [
-          "Emirates NBD",
-          "Cash Deposit to Bank",
-          "Abu Dhabi Commercial Bank ADCB",
-          "ADIB: Abu Dhabi Islamic Bank"
+          "Bank Transfer (Middle East)",
+          "Transfers with specific bank",
+          "Bank Transfer"
         ]
       }
     },
@@ -127,61 +126,57 @@
     },
     "USD": {
       "BUY": {
-        "price": 0.99,
+        "price": 0.985,
         "pickedIndex": 1,
-        "availableRows": 10,
-        "advNo": "12918342396903882752",
-        "nickName": "DiegoSaa",
-        "minSingleTransAmount": "50",
-        "maxSingleTransAmount": "4500",
+        "availableRows": 11,
+        "advNo": "12921770345697226752",
+        "nickName": "P2P-90d6169l",
+        "minSingleTransAmount": "15",
+        "maxSingleTransAmount": "25",
         "tradeMethods": [
-          "Banco Pichincha",
-          "Banco de Loja",
-          "Banco Internacional",
-          "JEP",
-          "Banco del Austro"
+          "Pyypl"
         ]
       },
       "SELL": {
         "price": 1.1,
         "pickedIndex": 1,
-        "availableRows": 10,
-        "advNo": "12912089075832750080",
-        "nickName": "Eleven00",
+        "availableRows": 11,
+        "advNo": "12918177341462491136",
+        "nickName": "princessFatimaRani",
         "minSingleTransAmount": "15",
         "maxSingleTransAmount": "5000",
         "tradeMethods": [
-          "IMPS",
-          "Paytm",
-          "PhonePe",
+          "stc pay",
           "Google Pay (GPay)",
+          "IMPS",
+          "PhonePe",
           "Easypaisa-PK Only"
         ]
       }
     },
     "EUR": {
       "BUY": {
-        "price": 0.873,
+        "price": 0.866,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "13921844514267156480",
-        "nickName": "Bliskavka",
-        "minSingleTransAmount": "530",
-        "maxSingleTransAmount": "530",
+        "advNo": "12894471083851456512",
+        "nickName": "VALDEMARP2P",
+        "minSingleTransAmount": "250",
+        "maxSingleTransAmount": "20000",
         "tradeMethods": [
-          "TBC Bank"
+          "Wise"
         ]
       },
       "SELL": {
-        "price": 0.89,
+        "price": 0.945,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12913902832956674048",
-        "nickName": "Konstantyn1",
-        "minSingleTransAmount": "510",
-        "maxSingleTransAmount": "510",
+        "advNo": "12921948340854542336",
+        "nickName": "P2P-6015fekt",
+        "minSingleTransAmount": "94",
+        "maxSingleTransAmount": "95",
         "tradeMethods": [
-          "SEPA Instant"
+          "Paysera"
         ]
       }
     }
