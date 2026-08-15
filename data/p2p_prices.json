@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1786791622212,
+  "updatedAt": 1786793358761,
   "source": "Binance P2P web endpoint",
   "asset": "USDT",
   "prices": {
@@ -35,13 +35,13 @@
     },
     "EGP": {
       "BUY": {
-        "price": 50.66,
+        "price": 50.69,
         "pickedIndex": 1,
         "availableRows": 11,
         "advNo": "13892368504590872576",
         "nickName": "Crypto On Demand",
-        "minSingleTransAmount": "3300",
-        "maxSingleTransAmount": "3300",
+        "minSingleTransAmount": "2200",
+        "maxSingleTransAmount": "2200",
         "tradeMethods": [
           "InstaPay",
           "Bank Transfer"
@@ -62,15 +62,15 @@
     },
     "AED": {
       "BUY": {
-        "price": 3.667,
+        "price": 3.668,
         "pickedIndex": 1,
         "availableRows": 10,
-        "advNo": "12921586507904741376",
-        "nickName": "Samana101",
-        "minSingleTransAmount": "20499",
-        "maxSingleTransAmount": "20500",
+        "advNo": "13911872318290452480",
+        "nickName": "NASSER-TRADER",
+        "minSingleTransAmount": "271000",
+        "maxSingleTransAmount": "500000",
         "tradeMethods": [
-          "Bank Transfer"
+          "Transfers with specific bank"
         ]
       },
       "SELL": {
@@ -88,15 +88,17 @@
     },
     "SAR": {
       "BUY": {
-        "price": 3.79,
+        "price": 3.8,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12921719083134468096",
-        "nickName": "MFR_TRADER",
-        "minSingleTransAmount": "100",
-        "maxSingleTransAmount": "100",
+        "advNo": "13919184473588178944",
+        "nickName": "usdt_7ksa",
+        "minSingleTransAmount": "10000",
+        "maxSingleTransAmount": "150000",
         "tradeMethods": [
-          "barq"
+          "Transfers with specific bank",
+          "Al Rajhi Bank",
+          "Saudi National Bank (AlAhli Bank)"
         ]
       },
       "SELL": {
@@ -120,7 +122,7 @@
       "BUY": {
         "price": 0.985,
         "pickedIndex": 1,
-        "availableRows": 10,
+        "availableRows": 11,
         "advNo": "12921770345697226752",
         "nickName": "P2P-90d6169l",
         "minSingleTransAmount": "15",
@@ -162,13 +164,17 @@
       "SELL": {
         "price": 0.885,
         "pickedIndex": 1,
-        "availableRows": 11,
-        "advNo": "12891989066394275840",
-        "nickName": "Nazaryanun",
-        "minSingleTransAmount": "300",
-        "maxSingleTransAmount": "2700",
+        "availableRows": 10,
+        "advNo": "12920852732055130112",
+        "nickName": "Very_Fast_Merchant",
+        "minSingleTransAmount": "2000",
+        "maxSingleTransAmount": "50000",
         "tradeMethods": [
-          "N26"
+          "Banco Santander (Spain)",
+          "Wise",
+          "SEPA Instant",
+          "N26",
+          "BBVA"
         ]
       }
     }
