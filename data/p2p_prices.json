@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1786855479353,
+  "updatedAt": 1786857201026,
   "source": "Binance P2P web endpoint",
   "asset": "USDT",
   "prices": {
@@ -8,14 +8,16 @@
         "price": 0.389,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12903100155889836032",
-        "nickName": "OMAN_OTC_SERVICE",
-        "minSingleTransAmount": "157",
+        "advNo": "12921944032572346368",
+        "nickName": "NoThirdPartyPayme",
+        "minSingleTransAmount": "487",
         "maxSingleTransAmount": "2500",
         "tradeMethods": [
           "Bank Muscat",
-          "Sohar International",
-          "Ahlibank"
+          "Bank Transfer",
+          "National Bank of Oman",
+          "Bank Dhofar",
+          "Airtime Mobile Top-Up"
         ]
       },
       "SELL": {
@@ -40,22 +42,26 @@
         "price": 50.77,
         "pickedIndex": 1,
         "availableRows": 10,
-        "advNo": "12919182863031767040",
-        "nickName": "Locus_Crypto",
-        "minSingleTransAmount": "10000",
+        "advNo": "13875404999836725248",
+        "nickName": "EGX_AlRayan_Official",
+        "minSingleTransAmount": "500",
         "maxSingleTransAmount": "500000",
         "tradeMethods": [
-          "InstaPay"
+          "Bank Transfer",
+          "National Bank of Egypt (NBE)",
+          "Banque Misr",
+          "InstaPay",
+          "Transfers with specific bank"
         ]
       },
       "SELL": {
-        "price": 51.35,
+        "price": 51.37,
         "pickedIndex": 1,
         "availableRows": 10,
-        "advNo": "12915847484036734976",
-        "nickName": "abofahd711",
-        "minSingleTransAmount": "15000",
-        "maxSingleTransAmount": "15001",
+        "advNo": "12911292866198618112",
+        "nickName": "abozyad711",
+        "minSingleTransAmount": "20000",
+        "maxSingleTransAmount": "20001",
         "tradeMethods": [
           "Vodafone cash"
         ]
@@ -119,16 +125,19 @@
     },
     "USD": {
       "BUY": {
-        "price": 0.992,
+        "price": 0.991,
         "pickedIndex": 1,
-        "availableRows": 10,
-        "advNo": "13919292813147922432",
-        "nickName": "spark_ltd",
-        "minSingleTransAmount": "200",
-        "maxSingleTransAmount": "10000",
+        "availableRows": 11,
+        "advNo": "13851537212622987264",
+        "nickName": "Pana951",
+        "minSingleTransAmount": "100",
+        "maxSingleTransAmount": "4000",
         "tradeMethods": [
           "ABA",
-          "KHQR"
+          "ACLEDA Bank",
+          "KHQR",
+          "Wing Money",
+          "Bank Transfer (Cambodia)"
         ]
       },
       "SELL": {
