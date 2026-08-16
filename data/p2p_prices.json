@@ -1,21 +1,21 @@
 {
-  "updatedAt": 1786923215130,
+  "updatedAt": 1786924344896,
   "source": "Binance P2P web endpoint",
   "asset": "USDT",
   "prices": {
     "OMR": {
       "BUY": {
-        "price": 0.389,
+        "price": 0.39,
         "pickedIndex": 1,
         "availableRows": 10,
-        "advNo": "12919488509102678016",
-        "nickName": "BOOOOS1",
-        "minSingleTransAmount": "120",
-        "maxSingleTransAmount": "2500",
+        "advNo": "13906418868802232320",
+        "nickName": "CryptoAnalysts",
+        "minSingleTransAmount": "200",
+        "maxSingleTransAmount": "10000",
         "tradeMethods": [
           "Bank Muscat",
-          "Sohar International",
-          "Airtime Mobile Top-Up"
+          "Bank Dhofar",
+          "Ahlibank"
         ]
       },
       "SELL": {
@@ -47,13 +47,13 @@
         ]
       },
       "SELL": {
-        "price": 51.45,
+        "price": 51.5,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12867076926752673792",
-        "nickName": "Vip--p2p",
-        "minSingleTransAmount": "20999",
-        "maxSingleTransAmount": "21000",
+        "advNo": "12895558949592129536",
+        "nickName": "ELKINGCASH",
+        "minSingleTransAmount": "10000",
+        "maxSingleTransAmount": "10001",
         "tradeMethods": [
           "Vodafone cash"
         ]
@@ -61,13 +61,13 @@
     },
     "AED": {
       "BUY": {
-        "price": 3.663,
+        "price": 3.667,
         "pickedIndex": 1,
         "availableRows": 10,
-        "advNo": "12922142347958362112",
-        "nickName": "Egc-USDT",
-        "minSingleTransAmount": "20000",
-        "maxSingleTransAmount": "25000",
+        "advNo": "13860687544600252416",
+        "nickName": "CamelP2P",
+        "minSingleTransAmount": "10000",
+        "maxSingleTransAmount": "50000",
         "tradeMethods": [
           "Bank Transfer"
         ]
@@ -122,10 +122,10 @@
         "price": 0.993,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "13910697054713638912",
-        "nickName": "EasyCashout",
-        "minSingleTransAmount": "50",
-        "maxSingleTransAmount": "15000",
+        "advNo": "13779433182460960768",
+        "nickName": "spark_ltd",
+        "minSingleTransAmount": "300",
+        "maxSingleTransAmount": "10000",
         "tradeMethods": [
           "ABA",
           "ACLEDA Bank",
@@ -151,31 +151,31 @@
     },
     "EUR": {
       "BUY": {
-        "price": 0.88,
+        "price": 0.877,
         "pickedIndex": 1,
         "availableRows": 10,
-        "advNo": "13909755665014747136",
-        "nickName": "BWliquidity",
-        "minSingleTransAmount": "516",
-        "maxSingleTransAmount": "4000",
+        "advNo": "13917513540289519616",
+        "nickName": "ROUND-THREE-VA",
+        "minSingleTransAmount": "300",
+        "maxSingleTransAmount": "100000",
         "tradeMethods": [
           "BBVA",
-          "CaixaBank (Spain)",
           "SEPA Instant",
+          "SEPA (EU) bank transfer",
           "N26",
-          "Bank Transfer"
+          "Bunq"
         ]
       },
       "SELL": {
-        "price": 0.89,
+        "price": 0.915,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12921573313836511232",
-        "nickName": "Trade-pro_1",
-        "minSingleTransAmount": "500",
-        "maxSingleTransAmount": "950",
+        "advNo": "12908574993927929856",
+        "nickName": "_maryssod_",
+        "minSingleTransAmount": "100",
+        "maxSingleTransAmount": "7000",
         "tradeMethods": [
-          "BBVA"
+          "SEPA Instant"
         ]
       }
     }
