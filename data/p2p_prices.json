@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1786869698017,
+  "updatedAt": 1786871227132,
   "source": "Binance P2P web endpoint",
   "asset": "USDT",
   "prices": {
@@ -21,38 +21,41 @@
         ]
       },
       "SELL": {
-        "price": 0.388,
+        "price": 0.387,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12888079829502873600",
-        "nickName": "used_oman222",
-        "minSingleTransAmount": "50",
-        "maxSingleTransAmount": "100",
+        "advNo": "12904354603997466624",
+        "nickName": "ImranTradeCenter",
+        "minSingleTransAmount": "350",
+        "maxSingleTransAmount": "700",
         "tradeMethods": [
-          "Airtime Mobile Top-Up",
-          "Bank Muscat"
+          "mBank",
+          "Bank Transfer",
+          "Bank Muscat",
+          "Bank Dhofar",
+          "Airtime Mobile Top-Up"
         ]
       }
     },
     "EGP": {
       "BUY": {
-        "price": 50.63,
+        "price": 50.65,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "13922224347117760512",
-        "nickName": "NFS-Digital",
-        "minSingleTransAmount": "50570",
-        "maxSingleTransAmount": "50575",
+        "advNo": "12922216536034967552",
+        "nickName": "Al-karrar",
+        "minSingleTransAmount": "1000",
+        "maxSingleTransAmount": "2000",
         "tradeMethods": [
           "InstaPay"
         ]
       },
       "SELL": {
-        "price": 51.26,
+        "price": 51.27,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12901988444959580160",
-        "nickName": "Niesha Shroyer EXU7",
+        "advNo": "12904555786959409152",
+        "nickName": "User-1037a",
         "minSingleTransAmount": "5000",
         "maxSingleTransAmount": "5001",
         "tradeMethods": [
@@ -62,7 +65,7 @@
     },
     "AED": {
       "BUY": {
-        "price": 3.666,
+        "price": 3.665,
         "pickedIndex": 1,
         "availableRows": 10,
         "advNo": "12887471123794239488",
@@ -91,18 +94,15 @@
     },
     "SAR": {
       "BUY": {
-        "price": 3.78,
+        "price": 3.79,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12848819036114219008",
-        "nickName": "Crypto Al-Arab  كريبتو العرب",
-        "minSingleTransAmount": "20",
-        "maxSingleTransAmount": "20",
+        "advNo": "12914555446787547136",
+        "nickName": "ABDULLAH_SALEHa",
+        "minSingleTransAmount": "8000",
+        "maxSingleTransAmount": "100000",
         "tradeMethods": [
-          "Saudi National Bank (AlAhli Bank)",
-          "Bank Transfer",
-          "Alinma Bank",
-          "Al Rajhi Bank"
+          "Bank Transfer"
         ]
       },
       "SELL": {
@@ -124,12 +124,12 @@
     },
     "USD": {
       "BUY": {
-        "price": 0.991,
+        "price": 0.992,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "13851537212622987264",
+        "advNo": "13851537548564049920",
         "nickName": "Pana951",
-        "minSingleTransAmount": "100",
+        "minSingleTransAmount": "25",
         "maxSingleTransAmount": "4000",
         "tradeMethods": [
           "ABA",
@@ -171,15 +171,14 @@
         ]
       },
       "SELL": {
-        "price": 0.884,
+        "price": 0.885,
         "pickedIndex": 1,
-        "availableRows": 11,
-        "advNo": "11550531201477328896",
-        "nickName": "CriptoMcLaren",
-        "minSingleTransAmount": "180",
-        "maxSingleTransAmount": "181",
+        "availableRows": 10,
+        "advNo": "12891989066394275840",
+        "nickName": "Nazaryanun",
+        "minSingleTransAmount": "300",
+        "maxSingleTransAmount": "3300",
         "tradeMethods": [
-          "Bank Transfer",
           "SEPA Instant",
           "N26"
         ]
