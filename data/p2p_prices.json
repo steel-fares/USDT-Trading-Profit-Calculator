@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1786874370374,
+  "updatedAt": 1786876362221,
   "source": "Binance P2P web endpoint",
   "asset": "USDT",
   "prices": {
@@ -19,43 +19,39 @@
         ]
       },
       "SELL": {
-        "price": 0.387,
+        "price": 0.388,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12904354603997466624",
-        "nickName": "ImranTradeCenter",
-        "minSingleTransAmount": "350",
-        "maxSingleTransAmount": "700",
+        "advNo": "12922243797513617408",
+        "nickName": "M-BlueDiamond",
+        "minSingleTransAmount": "50",
+        "maxSingleTransAmount": "200",
         "tradeMethods": [
-          "mBank",
-          "Bank Transfer",
-          "Bank Muscat",
-          "Bank Dhofar",
-          "Airtime Mobile Top-Up"
+          "Bank Muscat"
         ]
       }
     },
     "EGP": {
       "BUY": {
-        "price": 50.67,
+        "price": 50.6,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12919113218237734912",
-        "nickName": "Trader717",
-        "minSingleTransAmount": "100",
-        "maxSingleTransAmount": "1000",
+        "advNo": "12909999451161726976",
+        "nickName": "amagdymkamal",
+        "minSingleTransAmount": "200",
+        "maxSingleTransAmount": "400",
         "tradeMethods": [
           "InstaPay"
         ]
       },
       "SELL": {
-        "price": 51.11,
+        "price": 51.14,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12916095383786274816",
-        "nickName": "thekngeofEgypt",
-        "minSingleTransAmount": "18000",
-        "maxSingleTransAmount": "18001",
+        "advNo": "12875253636259995648",
+        "nickName": "king_kivu",
+        "minSingleTransAmount": "13000",
+        "maxSingleTransAmount": "13001",
         "tradeMethods": [
           "Vodafone cash"
         ]
@@ -63,28 +59,30 @@
     },
     "AED": {
       "BUY": {
-        "price": 3.667,
+        "price": 3.665,
         "pickedIndex": 1,
         "availableRows": 10,
-        "advNo": "12922239503143026688",
-        "nickName": "CryptoQueen",
-        "minSingleTransAmount": "1500",
-        "maxSingleTransAmount": "5000",
+        "advNo": "12887471123794239488",
+        "nickName": "MnM_Infinity",
+        "minSingleTransAmount": "5000",
+        "maxSingleTransAmount": "15000",
         "tradeMethods": [
-          "Emirates NBD",
-          "Abu Dhabi Commercial Bank ADCB"
+          "Bank Transfer"
         ]
       },
       "SELL": {
-        "price": 3.661,
+        "price": 3.66,
         "pickedIndex": 1,
         "availableRows": 10,
-        "advNo": "11420658518939258880",
-        "nickName": "XD12",
-        "minSingleTransAmount": "24999",
+        "advNo": "12894722928579297280",
+        "nickName": "Jubaida_Trades",
+        "minSingleTransAmount": "15000",
         "maxSingleTransAmount": "25000",
         "tradeMethods": [
-          "Cash Deposit to Bank"
+          "Abu Dhabi Commercial Bank ADCB",
+          "Cash Deposit to Bank",
+          "ADIB: Abu Dhabi Islamic Bank",
+          "Emirates NBD"
         ]
       }
     },
@@ -93,32 +91,28 @@
         "price": 3.79,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12909677878920257536",
-        "nickName": "Waleed-KSA",
-        "minSingleTransAmount": "5000",
-        "maxSingleTransAmount": "100000",
+        "advNo": "13916485241658355712",
+        "nickName": "ADEEB ALSEDAIRY",
+        "minSingleTransAmount": "10000",
+        "maxSingleTransAmount": "10000000",
         "tradeMethods": [
-          "Al Rajhi Bank",
-          "Bank Transfer",
-          "Transfers with specific bank",
+          "Alinma Bank",
           "Saudi National Bank (AlAhli Bank)",
-          "Riyad Bank"
+          "Al Rajhi Bank",
+          "Bank Transfer"
         ]
       },
       "SELL": {
-        "price": 3.88,
+        "price": 3.85,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12919773543535403008",
-        "nickName": "THE-KING-",
-        "minSingleTransAmount": "2000",
-        "maxSingleTransAmount": "2001",
+        "advNo": "12920460394383020032",
+        "nickName": "Abdullah ",
+        "minSingleTransAmount": "10000",
+        "maxSingleTransAmount": "100000",
         "tradeMethods": [
-          "Bank Transfer (Middle East)",
-          "barq",
-          "Al Rajhi Bank",
-          "Transfers with specific bank",
-          "Alinma Bank"
+          "Bank Transfer",
+          "Al Rajhi Bank"
         ]
       }
     },
@@ -178,7 +172,7 @@
         "minSingleTransAmount": "999",
         "maxSingleTransAmount": "1000",
         "tradeMethods": [
-          "Skrill"
+          "Skrill (Moneybookers)"
         ]
       }
     }
