@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1786888534515,
+  "updatedAt": 1786890398728,
   "source": "Binance P2P web endpoint",
   "asset": "USDT",
   "prices": {
@@ -21,39 +21,43 @@
         ]
       },
       "SELL": {
-        "price": 0.388,
+        "price": 0.387,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12811339396564738048",
-        "nickName": "DrUsd",
-        "minSingleTransAmount": "10",
-        "maxSingleTransAmount": "15",
+        "advNo": "12904354603997466624",
+        "nickName": "ImranTradeCenter",
+        "minSingleTransAmount": "350",
+        "maxSingleTransAmount": "700",
         "tradeMethods": [
-          "Bank Muscat"
+          "mBank",
+          "Bank Transfer",
+          "Bank Muscat",
+          "Bank Dhofar",
+          "Airtime Mobile Top-Up"
         ]
       }
     },
     "EGP": {
       "BUY": {
-        "price": 50.6,
+        "price": 50.65,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12921665144675397632",
-        "nickName": "7AM2A",
-        "minSingleTransAmount": "70",
-        "maxSingleTransAmount": "500000",
+        "advNo": "12910642672191168512",
+        "nickName": "moon30",
+        "minSingleTransAmount": "10700",
+        "maxSingleTransAmount": "10701",
         "tradeMethods": [
           "InstaPay"
         ]
       },
       "SELL": {
-        "price": 51.21,
+        "price": 51.23,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12882549218931183616",
-        "nickName": "Ab-Kingg",
-        "minSingleTransAmount": "30000",
-        "maxSingleTransAmount": "30001",
+        "advNo": "12911292866198618112",
+        "nickName": "abozyad711",
+        "minSingleTransAmount": "35000",
+        "maxSingleTransAmount": "35001",
         "tradeMethods": [
           "Vodafone cash"
         ]
@@ -64,12 +68,12 @@
         "price": 3.669,
         "pickedIndex": 1,
         "availableRows": 10,
-        "advNo": "12918765284573564928",
-        "nickName": "Maan_69",
-        "minSingleTransAmount": "910",
-        "maxSingleTransAmount": "920",
+        "advNo": "13911872318290452480",
+        "nickName": "NASSER-TRADER",
+        "minSingleTransAmount": "271000",
+        "maxSingleTransAmount": "500000",
         "tradeMethods": [
-          "Bank Transfer"
+          "Transfers with specific bank"
         ]
       },
       "SELL": {
@@ -92,10 +96,10 @@
         "availableRows": 11,
         "advNo": "12912801281681899520",
         "nickName": "lovemiumiu",
-        "minSingleTransAmount": "1504",
-        "maxSingleTransAmount": "1504",
+        "minSingleTransAmount": "1940",
+        "maxSingleTransAmount": "1940",
         "tradeMethods": [
-          "urpay"
+          "stc pay"
         ]
       },
       "SELL": {
@@ -113,17 +117,19 @@
     },
     "USD": {
       "BUY": {
-        "price": 0.992,
+        "price": 0.993,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "13910697054713638912",
-        "nickName": "EasyCashout",
-        "minSingleTransAmount": "50",
-        "maxSingleTransAmount": "15000",
+        "advNo": "13920857118938251264",
+        "nickName": "DIGITAL-EXCHANGE-董事長",
+        "minSingleTransAmount": "400",
+        "maxSingleTransAmount": "5000",
         "tradeMethods": [
-          "ABA",
+          "True Money (Cambodia)",
+          "KHQR",
+          "Wing Money",
           "ACLEDA Bank",
-          "KHQR"
+          "ABA"
         ]
       },
       "SELL": {
@@ -157,15 +163,17 @@
         ]
       },
       "SELL": {
-        "price": 0.92,
+        "price": 0.945,
         "pickedIndex": 1,
-        "availableRows": 10,
-        "advNo": "12914717068068429824",
-        "nickName": "CambiosOrion1",
-        "minSingleTransAmount": "87",
-        "maxSingleTransAmount": "87",
+        "availableRows": 11,
+        "advNo": "12922287155763195904",
+        "nickName": "lilem07",
+        "minSingleTransAmount": "100",
+        "maxSingleTransAmount": "1000",
         "tradeMethods": [
-          "Banco Santander (Spain)"
+          "Bank Transfer",
+          "SEPA (EU) bank transfer",
+          "SEPA Instant"
         ]
       }
     }
