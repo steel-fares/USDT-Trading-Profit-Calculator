@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1786857201026,
+  "updatedAt": 1786859194845,
   "source": "Binance P2P web endpoint",
   "asset": "USDT",
   "prices": {
@@ -39,29 +39,26 @@
     },
     "EGP": {
       "BUY": {
-        "price": 50.77,
+        "price": 50.74,
         "pickedIndex": 1,
         "availableRows": 10,
-        "advNo": "13875404999836725248",
-        "nickName": "EGX_AlRayan_Official",
-        "minSingleTransAmount": "500",
+        "advNo": "12920121044421341184",
+        "nickName": "R_moohamed",
+        "minSingleTransAmount": "5000",
         "maxSingleTransAmount": "500000",
         "tradeMethods": [
-          "Bank Transfer",
-          "National Bank of Egypt (NBE)",
           "Banque Misr",
-          "InstaPay",
-          "Transfers with specific bank"
+          "InstaPay"
         ]
       },
       "SELL": {
-        "price": 51.37,
+        "price": 51.4,
         "pickedIndex": 1,
         "availableRows": 10,
-        "advNo": "12911292866198618112",
-        "nickName": "abozyad711",
-        "minSingleTransAmount": "20000",
-        "maxSingleTransAmount": "20001",
+        "advNo": "12917803890493763584",
+        "nickName": "Goseph",
+        "minSingleTransAmount": "40000",
+        "maxSingleTransAmount": "40001",
         "tradeMethods": [
           "Vodafone cash"
         ]
@@ -69,25 +66,29 @@
     },
     "AED": {
       "BUY": {
-        "price": 3.668,
+        "price": 3.667,
         "pickedIndex": 1,
         "availableRows": 10,
-        "advNo": "13917713188738908160",
-        "nickName": "DXB_EXCHANGE_24-7",
+        "advNo": "13919957737153130496",
+        "nickName": "Binance_Vet",
         "minSingleTransAmount": "5000",
-        "maxSingleTransAmount": "50000",
+        "maxSingleTransAmount": "7000000",
         "tradeMethods": [
-          "Bank Transfer"
+          "Aani",
+          "Bank Transfer",
+          "ADIB: Abu Dhabi Islamic Bank",
+          "Abu Dhabi Commercial Bank ADCB",
+          "Emirates NBD"
         ]
       },
       "SELL": {
-        "price": 3.66,
+        "price": 3.659,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12916223653961179136",
-        "nickName": "Studythemarket",
-        "minSingleTransAmount": "369",
-        "maxSingleTransAmount": "370",
+        "advNo": "12917924630762119168",
+        "nickName": "Instant_instant2",
+        "minSingleTransAmount": "1850",
+        "maxSingleTransAmount": "1900",
         "tradeMethods": [
           "Aani"
         ]
@@ -179,7 +180,7 @@
         "minSingleTransAmount": "300",
         "maxSingleTransAmount": "324",
         "tradeMethods": [
-          "Skrill (Moneybookers)"
+          "Skrill"
         ]
       }
     }
