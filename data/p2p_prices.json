@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1786988233956,
+  "updatedAt": 1786989695035,
   "source": "Binance P2P web endpoint",
   "asset": "USDT",
   "prices": {
@@ -33,13 +33,13 @@
     },
     "EGP": {
       "BUY": {
-        "price": 50.79,
+        "price": 50.69,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12916105052824383488",
-        "nickName": "A7md14",
-        "minSingleTransAmount": "40000",
-        "maxSingleTransAmount": "40001",
+        "advNo": "12913095253275684864",
+        "nickName": "User-a70b2",
+        "minSingleTransAmount": "1600",
+        "maxSingleTransAmount": "100000",
         "tradeMethods": [
           "InstaPay"
         ]
@@ -59,27 +59,28 @@
     },
     "AED": {
       "BUY": {
-        "price": 3.67,
+        "price": 3.669,
         "pickedIndex": 1,
         "availableRows": 10,
-        "advNo": "13916114715620077568",
-        "nickName": "cryptobooss",
-        "minSingleTransAmount": "304",
-        "maxSingleTransAmount": "305",
+        "advNo": "13911872318290452480",
+        "nickName": "NASSER-TRADER",
+        "minSingleTransAmount": "269005",
+        "maxSingleTransAmount": "500000",
         "tradeMethods": [
-          "Bank Transfer"
+          "Transfers with specific bank"
         ]
       },
       "SELL": {
-        "price": 3.66,
+        "price": 3.661,
         "pickedIndex": 1,
         "availableRows": 10,
-        "advNo": "12922721530697109504",
-        "nickName": "wd-elsir",
-        "minSingleTransAmount": "5000",
-        "maxSingleTransAmount": "7000000",
+        "advNo": "12916223653961179136",
+        "nickName": "Studythemarket",
+        "minSingleTransAmount": "2999",
+        "maxSingleTransAmount": "3000",
         "tradeMethods": [
-          "Aani"
+          "ADIB: Abu Dhabi Islamic Bank",
+          "Bank Transfer"
         ]
       }
     },
@@ -114,31 +115,32 @@
     },
     "USD": {
       "BUY": {
-        "price": 0.993,
+        "price": 0.994,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12922381291245477888",
-        "nickName": "金诚-usdt",
-        "minSingleTransAmount": "10",
-        "maxSingleTransAmount": "30",
+        "advNo": "13910697054713638912",
+        "nickName": "EasyCashout",
+        "minSingleTransAmount": "50",
+        "maxSingleTransAmount": "15000",
         "tradeMethods": [
           "ABA",
+          "ACLEDA Bank",
           "KHQR"
         ]
       },
       "SELL": {
         "price": 1.1,
         "pickedIndex": 1,
-        "availableRows": 10,
-        "advNo": "12912089075832750080",
-        "nickName": "Eleven00",
+        "availableRows": 11,
+        "advNo": "12918177341462491136",
+        "nickName": "princessFatimaRani",
         "minSingleTransAmount": "15",
         "maxSingleTransAmount": "5000",
         "tradeMethods": [
-          "IMPS",
-          "Paytm",
-          "PhonePe",
+          "stc pay",
           "Google Pay (GPay)",
+          "IMPS",
+          "PhonePe",
           "Easypaisa-PK Only"
         ]
       }
@@ -148,27 +150,28 @@
         "price": 0.873,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "13872295339464822784",
-        "nickName": "CryptoMarketUA",
+        "advNo": "12905363391299141632",
+        "nickName": "Romchik_b113",
         "minSingleTransAmount": "500",
-        "maxSingleTransAmount": "2000",
+        "maxSingleTransAmount": "500",
         "tradeMethods": [
+          "SEPA Instant",
+          "N26",
+          "Paysera",
           "Wise"
         ]
       },
       "SELL": {
-        "price": 0.91,
+        "price": 0.945,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12920877936784367616",
-        "nickName": "What_a_deal",
-        "minSingleTransAmount": "1107",
-        "maxSingleTransAmount": "1108",
+        "advNo": "12911478929908744192",
+        "nickName": "User-fde2d",
+        "minSingleTransAmount": "579",
+        "maxSingleTransAmount": "580",
         "tradeMethods": [
+          "CaixaBank (Spain)",
           "Banco Santander (Spain)",
-          "Bizum",
-          "Bank Transfer",
-          "SEPA (EU) bank transfer",
           "BBVA"
         ]
       }
