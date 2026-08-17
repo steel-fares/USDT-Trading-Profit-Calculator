@@ -1,49 +1,49 @@
 {
-  "updatedAt": 1787002989073,
+  "updatedAt": 1787004104550,
   "source": "Binance P2P web endpoint",
   "asset": "USDT",
   "prices": {
     "OMR": {
       "BUY": {
-        "price": 0.389,
+        "price": 0.39,
         "pickedIndex": 1,
-        "availableRows": 11,
-        "advNo": "12903100155889836032",
-        "nickName": "OMAN_OTC_SERVICE",
-        "minSingleTransAmount": "250",
-        "maxSingleTransAmount": "2500",
+        "availableRows": 10,
+        "advNo": "13906418868802232320",
+        "nickName": "CryptoAnalysts",
+        "minSingleTransAmount": "200",
+        "maxSingleTransAmount": "10000",
         "tradeMethods": [
           "Bank Muscat",
-          "Sohar International",
+          "Bank Dhofar",
           "Ahlibank"
         ]
       },
       "SELL": {
         "price": 0.387,
         "pickedIndex": 1,
-        "availableRows": 11,
-        "advNo": "12904354603997466624",
-        "nickName": "ImranTradeCenter",
-        "minSingleTransAmount": "350",
-        "maxSingleTransAmount": "700",
+        "availableRows": 10,
+        "advNo": "12922070496772268032",
+        "nickName": "OM-AR-FAST-SAFE-P2P",
+        "minSingleTransAmount": "150",
+        "maxSingleTransAmount": "550",
         "tradeMethods": [
-          "mBank",
-          "Bank Transfer",
           "Bank Muscat",
           "Bank Dhofar",
+          "National Bank of Oman",
+          "Sohar International",
           "Airtime Mobile Top-Up"
         ]
       }
     },
     "EGP": {
       "BUY": {
-        "price": 50.79,
+        "price": 50.82,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12873481894010515456",
-        "nickName": "Doctor Mustafa",
-        "minSingleTransAmount": "9500",
-        "maxSingleTransAmount": "9501",
+        "advNo": "12807705705182859264",
+        "nickName": "WD-ALBALLA",
+        "minSingleTransAmount": "10000",
+        "maxSingleTransAmount": "60000",
         "tradeMethods": [
           "InstaPay"
         ]
@@ -66,10 +66,10 @@
         "price": 3.667,
         "pickedIndex": 1,
         "availableRows": 10,
-        "advNo": "12922765243599581184",
-        "nickName": "P2P-6932e4yi",
-        "minSingleTransAmount": "6951",
-        "maxSingleTransAmount": "6952",
+        "advNo": "13917722783032590336",
+        "nickName": "三GRAND-OPENMARKETs三",
+        "minSingleTransAmount": "9399",
+        "maxSingleTransAmount": "9400",
         "tradeMethods": [
           "Bank Transfer"
         ]
@@ -112,7 +112,7 @@
         "minSingleTransAmount": "20000",
         "maxSingleTransAmount": "40000",
         "tradeMethods": [
-          "Skrill (Moneybookers)"
+          "Skrill"
         ]
       }
     },
@@ -121,14 +121,13 @@
         "price": 0.994,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12910072555773931520",
-        "nickName": "User-726b8",
-        "minSingleTransAmount": "100",
-        "maxSingleTransAmount": "2000",
+        "advNo": "12910007079967825920",
+        "nickName": "OficinadeCris",
+        "minSingleTransAmount": "200",
+        "maxSingleTransAmount": "4000",
         "tradeMethods": [
           "Banco Pichincha",
-          "Banco del pacifico",
-          "Banco Internacional"
+          "Banco del pacifico"
         ]
       },
       "SELL": {
@@ -150,27 +149,28 @@
     },
     "EUR": {
       "BUY": {
-        "price": 0.877,
+        "price": 0.878,
         "pickedIndex": 1,
         "availableRows": 10,
-        "advNo": "12904326078712573952",
-        "nickName": "BAO-only-wise",
-        "minSingleTransAmount": "10",
-        "maxSingleTransAmount": "50",
+        "advNo": "13726976028637945856",
+        "nickName": "Sashok",
+        "minSingleTransAmount": "792",
+        "maxSingleTransAmount": "792",
         "tradeMethods": [
           "Wise"
         ]
       },
       "SELL": {
-        "price": 0.9,
+        "price": 0.886,
         "pickedIndex": 1,
-        "availableRows": 11,
-        "advNo": "12905265136035250176",
-        "nickName": "CambiosOrion",
-        "minSingleTransAmount": "350",
-        "maxSingleTransAmount": "350",
+        "availableRows": 10,
+        "advNo": "12874173310246936576",
+        "nickName": "vita_07",
+        "minSingleTransAmount": "950",
+        "maxSingleTransAmount": "1000",
         "tradeMethods": [
-          "BBVA"
+          "Wise",
+          "SEPA Instant"
         ]
       }
     }
