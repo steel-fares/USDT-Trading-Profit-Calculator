@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1786975484110,
+  "updatedAt": 1786977657020,
   "source": "Binance P2P web endpoint",
   "asset": "USDT",
   "prices": {
@@ -8,38 +8,42 @@
         "price": 0.39,
         "pickedIndex": 1,
         "availableRows": 10,
-        "advNo": "13915103169146290176",
-        "nickName": "Ali_Albloshi",
+        "advNo": "13906418868802232320",
+        "nickName": "CryptoAnalysts",
         "minSingleTransAmount": "200",
         "maxSingleTransAmount": "10000",
         "tradeMethods": [
           "Bank Muscat",
-          "National Bank of Oman",
-          "Sohar International"
+          "Bank Dhofar",
+          "Ahlibank"
         ]
       },
       "SELL": {
-        "price": 0.388,
+        "price": 0.387,
         "pickedIndex": 1,
         "availableRows": 10,
-        "advNo": "12922666878872338432",
-        "nickName": "M-BlueDiamond",
-        "minSingleTransAmount": "50",
-        "maxSingleTransAmount": "118",
+        "advNo": "12904354603997466624",
+        "nickName": "ImranTradeCenter",
+        "minSingleTransAmount": "350",
+        "maxSingleTransAmount": "700",
         "tradeMethods": [
-          "Bank Muscat"
+          "mBank",
+          "Bank Transfer",
+          "Bank Muscat",
+          "Bank Dhofar",
+          "Airtime Mobile Top-Up"
         ]
       }
     },
     "EGP": {
       "BUY": {
-        "price": 50.75,
+        "price": 50.69,
         "pickedIndex": 1,
-        "availableRows": 10,
-        "advNo": "13909195724470378496",
-        "nickName": "Ahmed-2-Ref",
-        "minSingleTransAmount": "7000",
-        "maxSingleTransAmount": "930000",
+        "availableRows": 11,
+        "advNo": "12913095253275684864",
+        "nickName": "User-a70b2",
+        "minSingleTransAmount": "1000",
+        "maxSingleTransAmount": "100000",
         "tradeMethods": [
           "InstaPay"
         ]
@@ -59,33 +63,36 @@
     },
     "AED": {
       "BUY": {
-        "price": 3.667,
+        "price": 3.67,
         "pickedIndex": 1,
         "availableRows": 10,
-        "advNo": "13917150848660750336",
-        "nickName": "Fury-Ex",
-        "minSingleTransAmount": "3565",
-        "maxSingleTransAmount": "3565",
+        "advNo": "12919094905445097472",
+        "nickName": "P2P-6932e4yi",
+        "minSingleTransAmount": "463",
+        "maxSingleTransAmount": "464",
         "tradeMethods": [
           "Bank Transfer"
         ]
       },
       "SELL": {
-        "price": 3.677,
+        "price": 3.67,
         "pickedIndex": 1,
-        "availableRows": 11,
-        "advNo": "12916478382946508800",
-        "nickName": "Maxem",
-        "minSingleTransAmount": "1500",
-        "maxSingleTransAmount": "2000",
+        "availableRows": 10,
+        "advNo": "12922673267336863744",
+        "nickName": "ThirdPartyGlobal",
+        "minSingleTransAmount": "4500",
+        "maxSingleTransAmount": "5000",
         "tradeMethods": [
-          "Bank Transfer"
+          "Bank Transfer",
+          "Abu Dhabi Commercial Bank ADCB",
+          "Emirates NBD",
+          "ADIB: Abu Dhabi Islamic Bank"
         ]
       }
     },
     "SAR": {
       "BUY": {
-        "price": 3.74,
+        "price": 3.77,
         "pickedIndex": 1,
         "availableRows": 11,
         "advNo": "12922665312693952512",
@@ -111,16 +118,15 @@
     },
     "USD": {
       "BUY": {
-        "price": 0.989,
+        "price": 0.994,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12916516426910310400",
-        "nickName": "User-e987c",
-        "minSingleTransAmount": "10",
-        "maxSingleTransAmount": "1000",
+        "advNo": "12922019624336023552",
+        "nickName": "CRIPTOCONFIAFLE",
+        "minSingleTransAmount": "15",
+        "maxSingleTransAmount": "1600",
         "tradeMethods": [
-          "ABA",
-          "KHQR"
+          "Banco Pichincha"
         ]
       },
       "SELL": {
@@ -142,12 +148,12 @@
     },
     "EUR": {
       "BUY": {
-        "price": 0.872,
+        "price": 0.873,
         "pickedIndex": 1,
-        "availableRows": 10,
-        "advNo": "12889935640098557952",
-        "nickName": "FistWisetowise",
-        "minSingleTransAmount": "1000",
+        "availableRows": 11,
+        "advNo": "13872295339464822784",
+        "nickName": "CryptoMarketUA",
+        "minSingleTransAmount": "500",
         "maxSingleTransAmount": "2000",
         "tradeMethods": [
           "Wise"
