@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1787030091595,
+  "updatedAt": 1787032133530,
   "source": "Binance P2P web endpoint",
   "asset": "USDT",
   "prices": {
@@ -8,16 +8,12 @@
         "price": 0.389,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12922879125737390080",
-        "nickName": "NoThirdPartyPayme",
+        "advNo": "13914406041074532352",
+        "nickName": "Abu Muhammad 88",
         "minSingleTransAmount": "200",
-        "maxSingleTransAmount": "2500",
+        "maxSingleTransAmount": "75000",
         "tradeMethods": [
-          "Bank Muscat",
-          "Bank Transfer",
-          "National Bank of Oman",
-          "Bank Dhofar",
-          "Airtime Mobile Top-Up"
+          "Bank Muscat"
         ]
       },
       "SELL": {
@@ -39,14 +35,15 @@
     },
     "EGP": {
       "BUY": {
-        "price": 50.83,
+        "price": 50.89,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12913095253275684864",
-        "nickName": "User-a70b2",
-        "minSingleTransAmount": "500",
-        "maxSingleTransAmount": "100000",
+        "advNo": "12921226027686658048",
+        "nickName": "X-K-X",
+        "minSingleTransAmount": "5000",
+        "maxSingleTransAmount": "500000",
         "tradeMethods": [
+          "Bank Transfer",
           "InstaPay"
         ]
       },
@@ -68,37 +65,40 @@
         "price": 3.666,
         "pickedIndex": 1,
         "availableRows": 10,
-        "advNo": "13911872318290452480",
-        "nickName": "NASSER-TRADER",
-        "minSingleTransAmount": "269005",
-        "maxSingleTransAmount": "500000",
+        "advNo": "12917811074023120896",
+        "nickName": "Coinbayx",
+        "minSingleTransAmount": "7300",
+        "maxSingleTransAmount": "7301",
         "tradeMethods": [
-          "Transfers with specific bank"
+          "Bank Transfer (Middle East)"
         ]
       },
       "SELL": {
-        "price": 3.661,
+        "price": 3.67,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12704228689228431360",
-        "nickName": "Piplumsh",
-        "minSingleTransAmount": "24999",
-        "maxSingleTransAmount": "25000",
+        "advNo": "12906546149708029952",
+        "nickName": "aashis27445",
+        "minSingleTransAmount": "300",
+        "maxSingleTransAmount": "350",
         "tradeMethods": [
-          "Cash Deposit to Bank"
+          "Aani"
         ]
       }
     },
     "SAR": {
       "BUY": {
-        "price": 3.78,
+        "price": 3.79,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12922898107185475584",
-        "nickName": "P2P-ae5b6faw",
-        "minSingleTransAmount": "200",
-        "maxSingleTransAmount": "201",
+        "advNo": "13922615779368075264",
+        "nickName": "ADEEB ALSEDAIRY",
+        "minSingleTransAmount": "15000",
+        "maxSingleTransAmount": "10000000",
         "tradeMethods": [
+          "Alinma Bank",
+          "Saudi National Bank (AlAhli Bank)",
+          "Al Rajhi Bank",
           "Bank Transfer"
         ]
       },
@@ -148,31 +148,27 @@
     },
     "EUR": {
       "BUY": {
-        "price": 0.885,
+        "price": 0.881,
         "pickedIndex": 1,
         "availableRows": 10,
-        "advNo": "12921811097809174528",
-        "nickName": "durovs_agent",
-        "minSingleTransAmount": "10",
-        "maxSingleTransAmount": "1000",
+        "advNo": "13919698381953196032",
+        "nickName": "ZiyanGlobalEx",
+        "minSingleTransAmount": "100",
+        "maxSingleTransAmount": "500",
         "tradeMethods": [
-          "ZEN"
+          "Wise"
         ]
       },
       "SELL": {
-        "price": 0.89,
+        "price": 0.88,
         "pickedIndex": 1,
         "availableRows": 10,
-        "advNo": "12766035728908652544",
-        "nickName": "AzerbaycanP2P",
-        "minSingleTransAmount": "415",
-        "maxSingleTransAmount": "420",
+        "advNo": "12843674841382420480",
+        "nickName": "MDigital24h7",
+        "minSingleTransAmount": "1000",
+        "maxSingleTransAmount": "2500",
         "tradeMethods": [
-          "Wise",
-          "SEPA (EU) bank transfer",
-          "SEPA Instant",
-          "N26",
-          "BBVA"
+          "SEPA Instant"
         ]
       }
     }
