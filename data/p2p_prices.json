@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1787139253622,
+  "updatedAt": 1787140626395,
   "source": "Binance P2P web endpoint",
   "asset": "USDT",
   "prices": {
@@ -31,25 +31,25 @@
     },
     "EGP": {
       "BUY": {
-        "price": 50.97,
+        "price": 50.99,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12923355871034642432",
-        "nickName": "0mimo",
-        "minSingleTransAmount": "15000",
-        "maxSingleTransAmount": "500000",
+        "advNo": "13913884717748518912",
+        "nickName": "Dokan_Elcrypto",
+        "minSingleTransAmount": "3000",
+        "maxSingleTransAmount": "3000",
         "tradeMethods": [
           "InstaPay"
         ]
       },
       "SELL": {
-        "price": 51.52,
+        "price": 51.45,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12916083958334349312",
-        "nickName": "AB-Alp",
-        "minSingleTransAmount": "20000",
-        "maxSingleTransAmount": "20001",
+        "advNo": "12872003584695668736",
+        "nickName": "the-FAST_K",
+        "minSingleTransAmount": "32000",
+        "maxSingleTransAmount": "71000",
         "tradeMethods": [
           "Vodafone cash"
         ]
@@ -57,13 +57,13 @@
     },
     "AED": {
       "BUY": {
-        "price": 3.67,
+        "price": 3.669,
         "pickedIndex": 1,
-        "availableRows": 10,
-        "advNo": "13907444595637538816",
-        "nickName": "B3OTC",
-        "minSingleTransAmount": "5000",
-        "maxSingleTransAmount": "50000",
+        "availableRows": 11,
+        "advNo": "13917150848660750336",
+        "nickName": "Fury-Ex",
+        "minSingleTransAmount": "4600",
+        "maxSingleTransAmount": "9132",
         "tradeMethods": [
           "Bank Transfer"
         ]
@@ -83,13 +83,13 @@
     },
     "SAR": {
       "BUY": {
-        "price": 3.75,
+        "price": 3.78,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12923355617736990720",
-        "nickName": "SwordPUBG",
-        "minSingleTransAmount": "20",
-        "maxSingleTransAmount": "21",
+        "advNo": "12923351454557315072",
+        "nickName": "ARAFAT ISLAM SHUVO",
+        "minSingleTransAmount": "110",
+        "maxSingleTransAmount": "110",
         "tradeMethods": [
           "Bank Transfer"
         ]
@@ -115,16 +115,12 @@
         "price": 0.994,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12923105806840971264",
-        "nickName": "SenBaixin",
-        "minSingleTransAmount": "100",
-        "maxSingleTransAmount": "7500",
+        "advNo": "12916308261536112640",
+        "nickName": "CriptosAmerica",
+        "minSingleTransAmount": "200",
+        "maxSingleTransAmount": "5000",
         "tradeMethods": [
-          "ABA",
-          "ACLEDA Bank",
-          "KHQR",
-          "True Money (Cambodia)",
-          "Wing Money"
+          "Banco Pichincha"
         ]
       },
       "SELL": {
@@ -146,31 +142,34 @@
     },
     "EUR": {
       "BUY": {
-        "price": 0.872,
+        "price": 0.867,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "13884209003691515904",
-        "nickName": "Wise MultiZone P2P",
-        "minSingleTransAmount": "200",
-        "maxSingleTransAmount": "2000",
+        "advNo": "12905363391299141632",
+        "nickName": "Romchik_b113",
+        "minSingleTransAmount": "22",
+        "maxSingleTransAmount": "22",
         "tradeMethods": [
+          "SEPA Instant",
+          "N26",
+          "Paysera",
           "Wise"
         ]
       },
       "SELL": {
-        "price": 0.901,
+        "price": 0.89,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12903022080719437824",
-        "nickName": "GodWillingTrade",
-        "minSingleTransAmount": "500",
-        "maxSingleTransAmount": "877",
+        "advNo": "12920863132587294720",
+        "nickName": "Very_Fast_Merchant",
+        "minSingleTransAmount": "2500",
+        "maxSingleTransAmount": "8340",
         "tradeMethods": [
           "Banco Santander (Spain)",
-          "Banco Sabadell (Spain)",
-          "CaixaBank (Spain)",
+          "Wise",
+          "SEPA Instant",
           "N26",
-          "ING"
+          "BBVA"
         ]
       }
     }
