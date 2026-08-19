@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1787147527628,
+  "updatedAt": 1787149613931,
   "source": "Binance P2P web endpoint",
   "asset": "USDT",
   "prices": {
@@ -8,14 +8,12 @@
         "price": 0.388,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "13843681497071730688",
-        "nickName": "saeid5080",
-        "minSingleTransAmount": "93",
-        "maxSingleTransAmount": "10000",
+        "advNo": "13923394068293812224",
+        "nickName": "cryptobooss",
+        "minSingleTransAmount": "1157",
+        "maxSingleTransAmount": "1158",
         "tradeMethods": [
-          "Bank Muscat",
-          "Airtime Mobile Top-Up",
-          "Sohar International"
+          "National Bank of Oman"
         ]
       },
       "SELL": {
@@ -34,25 +32,27 @@
     },
     "EGP": {
       "BUY": {
-        "price": 51.0,
+        "price": 51.16,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12919812056059854848",
-        "nickName": "King__of__Usdt",
-        "minSingleTransAmount": "300",
-        "maxSingleTransAmount": "400",
+        "advNo": "13910628659187507200",
+        "nickName": "MR_Soltan",
+        "minSingleTransAmount": "10000",
+        "maxSingleTransAmount": "735000",
         "tradeMethods": [
-          "InstaPay"
+          "Bank Transfer",
+          "InstaPay",
+          "Banque Misr"
         ]
       },
       "SELL": {
-        "price": 51.65,
+        "price": 51.67,
         "pickedIndex": 1,
         "availableRows": 11,
         "advNo": "12916108145003704320",
         "nickName": "Black-Falcon-1",
-        "minSingleTransAmount": "21000",
-        "maxSingleTransAmount": "21001",
+        "minSingleTransAmount": "15000",
+        "maxSingleTransAmount": "15001",
         "tradeMethods": [
           "Vodafone cash"
         ]
@@ -60,15 +60,15 @@
     },
     "AED": {
       "BUY": {
-        "price": 3.666,
+        "price": 3.664,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "13906748471913631744",
-        "nickName": "---DAREDEVIL---",
-        "minSingleTransAmount": "4341",
-        "maxSingleTransAmount": "4341",
+        "advNo": "13879757192474587136",
+        "nickName": "Trex-DXB",
+        "minSingleTransAmount": "3900",
+        "maxSingleTransAmount": "1000000",
         "tradeMethods": [
-          "Bank Transfer (Middle East)"
+          "Transfers with specific bank"
         ]
       },
       "SELL": {
@@ -137,13 +137,17 @@
       "SELL": {
         "price": 1.1,
         "pickedIndex": 1,
-        "availableRows": 10,
-        "advNo": "12920839801475756032",
-        "nickName": "Digital X EXCHANGE",
-        "minSingleTransAmount": "500",
-        "maxSingleTransAmount": "12000",
+        "availableRows": 11,
+        "advNo": "12918177341462491136",
+        "nickName": "princessFatimaRani",
+        "minSingleTransAmount": "15",
+        "maxSingleTransAmount": "5000",
         "tradeMethods": [
-          "Bank Transfer"
+          "stc pay",
+          "Google Pay (GPay)",
+          "IMPS",
+          "PhonePe",
+          "Easypaisa-PK Only"
         ]
       }
     },
@@ -163,19 +167,15 @@
         ]
       },
       "SELL": {
-        "price": 0.891,
+        "price": 0.89,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12905951485077282816",
-        "nickName": "-NICE-PRICE-",
-        "minSingleTransAmount": "470",
-        "maxSingleTransAmount": "470",
+        "advNo": "12922784123370823680",
+        "nickName": "GlobalAccess0623",
+        "minSingleTransAmount": "65",
+        "maxSingleTransAmount": "65",
         "tradeMethods": [
-          "Banco Santander (Spain)",
-          "Bank Transfer",
-          "SEPA Instant",
-          "N26",
-          "BBVA"
+          "Bizum"
         ]
       }
     }
