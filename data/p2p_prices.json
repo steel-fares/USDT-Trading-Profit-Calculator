@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1787252745935,
+  "updatedAt": 1787254997572,
   "source": "Binance P2P web endpoint",
   "asset": "USDT",
   "prices": {
@@ -34,13 +34,13 @@
     },
     "EGP": {
       "BUY": {
-        "price": 51.3,
+        "price": 51.32,
         "pickedIndex": 1,
         "availableRows": 11,
         "advNo": "12878071195652431872",
         "nickName": "ELMOSTAFA302",
-        "minSingleTransAmount": "50000",
-        "maxSingleTransAmount": "60000",
+        "minSingleTransAmount": "30840",
+        "maxSingleTransAmount": "30850",
         "tradeMethods": [
           "InstaPay"
         ]
@@ -74,7 +74,7 @@
       "SELL": {
         "price": 3.67,
         "pickedIndex": 1,
-        "availableRows": 11,
+        "availableRows": 10,
         "advNo": "12923821574276317184",
         "nickName": "Montaser_",
         "minSingleTransAmount": "2000",
@@ -100,15 +100,19 @@
         ]
       },
       "SELL": {
-        "price": 3.85,
+        "price": 3.88,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12922822503652147200",
-        "nickName": "ABDULHAQ AFGHAN TRADER",
-        "minSingleTransAmount": "990",
-        "maxSingleTransAmount": "1000",
+        "advNo": "12919773543535403008",
+        "nickName": "THE-KING-",
+        "minSingleTransAmount": "2000",
+        "maxSingleTransAmount": "3000",
         "tradeMethods": [
-          "barq"
+          "Bank Transfer (Middle East)",
+          "barq",
+          "Al Rajhi Bank",
+          "Transfers with specific bank",
+          "Alinma Bank"
         ]
       }
     },
@@ -117,13 +121,14 @@
         "price": 0.997,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "13851320890754699264",
-        "nickName": "ses001",
-        "minSingleTransAmount": "100",
-        "maxSingleTransAmount": "15000",
+        "advNo": "13880378276230234112",
+        "nickName": "POPO-EXCHANGE",
+        "minSingleTransAmount": "200",
+        "maxSingleTransAmount": "5000",
         "tradeMethods": [
-          "KHQR",
-          "ABA"
+          "ABA",
+          "ACLEDA Bank",
+          "KHQR"
         ]
       },
       "SELL": {
@@ -145,32 +150,30 @@
     },
     "EUR": {
       "BUY": {
-        "price": 0.87,
+        "price": 0.871,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "13923748445042966528",
-        "nickName": "UKRexch",
+        "advNo": "13913219928729563136",
+        "nickName": "Crypto-Eli",
         "minSingleTransAmount": "500",
-        "maxSingleTransAmount": "500",
+        "maxSingleTransAmount": "10000",
         "tradeMethods": [
           "SEPA Instant",
-          "Banco Santander (Spain)"
+          "N26",
+          "Bank Transfer"
         ]
       },
       "SELL": {
-        "price": 0.935,
+        "price": 0.892,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12918881515524173824",
-        "nickName": "elegguacito33_",
-        "minSingleTransAmount": "999",
-        "maxSingleTransAmount": "1000",
+        "advNo": "12923828038781202432",
+        "nickName": "RW-J",
+        "minSingleTransAmount": "49",
+        "maxSingleTransAmount": "50",
         "tradeMethods": [
-          "Banco Santander (Spain)",
-          "Banco Sabadell (Spain)",
-          "CaixaBank (Spain)",
-          "Bunq",
-          "BBVA"
+          "BBVA",
+          "Banco Santander (Spain)"
         ]
       }
     }
