@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1787248086909,
+  "updatedAt": 1787249784804,
   "source": "Binance P2P web endpoint",
   "asset": "USDT",
   "prices": {
@@ -32,16 +32,17 @@
     },
     "EGP": {
       "BUY": {
-        "price": 51.35,
+        "price": 51.29,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12906243779998314496",
-        "nickName": "Kapamaro",
-        "minSingleTransAmount": "4020",
-        "maxSingleTransAmount": "4025",
+        "advNo": "12923508505563250688",
+        "nickName": "-DiCaprio-",
+        "minSingleTransAmount": "30430",
+        "maxSingleTransAmount": "500000",
         "tradeMethods": [
-          "CIB | Commercial International Bank Egypt",
-          "InstaPay"
+          "Bank Transfer",
+          "InstaPay",
+          "Alex Bank"
         ]
       },
       "SELL": {
@@ -71,15 +72,17 @@
         ]
       },
       "SELL": {
-        "price": 3.661,
+        "price": 3.663,
         "pickedIndex": 1,
-        "availableRows": 10,
-        "advNo": "12914061027668434944",
-        "nickName": "Leonce-Ramses",
-        "minSingleTransAmount": "700",
-        "maxSingleTransAmount": "900",
+        "availableRows": 11,
+        "advNo": "12921958676265603072",
+        "nickName": "Global-Trade-P2P-亗",
+        "minSingleTransAmount": "3000",
+        "maxSingleTransAmount": "13400",
         "tradeMethods": [
-          "Aani"
+          "Transfers with specific bank",
+          "Bank Transfer (Middle East)",
+          "Bank Transfer"
         ]
       }
     },
@@ -147,27 +150,32 @@
     },
     "EUR": {
       "BUY": {
-        "price": 0.868,
+        "price": 0.871,
         "pickedIndex": 1,
-        "availableRows": 10,
-        "advNo": "13735974613332627456",
-        "nickName": "CoinEx-1",
-        "minSingleTransAmount": "100",
-        "maxSingleTransAmount": "5000",
+        "availableRows": 11,
+        "advNo": "13913219928729563136",
+        "nickName": "Crypto-Eli",
+        "minSingleTransAmount": "500",
+        "maxSingleTransAmount": "10000",
         "tradeMethods": [
-          "Skrill (Moneybookers)"
+          "SEPA Instant",
+          "N26",
+          "Bank Transfer"
         ]
       },
       "SELL": {
-        "price": 0.89,
+        "price": 0.885,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12905264335495532544",
-        "nickName": "CambiosOrion",
-        "minSingleTransAmount": "20",
-        "maxSingleTransAmount": "20",
+        "advNo": "12920840413802586112",
+        "nickName": "allapugacheva",
+        "minSingleTransAmount": "2540",
+        "maxSingleTransAmount": "2541",
         "tradeMethods": [
-          "Bizum"
+          "SEPA Instant",
+          "N26",
+          "ZEN",
+          "BBVA"
         ]
       }
     }
