@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1787267464057,
+  "updatedAt": 1787269288998,
   "source": "Binance P2P web endpoint",
   "asset": "USDT",
   "prices": {
@@ -35,25 +35,29 @@
     },
     "EGP": {
       "BUY": {
-        "price": 51.3,
+        "price": 51.35,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12923891132194504704",
-        "nickName": "M_Jox",
-        "minSingleTransAmount": "2000",
-        "maxSingleTransAmount": "27700",
+        "advNo": "13910641789965930496",
+        "nickName": "_SONIC",
+        "minSingleTransAmount": "40000",
+        "maxSingleTransAmount": "40325",
         "tradeMethods": [
-          "InstaPay"
+          "Alex Bank",
+          "Banque Misr",
+          "InstaPay",
+          "National Bank of Egypt (NBE)",
+          "CIB | Commercial International Bank Egypt"
         ]
       },
       "SELL": {
-        "price": 52.0,
+        "price": 51.95,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12921500672642744320",
-        "nickName": "Zero_Fee_Zone",
-        "minSingleTransAmount": "155",
-        "maxSingleTransAmount": "156",
+        "advNo": "12916083958334349312",
+        "nickName": "AB-Alp",
+        "minSingleTransAmount": "50000",
+        "maxSingleTransAmount": "50001",
         "tradeMethods": [
           "Vodafone cash"
         ]
@@ -120,14 +124,16 @@
         "price": 0.997,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "13831901882429632512",
-        "nickName": "EasyCashout",
-        "minSingleTransAmount": "50",
-        "maxSingleTransAmount": "15000",
+        "advNo": "13774398720531890176",
+        "nickName": "PR22222222222",
+        "minSingleTransAmount": "22",
+        "maxSingleTransAmount": "4500",
         "tradeMethods": [
           "ABA",
+          "Wing Money",
+          "KHQR",
           "ACLEDA Bank",
-          "KHQR"
+          "True Money (Cambodia)"
         ]
       },
       "SELL": {
