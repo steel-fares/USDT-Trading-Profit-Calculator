@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1787183449256,
+  "updatedAt": 1787186526647,
   "source": "Binance P2P web endpoint",
   "asset": "USDT",
   "prices": {
@@ -33,17 +33,15 @@
     },
     "EGP": {
       "BUY": {
-        "price": 51.33,
+        "price": 51.3,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "13911011964664602624",
-        "nickName": "00_001L_1_",
-        "minSingleTransAmount": "15000",
-        "maxSingleTransAmount": "930000",
+        "advNo": "12920330849721987072",
+        "nickName": "Smartpayyy",
+        "minSingleTransAmount": "10000",
+        "maxSingleTransAmount": "10700",
         "tradeMethods": [
-          "Bank Transfer",
-          "InstaPay",
-          "Alex Bank"
+          "InstaPay"
         ]
       },
       "SELL": {
@@ -73,13 +71,13 @@
         ]
       },
       "SELL": {
-        "price": 3.658,
+        "price": 3.659,
         "pickedIndex": 1,
         "availableRows": 10,
-        "advNo": "12880389067914248192",
-        "nickName": "ASSETS_XCHANGE",
-        "minSingleTransAmount": "1000",
-        "maxSingleTransAmount": "15000",
+        "advNo": "12916828877090971648",
+        "nickName": "AL-Burhan",
+        "minSingleTransAmount": "3499",
+        "maxSingleTransAmount": "3500",
         "tradeMethods": [
           "Aani"
         ]
@@ -114,16 +112,16 @@
     },
     "USD": {
       "BUY": {
-        "price": 0.995,
+        "price": 0.991,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12854961219122499584",
-        "nickName": "cambio_seguro_ec_R",
-        "minSingleTransAmount": "290",
-        "maxSingleTransAmount": "1000",
+        "advNo": "12915447737763155968",
+        "nickName": "User-3ee58al0",
+        "minSingleTransAmount": "15",
+        "maxSingleTransAmount": "240",
         "tradeMethods": [
-          "Banco Pichincha",
-          "Produbanco"
+          "ABA",
+          "KHQR"
         ]
       },
       "SELL": {
@@ -148,12 +146,16 @@
         "price": 0.878,
         "pickedIndex": 1,
         "availableRows": 10,
-        "advNo": "13923037592297639936",
-        "nickName": "CAMBIOYASF",
-        "minSingleTransAmount": "100",
-        "maxSingleTransAmount": "100000",
+        "advNo": "13909755665014747136",
+        "nickName": "BWliquidity",
+        "minSingleTransAmount": "516",
+        "maxSingleTransAmount": "4000",
         "tradeMethods": [
-          "Dukascopy Bank"
+          "BBVA",
+          "CaixaBank (Spain)",
+          "SEPA Instant",
+          "N26",
+          "Bank Transfer"
         ]
       },
       "SELL": {
@@ -162,7 +164,7 @@
         "availableRows": 10,
         "advNo": "12923497945983582208",
         "nickName": "KBCAM",
-        "minSingleTransAmount": "1500",
+        "minSingleTransAmount": "1000",
         "maxSingleTransAmount": "3300",
         "tradeMethods": [
           "Bizum"
