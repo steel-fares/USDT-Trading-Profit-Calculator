@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1787228099734,
+  "updatedAt": 1787231738930,
   "source": "Binance P2P web endpoint",
   "asset": "USDT",
   "prices": {
@@ -8,11 +8,12 @@
         "price": 0.389,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "13923727911998197760",
-        "nickName": "wd-elsir",
-        "minSingleTransAmount": "300",
-        "maxSingleTransAmount": "75000",
+        "advNo": "12919488509102678016",
+        "nickName": "BOOOOS1",
+        "minSingleTransAmount": "200",
+        "maxSingleTransAmount": "1500",
         "tradeMethods": [
+          "Bank Muscat",
           "Airtime Mobile Top-Up"
         ]
       },
@@ -32,13 +33,13 @@
     },
     "EGP": {
       "BUY": {
-        "price": 51.28,
+        "price": 51.3,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12923719812519751680",
-        "nickName": "Trader717",
-        "minSingleTransAmount": "100",
-        "maxSingleTransAmount": "800",
+        "advNo": "12867946501423460352",
+        "nickName": "MrCrypto",
+        "minSingleTransAmount": "15350",
+        "maxSingleTransAmount": "15390",
         "tradeMethods": [
           "InstaPay"
         ]
@@ -58,21 +59,22 @@
     },
     "AED": {
       "BUY": {
-        "price": 3.672,
+        "price": 3.669,
         "pickedIndex": 1,
         "availableRows": 10,
-        "advNo": "12923227035176857600",
-        "nickName": "Rosiedoanbxb",
-        "minSingleTransAmount": "24999",
-        "maxSingleTransAmount": "25000",
+        "advNo": "12920142095689945088",
+        "nickName": "ammar",
+        "minSingleTransAmount": "350",
+        "maxSingleTransAmount": "5000",
         "tradeMethods": [
-          "Bank Transfer (Middle East)"
+          "Bank Transfer",
+          "Aani"
         ]
       },
       "SELL": {
         "price": 3.856,
         "pickedIndex": 1,
-        "availableRows": 11,
+        "availableRows": 10,
         "advNo": "12923673360895197184",
         "nickName": "User-a9308",
         "minSingleTransAmount": "5900",
@@ -84,15 +86,17 @@
     },
     "SAR": {
       "BUY": {
-        "price": 3.79,
+        "price": 3.8,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12921400274347900928",
-        "nickName": "Offer_price_24",
-        "minSingleTransAmount": "145",
-        "maxSingleTransAmount": "145",
+        "advNo": "13919184473588178944",
+        "nickName": "usdt_7ksa",
+        "minSingleTransAmount": "10000",
+        "maxSingleTransAmount": "150000",
         "tradeMethods": [
-          "stc pay"
+          "Transfers with specific bank",
+          "Al Rajhi Bank",
+          "Saudi National Bank (AlAhli Bank)"
         ]
       },
       "SELL": {
@@ -141,33 +145,31 @@
     },
     "EUR": {
       "BUY": {
-        "price": 0.87,
+        "price": 0.875,
         "pickedIndex": 1,
         "availableRows": 10,
-        "advNo": "12918247746822897664",
-        "nickName": "Romchik5",
-        "minSingleTransAmount": "22",
-        "maxSingleTransAmount": "22",
+        "advNo": "13923439267164053504",
+        "nickName": "ROUND-THREE-VA",
+        "minSingleTransAmount": "300",
+        "maxSingleTransAmount": "100000",
         "tradeMethods": [
-          "Wise",
-          "N26",
+          "BBVA",
           "SEPA Instant",
-          "Paysera"
+          "SEPA (EU) bank transfer",
+          "N26",
+          "Bunq"
         ]
       },
       "SELL": {
-        "price": 0.884,
+        "price": 0.89,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12899387040456900608",
-        "nickName": "Telocambio1234",
-        "minSingleTransAmount": "200",
-        "maxSingleTransAmount": "999",
+        "advNo": "12836327728573022208",
+        "nickName": "Aivazovskky",
+        "minSingleTransAmount": "900",
+        "maxSingleTransAmount": "950",
         "tradeMethods": [
-          "Banco Santander (Spain)",
-          "Banco Sabadell (Spain)",
-          "CaixaBank (Spain)",
-          "BBVA"
+          "SEPA Instant"
         ]
       }
     }
