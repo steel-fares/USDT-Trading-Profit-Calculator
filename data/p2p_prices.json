@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1787205063373,
+  "updatedAt": 1787207442411,
   "source": "Binance P2P web endpoint",
   "asset": "USDT",
   "prices": {
@@ -45,7 +45,7 @@
         ]
       },
       "SELL": {
-        "price": 51.8,
+        "price": 51.85,
         "pickedIndex": 1,
         "availableRows": 10,
         "advNo": "12912131451995414528",
@@ -62,39 +62,39 @@
         "price": 3.668,
         "pickedIndex": 1,
         "availableRows": 10,
-        "advNo": "13911872318290452480",
-        "nickName": "NASSER-TRADER",
-        "minSingleTransAmount": "269005",
-        "maxSingleTransAmount": "500000",
+        "advNo": "13923120317713616896",
+        "nickName": "TradingWell",
+        "minSingleTransAmount": "18300",
+        "maxSingleTransAmount": "7000000",
         "tradeMethods": [
-          "Transfers with specific bank"
+          "ADIB: Abu Dhabi Islamic Bank"
         ]
       },
       "SELL": {
-        "price": 3.66,
+        "price": 3.665,
         "pickedIndex": 1,
         "availableRows": 10,
-        "advNo": "12704228689228431360",
-        "nickName": "Piplumsh",
-        "minSingleTransAmount": "17999",
-        "maxSingleTransAmount": "18000",
+        "advNo": "12923429898094882816",
+        "nickName": "Arman_Trades",
+        "minSingleTransAmount": "999",
+        "maxSingleTransAmount": "1000",
         "tradeMethods": [
-          "Cash Deposit to Bank"
+          "Bank Transfer",
+          "Abu Dhabi Commercial Bank ADCB"
         ]
       }
     },
     "SAR": {
       "BUY": {
-        "price": 3.8,
+        "price": 3.79,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "13872244163431796736",
-        "nickName": "saudi_bitcoin",
+        "advNo": "13920319360238788608",
+        "nickName": "Al-habsi",
         "minSingleTransAmount": "10000",
-        "maxSingleTransAmount": "100000",
+        "maxSingleTransAmount": "20000",
         "tradeMethods": [
-          "Al Rajhi Bank",
-          "Saudi National Bank (AlAhli Bank)"
+          "Bank Transfer"
         ]
       },
       "SELL": {
@@ -115,16 +115,14 @@
         "price": 0.995,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12923105806840971264",
-        "nickName": "SenBaixin",
+        "advNo": "13861815275345453056",
+        "nickName": "DRAGONTIGEREXCHANGER",
         "minSingleTransAmount": "100",
-        "maxSingleTransAmount": "7500",
+        "maxSingleTransAmount": "10000",
         "tradeMethods": [
           "ABA",
           "ACLEDA Bank",
-          "KHQR",
-          "True Money (Cambodia)",
-          "Wing Money"
+          "KHQR"
         ]
       },
       "SELL": {
@@ -146,7 +144,7 @@
     },
     "EUR": {
       "BUY": {
-        "price": 0.871,
+        "price": 0.876,
         "pickedIndex": 1,
         "availableRows": 11,
         "advNo": "13913219928729563136",
@@ -160,19 +158,16 @@
         ]
       },
       "SELL": {
-        "price": 0.935,
+        "price": 0.89,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12923630814530101248",
-        "nickName": "Olodumare333",
-        "minSingleTransAmount": "341",
-        "maxSingleTransAmount": "342",
+        "advNo": "12922972716448944128",
+        "nickName": "Konstantyn1",
+        "minSingleTransAmount": "597",
+        "maxSingleTransAmount": "597",
         "tradeMethods": [
-          "BBVA",
-          "Banco Sabadell (Spain)",
-          "Banco Santander (Spain)",
-          "Bunq",
-          "CaixaBank (Spain)"
+          "N26",
+          "Bunq"
         ]
       }
     }
