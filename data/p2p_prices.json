@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1787245993545,
+  "updatedAt": 1787248086909,
   "source": "Binance P2P web endpoint",
   "asset": "USDT",
   "prices": {
@@ -32,14 +32,15 @@
     },
     "EGP": {
       "BUY": {
-        "price": 51.39,
+        "price": 51.35,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12913095253275684864",
-        "nickName": "User-a70b2",
-        "minSingleTransAmount": "500",
-        "maxSingleTransAmount": "100000",
+        "advNo": "12906243779998314496",
+        "nickName": "Kapamaro",
+        "minSingleTransAmount": "4020",
+        "maxSingleTransAmount": "4025",
         "tradeMethods": [
+          "CIB | Commercial International Bank Egypt",
           "InstaPay"
         ]
       },
@@ -115,55 +116,58 @@
         "price": 0.997,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "13920856301534986240",
-        "nickName": "DIGITAL-EXCHANGE-董事長",
-        "minSingleTransAmount": "500",
-        "maxSingleTransAmount": "5000",
+        "advNo": "13801252150059565056",
+        "nickName": "FAST RELEASE USDT",
+        "minSingleTransAmount": "10",
+        "maxSingleTransAmount": "5123",
         "tradeMethods": [
-          "True Money (Cambodia)",
-          "KHQR",
-          "Wing Money",
+          "ABA",
           "ACLEDA Bank",
-          "ABA"
+          "Wing Money",
+          "KHQR",
+          "Bank Transfer (Cambodia)"
         ]
       },
       "SELL": {
         "price": 1.1,
         "pickedIndex": 1,
-        "availableRows": 10,
-        "advNo": "12920839801475756032",
-        "nickName": "Digital X EXCHANGE",
-        "minSingleTransAmount": "500",
-        "maxSingleTransAmount": "12000",
+        "availableRows": 11,
+        "advNo": "12918177341462491136",
+        "nickName": "princessFatimaRani",
+        "minSingleTransAmount": "15",
+        "maxSingleTransAmount": "5000",
         "tradeMethods": [
-          "Bank Transfer"
+          "stc pay",
+          "Google Pay (GPay)",
+          "IMPS",
+          "PhonePe",
+          "Easypaisa-PK Only"
         ]
       }
     },
     "EUR": {
       "BUY": {
-        "price": 0.87,
+        "price": 0.868,
         "pickedIndex": 1,
-        "availableRows": 11,
-        "advNo": "12919317283058802688",
-        "nickName": "Tech-Shot-Wise",
-        "minSingleTransAmount": "1000",
-        "maxSingleTransAmount": "1600",
+        "availableRows": 10,
+        "advNo": "13735974613332627456",
+        "nickName": "CoinEx-1",
+        "minSingleTransAmount": "100",
+        "maxSingleTransAmount": "5000",
         "tradeMethods": [
-          "Wise"
+          "Skrill (Moneybookers)"
         ]
       },
       "SELL": {
-        "price": 0.881,
+        "price": 0.89,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12923803759593152512",
-        "nickName": "sara2p2p",
-        "minSingleTransAmount": "10",
-        "maxSingleTransAmount": "160",
+        "advNo": "12905264335495532544",
+        "nickName": "CambiosOrion",
+        "minSingleTransAmount": "20",
+        "maxSingleTransAmount": "20",
         "tradeMethods": [
-          "SEPA Instant",
-          "SEPA (EU) bank transfer"
+          "Bizum"
         ]
       }
     }
