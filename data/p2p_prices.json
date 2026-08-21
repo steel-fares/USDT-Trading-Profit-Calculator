@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1787299655088,
+  "updatedAt": 1787302592084,
   "source": "Binance P2P web endpoint",
   "asset": "USDT",
   "prices": {
@@ -8,12 +8,12 @@
         "price": 0.389,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12923993011507642368",
-        "nickName": "P2P-daf339cz",
-        "minSingleTransAmount": "1500",
-        "maxSingleTransAmount": "2500",
+        "advNo": "13924022034764607488",
+        "nickName": "wd-elsir",
+        "minSingleTransAmount": "200",
+        "maxSingleTransAmount": "75000",
         "tradeMethods": [
-          "Bank Muscat"
+          "Airtime Mobile Top-Up"
         ]
       },
       "SELL": {
@@ -32,24 +32,23 @@
     },
     "EGP": {
       "BUY": {
-        "price": 51.42,
+        "price": 51.4,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "13848079272576970752",
-        "nickName": "-_NOOR_-",
-        "minSingleTransAmount": "10000",
-        "maxSingleTransAmount": "930000",
+        "advNo": "13894107657764106240",
+        "nickName": "El_Pop1",
+        "minSingleTransAmount": "17000",
+        "maxSingleTransAmount": "17001",
         "tradeMethods": [
-          "Bank Transfer",
           "InstaPay"
         ]
       },
       "SELL": {
-        "price": 52.0,
+        "price": 51.98,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12916088517277429760",
-        "nickName": "Falcon111 ",
+        "advNo": "12911292866198618112",
+        "nickName": "abozyad711",
         "minSingleTransAmount": "5000",
         "maxSingleTransAmount": "5001",
         "tradeMethods": [
@@ -59,71 +58,75 @@
     },
     "AED": {
       "BUY": {
-        "price": 3.672,
+        "price": 3.671,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "13900958576162877440",
-        "nickName": "QinXhao",
-        "minSingleTransAmount": "50000",
-        "maxSingleTransAmount": "400000",
+        "advNo": "13911872318290452480",
+        "nickName": "NASSER-TRADER",
+        "minSingleTransAmount": "269005",
+        "maxSingleTransAmount": "500000",
         "tradeMethods": [
-          "Bank Transfer"
+          "Transfers with specific bank"
         ]
       },
       "SELL": {
-        "price": 3.662,
+        "price": 3.661,
         "pickedIndex": 1,
         "availableRows": 10,
-        "advNo": "12704228689228431360",
-        "nickName": "Piplumsh",
-        "minSingleTransAmount": "24999",
-        "maxSingleTransAmount": "25000",
+        "advNo": "12896885025223299072",
+        "nickName": "Mertualemu1",
+        "minSingleTransAmount": "9999",
+        "maxSingleTransAmount": "10000",
         "tradeMethods": [
-          "Cash Deposit to Bank"
+          "Bank Transfer"
         ]
       }
     },
     "SAR": {
       "BUY": {
-        "price": 3.79,
+        "price": 3.8,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12912801281681899520",
-        "nickName": "lovemiumiu",
-        "minSingleTransAmount": "3007",
-        "maxSingleTransAmount": "3007",
+        "advNo": "13919184473588178944",
+        "nickName": "usdt_7ksa",
+        "minSingleTransAmount": "10000",
+        "maxSingleTransAmount": "150000",
         "tradeMethods": [
-          "urpay"
+          "Transfers with specific bank",
+          "Al Rajhi Bank",
+          "Saudi National Bank (AlAhli Bank)"
         ]
       },
       "SELL": {
-        "price": 3.88,
+        "price": 3.9,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12919773543535403008",
-        "nickName": "THE-KING-",
-        "minSingleTransAmount": "3000",
-        "maxSingleTransAmount": "4000",
+        "advNo": "12916133463749967872",
+        "nickName": "Pulse",
+        "minSingleTransAmount": "800",
+        "maxSingleTransAmount": "2000",
         "tradeMethods": [
-          "Bank Transfer (Middle East)",
           "barq",
-          "Al Rajhi Bank",
-          "Transfers with specific bank",
-          "Alinma Bank"
+          "Bank Transfer",
+          "Al Rajhi Bank"
         ]
       }
     },
     "USD": {
       "BUY": {
-        "price": 0.995,
+        "price": 0.998,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "13923991800139694080",
-        "nickName": "-crypto-prime-",
+        "advNo": "13801252150059565056",
+        "nickName": "FAST RELEASE USDT",
         "minSingleTransAmount": "10",
-        "maxSingleTransAmount": "50",
+        "maxSingleTransAmount": "5123",
         "tradeMethods": [
-          "Whish MONEY"
+          "ABA",
+          "ACLEDA Bank",
+          "Wing Money",
+          "KHQR",
+          "Bank Transfer (Cambodia)"
         ]
       },
       "SELL": {
@@ -145,34 +148,30 @@
     },
     "EUR": {
       "BUY": {
-        "price": 0.87,
+        "price": 0.869,
         "pickedIndex": 1,
         "availableRows": 10,
-        "advNo": "13924013068642791424",
-        "nickName": "KOCMIK",
-        "minSingleTransAmount": "194",
-        "maxSingleTransAmount": "194",
+        "advNo": "12918247746822897664",
+        "nickName": "Romchik5",
+        "minSingleTransAmount": "279",
+        "maxSingleTransAmount": "279",
         "tradeMethods": [
-          "SEPA Instant",
+          "Wise",
           "N26",
-          "Paysera",
-          "Wise"
+          "SEPA Instant",
+          "Paysera"
         ]
       },
       "SELL": {
-        "price": 0.891,
+        "price": 0.9,
         "pickedIndex": 1,
-        "availableRows": 10,
-        "advNo": "12913867155418099712",
-        "nickName": "Mercedes_C_class",
-        "minSingleTransAmount": "801",
-        "maxSingleTransAmount": "831",
+        "availableRows": 11,
+        "advNo": "12916111883225022464",
+        "nickName": "_maryssod_",
+        "minSingleTransAmount": "590",
+        "maxSingleTransAmount": "593",
         "tradeMethods": [
-          "Banco Santander (Spain)",
-          "Banco Sabadell (Spain)",
-          "CaixaBank (Spain)",
-          "Bunq",
-          "ING"
+          "SEPA Instant"
         ]
       }
     }
