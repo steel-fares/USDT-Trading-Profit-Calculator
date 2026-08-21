@@ -1,35 +1,34 @@
 {
-  "updatedAt": 1787269288998,
+  "updatedAt": 1787270471888,
   "source": "Binance P2P web endpoint",
   "asset": "USDT",
   "prices": {
     "OMR": {
       "BUY": {
-        "price": 0.389,
+        "price": 0.39,
         "pickedIndex": 1,
         "availableRows": 10,
-        "advNo": "12922879125737390080",
-        "nickName": "NoThirdPartyPayme",
-        "minSingleTransAmount": "506",
-        "maxSingleTransAmount": "2500",
+        "advNo": "13906418868802232320",
+        "nickName": "CryptoAnalysts",
+        "minSingleTransAmount": "200",
+        "maxSingleTransAmount": "10000",
         "tradeMethods": [
           "Bank Muscat",
-          "Bank Transfer",
-          "National Bank of Oman",
           "Bank Dhofar",
-          "Airtime Mobile Top-Up"
+          "Ahlibank"
         ]
       },
       "SELL": {
         "price": 0.388,
         "pickedIndex": 1,
-        "availableRows": 10,
-        "advNo": "12923882501264543744",
-        "nickName": "MA2112",
-        "minSingleTransAmount": "5",
-        "maxSingleTransAmount": "200",
+        "availableRows": 11,
+        "advNo": "12922975488010563584",
+        "nickName": "HORSE_MAN",
+        "minSingleTransAmount": "1000",
+        "maxSingleTransAmount": "1000",
         "tradeMethods": [
-          "Bank Muscat"
+          "Sohar International",
+          "Airtime Mobile Top-Up"
         ]
       }
     },
@@ -38,26 +37,24 @@
         "price": 51.35,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "13910641789965930496",
-        "nickName": "_SONIC",
-        "minSingleTransAmount": "40000",
-        "maxSingleTransAmount": "40325",
+        "advNo": "12916443534109073408",
+        "nickName": "XoNice",
+        "minSingleTransAmount": "6180",
+        "maxSingleTransAmount": "6200",
         "tradeMethods": [
-          "Alex Bank",
-          "Banque Misr",
+          "Bank Transfer",
           "InstaPay",
-          "National Bank of Egypt (NBE)",
-          "CIB | Commercial International Bank Egypt"
+          "Banque Misr"
         ]
       },
       "SELL": {
-        "price": 51.95,
+        "price": 51.92,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12916083958334349312",
-        "nickName": "AB-Alp",
-        "minSingleTransAmount": "50000",
-        "maxSingleTransAmount": "50001",
+        "advNo": "12846632843843330048",
+        "nickName": "__mng__",
+        "minSingleTransAmount": "8000",
+        "maxSingleTransAmount": "8001",
         "tradeMethods": [
           "Vodafone cash"
         ]
@@ -107,13 +104,13 @@
         ]
       },
       "SELL": {
-        "price": 3.88,
+        "price": 3.9,
         "pickedIndex": 1,
         "availableRows": 11,
         "advNo": "12796166457700691968",
         "nickName": "EL-BOB21",
         "minSingleTransAmount": "2000",
-        "maxSingleTransAmount": "5200",
+        "maxSingleTransAmount": "7000",
         "tradeMethods": [
           "urpay"
         ]
@@ -121,19 +118,15 @@
     },
     "USD": {
       "BUY": {
-        "price": 0.997,
+        "price": 0.993,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "13774398720531890176",
-        "nickName": "PR22222222222",
-        "minSingleTransAmount": "22",
-        "maxSingleTransAmount": "4500",
+        "advNo": "12923906243339694080",
+        "nickName": "JostinLucas",
+        "minSingleTransAmount": "10",
+        "maxSingleTransAmount": "30",
         "tradeMethods": [
-          "ABA",
-          "Wing Money",
-          "KHQR",
-          "ACLEDA Bank",
-          "True Money (Cambodia)"
+          "Banco Guayaquil"
         ]
       },
       "SELL": {
@@ -170,15 +163,16 @@
         "price": 0.875,
         "pickedIndex": 1,
         "availableRows": 10,
-        "advNo": "12903388720434470912",
-        "nickName": "Mr_Flexy",
-        "minSingleTransAmount": "50",
-        "maxSingleTransAmount": "1000",
+        "advNo": "12923905597112008704",
+        "nickName": "AyoubMeziani",
+        "minSingleTransAmount": "1000",
+        "maxSingleTransAmount": "4450",
         "tradeMethods": [
-          "Perfect Money",
-          "N26",
+          "Wise",
           "Paysera",
-          "Wise"
+          "SEPA (EU) bank transfer",
+          "SEPA Instant",
+          "N26"
         ]
       }
     }
