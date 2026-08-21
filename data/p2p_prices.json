@@ -1,19 +1,21 @@
 {
-  "updatedAt": 1787311013891,
+  "updatedAt": 1787312799644,
   "source": "Binance P2P web endpoint",
   "asset": "USDT",
   "prices": {
     "OMR": {
       "BUY": {
-        "price": 0.389,
+        "price": 0.39,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "13914406041074532352",
-        "nickName": "Abu Muhammad 88",
-        "minSingleTransAmount": "100",
-        "maxSingleTransAmount": "75000",
+        "advNo": "13906418868802232320",
+        "nickName": "CryptoAnalysts",
+        "minSingleTransAmount": "200",
+        "maxSingleTransAmount": "10000",
         "tradeMethods": [
-          "Bank Muscat"
+          "Bank Muscat",
+          "Bank Dhofar",
+          "Ahlibank"
         ]
       },
       "SELL": {
@@ -32,13 +34,13 @@
     },
     "EGP": {
       "BUY": {
-        "price": 51.45,
+        "price": 51.35,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12924074810143346688",
-        "nickName": "Dr-Osama_saad",
-        "minSingleTransAmount": "2000",
-        "maxSingleTransAmount": "22123",
+        "advNo": "12808509494190751744",
+        "nickName": "kemo_123",
+        "minSingleTransAmount": "5000",
+        "maxSingleTransAmount": "18600",
         "tradeMethods": [
           "InstaPay"
         ]
@@ -61,12 +63,13 @@
         "price": 3.67,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12924058141597601792",
-        "nickName": "FastBull-CBD-MBank",
-        "minSingleTransAmount": "290",
-        "maxSingleTransAmount": "293",
+        "advNo": "12915345708605935616",
+        "nickName": "CoineZone",
+        "minSingleTransAmount": "1870",
+        "maxSingleTransAmount": "20000",
         "tradeMethods": [
-          "Bank Transfer"
+          "Bank Transfer",
+          "Aani"
         ]
       },
       "SELL": {
@@ -112,16 +115,17 @@
     },
     "USD": {
       "BUY": {
-        "price": 0.996,
+        "price": 0.998,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12893249140391096320",
-        "nickName": "User-016c4",
-        "minSingleTransAmount": "10",
+        "advNo": "12841335713567629312",
+        "nickName": "User-60773",
+        "minSingleTransAmount": "300",
         "maxSingleTransAmount": "1000",
         "tradeMethods": [
-          "ABA",
-          "KHQR"
+          "Wing Money",
+          "KHQR",
+          "Bank Transfer (Cambodia)"
         ]
       },
       "SELL": {
@@ -143,32 +147,29 @@
     },
     "EUR": {
       "BUY": {
-        "price": 0.87,
+        "price": 0.869,
         "pickedIndex": 1,
         "availableRows": 10,
-        "advNo": "12921175488837402624",
-        "nickName": "-XCHAlNGER-",
+        "advNo": "13913219928729563136",
+        "nickName": "Crypto-Eli",
         "minSingleTransAmount": "500",
-        "maxSingleTransAmount": "20000",
+        "maxSingleTransAmount": "10000",
         "tradeMethods": [
           "SEPA Instant",
-          "SEPA (EU) bank transfer",
           "N26",
-          "Wise",
-          "ZEN"
+          "Bank Transfer"
         ]
       },
       "SELL": {
-        "price": 0.88,
+        "price": 0.9,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12910413902821232640",
-        "nickName": "Lilitli",
-        "minSingleTransAmount": "1700",
-        "maxSingleTransAmount": "4000",
+        "advNo": "12912438483045294080",
+        "nickName": "_maryssod_",
+        "minSingleTransAmount": "1600",
+        "maxSingleTransAmount": "1685",
         "tradeMethods": [
-          "SEPA Instant",
-          "BBVA"
+          "SEPA Instant"
         ]
       }
     }
