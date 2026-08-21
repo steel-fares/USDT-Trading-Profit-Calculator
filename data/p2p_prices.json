@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1787329887797,
+  "updatedAt": 1787331795903,
   "source": "Binance P2P web endpoint",
   "asset": "USDT",
   "prices": {
@@ -7,13 +7,14 @@
       "BUY": {
         "price": 0.389,
         "pickedIndex": 1,
-        "availableRows": 11,
-        "advNo": "13924142316273680384",
-        "nickName": "wd-elsir",
-        "minSingleTransAmount": "200",
-        "maxSingleTransAmount": "75000",
+        "availableRows": 10,
+        "advNo": "12923842044739457024",
+        "nickName": "King_Crypto_Trust",
+        "minSingleTransAmount": "100",
+        "maxSingleTransAmount": "2500",
         "tradeMethods": [
-          "Airtime Mobile Top-Up"
+          "Sohar International",
+          "Bank Muscat"
         ]
       },
       "SELL": {
@@ -32,15 +33,15 @@
     },
     "EGP": {
       "BUY": {
-        "price": 51.27,
+        "price": 51.2,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12921298258961842176",
-        "nickName": "Companyki",
-        "minSingleTransAmount": "20000",
-        "maxSingleTransAmount": "50000",
+        "advNo": "13916134358491086848",
+        "nickName": "Mari-7",
+        "minSingleTransAmount": "10000",
+        "maxSingleTransAmount": "10001",
         "tradeMethods": [
-          "Alex Bank"
+          "InstaPay"
         ]
       },
       "SELL": {
@@ -58,13 +59,13 @@
     },
     "AED": {
       "BUY": {
-        "price": 3.669,
+        "price": 3.665,
         "pickedIndex": 1,
         "availableRows": 10,
-        "advNo": "13924103958502137856",
-        "nickName": "_69_69_",
-        "minSingleTransAmount": "35000",
-        "maxSingleTransAmount": "35000",
+        "advNo": "12924159361464950784",
+        "nickName": "Samana101",
+        "minSingleTransAmount": "23099",
+        "maxSingleTransAmount": "23100",
         "tradeMethods": [
           "Bank Transfer"
         ]
@@ -72,7 +73,7 @@
       "SELL": {
         "price": 3.665,
         "pickedIndex": 1,
-        "availableRows": 10,
+        "availableRows": 11,
         "advNo": "12921543783348346880",
         "nickName": "DrVisi0n",
         "minSingleTransAmount": "3589",
@@ -84,15 +85,17 @@
     },
     "SAR": {
       "BUY": {
-        "price": 3.79,
+        "price": 3.8,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12924000322705977344",
-        "nickName": "MFR_TRADER",
-        "minSingleTransAmount": "110",
-        "maxSingleTransAmount": "110",
+        "advNo": "13916202711032307712",
+        "nickName": "ابـو صـقـر",
+        "minSingleTransAmount": "10000",
+        "maxSingleTransAmount": "200000",
         "tradeMethods": [
-          "Bank Transfer"
+          "Bank Transfer",
+          "Al Rajhi Bank",
+          "Saudi National Bank (AlAhli Bank)"
         ]
       },
       "SELL": {
@@ -110,15 +113,15 @@
     },
     "USD": {
       "BUY": {
-        "price": 0.998,
+        "price": 0.996,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "13916643768080384000",
-        "nickName": "Irishka7r",
-        "minSingleTransAmount": "200",
-        "maxSingleTransAmount": "24000",
+        "advNo": "12924158675640590336",
+        "nickName": "nico_trader7",
+        "minSingleTransAmount": "10",
+        "maxSingleTransAmount": "1500",
         "tradeMethods": [
-          "Bank of Georgia"
+          "Banco Pichincha"
         ]
       },
       "SELL": {
@@ -140,31 +143,29 @@
     },
     "EUR": {
       "BUY": {
-        "price": 0.868,
+        "price": 0.869,
         "pickedIndex": 1,
-        "availableRows": 10,
-        "advNo": "13924134224420237312",
-        "nickName": "Johanmillo",
-        "minSingleTransAmount": "299",
-        "maxSingleTransAmount": "300",
+        "availableRows": 11,
+        "advNo": "13913219928729563136",
+        "nickName": "Crypto-Eli",
+        "minSingleTransAmount": "500",
+        "maxSingleTransAmount": "10000",
         "tradeMethods": [
-          "BBVA"
+          "SEPA Instant",
+          "N26",
+          "Bank Transfer"
         ]
       },
       "SELL": {
-        "price": 0.891,
+        "price": 0.881,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12913655312020688896",
-        "nickName": "Mercedes_C_class",
-        "minSingleTransAmount": "600",
-        "maxSingleTransAmount": "700",
+        "advNo": "12865442344879800320",
+        "nickName": "ExchangeLRS",
+        "minSingleTransAmount": "338",
+        "maxSingleTransAmount": "338",
         "tradeMethods": [
-          "Wise",
-          "Bank Transfer",
-          "SEPA Instant",
-          "N26",
-          "BBVA"
+          "SEPA Instant"
         ]
       }
     }
