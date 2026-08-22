@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1787394712831,
+  "updatedAt": 1787396097730,
   "source": "Binance P2P web endpoint",
   "asset": "USDT",
   "prices": {
@@ -36,13 +36,13 @@
     },
     "EGP": {
       "BUY": {
-        "price": 51.24,
+        "price": 51.18,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12913095253275684864",
-        "nickName": "User-a70b2",
-        "minSingleTransAmount": "500",
-        "maxSingleTransAmount": "100000",
+        "advNo": "13916134358491086848",
+        "nickName": "Mari-7",
+        "minSingleTransAmount": "25481",
+        "maxSingleTransAmount": "25482",
         "tradeMethods": [
           "InstaPay"
         ]
@@ -62,15 +62,15 @@
     },
     "AED": {
       "BUY": {
-        "price": 3.667,
+        "price": 3.67,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "13892794217670598656",
-        "nickName": "CheapRate_Desk",
-        "minSingleTransAmount": "5100",
-        "maxSingleTransAmount": "5100",
+        "advNo": "13871859053140672512",
+        "nickName": "DXB_DEALS",
+        "minSingleTransAmount": "17000",
+        "maxSingleTransAmount": "600000",
         "tradeMethods": [
-          "Bank Transfer"
+          "ADIB: Abu Dhabi Islamic Bank"
         ]
       },
       "SELL": {
@@ -129,7 +129,7 @@
         "tradeMethods": [
           "Banco Lafise Nicaragua",
           "BAC Credomatic Nicaragua",
-          "Skrill"
+          "Skrill (Moneybookers)"
         ]
       },
       "SELL": {
@@ -151,31 +151,30 @@
     },
     "EUR": {
       "BUY": {
-        "price": 0.865,
+        "price": 0.869,
         "pickedIndex": 1,
         "availableRows": 10,
         "advNo": "12894471083851456512",
         "nickName": "VALDEMARP2P",
-        "minSingleTransAmount": "430",
+        "minSingleTransAmount": "879",
         "maxSingleTransAmount": "20000",
         "tradeMethods": [
           "Wise"
         ]
       },
       "SELL": {
-        "price": 0.89,
+        "price": 0.875,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12921486332859375616",
-        "nickName": "BATMAN_BRUCE",
-        "minSingleTransAmount": "500",
-        "maxSingleTransAmount": "1500",
+        "advNo": "12903388720434470912",
+        "nickName": "Mr_Flexy",
+        "minSingleTransAmount": "50",
+        "maxSingleTransAmount": "1000",
         "tradeMethods": [
-          "Wise",
-          "SEPA Instant",
+          "Perfect Money",
           "N26",
-          "Bunq",
-          "BBVA"
+          "Paysera",
+          "Wise"
         ]
       }
     }
