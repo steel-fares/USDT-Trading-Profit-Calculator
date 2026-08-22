@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1787425309948,
+  "updatedAt": 1787427032431,
   "source": "Binance P2P web endpoint",
   "asset": "USDT",
   "prices": {
@@ -7,14 +7,15 @@
       "BUY": {
         "price": 0.389,
         "pickedIndex": 1,
-        "availableRows": 10,
-        "advNo": "12919488509102678016",
-        "nickName": "BOOOOS1",
-        "minSingleTransAmount": "150",
-        "maxSingleTransAmount": "1500",
+        "availableRows": 11,
+        "advNo": "12903100155889836032",
+        "nickName": "OMAN_OTC_SERVICE",
+        "minSingleTransAmount": "250",
+        "maxSingleTransAmount": "2500",
         "tradeMethods": [
           "Bank Muscat",
-          "Airtime Mobile Top-Up"
+          "Sohar International",
+          "Ahlibank"
         ]
       },
       "SELL": {
@@ -33,13 +34,13 @@
     },
     "EGP": {
       "BUY": {
-        "price": 51.1,
+        "price": 51.24,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "13916134358491086848",
-        "nickName": "Mari-7",
-        "minSingleTransAmount": "18670",
-        "maxSingleTransAmount": "18671",
+        "advNo": "13873697455489179648",
+        "nickName": "-_-FASTER-_-SAFER-_-",
+        "minSingleTransAmount": "500",
+        "maxSingleTransAmount": "930000",
         "tradeMethods": [
           "InstaPay"
         ]
@@ -59,24 +60,24 @@
     },
     "AED": {
       "BUY": {
-        "price": 3.663,
+        "price": 3.66,
         "pickedIndex": 1,
-        "availableRows": 11,
+        "availableRows": 10,
         "advNo": "12924548661019082752",
         "nickName": "MISK_CRYPTO",
-        "minSingleTransAmount": "20000",
-        "maxSingleTransAmount": "25000",
+        "minSingleTransAmount": "2915",
+        "maxSingleTransAmount": "2915",
         "tradeMethods": [
           "Bank Transfer (Middle East)",
           "Aani"
         ]
       },
       "SELL": {
-        "price": 3.664,
+        "price": 3.665,
         "pickedIndex": 1,
         "availableRows": 10,
-        "advNo": "12704228689228431360",
-        "nickName": "Piplumsh",
+        "advNo": "11420658518939258880",
+        "nickName": "XD12",
         "minSingleTransAmount": "24999",
         "maxSingleTransAmount": "25000",
         "tradeMethods": [
@@ -86,16 +87,15 @@
     },
     "SAR": {
       "BUY": {
-        "price": 3.79,
+        "price": 3.8,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12918531356413894656",
-        "nickName": "Ukash2031",
-        "minSingleTransAmount": "120",
-        "maxSingleTransAmount": "120",
+        "advNo": "13862935230505893888",
+        "nickName": "h-6",
+        "minSingleTransAmount": "11000",
+        "maxSingleTransAmount": "10000000",
         "tradeMethods": [
-          "Bank Transfer",
-          "The Saudi British Bank (SABB)"
+          "Saudi National Bank (AlAhli Bank)"
         ]
       },
       "SELL": {
@@ -144,30 +144,30 @@
     },
     "EUR": {
       "BUY": {
-        "price": 0.87,
+        "price": 0.872,
         "pickedIndex": 1,
         "availableRows": 10,
-        "advNo": "13726976028637945856",
-        "nickName": "Sashok",
-        "minSingleTransAmount": "600",
-        "maxSingleTransAmount": "1286",
+        "advNo": "13919730846484201472",
+        "nickName": "Zura",
+        "minSingleTransAmount": "200",
+        "maxSingleTransAmount": "5000",
         "tradeMethods": [
-          "Wise"
+          "Fastoo wallet",
+          "TBC Bank",
+          "Bank of Georgia"
         ]
       },
       "SELL": {
-        "price": 0.875,
+        "price": 0.885,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12903388720434470912",
-        "nickName": "Mr_Flexy",
-        "minSingleTransAmount": "50",
-        "maxSingleTransAmount": "1000",
+        "advNo": "12923380588672778240",
+        "nickName": "CAMBIOS__AJ",
+        "minSingleTransAmount": "99",
+        "maxSingleTransAmount": "100",
         "tradeMethods": [
-          "Perfect Money",
-          "N26",
-          "Paysera",
-          "Wise"
+          "Bizum",
+          "BBVA"
         ]
       }
     }
