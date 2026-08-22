@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1787428250326,
+  "updatedAt": 1787429573094,
   "source": "Binance P2P web endpoint",
   "asset": "USDT",
   "prices": {
@@ -25,7 +25,7 @@
         "advNo": "12839823669546295296",
         "nickName": "ALZANATY-2017",
         "minSingleTransAmount": "50",
-        "maxSingleTransAmount": "174",
+        "maxSingleTransAmount": "500",
         "tradeMethods": [
           "Sohar International",
           "Bank Muscat"
@@ -34,13 +34,13 @@
     },
     "EGP": {
       "BUY": {
-        "price": 51.2,
+        "price": 51.23,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "13916109308765093888",
-        "nickName": "cryptobooss",
-        "minSingleTransAmount": "10850",
-        "maxSingleTransAmount": "10851",
+        "advNo": "12919402662290231296",
+        "nickName": "Eng-sharara",
+        "minSingleTransAmount": "13799",
+        "maxSingleTransAmount": "13800",
         "tradeMethods": [
           "InstaPay"
         ]
@@ -60,15 +60,15 @@
     },
     "AED": {
       "BUY": {
-        "price": 3.665,
+        "price": 3.664,
         "pickedIndex": 1,
-        "availableRows": 10,
-        "advNo": "12924548661019082752",
-        "nickName": "MISK_CRYPTO",
-        "minSingleTransAmount": "6769",
-        "maxSingleTransAmount": "6769",
+        "availableRows": 11,
+        "advNo": "12910717723659059200",
+        "nickName": "TradingSignalsGroup",
+        "minSingleTransAmount": "2000",
+        "maxSingleTransAmount": "2800",
         "tradeMethods": [
-          "Bank Transfer (Middle East)"
+          "Bank Transfer"
         ]
       },
       "SELL": {
@@ -89,11 +89,14 @@
         "price": 3.8,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "13862935230505893888",
-        "nickName": "h-6",
-        "minSingleTransAmount": "11000",
+        "advNo": "13919024940630224896",
+        "nickName": "Majed3",
+        "minSingleTransAmount": "8000",
         "maxSingleTransAmount": "10000000",
         "tradeMethods": [
+          "Al Rajhi Bank",
+          "Bank Transfer",
+          "Alinma Bank",
           "Saudi National Bank (AlAhli Bank)"
         ]
       },
@@ -143,31 +146,30 @@
     },
     "EUR": {
       "BUY": {
-        "price": 0.869,
+        "price": 0.87,
         "pickedIndex": 1,
         "availableRows": 10,
-        "advNo": "12924516169151315968",
-        "nickName": "_-_Sniper__Trader_-_",
-        "minSingleTransAmount": "566",
-        "maxSingleTransAmount": "566",
+        "advNo": "13726976028637945856",
+        "nickName": "Sashok",
+        "minSingleTransAmount": "683",
+        "maxSingleTransAmount": "683",
         "tradeMethods": [
-          "Wise",
-          "SEPA Instant",
-          "Paysera",
-          "BBVA",
-          "N26"
+          "Wise"
         ]
       },
       "SELL": {
-        "price": 0.88,
+        "price": 0.885,
         "pickedIndex": 1,
-        "availableRows": 11,
-        "advNo": "12874877487967690752",
-        "nickName": "darido1710 ",
-        "minSingleTransAmount": "50",
-        "maxSingleTransAmount": "176",
+        "availableRows": 10,
+        "advNo": "12920840413802586112",
+        "nickName": "allapugacheva",
+        "minSingleTransAmount": "1758",
+        "maxSingleTransAmount": "1759",
         "tradeMethods": [
-          "Bizum"
+          "SEPA Instant",
+          "N26",
+          "ZEN",
+          "BBVA"
         ]
       }
     }
