@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1787374669084,
+  "updatedAt": 1787376874254,
   "source": "Binance P2P web endpoint",
   "asset": "USDT",
   "prices": {
@@ -10,7 +10,7 @@
         "availableRows": 11,
         "advNo": "12924230032551305216",
         "nickName": "kalupay",
-        "minSingleTransAmount": "431",
+        "minSingleTransAmount": "200",
         "maxSingleTransAmount": "2500",
         "tradeMethods": [
           "Bank Dhofar",
@@ -34,25 +34,25 @@
     },
     "EGP": {
       "BUY": {
-        "price": 51.37,
+        "price": 51.36,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "13916431012217761792",
-        "nickName": "AHMED_USDT_",
-        "minSingleTransAmount": "20000",
-        "maxSingleTransAmount": "40000",
+        "advNo": "12877430889165856768",
+        "nickName": "ENG_SOLY",
+        "minSingleTransAmount": "10000",
+        "maxSingleTransAmount": "200000",
         "tradeMethods": [
           "InstaPay"
         ]
       },
       "SELL": {
-        "price": 51.97,
+        "price": 52.01,
         "pickedIndex": 1,
         "availableRows": 10,
-        "advNo": "12912131451995414528",
-        "nickName": "Marketing_Crypto",
-        "minSingleTransAmount": "5000",
-        "maxSingleTransAmount": "5001",
+        "advNo": "12884593917545291776",
+        "nickName": "el_qayser",
+        "minSingleTransAmount": "3000",
+        "maxSingleTransAmount": "3001",
         "tradeMethods": [
           "Vodafone cash"
         ]
@@ -60,13 +60,13 @@
     },
     "AED": {
       "BUY": {
-        "price": 3.672,
+        "price": 3.664,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12923787984342413312",
-        "nickName": "ab5ter",
-        "minSingleTransAmount": "3800",
-        "maxSingleTransAmount": "4000",
+        "advNo": "13924278063348727808",
+        "nickName": "Takethiswave",
+        "minSingleTransAmount": "7000",
+        "maxSingleTransAmount": "7000000",
         "tradeMethods": [
           "Bank Transfer"
         ]
@@ -74,7 +74,7 @@
       "SELL": {
         "price": 3.658,
         "pickedIndex": 1,
-        "availableRows": 11,
+        "availableRows": 10,
         "advNo": "12924162417487343616",
         "nickName": "STOCK-TIME",
         "minSingleTransAmount": "15000",
@@ -88,18 +88,15 @@
     },
     "SAR": {
       "BUY": {
-        "price": 3.79,
+        "price": 3.8,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12924318643597430784",
-        "nickName": "Loyal_Trust_Exchange",
-        "minSingleTransAmount": "15000",
-        "maxSingleTransAmount": "20000",
+        "advNo": "13862935230505893888",
+        "nickName": "h-6",
+        "minSingleTransAmount": "11000",
+        "maxSingleTransAmount": "10000000",
         "tradeMethods": [
-          "urpay",
-          "Bank Transfer",
-          "Al Rajhi Bank",
-          "barq"
+          "Saudi National Bank (AlAhli Bank)"
         ]
       },
       "SELL": {
@@ -154,27 +151,27 @@
     },
     "EUR": {
       "BUY": {
-        "price": 0.873,
+        "price": 0.875,
         "pickedIndex": 1,
         "availableRows": 10,
-        "advNo": "12924172325483298816",
-        "nickName": "Zkillz",
-        "minSingleTransAmount": "364",
-        "maxSingleTransAmount": "364",
+        "advNo": "12924338003231825920",
+        "nickName": "Trust_Crown",
+        "minSingleTransAmount": "492",
+        "maxSingleTransAmount": "492",
         "tradeMethods": [
-          "SEPA Instant"
+          "Wise"
         ]
       },
       "SELL": {
-        "price": 0.867,
+        "price": 0.87,
         "pickedIndex": 1,
         "availableRows": 10,
-        "advNo": "12924087411570581504",
-        "nickName": "EPIK_MERCH",
-        "minSingleTransAmount": "50",
-        "maxSingleTransAmount": "100000",
+        "advNo": "12913955573937057792",
+        "nickName": "SK-EXCHANGEua",
+        "minSingleTransAmount": "1000",
+        "maxSingleTransAmount": "15000",
         "tradeMethods": [
-          "Wise"
+          "Skrill (Moneybookers)"
         ]
       }
     }
