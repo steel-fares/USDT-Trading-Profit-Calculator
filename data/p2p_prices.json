@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1787381602438,
+  "updatedAt": 1787383758540,
   "source": "Binance P2P web endpoint",
   "asset": "USDT",
   "prices": {
@@ -36,13 +36,13 @@
     },
     "EGP": {
       "BUY": {
-        "price": 51.3,
+        "price": 51.25,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12903096988567302144",
-        "nickName": "Egypt_Global_Finance",
-        "minSingleTransAmount": "1800",
-        "maxSingleTransAmount": "1818",
+        "advNo": "12921988547241218048",
+        "nickName": "FastSetr",
+        "minSingleTransAmount": "3050",
+        "maxSingleTransAmount": "3100",
         "tradeMethods": [
           "InstaPay"
         ]
@@ -64,7 +64,7 @@
       "BUY": {
         "price": 3.673,
         "pickedIndex": 1,
-        "availableRows": 11,
+        "availableRows": 10,
         "advNo": "12924356022476967936",
         "nickName": "Taimur Globle",
         "minSingleTransAmount": "15000",
@@ -74,11 +74,11 @@
         ]
       },
       "SELL": {
-        "price": 3.663,
+        "price": 3.664,
         "pickedIndex": 1,
         "availableRows": 10,
-        "advNo": "12729252288656769024",
-        "nickName": "Digital_Wallet_247",
+        "advNo": "12704228689228431360",
+        "nickName": "Piplumsh",
         "minSingleTransAmount": "24999",
         "maxSingleTransAmount": "25000",
         "tradeMethods": [
@@ -88,15 +88,15 @@
     },
     "SAR": {
       "BUY": {
-        "price": 3.8,
+        "price": 3.79,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "13862935230505893888",
-        "nickName": "h-6",
-        "minSingleTransAmount": "11000",
-        "maxSingleTransAmount": "10000000",
+        "advNo": "12922799934328233984",
+        "nickName": "trustedexchane",
+        "minSingleTransAmount": "150",
+        "maxSingleTransAmount": "150",
         "tradeMethods": [
-          "Saudi National Bank (AlAhli Bank)"
+          "stc pay"
         ]
       },
       "SELL": {
@@ -146,27 +146,31 @@
     },
     "EUR": {
       "BUY": {
-        "price": 0.873,
+        "price": 0.875,
         "pickedIndex": 1,
         "availableRows": 10,
-        "advNo": "12924172325483298816",
-        "nickName": "Zkillz",
-        "minSingleTransAmount": "364",
-        "maxSingleTransAmount": "364",
+        "advNo": "13923324496148459520",
+        "nickName": "Honest-crypto-trader",
+        "minSingleTransAmount": "200",
+        "maxSingleTransAmount": "4000",
         "tradeMethods": [
-          "SEPA Instant"
+          "Wise"
         ]
       },
       "SELL": {
-        "price": 0.87,
+        "price": 0.885,
         "pickedIndex": 1,
-        "availableRows": 11,
-        "advNo": "12913955573937057792",
-        "nickName": "SK-EXCHANGEua",
-        "minSingleTransAmount": "1000",
-        "maxSingleTransAmount": "15000",
+        "availableRows": 10,
+        "advNo": "12889805548964708352",
+        "nickName": "MT-09",
+        "minSingleTransAmount": "379",
+        "maxSingleTransAmount": "380",
         "tradeMethods": [
-          "Skrill (Moneybookers)"
+          "Banco Santander (Spain)",
+          "Banco Sabadell (Spain)",
+          "CaixaBank (Spain)",
+          "Bizum",
+          "BBVA"
         ]
       }
     }
