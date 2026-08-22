@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1787418497758,
+  "updatedAt": 1787420096473,
   "source": "Binance P2P web endpoint",
   "asset": "USDT",
   "prices": {
@@ -19,28 +19,28 @@
         ]
       },
       "SELL": {
-        "price": 0.388,
+        "price": 0.387,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12912143905248292864",
-        "nickName": "P2P-8c6ed9fi",
-        "minSingleTransAmount": "500",
+        "advNo": "12882033727993733120",
+        "nickName": "Stand_For_ever",
+        "minSingleTransAmount": "300",
         "maxSingleTransAmount": "2500",
         "tradeMethods": [
-          "Bank Muscat",
-          "Sohar International"
+          "Bank Dhofar",
+          "Bank Muscat"
         ]
       }
     },
     "EGP": {
       "BUY": {
-        "price": 51.22,
+        "price": 51.18,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12924513743339642880",
-        "nickName": "EzStore",
-        "minSingleTransAmount": "500",
-        "maxSingleTransAmount": "6000",
+        "advNo": "12924086213921374208",
+        "nickName": "User-763ce",
+        "minSingleTransAmount": "10000",
+        "maxSingleTransAmount": "10001",
         "tradeMethods": [
           "InstaPay"
         ]
@@ -60,27 +60,27 @@
     },
     "AED": {
       "BUY": {
-        "price": 3.67,
+        "price": 3.669,
         "pickedIndex": 1,
         "availableRows": 10,
-        "advNo": "13924515330675269632",
-        "nickName": "DrWael78",
-        "minSingleTransAmount": "99",
-        "maxSingleTransAmount": "100",
+        "advNo": "13911872318290452480",
+        "nickName": "NASSER-TRADER",
+        "minSingleTransAmount": "269005",
+        "maxSingleTransAmount": "500000",
         "tradeMethods": [
-          "Bank Transfer"
+          "Transfers with specific bank"
         ]
       },
       "SELL": {
-        "price": 3.662,
+        "price": 3.663,
         "pickedIndex": 1,
         "availableRows": 10,
-        "advNo": "12895980924805402624",
-        "nickName": "Issasalim",
-        "minSingleTransAmount": "24000",
-        "maxSingleTransAmount": "25000",
+        "advNo": "12916448153060618240",
+        "nickName": "LegitTradersRoshan",
+        "minSingleTransAmount": "2590",
+        "maxSingleTransAmount": "2595",
         "tradeMethods": [
-          "Cash Deposit to Bank"
+          "Aani"
         ]
       }
     },
@@ -89,16 +89,12 @@
         "price": 3.79,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "13916173747148824576",
-        "nickName": "WESAM_1",
-        "minSingleTransAmount": "10000",
-        "maxSingleTransAmount": "10000000",
+        "advNo": "12918531356413894656",
+        "nickName": "Ukash2031",
+        "minSingleTransAmount": "116",
+        "maxSingleTransAmount": "116",
         "tradeMethods": [
-          "Al Rajhi Bank",
-          "Alinma Bank",
-          "Bank Transfer",
-          "Saudi National Bank (AlAhli Bank)",
-          "Arab Bank"
+          "barq"
         ]
       },
       "SELL": {
@@ -119,12 +115,16 @@
         "price": 0.995,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12924295352122028032",
-        "nickName": "Voley-exchange",
-        "minSingleTransAmount": "200",
-        "maxSingleTransAmount": "4000",
+        "advNo": "13924509447469654016",
+        "nickName": "cambiosDJH",
+        "minSingleTransAmount": "500",
+        "maxSingleTransAmount": "1800",
         "tradeMethods": [
-          "Banco Pichincha"
+          "Banco Pichincha",
+          "Produbanco",
+          "Banco Internacional",
+          "Banco Bolivariano",
+          "Banco del pacifico"
         ]
       },
       "SELL": {
@@ -146,32 +146,31 @@
     },
     "EUR": {
       "BUY": {
-        "price": 0.869,
+        "price": 0.87,
         "pickedIndex": 1,
         "availableRows": 10,
-        "advNo": "13911002549537652736",
-        "nickName": "EZE_EX",
-        "minSingleTransAmount": "1500",
-        "maxSingleTransAmount": "2600",
+        "advNo": "12924172325483298816",
+        "nickName": "Zkillz",
+        "minSingleTransAmount": "389",
+        "maxSingleTransAmount": "390",
         "tradeMethods": [
-          "N26",
-          "SEPA Instant",
-          "Paysera"
+          "SEPA Instant"
         ]
       },
       "SELL": {
-        "price": 0.875,
+        "price": 0.885,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12903388720434470912",
-        "nickName": "Mr_Flexy",
-        "minSingleTransAmount": "50",
-        "maxSingleTransAmount": "1000",
+        "advNo": "12843979316127764480",
+        "nickName": "MyfinRevltWisePaysra",
+        "minSingleTransAmount": "339",
+        "maxSingleTransAmount": "339",
         "tradeMethods": [
-          "Perfect Money",
           "N26",
-          "Paysera",
-          "Wise"
+          "SEPA Instant",
+          "Bunq",
+          "Wise",
+          "Paysera"
         ]
       }
     }
