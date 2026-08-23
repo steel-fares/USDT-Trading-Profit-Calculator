@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1787466215048,
+  "updatedAt": 1787468995426,
   "source": "Binance P2P web endpoint",
   "asset": "USDT",
   "prices": {
@@ -36,14 +36,16 @@
     },
     "EGP": {
       "BUY": {
-        "price": 51.24,
+        "price": 51.21,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12924725641121337344",
-        "nickName": "Smartpayyy",
-        "minSingleTransAmount": "5000",
-        "maxSingleTransAmount": "5100",
+        "advNo": "13924733971916943360",
+        "nickName": "Karim_Al_Khatib",
+        "minSingleTransAmount": "150000",
+        "maxSingleTransAmount": "750000",
         "tradeMethods": [
+          "Banque Misr",
+          "Bank Transfer",
           "InstaPay"
         ]
       },
@@ -62,25 +64,23 @@
     },
     "AED": {
       "BUY": {
-        "price": 3.666,
+        "price": 3.665,
         "pickedIndex": 1,
         "availableRows": 10,
-        "advNo": "12924108634036203520",
-        "nickName": "Safe_USDT_Best_Price",
-        "minSingleTransAmount": "50",
-        "maxSingleTransAmount": "5000",
+        "advNo": "13920126929020071936",
+        "nickName": "RAHEEM-TRADER",
+        "minSingleTransAmount": "1408",
+        "maxSingleTransAmount": "1409",
         "tradeMethods": [
-          "Bank Transfer",
-          "Aani",
-          "Emirates NBD"
+          "Bank Transfer"
         ]
       },
       "SELL": {
-        "price": 3.67,
+        "price": 3.671,
         "pickedIndex": 1,
-        "availableRows": 11,
-        "advNo": "12704228689228431360",
-        "nickName": "Piplumsh",
+        "availableRows": 10,
+        "advNo": "11420658518939258880",
+        "nickName": "XD12",
         "minSingleTransAmount": "24999",
         "maxSingleTransAmount": "25000",
         "tradeMethods": [
@@ -93,12 +93,13 @@
         "price": 3.79,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12924721512468127744",
-        "nickName": "NIROB_KIMG",
-        "minSingleTransAmount": "110",
-        "maxSingleTransAmount": "110",
+        "advNo": "12923158805682987008",
+        "nickName": "P2P-eeec094k",
+        "minSingleTransAmount": "100",
+        "maxSingleTransAmount": "100",
         "tradeMethods": [
-          "Bank Transfer"
+          "stc pay",
+          "barq"
         ]
       },
       "SELL": {
@@ -116,16 +117,18 @@
     },
     "USD": {
       "BUY": {
-        "price": 0.996,
+        "price": 0.998,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12924501254460895232",
-        "nickName": "User-edd97",
-        "minSingleTransAmount": "50",
-        "maxSingleTransAmount": "7000",
+        "advNo": "12821350332886548480",
+        "nickName": "CambioElite_USDT",
+        "minSingleTransAmount": "500",
+        "maxSingleTransAmount": "4000",
         "tradeMethods": [
-          "ABA",
-          "KHQR"
+          "Banco Pichincha",
+          "Produbanco",
+          "Banco Guayaquil",
+          "Banco del Austro"
         ]
       },
       "SELL": {
