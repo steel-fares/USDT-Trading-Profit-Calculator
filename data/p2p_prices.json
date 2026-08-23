@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1787490669773,
+  "updatedAt": 1787492812873,
   "source": "Binance P2P web endpoint",
   "asset": "USDT",
   "prices": {
@@ -36,15 +36,15 @@
     },
     "EGP": {
       "BUY": {
-        "price": 51.14,
+        "price": 51.15,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12866131981181972480",
-        "nickName": "mahmoudtiger",
-        "minSingleTransAmount": "5000",
-        "maxSingleTransAmount": "500000",
+        "advNo": "12924833001204236288",
+        "nickName": "Al-Hajali55",
+        "minSingleTransAmount": "3580",
+        "maxSingleTransAmount": "3581",
         "tradeMethods": [
-          "CIB | Commercial International Bank Egypt"
+          "InstaPay"
         ]
       },
       "SELL": {
@@ -64,7 +64,7 @@
       "BUY": {
         "price": 3.665,
         "pickedIndex": 1,
-        "availableRows": 10,
+        "availableRows": 11,
         "advNo": "12910717723659059200",
         "nickName": "TradingSignalsGroup",
         "minSingleTransAmount": "1500",
@@ -95,24 +95,24 @@
         "price": 3.78,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12916626389043621888",
-        "nickName": "____R__i____",
-        "minSingleTransAmount": "160",
-        "maxSingleTransAmount": "160",
+        "advNo": "12924739924715298816",
+        "nickName": "NIROB_KIMG",
+        "minSingleTransAmount": "100",
+        "maxSingleTransAmount": "100",
         "tradeMethods": [
           "barq"
         ]
       },
       "SELL": {
-        "price": 3.88,
+        "price": 3.83,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12796166457700691968",
-        "nickName": "EL-BOB21",
-        "minSingleTransAmount": "2000",
-        "maxSingleTransAmount": "6700",
+        "advNo": "12736161376127221760",
+        "nickName": "dahoom",
+        "minSingleTransAmount": "20000",
+        "maxSingleTransAmount": "40000",
         "tradeMethods": [
-          "urpay"
+          "Skrill (Moneybookers)"
         ]
       }
     },
@@ -152,35 +152,31 @@
     },
     "EUR": {
       "BUY": {
-        "price": 0.869,
+        "price": 0.87,
         "pickedIndex": 1,
         "availableRows": 10,
-        "advNo": "13923748445042966528",
-        "nickName": "UKRexch",
-        "minSingleTransAmount": "121",
-        "maxSingleTransAmount": "121",
+        "advNo": "12922580812597751808",
+        "nickName": "CRYPTO_EXCHANGE_PAY",
+        "minSingleTransAmount": "150",
+        "maxSingleTransAmount": "5000",
         "tradeMethods": [
-          "Wise",
           "SEPA Instant",
-          "ING",
-          "N26",
-          "Paysera"
+          "BBVA",
+          "Banco Santander (Spain)",
+          "Paysera",
+          "N26"
         ]
       },
       "SELL": {
-        "price": 0.88,
+        "price": 0.89,
         "pickedIndex": 1,
-        "availableRows": 10,
-        "advNo": "12903435800136859648",
-        "nickName": "PrometeyX",
-        "minSingleTransAmount": "4999",
-        "maxSingleTransAmount": "5000",
+        "availableRows": 11,
+        "advNo": "12900474471383093248",
+        "nickName": "Aivazovskky",
+        "minSingleTransAmount": "950",
+        "maxSingleTransAmount": "980",
         "tradeMethods": [
-          "Banco Santander (Spain)",
-          "SEPA (EU) bank transfer",
-          "SEPA Instant",
-          "N26",
-          "BBVA"
+          "Bizum"
         ]
       }
     }
