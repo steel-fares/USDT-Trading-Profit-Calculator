@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1787462330520,
+  "updatedAt": 1787464231391,
   "source": "Binance P2P web endpoint",
   "asset": "USDT",
   "prices": {
@@ -33,16 +33,16 @@
     },
     "EGP": {
       "BUY": {
-        "price": 51.28,
+        "price": 51.18,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12909186528493080576",
-        "nickName": "EL_70_0T",
-        "minSingleTransAmount": "10159",
-        "maxSingleTransAmount": "10160",
+        "advNo": "12924613917613400064",
+        "nickName": "Misse10",
+        "minSingleTransAmount": "10000",
+        "maxSingleTransAmount": "10001",
         "tradeMethods": [
-          "Bank Transfer",
-          "InstaPay"
+          "InstaPay",
+          "Bank Transfer"
         ]
       },
       "SELL": {
@@ -60,25 +60,25 @@
     },
     "AED": {
       "BUY": {
-        "price": 3.673,
+        "price": 3.672,
         "pickedIndex": 1,
-        "availableRows": 11,
-        "advNo": "13900958576162877440",
-        "nickName": "QinXhao",
-        "minSingleTransAmount": "50000",
-        "maxSingleTransAmount": "400000",
+        "availableRows": 10,
+        "advNo": "12924587882648641536",
+        "nickName": "Ridgeline",
+        "minSingleTransAmount": "3700",
+        "maxSingleTransAmount": "23600",
         "tradeMethods": [
           "Bank Transfer"
         ]
       },
       "SELL": {
-        "price": 3.66,
+        "price": 3.67,
         "pickedIndex": 1,
-        "availableRows": 10,
-        "advNo": "12924653944384806912",
-        "nickName": "AbooSaltan",
-        "minSingleTransAmount": "5000",
-        "maxSingleTransAmount": "7000000",
+        "availableRows": 11,
+        "advNo": "12704228689228431360",
+        "nickName": "Piplumsh",
+        "minSingleTransAmount": "24999",
+        "maxSingleTransAmount": "25000",
         "tradeMethods": [
           "Cash Deposit to Bank"
         ]
@@ -86,19 +86,15 @@
     },
     "SAR": {
       "BUY": {
-        "price": 3.8,
+        "price": 3.79,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "13924070589144694784",
-        "nickName": "RAYAN_AHMED",
-        "minSingleTransAmount": "9000",
-        "maxSingleTransAmount": "10000000",
+        "advNo": "12922799934328233984",
+        "nickName": "trustedexchane",
+        "minSingleTransAmount": "152",
+        "maxSingleTransAmount": "152",
         "tradeMethods": [
-          "Saudi National Bank (AlAhli Bank)",
-          "Alinma Bank",
-          "Riyad Bank",
-          "Al Rajhi Bank",
-          "Bank Transfer"
+          "barq"
         ]
       },
       "SELL": {
@@ -147,19 +143,17 @@
     },
     "EUR": {
       "BUY": {
-        "price": 0.872,
+        "price": 0.87,
         "pickedIndex": 1,
         "availableRows": 10,
-        "advNo": "13911285874860032000",
-        "nickName": "Alice-reliable-24H",
-        "minSingleTransAmount": "400",
-        "maxSingleTransAmount": "3050",
+        "advNo": "13923010216206012416",
+        "nickName": "PlutoTrading",
+        "minSingleTransAmount": "6600",
+        "maxSingleTransAmount": "100000",
         "tradeMethods": [
           "BBVA",
-          "SEPA (EU) bank transfer",
-          "Bank Transfer",
           "SEPA Instant",
-          "N26"
+          "Bizum"
         ]
       },
       "SELL": {
