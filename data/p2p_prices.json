@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1787544636898,
+  "updatedAt": 1787547726189,
   "source": "Binance P2P web endpoint",
   "asset": "USDT",
   "prices": {
@@ -37,25 +37,25 @@
     },
     "EGP": {
       "BUY": {
-        "price": 51.25,
+        "price": 51.24,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12923715211529437184",
-        "nickName": "BiggDonn",
-        "minSingleTransAmount": "70",
-        "maxSingleTransAmount": "300",
+        "advNo": "12911109860717391872",
+        "nickName": "The-wolfman",
+        "minSingleTransAmount": "100",
+        "maxSingleTransAmount": "500000",
         "tradeMethods": [
           "InstaPay"
         ]
       },
       "SELL": {
-        "price": 51.82,
+        "price": 51.66,
         "pickedIndex": 1,
-        "availableRows": 10,
-        "advNo": "12912131451995414528",
-        "nickName": "Marketing_Crypto",
-        "minSingleTransAmount": "12000",
-        "maxSingleTransAmount": "12001",
+        "availableRows": 11,
+        "advNo": "12921641283716853760",
+        "nickName": "maro012086",
+        "minSingleTransAmount": "15000",
+        "maxSingleTransAmount": "15001",
         "tradeMethods": [
           "Vodafone cash"
         ]
@@ -75,31 +75,29 @@
         ]
       },
       "SELL": {
-        "price": 3.657,
+        "price": 3.656,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12924162417487343616",
-        "nickName": "STOCK-TIME",
-        "minSingleTransAmount": "13000",
-        "maxSingleTransAmount": "16000",
+        "advNo": "12883287373106401280",
+        "nickName": "MrExchange444",
+        "minSingleTransAmount": "50000",
+        "maxSingleTransAmount": "200000",
         "tradeMethods": [
-          "Cash Deposit to Bank",
-          "Emirates NBD",
-          "ADIB: Abu Dhabi Islamic Bank"
+          "Cash Deposit to Bank"
         ]
       }
     },
     "SAR": {
       "BUY": {
-        "price": 3.78,
+        "price": 3.79,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12857807184867467264",
-        "nickName": "Trust_selling_24",
-        "minSingleTransAmount": "131",
-        "maxSingleTransAmount": "131",
+        "advNo": "12923400588116566016",
+        "nickName": "User-faa29",
+        "minSingleTransAmount": "110",
+        "maxSingleTransAmount": "110",
         "tradeMethods": [
-          "stc pay"
+          "urpay"
         ]
       },
       "SELL": {
@@ -111,22 +109,21 @@
         "minSingleTransAmount": "20000",
         "maxSingleTransAmount": "40000",
         "tradeMethods": [
-          "Skrill"
+          "Skrill (Moneybookers)"
         ]
       }
     },
     "USD": {
       "BUY": {
-        "price": 0.996,
+        "price": 0.994,
         "pickedIndex": 1,
-        "availableRows": 10,
-        "advNo": "12897683744730079232",
-        "nickName": "Spider_Car",
-        "minSingleTransAmount": "200",
-        "maxSingleTransAmount": "3000",
+        "availableRows": 11,
+        "advNo": "12895659199627911168",
+        "nickName": "BITLAGO_SA",
+        "minSingleTransAmount": "150",
+        "maxSingleTransAmount": "1500",
         "tradeMethods": [
-          "Banco Pichincha",
-          "Banco del pacifico"
+          "Banco Pichincha"
         ]
       },
       "SELL": {
@@ -151,26 +148,26 @@
         "price": 0.87,
         "pickedIndex": 1,
         "availableRows": 10,
-        "advNo": "13923010216206012416",
-        "nickName": "PlutoTrading",
-        "minSingleTransAmount": "6600",
-        "maxSingleTransAmount": "100000",
+        "advNo": "12921935124373368832",
+        "nickName": "BestRateToday",
+        "minSingleTransAmount": "22",
+        "maxSingleTransAmount": "23",
         "tradeMethods": [
-          "BBVA",
           "SEPA Instant",
-          "Bizum"
+          "Paysera",
+          "N26"
         ]
       },
       "SELL": {
         "price": 0.87,
         "pickedIndex": 1,
-        "availableRows": 10,
-        "advNo": "12912447641486483456",
-        "nickName": "ahmedalgoni",
-        "minSingleTransAmount": "750",
-        "maxSingleTransAmount": "755",
+        "availableRows": 11,
+        "advNo": "12920541677862731776",
+        "nickName": "Keep_your_smile",
+        "minSingleTransAmount": "50",
+        "maxSingleTransAmount": "58",
         "tradeMethods": [
-          "SEPA Instant"
+          "Dukascopy Bank"
         ]
       }
     }
