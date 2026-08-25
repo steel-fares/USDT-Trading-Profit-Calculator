@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1787695280203,
+  "updatedAt": 1787697520369,
   "source": "Binance P2P web endpoint",
   "asset": "USDT",
   "prices": {
@@ -17,42 +17,40 @@
         ]
       },
       "SELL": {
-        "price": 0.387,
+        "price": 0.388,
         "pickedIndex": 1,
         "availableRows": 10,
-        "advNo": "12878742409233203200",
-        "nickName": "EL-deeeb",
-        "minSingleTransAmount": "1000",
-        "maxSingleTransAmount": "1500",
+        "advNo": "12872264091098095616",
+        "nickName": "eichozin_Oz",
+        "minSingleTransAmount": "500",
+        "maxSingleTransAmount": "2100",
         "tradeMethods": [
-          "Arab Bank",
           "Bank Muscat",
-          "Bank Dhofar",
-          "Sohar International"
+          "Bank Dhofar"
         ]
       }
     },
     "EGP": {
       "BUY": {
-        "price": 51.03,
+        "price": 50.94,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "13891154545400795136",
-        "nickName": "aboobida82",
-        "minSingleTransAmount": "5000",
-        "maxSingleTransAmount": "5001",
+        "advNo": "12925683876380307456",
+        "nickName": "ELMALIK",
+        "minSingleTransAmount": "3405",
+        "maxSingleTransAmount": "3407",
         "tradeMethods": [
           "InstaPay"
         ]
       },
       "SELL": {
-        "price": 51.64,
+        "price": 51.46,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12918639582348390400",
-        "nickName": "Userx-919",
-        "minSingleTransAmount": "60000",
-        "maxSingleTransAmount": "60001",
+        "advNo": "12824981697856655360",
+        "nickName": "El_Pop1",
+        "minSingleTransAmount": "30000",
+        "maxSingleTransAmount": "30001",
         "tradeMethods": [
           "Vodafone cash"
         ]
@@ -60,28 +58,31 @@
     },
     "AED": {
       "BUY": {
-        "price": 3.666,
+        "price": 3.67,
         "pickedIndex": 1,
         "availableRows": 10,
-        "advNo": "13925494480445222912",
-        "nickName": "YeYintOo",
-        "minSingleTransAmount": "5000",
-        "maxSingleTransAmount": "60000",
+        "advNo": "12920846060223741952",
+        "nickName": "Habibkhanswati",
+        "minSingleTransAmount": "3670",
+        "maxSingleTransAmount": "3675",
         "tradeMethods": [
-          "Cash Deposit to Bank",
-          "Bank Transfer"
+          "Bank Transfer",
+          "Aani"
         ]
       },
       "SELL": {
-        "price": 3.665,
+        "price": 3.662,
         "pickedIndex": 1,
-        "availableRows": 11,
-        "advNo": "12918197574695690240",
-        "nickName": "AreYeeWarExchange",
-        "minSingleTransAmount": "10000",
-        "maxSingleTransAmount": "10001",
+        "availableRows": 10,
+        "advNo": "12925611453403881472",
+        "nickName": "霧_TRUST_CRYPTO",
+        "minSingleTransAmount": "30000",
+        "maxSingleTransAmount": "150000",
         "tradeMethods": [
-          "Cash Deposit to Bank",
+          "Bank Transfer (Middle East)",
+          "Bank Transfer",
+          "Abu Dhabi Commercial Bank ADCB",
+          "ADIB: Abu Dhabi Islamic Bank",
           "Emirates NBD"
         ]
       }
@@ -117,13 +118,15 @@
         "price": 0.993,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12897683744730079232",
-        "nickName": "Spider_Car",
-        "minSingleTransAmount": "200",
-        "maxSingleTransAmount": "4000",
+        "advNo": "12878942586221785088",
+        "nickName": "SteveLee",
+        "minSingleTransAmount": "500",
+        "maxSingleTransAmount": "2000",
         "tradeMethods": [
-          "Banco Pichincha",
-          "Banco del pacifico"
+          "Banco Bolivariano",
+          "Banco del pacifico",
+          "Banco Internacional",
+          "Produbanco"
         ]
       },
       "SELL": {
@@ -145,31 +148,32 @@
     },
     "EUR": {
       "BUY": {
-        "price": 0.865,
+        "price": 0.873,
         "pickedIndex": 1,
         "availableRows": 10,
-        "advNo": "13730263028184322048",
-        "nickName": "Sashok",
-        "minSingleTransAmount": "1028",
-        "maxSingleTransAmount": "1028",
+        "advNo": "13925049268460490752",
+        "nickName": "Rpaat86",
+        "minSingleTransAmount": "100",
+        "maxSingleTransAmount": "4000",
         "tradeMethods": [
-          "Wise"
+          "Fastoo wallet",
+          "Bank of Georgia",
+          "TBC Bank"
         ]
       },
       "SELL": {
-        "price": 0.88,
+        "price": 0.875,
         "pickedIndex": 1,
         "availableRows": 10,
-        "advNo": "12691138805628043264",
-        "nickName": "East_West_Best_Dest",
-        "minSingleTransAmount": "450",
+        "advNo": "12903388720434470912",
+        "nickName": "Mr_Flexy",
+        "minSingleTransAmount": "50",
         "maxSingleTransAmount": "1000",
         "tradeMethods": [
-          "Bizum",
-          "Banco Sabadell (Spain)",
-          "Banco Santander (Spain)",
-          "BBVA",
-          "CaixaBank (Spain)"
+          "Perfect Money",
+          "N26",
+          "Paysera",
+          "Wise"
         ]
       }
     }
