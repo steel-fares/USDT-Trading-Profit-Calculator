@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1787698957389,
+  "updatedAt": 1787700829367,
   "source": "Binance P2P web endpoint",
   "asset": "USDT",
   "prices": {
@@ -33,14 +33,15 @@
     },
     "EGP": {
       "BUY": {
-        "price": 51.05,
+        "price": 50.99,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12906777049062100992",
-        "nickName": "A_B_H_G",
-        "minSingleTransAmount": "3900",
-        "maxSingleTransAmount": "500000",
+        "advNo": "12925464224891875328",
+        "nickName": "USDT_Bitcoin__",
+        "minSingleTransAmount": "24800",
+        "maxSingleTransAmount": "24820",
         "tradeMethods": [
+          "Bank Transfer",
           "InstaPay"
         ]
       },
@@ -48,10 +49,10 @@
         "price": 51.55,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12867076926752673792",
-        "nickName": "Vip--p2p",
-        "minSingleTransAmount": "29999",
-        "maxSingleTransAmount": "30000",
+        "advNo": "12912131451995414528",
+        "nickName": "Marketing_Crypto",
+        "minSingleTransAmount": "5000",
+        "maxSingleTransAmount": "5001",
         "tradeMethods": [
           "Vodafone cash"
         ]
@@ -61,7 +62,7 @@
       "BUY": {
         "price": 3.669,
         "pickedIndex": 1,
-        "availableRows": 10,
+        "availableRows": 11,
         "advNo": "13922998074686459904",
         "nickName": "Binance_Vet",
         "minSingleTransAmount": "4000",
@@ -102,15 +103,15 @@
         ]
       },
       "SELL": {
-        "price": 3.83,
+        "price": 3.91,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12736161376127221760",
-        "nickName": "dahoom",
-        "minSingleTransAmount": "20000",
-        "maxSingleTransAmount": "40000",
+        "advNo": "12869367772961951744",
+        "nickName": "Only-saudi00113",
+        "minSingleTransAmount": "60",
+        "maxSingleTransAmount": "61",
         "tradeMethods": [
-          "Skrill (Moneybookers)"
+          "barq"
         ]
       }
     },
@@ -161,18 +162,19 @@
         ]
       },
       "SELL": {
-        "price": 0.875,
+        "price": 0.881,
         "pickedIndex": 1,
         "availableRows": 10,
-        "advNo": "12903388720434470912",
-        "nickName": "Mr_Flexy",
-        "minSingleTransAmount": "50",
-        "maxSingleTransAmount": "1000",
+        "advNo": "12903025724717211648",
+        "nickName": "GodWillingTrade",
+        "minSingleTransAmount": "1277",
+        "maxSingleTransAmount": "1278",
         "tradeMethods": [
-          "Perfect Money",
-          "N26",
-          "Paysera",
-          "Wise"
+          "Banco Santander (Spain)",
+          "Banco Sabadell (Spain)",
+          "CaixaBank (Spain)",
+          "Bizum",
+          "BBVA"
         ]
       }
     }
