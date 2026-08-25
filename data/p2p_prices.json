@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1787700829367,
+  "updatedAt": 1787702150757,
   "source": "Binance P2P web endpoint",
   "asset": "USDT",
   "prices": {
@@ -19,40 +19,43 @@
         ]
       },
       "SELL": {
-        "price": 0.388,
+        "price": 0.39,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12925692840234274816",
-        "nickName": "RASHED__1",
-        "minSingleTransAmount": "100",
-        "maxSingleTransAmount": "107",
+        "advNo": "12881332054467796992",
+        "nickName": "Exchange_ppp",
+        "minSingleTransAmount": "45",
+        "maxSingleTransAmount": "50",
         "tradeMethods": [
-          "Bank Muscat"
+          "Bank Transfer",
+          "Arab Bank",
+          "Bank Dhofar",
+          "Bank Muscat",
+          "Airtime Mobile Top-Up"
         ]
       }
     },
     "EGP": {
       "BUY": {
-        "price": 50.99,
+        "price": 51.04,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12925464224891875328",
-        "nickName": "USDT_Bitcoin__",
-        "minSingleTransAmount": "24800",
-        "maxSingleTransAmount": "24820",
+        "advNo": "12921988547241218048",
+        "nickName": "FastSetr",
+        "minSingleTransAmount": "9640",
+        "maxSingleTransAmount": "9700",
         "tradeMethods": [
-          "Bank Transfer",
           "InstaPay"
         ]
       },
       "SELL": {
-        "price": 51.55,
+        "price": 51.62,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12912131451995414528",
-        "nickName": "Marketing_Crypto",
-        "minSingleTransAmount": "5000",
-        "maxSingleTransAmount": "5001",
+        "advNo": "12916271935777779712",
+        "nickName": "fast112",
+        "minSingleTransAmount": "30000",
+        "maxSingleTransAmount": "30001",
         "tradeMethods": [
           "Vodafone cash"
         ]
@@ -62,7 +65,7 @@
       "BUY": {
         "price": 3.669,
         "pickedIndex": 1,
-        "availableRows": 11,
+        "availableRows": 10,
         "advNo": "13922998074686459904",
         "nickName": "Binance_Vet",
         "minSingleTransAmount": "4000",
@@ -103,15 +106,15 @@
         ]
       },
       "SELL": {
-        "price": 3.91,
+        "price": 3.83,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12869367772961951744",
-        "nickName": "Only-saudi00113",
-        "minSingleTransAmount": "60",
-        "maxSingleTransAmount": "61",
+        "advNo": "12736161376127221760",
+        "nickName": "dahoom",
+        "minSingleTransAmount": "20000",
+        "maxSingleTransAmount": "40000",
         "tradeMethods": [
-          "barq"
+          "Skrill"
         ]
       }
     },
@@ -120,15 +123,16 @@
         "price": 0.995,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12883529330339561472",
-        "nickName": "TheCRYB",
-        "minSingleTransAmount": "100",
-        "maxSingleTransAmount": "7500",
+        "advNo": "12924510311375630336",
+        "nickName": "Arigonza15",
+        "minSingleTransAmount": "10",
+        "maxSingleTransAmount": "4000",
         "tradeMethods": [
+          "Banco del pacifico",
           "Banco Pichincha",
-          "Produbanco",
+          "Banco Guayaquil",
           "Banco Bolivariano",
-          "Banco Internacional"
+          "Banco del Austro"
         ]
       },
       "SELL": {
@@ -162,19 +166,18 @@
         ]
       },
       "SELL": {
-        "price": 0.881,
+        "price": 0.875,
         "pickedIndex": 1,
         "availableRows": 10,
-        "advNo": "12903025724717211648",
-        "nickName": "GodWillingTrade",
-        "minSingleTransAmount": "1277",
-        "maxSingleTransAmount": "1278",
+        "advNo": "12903388720434470912",
+        "nickName": "Mr_Flexy",
+        "minSingleTransAmount": "50",
+        "maxSingleTransAmount": "1000",
         "tradeMethods": [
-          "Banco Santander (Spain)",
-          "Banco Sabadell (Spain)",
-          "CaixaBank (Spain)",
-          "Bizum",
-          "BBVA"
+          "Perfect Money",
+          "N26",
+          "Paysera",
+          "Wise"
         ]
       }
     }
