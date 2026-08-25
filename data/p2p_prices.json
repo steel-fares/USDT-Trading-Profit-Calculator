@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1787651798149,
+  "updatedAt": 1787654370652,
   "source": "Binance P2P web endpoint",
   "asset": "USDT",
   "prices": {
@@ -8,49 +8,54 @@
         "price": 0.389,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12902617914926112768",
-        "nickName": "Saleh_Albalushi",
+        "advNo": "12903100155889836032",
+        "nickName": "OMAN_OTC_SERVICE",
         "minSingleTransAmount": "200",
         "maxSingleTransAmount": "2500",
         "tradeMethods": [
-          "Bank Muscat"
+          "Bank Muscat",
+          "Sohar International",
+          "Ahlibank"
         ]
       },
       "SELL": {
         "price": 0.388,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12916856868240662528",
-        "nickName": "Obida-MS",
-        "minSingleTransAmount": "5",
-        "maxSingleTransAmount": "30",
+        "advNo": "12925501996402413568",
+        "nickName": "fasttrade24hours",
+        "minSingleTransAmount": "10",
+        "maxSingleTransAmount": "700",
         "tradeMethods": [
+          "Sohar International",
+          "Bank Muscat",
+          "Bank Dhofar",
           "Airtime Mobile Top-Up",
-          "Bank Muscat"
+          "Ahlibank"
         ]
       }
     },
     "EGP": {
       "BUY": {
-        "price": 51.07,
+        "price": 51.15,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12925440105590984704",
-        "nickName": "HELLO OUR CHANGER",
-        "minSingleTransAmount": "2790",
-        "maxSingleTransAmount": "2790",
+        "advNo": "12925500277568708608",
+        "nickName": "7MMMM7",
+        "minSingleTransAmount": "10000",
+        "maxSingleTransAmount": "500000",
         "tradeMethods": [
           "InstaPay"
         ]
       },
       "SELL": {
-        "price": 51.37,
+        "price": 51.47,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12900948550171615232",
-        "nickName": "THE-KING-",
-        "minSingleTransAmount": "30000",
-        "maxSingleTransAmount": "30001",
+        "advNo": "12875253636259995648",
+        "nickName": "king_kivu",
+        "minSingleTransAmount": "50000",
+        "maxSingleTransAmount": "50001",
         "tradeMethods": [
           "Vodafone cash"
         ]
@@ -58,14 +63,15 @@
     },
     "AED": {
       "BUY": {
-        "price": 3.663,
+        "price": 3.667,
         "pickedIndex": 1,
         "availableRows": 10,
-        "advNo": "12925505024728444928",
-        "nickName": "Trader0059",
+        "advNo": "13910621783881408512",
+        "nickName": "BLOCKSY",
         "minSingleTransAmount": "10000",
-        "maxSingleTransAmount": "25000",
+        "maxSingleTransAmount": "50000",
         "tradeMethods": [
+          "AL MASHREQ Bank",
           "Bank Transfer"
         ]
       },
@@ -85,15 +91,17 @@
     },
     "SAR": {
       "BUY": {
-        "price": 3.79,
+        "price": 3.8,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "13920319360238788608",
-        "nickName": "Al-habsi",
-        "minSingleTransAmount": "15000",
-        "maxSingleTransAmount": "20000",
+        "advNo": "12924076326542344192",
+        "nickName": "Bader-KSA",
+        "minSingleTransAmount": "10000",
+        "maxSingleTransAmount": "100000",
         "tradeMethods": [
-          "Bank Transfer"
+          "Bank Transfer",
+          "Al Rajhi Bank",
+          "Saudi National Bank (AlAhli Bank)"
         ]
       },
       "SELL": {
@@ -145,22 +153,19 @@
     },
     "EUR": {
       "BUY": {
-        "price": 0.86,
+        "price": 0.85,
         "pickedIndex": 1,
-        "availableRows": 10,
-        "advNo": "12913282229898588160",
-        "nickName": "Romchik_b20",
-        "minSingleTransAmount": "33",
-        "maxSingleTransAmount": "33",
+        "availableRows": 11,
+        "advNo": "13912810561234964480",
+        "nickName": "lawyerrr",
+        "minSingleTransAmount": "824",
+        "maxSingleTransAmount": "825",
         "tradeMethods": [
-          "SEPA Instant",
-          "Wise",
-          "Paysera",
-          "N26"
+          "Neteller"
         ]
       },
       "SELL": {
-        "price": 0.892,
+        "price": 0.895,
         "pickedIndex": 1,
         "availableRows": 11,
         "advNo": "12903028066156367872",
