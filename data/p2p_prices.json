@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1787731639533,
+  "updatedAt": 1787734835751,
   "source": "Binance P2P web endpoint",
   "asset": "USDT",
   "prices": {
@@ -8,14 +8,16 @@
         "price": 0.389,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12903100155889836032",
-        "nickName": "OMAN_OTC_SERVICE",
-        "minSingleTransAmount": "200",
+        "advNo": "12925646265534611456",
+        "nickName": "NoThirdPartyPayme",
+        "minSingleTransAmount": "521",
         "maxSingleTransAmount": "2500",
         "tradeMethods": [
           "Bank Muscat",
-          "Sohar International",
-          "Ahlibank"
+          "Bank Transfer",
+          "National Bank of Oman",
+          "Bank Dhofar",
+          "Airtime Mobile Top-Up"
         ]
       },
       "SELL": {
@@ -36,10 +38,10 @@
         "price": 50.9,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "13728179177171189760",
-        "nickName": "MeRo___87",
-        "minSingleTransAmount": "15360",
-        "maxSingleTransAmount": "15361",
+        "advNo": "12925510272864374784",
+        "nickName": "gmoaa",
+        "minSingleTransAmount": "7977",
+        "maxSingleTransAmount": "7978",
         "tradeMethods": [
           "InstaPay"
         ]
@@ -61,7 +63,7 @@
       "BUY": {
         "price": 3.664,
         "pickedIndex": 1,
-        "availableRows": 11,
+        "availableRows": 10,
         "advNo": "13925567291124563968",
         "nickName": "_69_69_",
         "minSingleTransAmount": "40504",
@@ -71,7 +73,7 @@
         ]
       },
       "SELL": {
-        "price": 3.664,
+        "price": 3.666,
         "pickedIndex": 1,
         "availableRows": 11,
         "advNo": "12704228689228431360",
@@ -146,31 +148,32 @@
         "price": 0.865,
         "pickedIndex": 1,
         "availableRows": 10,
-        "advNo": "12925127121965772800",
-        "nickName": "CryptoTrade_Official",
-        "minSingleTransAmount": "500",
-        "maxSingleTransAmount": "500",
+        "advNo": "12925603386197995520",
+        "nickName": "miokata",
+        "minSingleTransAmount": "300",
+        "maxSingleTransAmount": "1000",
         "tradeMethods": [
           "N26",
-          "Paysera",
-          "SEPA Instant",
-          "Bunq"
+          "CaixaBank (Spain)",
+          "Bank Transfer",
+          "BBVA",
+          "SEPA Instant"
         ]
       },
       "SELL": {
-        "price": 0.891,
+        "price": 0.881,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12903022080719437824",
+        "advNo": "12903025724717211648",
         "nickName": "GodWillingTrade",
-        "minSingleTransAmount": "374",
-        "maxSingleTransAmount": "375",
+        "minSingleTransAmount": "800",
+        "maxSingleTransAmount": "1606",
         "tradeMethods": [
           "Banco Santander (Spain)",
           "Banco Sabadell (Spain)",
           "CaixaBank (Spain)",
-          "N26",
-          "ING"
+          "Bizum",
+          "BBVA"
         ]
       }
     }
