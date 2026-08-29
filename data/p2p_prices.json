@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1787956999108,
+  "updatedAt": 1787975670689,
   "source": "Binance P2P web endpoint",
   "asset": "USDT",
   "prices": {
@@ -8,51 +8,55 @@
         "price": 0.389,
         "pickedIndex": 1,
         "availableRows": 10,
-        "advNo": "12926178241968107520",
-        "nickName": "Trusted-Person1",
+        "advNo": "13918280168692264960",
+        "nickName": "Al-habsi",
         "minSingleTransAmount": "500",
-        "maxSingleTransAmount": "2500",
+        "maxSingleTransAmount": "75000",
         "tradeMethods": [
-          "Bank Muscat"
+          "Bank Muscat",
+          "Airtime Mobile Top-Up",
+          "Bank Dhofar",
+          "Sohar International",
+          "Bank Transfer"
         ]
       },
       "SELL": {
         "price": 0.387,
         "pickedIndex": 1,
         "availableRows": 10,
-        "advNo": "12925010996898852864",
-        "nickName": "ImranTradeCenter",
-        "minSingleTransAmount": "150",
-        "maxSingleTransAmount": "850",
+        "advNo": "12878742409233203200",
+        "nickName": "EL-deeeb",
+        "minSingleTransAmount": "1000",
+        "maxSingleTransAmount": "1500",
         "tradeMethods": [
-          "mBank",
-          "Bank Transfer",
+          "Arab Bank",
           "Bank Muscat",
-          "Airtime Mobile Top-Up"
+          "Bank Dhofar",
+          "Sohar International"
         ]
       }
     },
     "EGP": {
       "BUY": {
-        "price": 50.78,
+        "price": 50.7,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12924818224751054848",
-        "nickName": "P2P-f892e0h3",
-        "minSingleTransAmount": "3000",
-        "maxSingleTransAmount": "7647",
+        "advNo": "12911022622432055296",
+        "nickName": "User-3d980",
+        "minSingleTransAmount": "20000",
+        "maxSingleTransAmount": "20001",
         "tradeMethods": [
           "InstaPay"
         ]
       },
       "SELL": {
-        "price": 51.3,
+        "price": 51.22,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12872003584695668736",
-        "nickName": "the-FAST_K",
-        "minSingleTransAmount": "30000",
-        "maxSingleTransAmount": "33000",
+        "advNo": "12842324553122287616",
+        "nickName": "Nimber1",
+        "minSingleTransAmount": "10000",
+        "maxSingleTransAmount": "10001",
         "tradeMethods": [
           "Vodafone cash"
         ]
@@ -60,46 +64,42 @@
     },
     "AED": {
       "BUY": {
-        "price": 3.674,
+        "price": 3.683,
         "pickedIndex": 1,
-        "availableRows": 11,
-        "advNo": "13910621783881408512",
-        "nickName": "BLOCKSY",
-        "minSingleTransAmount": "10000",
-        "maxSingleTransAmount": "50000",
+        "availableRows": 10,
+        "advNo": "12925192984204140544",
+        "nickName": "Olinilavan ",
+        "minSingleTransAmount": "2500",
+        "maxSingleTransAmount": "9000",
         "tradeMethods": [
-          "Bank Transfer",
-          "Bank Transfer (Middle East)"
+          "Bank Transfer"
         ]
       },
       "SELL": {
-        "price": 3.666,
+        "price": 3.677,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12926402443113967616",
-        "nickName": "PituBot",
-        "minSingleTransAmount": "400000",
-        "maxSingleTransAmount": "410000",
+        "advNo": "12926750851766689792",
+        "nickName": "Bipin4u56",
+        "minSingleTransAmount": "990",
+        "maxSingleTransAmount": "1000",
         "tradeMethods": [
-          "Aani",
-          "Bank Transfer",
-          "Abu Dhabi Commercial Bank ADCB",
-          "Emirates NBD",
-          "ADIB: Abu Dhabi Islamic Bank"
+          "Aani"
         ]
       }
     },
     "SAR": {
       "BUY": {
-        "price": 3.79,
+        "price": 3.78,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12926776086721769472",
-        "nickName": "MFR_TRADER",
-        "minSingleTransAmount": "110",
-        "maxSingleTransAmount": "110",
+        "advNo": "12920334690205544448",
+        "nickName": "raza-dhakko35301",
+        "minSingleTransAmount": "1426",
+        "maxSingleTransAmount": "1427",
         "tradeMethods": [
-          "barq"
+          "Bank Transfer",
+          "urpay"
         ]
       },
       "SELL": {
@@ -117,15 +117,15 @@
     },
     "USD": {
       "BUY": {
-        "price": 0.994,
+        "price": 0.996,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12926000859697242112",
-        "nickName": "ApostadorUSDTcash",
-        "minSingleTransAmount": "100",
-        "maxSingleTransAmount": "1000",
+        "advNo": "13923397284447977472",
+        "nickName": "Rai-Pay",
+        "minSingleTransAmount": "50",
+        "maxSingleTransAmount": "30000",
         "tradeMethods": [
-          "Banco del pacifico"
+          "ABA"
         ]
       },
       "SELL": {
@@ -147,27 +147,34 @@
     },
     "EUR": {
       "BUY": {
-        "price": 0.877,
+        "price": 0.878,
         "pickedIndex": 1,
         "availableRows": 10,
-        "advNo": "12925667804437344256",
-        "nickName": "phantom7_de",
-        "minSingleTransAmount": "250",
-        "maxSingleTransAmount": "2000",
+        "advNo": "13905141791462481920",
+        "nickName": "Unisync_Safe",
+        "minSingleTransAmount": "350",
+        "maxSingleTransAmount": "10000",
         "tradeMethods": [
-          "Dukascopy Bank"
+          "SEPA Instant",
+          "SEPA (EU) bank transfer",
+          "N26",
+          "Bank Transfer",
+          "Wise"
         ]
       },
       "SELL": {
-        "price": 0.89,
+        "price": 0.876,
         "pickedIndex": 1,
         "availableRows": 10,
-        "advNo": "12926784037874487296",
-        "nickName": "AlSulton",
-        "minSingleTransAmount": "800",
-        "maxSingleTransAmount": "1500",
+        "advNo": "12894848623443234816",
+        "nickName": "BrainxP",
+        "minSingleTransAmount": "8000",
+        "maxSingleTransAmount": "8001",
         "tradeMethods": [
-          "International Wire (SWIFT)"
+          "Dukascopy Bank",
+          "Banco Santander (Spain)",
+          "CaixaBank (Spain)",
+          "BBVA"
         ]
       }
     }
