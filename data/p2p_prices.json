@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1788074503647,
+  "updatedAt": 1788095102928,
   "source": "Binance P2P web endpoint",
   "asset": "USDT",
   "prices": {
@@ -35,19 +35,19 @@
     },
     "EGP": {
       "BUY": {
-        "price": 50.7,
+        "price": 50.85,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12926228678935588864",
-        "nickName": "E-Ahmed_Talha96",
-        "minSingleTransAmount": "5000",
+        "advNo": "12927364751178821632",
+        "nickName": "ABDO_BOSIRY",
+        "minSingleTransAmount": "30999",
         "maxSingleTransAmount": "31000",
         "tradeMethods": [
           "InstaPay"
         ]
       },
       "SELL": {
-        "price": 51.2,
+        "price": 52.0,
         "pickedIndex": 1,
         "availableRows": 11,
         "advNo": "12926661548868866048",
@@ -63,9 +63,9 @@
     },
     "AED": {
       "BUY": {
-        "price": 3.678,
+        "price": 3.674,
         "pickedIndex": 1,
-        "availableRows": 10,
+        "availableRows": 11,
         "advNo": "13911872318290452480",
         "nickName": "NASSER-TRADER",
         "minSingleTransAmount": "40000",
@@ -75,19 +75,17 @@
         ]
       },
       "SELL": {
-        "price": 3.801,
+        "price": 4.0,
         "pickedIndex": 1,
-        "availableRows": 11,
-        "advNo": "12926402443113967616",
-        "nickName": "PituBot",
-        "minSingleTransAmount": "400000",
-        "maxSingleTransAmount": "410000",
+        "availableRows": 10,
+        "advNo": "12927358930969985024",
+        "nickName": "User-ec5ab",
+        "minSingleTransAmount": "8500",
+        "maxSingleTransAmount": "8900",
         "tradeMethods": [
-          "Aani",
           "Bank Transfer",
-          "Abu Dhabi Commercial Bank ADCB",
-          "Emirates NBD",
-          "ADIB: Abu Dhabi Islamic Bank"
+          "ADIB: Abu Dhabi Islamic Bank",
+          "Aani"
         ]
       }
     },
@@ -112,12 +110,16 @@
         "price": 3.9,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12926646074228764672",
-        "nickName": "DrKingdom_USDT",
-        "minSingleTransAmount": "2500",
-        "maxSingleTransAmount": "2500",
+        "advNo": "12924465708081037312",
+        "nickName": "AbuSarah2266",
+        "minSingleTransAmount": "5000",
+        "maxSingleTransAmount": "50000",
         "tradeMethods": [
-          "Bank Transfer"
+          "The Saudi British Bank (SABB)",
+          "Al Rajhi Bank",
+          "Ahlibank",
+          "Alinma Bank",
+          "Saudi National Bank (AlAhli Bank)"
         ]
       }
     },
@@ -126,14 +128,12 @@
         "price": 0.997,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12841335713567629312",
-        "nickName": "User-60773",
-        "minSingleTransAmount": "300",
-        "maxSingleTransAmount": "1000",
+        "advNo": "12927009213261799424",
+        "nickName": "aliabouhamdan",
+        "minSingleTransAmount": "20",
+        "maxSingleTransAmount": "1500",
         "tradeMethods": [
-          "Wing Money",
-          "KHQR",
-          "Bank Transfer (Cambodia)"
+          "Whish MONEY"
         ]
       },
       "SELL": {
@@ -155,27 +155,31 @@
     },
     "EUR": {
       "BUY": {
-        "price": 0.86,
+        "price": 0.867,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12921913101251215360",
-        "nickName": "CryptoCoproClownV",
-        "minSingleTransAmount": "21",
-        "maxSingleTransAmount": "21",
+        "advNo": "13926404190255755264",
+        "nickName": "Irishka7r",
+        "minSingleTransAmount": "200",
+        "maxSingleTransAmount": "10000",
         "tradeMethods": [
-          "SEPA Instant"
+          "Bank of Georgia"
         ]
       },
       "SELL": {
-        "price": 0.89,
+        "price": 0.881,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12903367233878687744",
-        "nickName": "Aivazovskky",
-        "minSingleTransAmount": "610",
-        "maxSingleTransAmount": "615",
+        "advNo": "12926606205215809536",
+        "nickName": "PituBot",
+        "minSingleTransAmount": "99900",
+        "maxSingleTransAmount": "100000",
         "tradeMethods": [
-          "Bizum"
+          "Wise",
+          "Bank Transfer",
+          "SEPA (EU) bank transfer",
+          "SEPA Instant",
+          "BBVA"
         ]
       }
     }
