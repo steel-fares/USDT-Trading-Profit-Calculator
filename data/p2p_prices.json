@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1788129559339,
+  "updatedAt": 1788137501427,
   "source": "Binance P2P web endpoint",
   "asset": "USDT",
   "prices": {
@@ -34,13 +34,13 @@
     },
     "EGP": {
       "BUY": {
-        "price": 50.93,
+        "price": 51.0,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12918213730794905600",
-        "nickName": "Abdo_Elsadig",
-        "minSingleTransAmount": "10000",
-        "maxSingleTransAmount": "500000",
+        "advNo": "12926312261813981184",
+        "nickName": "Mokaaaxx",
+        "minSingleTransAmount": "2215",
+        "maxSingleTransAmount": "2220",
         "tradeMethods": [
           "InstaPay"
         ]
@@ -65,19 +65,18 @@
         "price": 3.675,
         "pickedIndex": 1,
         "availableRows": 10,
-        "advNo": "13910621341962297344",
-        "nickName": "BLOCKSY",
-        "minSingleTransAmount": "5000",
-        "maxSingleTransAmount": "50000",
+        "advNo": "13900958576162877440",
+        "nickName": "QinXhao",
+        "minSingleTransAmount": "50000",
+        "maxSingleTransAmount": "400000",
         "tradeMethods": [
-          "Bank Transfer",
-          "Bank Transfer (Middle East)"
+          "Bank Transfer"
         ]
       },
       "SELL": {
-        "price": 3.675,
+        "price": 3.68,
         "pickedIndex": 1,
-        "availableRows": 10,
+        "availableRows": 11,
         "advNo": "12916777299775815680",
         "nickName": "fastdxb1",
         "minSingleTransAmount": "100",
@@ -92,23 +91,25 @@
         "price": 3.79,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12927356985215062016",
-        "nickName": "MFR_TRADER",
-        "minSingleTransAmount": "100",
-        "maxSingleTransAmount": "100",
+        "advNo": "12917241452904751104",
+        "nickName": "Kadam__P2P",
+        "minSingleTransAmount": "126",
+        "maxSingleTransAmount": "126",
         "tradeMethods": [
-          "Bank Transfer"
+          "barq"
         ]
       },
       "SELL": {
-        "price": 3.85,
+        "price": 3.88,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12839028940560867328",
-        "nickName": "sufyansaud",
-        "minSingleTransAmount": "8000",
-        "maxSingleTransAmount": "8085",
+        "advNo": "12923759925459791872",
+        "nickName": "BITCOINPRO-8750",
+        "minSingleTransAmount": "70",
+        "maxSingleTransAmount": "100000",
         "tradeMethods": [
+          "barq",
+          "Mobily Pay",
           "Bank Transfer"
         ]
       }
@@ -145,29 +146,28 @@
     },
     "EUR": {
       "BUY": {
-        "price": 0.874,
-        "pickedIndex": 1,
-        "availableRows": 10,
-        "advNo": "12925865974752108544",
-        "nickName": "User-bili66",
-        "minSingleTransAmount": "600",
-        "maxSingleTransAmount": "2000",
-        "tradeMethods": [
-          "Wise"
-        ]
-      },
-      "SELL": {
         "price": 0.876,
         "pickedIndex": 1,
         "availableRows": 10,
-        "advNo": "12926606205215809536",
-        "nickName": "PituBot",
-        "minSingleTransAmount": "99900",
-        "maxSingleTransAmount": "100000",
+        "advNo": "13913219928729563136",
+        "nickName": "Crypto-Eli",
+        "minSingleTransAmount": "500",
+        "maxSingleTransAmount": "10000",
         "tradeMethods": [
-          "Wise",
-          "Bank Transfer",
-          "SEPA (EU) bank transfer",
+          "SEPA Instant",
+          "N26",
+          "Bank Transfer"
+        ]
+      },
+      "SELL": {
+        "price": 0.877,
+        "pickedIndex": 1,
+        "availableRows": 10,
+        "advNo": "12906767283465555968",
+        "nickName": "P2P-bcab1aca",
+        "minSingleTransAmount": "500",
+        "maxSingleTransAmount": "900",
+        "tradeMethods": [
           "SEPA Instant",
           "BBVA"
         ]
