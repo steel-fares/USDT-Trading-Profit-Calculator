@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1788325346393,
+  "updatedAt": 1788341511634,
   "source": "Binance P2P web endpoint",
   "asset": "USDT",
   "prices": {
@@ -10,7 +10,7 @@
         "availableRows": 11,
         "advNo": "12903100155889836032",
         "nickName": "OMAN_OTC_SERVICE",
-        "minSingleTransAmount": "350",
+        "minSingleTransAmount": "250",
         "maxSingleTransAmount": "2500",
         "tradeMethods": [
           "Bank Muscat",
@@ -19,7 +19,7 @@
         ]
       },
       "SELL": {
-        "price": 0.404,
+        "price": 0.403,
         "pickedIndex": 1,
         "availableRows": 11,
         "advNo": "12928201220785950720",
@@ -33,13 +33,13 @@
     },
     "EGP": {
       "BUY": {
-        "price": 51.28,
+        "price": 51.46,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12915376070398078976",
-        "nickName": "Hamidalageed0",
-        "minSingleTransAmount": "70",
-        "maxSingleTransAmount": "500000",
+        "advNo": "13927411568872165376",
+        "nickName": "USDT_4_Ever_1",
+        "minSingleTransAmount": "10000",
+        "maxSingleTransAmount": "411000",
         "tradeMethods": [
           "InstaPay"
         ]
@@ -59,27 +59,31 @@
     },
     "AED": {
       "BUY": {
-        "price": 3.668,
+        "price": 3.66,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "13920126929020071936",
-        "nickName": "RAHEEM-TRADER",
-        "minSingleTransAmount": "17707",
-        "maxSingleTransAmount": "17708",
+        "advNo": "13903651663676485632",
+        "nickName": "Ravan_USDT",
+        "minSingleTransAmount": "25229",
+        "maxSingleTransAmount": "25230",
         "tradeMethods": [
           "Bank Transfer"
         ]
       },
       "SELL": {
-        "price": 3.69,
+        "price": 3.691,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12928113736525312000",
-        "nickName": "azii",
-        "minSingleTransAmount": "5533",
-        "maxSingleTransAmount": "25000",
+        "advNo": "12926402443113967616",
+        "nickName": "PituBot",
+        "minSingleTransAmount": "400000",
+        "maxSingleTransAmount": "410000",
         "tradeMethods": [
-          "Bank Transfer (Middle East)"
+          "Aani",
+          "Bank Transfer",
+          "Abu Dhabi Commercial Bank ADCB",
+          "Emirates NBD",
+          "ADIB: Abu Dhabi Islamic Bank"
         ]
       }
     },
@@ -116,16 +120,15 @@
     },
     "USD": {
       "BUY": {
-        "price": 0.996,
+        "price": 0.989,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12915616891951333376",
-        "nickName": "User-fe4b2dhq",
-        "minSingleTransAmount": "30",
-        "maxSingleTransAmount": "200",
+        "advNo": "12926138311779315712",
+        "nickName": "User-bc937",
+        "minSingleTransAmount": "11",
+        "maxSingleTransAmount": "11",
         "tradeMethods": [
-          "ABA",
-          "KHQR"
+          "Wise"
         ]
       },
       "SELL": {
@@ -147,30 +150,27 @@
     },
     "EUR": {
       "BUY": {
-        "price": 0.87,
+        "price": 0.869,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12926912762260951040",
-        "nickName": "CryptoTrade_Official",
-        "minSingleTransAmount": "180",
-        "maxSingleTransAmount": "180",
+        "advNo": "13910644736713412608",
+        "nickName": "Rachuli",
+        "minSingleTransAmount": "100",
+        "maxSingleTransAmount": "100000",
         "tradeMethods": [
-          "N26",
-          "Paysera",
-          "SEPA Instant",
-          "Bunq"
+          "Bank of Georgia"
         ]
       },
       "SELL": {
-        "price": 0.873,
+        "price": 0.875,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12921950635579232256",
-        "nickName": "GENESIS-IA",
-        "minSingleTransAmount": "93",
-        "maxSingleTransAmount": "94",
+        "advNo": "12926990541220880384",
+        "nickName": "Cuque-right",
+        "minSingleTransAmount": "10",
+        "maxSingleTransAmount": "875",
         "tradeMethods": [
-          "BBVA"
+          "Dukascopy Bank"
         ]
       }
     }
