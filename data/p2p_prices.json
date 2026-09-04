@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1788558328820,
+  "updatedAt": 1788564282137,
   "source": "Binance P2P web endpoint",
   "asset": "USDT",
   "prices": {
@@ -7,43 +7,41 @@
       "BUY": {
         "price": 0.389,
         "pickedIndex": 1,
-        "availableRows": 11,
-        "advNo": "13928892193900863488",
-        "nickName": "OMAN_OTC_SERVICE",
-        "minSingleTransAmount": "300",
+        "availableRows": 10,
+        "advNo": "12919488509102678016",
+        "nickName": "BOOOOS1",
+        "minSingleTransAmount": "200",
         "maxSingleTransAmount": "2500",
         "tradeMethods": [
           "Bank Muscat",
-          "Sohar International",
-          "Ahlibank"
+          "Airtime Mobile Top-Up"
         ]
       },
       "SELL": {
-        "price": 0.389,
+        "price": 0.388,
         "pickedIndex": 1,
-        "availableRows": 11,
-        "advNo": "12836152209350377472",
-        "nickName": "AL_OmDa",
-        "minSingleTransAmount": "699",
-        "maxSingleTransAmount": "700",
+        "availableRows": 10,
+        "advNo": "12912143905248292864",
+        "nickName": "P2P-8c6ed9fi",
+        "minSingleTransAmount": "500",
+        "maxSingleTransAmount": "1000",
         "tradeMethods": [
-          "Bank Transfer"
+          "Bank Muscat",
+          "Sohar International"
         ]
       }
     },
     "EGP": {
       "BUY": {
-        "price": 51.18,
+        "price": 51.0,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12928916535727607808",
-        "nickName": "CASH__1",
-        "minSingleTransAmount": "70",
+        "advNo": "12925652440994496512",
+        "nickName": "ahmedAKO",
+        "minSingleTransAmount": "500",
         "maxSingleTransAmount": "500000",
         "tradeMethods": [
-          "InstaPay",
-          "Bank Transfer",
-          "Banque Misr"
+          "InstaPay"
         ]
       },
       "SELL": {
@@ -63,19 +61,19 @@
     },
     "AED": {
       "BUY": {
-        "price": 3.683,
+        "price": 3.679,
         "pickedIndex": 1,
         "availableRows": 10,
-        "advNo": "13878764266726535168",
-        "nickName": "AbuHamad1001",
-        "minSingleTransAmount": "10000",
-        "maxSingleTransAmount": "100000",
+        "advNo": "13927937409998417920",
+        "nickName": "NASSER-TRADER",
+        "minSingleTransAmount": "40000",
+        "maxSingleTransAmount": "7000000",
         "tradeMethods": [
-          "Bank Transfer"
+          "Transfers with specific bank"
         ]
       },
       "SELL": {
-        "price": 3.7,
+        "price": 3.8,
         "pickedIndex": 1,
         "availableRows": 11,
         "advNo": "12929240774092046336",
@@ -83,8 +81,8 @@
         "minSingleTransAmount": "17995",
         "maxSingleTransAmount": "18000",
         "tradeMethods": [
-          "ADIB: Abu Dhabi Islamic Bank",
-          "Bank Transfer"
+          "Bank Transfer",
+          "ADIB: Abu Dhabi Islamic Bank"
         ]
       }
     },
@@ -154,28 +152,29 @@
     },
     "EUR": {
       "BUY": {
-        "price": 0.869,
+        "price": 0.87,
         "pickedIndex": 1,
         "availableRows": 10,
-        "advNo": "12929117873889226752",
-        "nickName": "ghost20051",
-        "minSingleTransAmount": "500",
-        "maxSingleTransAmount": "20000",
+        "advNo": "13911002549537652736",
+        "nickName": "EZE_EX",
+        "minSingleTransAmount": "790",
+        "maxSingleTransAmount": "790",
         "tradeMethods": [
-          "SEPA (EU) bank transfer",
-          "SEPA Instant"
+          "N26",
+          "SEPA Instant",
+          "Paysera"
         ]
       },
       "SELL": {
-        "price": 0.89,
+        "price": 0.872,
         "pickedIndex": 1,
-        "availableRows": 11,
-        "advNo": "12898672857345245184",
-        "nickName": "Burchak197",
-        "minSingleTransAmount": "396",
-        "maxSingleTransAmount": "397",
+        "availableRows": 10,
+        "advNo": "12791872956006469632",
+        "nickName": "lousse",
+        "minSingleTransAmount": "50",
+        "maxSingleTransAmount": "878",
         "tradeMethods": [
-          "SEPA Instant"
+          "Dukascopy Bank"
         ]
       }
     }
