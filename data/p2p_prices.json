@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1789253036296,
+  "updatedAt": 1789259192383,
   "source": "Binance P2P web endpoint",
   "asset": "USDT",
   "prices": {
@@ -35,25 +35,28 @@
     },
     "EGP": {
       "BUY": {
-        "price": 51.43,
+        "price": 51.58,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "13918048946851872768",
-        "nickName": "IbrahimAboubakr",
-        "minSingleTransAmount": "10280",
-        "maxSingleTransAmount": "10300",
+        "advNo": "12931400550868234240",
+        "nickName": "TradelineAani",
+        "minSingleTransAmount": "50000",
+        "maxSingleTransAmount": "500000",
         "tradeMethods": [
-          "InstaPay"
+          "InstaPay",
+          "National Bank of Egypt (NBE)",
+          "Alex Bank",
+          "Ahlibank"
         ]
       },
       "SELL": {
-        "price": 52.11,
+        "price": 52.16,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12912131451995414528",
-        "nickName": "Marketing_Crypto",
-        "minSingleTransAmount": "20000",
-        "maxSingleTransAmount": "20001",
+        "advNo": "12896906511614717952",
+        "nickName": "ESNI00",
+        "minSingleTransAmount": "5000",
+        "maxSingleTransAmount": "5001",
         "tradeMethods": [
           "Vodafone cash"
         ]
@@ -87,42 +90,48 @@
     },
     "SAR": {
       "BUY": {
-        "price": 3.79,
+        "price": 3.8,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12931651817370128384",
-        "nickName": "MFR_TRADER",
-        "minSingleTransAmount": "100",
-        "maxSingleTransAmount": "100",
+        "advNo": "13924470667487535104",
+        "nickName": "Raed AlHarbi",
+        "minSingleTransAmount": "15000",
+        "maxSingleTransAmount": "300000",
         "tradeMethods": [
-          "Bank Transfer"
+          "Bank Transfer",
+          "Al Rajhi Bank",
+          "Saudi National Bank (AlAhli Bank)",
+          "Riyad Bank",
+          "The Saudi British Bank (SABB)"
         ]
       },
       "SELL": {
-        "price": 3.87,
+        "price": 3.83,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12796166457700691968",
-        "nickName": "EL-BOB21",
-        "minSingleTransAmount": "1000",
-        "maxSingleTransAmount": "1200",
+        "advNo": "12736161376127221760",
+        "nickName": "dahoom",
+        "minSingleTransAmount": "20000",
+        "maxSingleTransAmount": "40000",
         "tradeMethods": [
-          "urpay"
+          "Skrill"
         ]
       }
     },
     "USD": {
       "BUY": {
-        "price": 0.998,
+        "price": 0.997,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "13930631964763860992",
-        "nickName": "金诚-usdt",
-        "minSingleTransAmount": "10",
-        "maxSingleTransAmount": "20",
+        "advNo": "12931182130130202624",
+        "nickName": "p2p-bid",
+        "minSingleTransAmount": "50",
+        "maxSingleTransAmount": "1000",
         "tradeMethods": [
+          "Bakong",
+          "KHQR",
           "ABA",
-          "KHQR"
+          "ACLEDA Bank"
         ]
       },
       "SELL": {
@@ -149,22 +158,22 @@
         "availableRows": 10,
         "advNo": "13911298537216036864",
         "nickName": "Exchange-shop-Wise",
-        "minSingleTransAmount": "100",
+        "minSingleTransAmount": "500",
         "maxSingleTransAmount": "2000",
         "tradeMethods": [
           "Wise"
         ]
       },
       "SELL": {
-        "price": 0.875,
+        "price": 0.87,
         "pickedIndex": 1,
-        "availableRows": 10,
-        "advNo": "12912447641486483456",
-        "nickName": "ahmedalgoni",
-        "minSingleTransAmount": "199",
-        "maxSingleTransAmount": "200",
+        "availableRows": 11,
+        "advNo": "12847294192720465920",
+        "nickName": "Change96",
+        "minSingleTransAmount": "200",
+        "maxSingleTransAmount": "500",
         "tradeMethods": [
-          "SEPA Instant"
+          "Paysera"
         ]
       }
     }
