@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1789685807233,
+  "updatedAt": 1789693908062,
   "source": "Binance P2P web endpoint",
   "asset": "USDT",
   "prices": {
@@ -38,25 +38,25 @@
     },
     "EGP": {
       "BUY": {
-        "price": 52.55,
+        "price": 52.5,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12933307121009668096",
-        "nickName": "Smartpayyy",
-        "minSingleTransAmount": "8000",
-        "maxSingleTransAmount": "9100",
+        "advNo": "13928782280294031360",
+        "nickName": "gold_7199",
+        "minSingleTransAmount": "278400",
+        "maxSingleTransAmount": "278401",
         "tradeMethods": [
           "Instapay"
         ]
       },
       "SELL": {
-        "price": 52.9,
+        "price": 52.93,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12917910288448729088",
-        "nickName": "asasfd1000",
-        "minSingleTransAmount": "4000",
-        "maxSingleTransAmount": "4001",
+        "advNo": "12908296373145751552",
+        "nickName": "AbuKhalil1",
+        "minSingleTransAmount": "8000",
+        "maxSingleTransAmount": "8001",
         "tradeMethods": [
           "VodafoneCash"
         ]
@@ -78,7 +78,7 @@
       "SELL": {
         "price": 3.709,
         "pickedIndex": 1,
-        "availableRows": 11,
+        "availableRows": 10,
         "advNo": "12934011964932562944",
         "nickName": "P2P-d87138c9",
         "minSingleTransAmount": "5565",
@@ -90,14 +90,18 @@
     },
     "SAR": {
       "BUY": {
-        "price": 3.79,
+        "price": 3.8,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12933391942065397760",
-        "nickName": "MFR_TRADER",
-        "minSingleTransAmount": "194",
-        "maxSingleTransAmount": "194",
+        "advNo": "13932472226406014976",
+        "nickName": "Naif_Ahmed",
+        "minSingleTransAmount": "15000",
+        "maxSingleTransAmount": "10000000",
         "tradeMethods": [
+          "Saudi National Bank (AlAhli Bank)",
+          "Alinma Bank",
+          "Riyad Bank",
+          "Al Rajhi Bank",
           "Bank Transfer"
         ]
       },
@@ -146,34 +150,31 @@
     },
     "EUR": {
       "BUY": {
-        "price": 0.879,
+        "price": 0.88,
         "pickedIndex": 1,
         "availableRows": 10,
-        "advNo": "13930284099209183232",
-        "nickName": "ROUND-THREE-VA",
-        "minSingleTransAmount": "300",
+        "advNo": "13931070330930716672",
+        "nickName": "VincitoreGroup",
+        "minSingleTransAmount": "350",
         "maxSingleTransAmount": "100000",
         "tradeMethods": [
-          "BBVA",
-          "SEPA Instant",
           "SEPA (EU) bank transfer",
-          "Bunq",
-          "Wise"
+          "SEPA Instant",
+          "Bank Transfer",
+          "CaixaBank (Spain)",
+          "Bunq"
         ]
       },
       "SELL": {
-        "price": 0.919,
+        "price": 0.915,
         "pickedIndex": 1,
-        "availableRows": 11,
-        "advNo": "12933982263933583360",
-        "nickName": "Anyelithcuellar",
-        "minSingleTransAmount": "24500",
-        "maxSingleTransAmount": "28000",
+        "availableRows": 10,
+        "advNo": "12933278959273668608",
+        "nickName": "What_a_deal",
+        "minSingleTransAmount": "2972",
+        "maxSingleTransAmount": "2973",
         "tradeMethods": [
-          "Banco Santander (Spain)",
-          "SEPA Instant",
-          "N26",
-          "ING"
+          "BBVA"
         ]
       }
     }
