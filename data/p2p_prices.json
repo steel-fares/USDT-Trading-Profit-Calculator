@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1789797557683,
+  "updatedAt": 1789814910066,
   "source": "Binance P2P web endpoint",
   "asset": "USDT",
   "prices": {
@@ -21,40 +21,40 @@
         ]
       },
       "SELL": {
-        "price": 0.387,
+        "price": 0.388,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12925010996898852864",
-        "nickName": "ImranTradeCenter",
-        "minSingleTransAmount": "250",
-        "maxSingleTransAmount": "500",
+        "advNo": "12934008857094438912",
+        "nickName": "A56N",
+        "minSingleTransAmount": "24",
+        "maxSingleTransAmount": "25",
         "tradeMethods": [
-          "mBank",
           "Bank Transfer",
           "Bank Muscat",
+          "Sohar International",
           "Airtime Mobile Top-Up"
         ]
       }
     },
     "EGP": {
       "BUY": {
-        "price": 52.65,
+        "price": 52.42,
         "pickedIndex": 1,
-        "availableRows": 10,
-        "advNo": "12934487460275924992",
-        "nickName": "DennisLompart",
-        "minSingleTransAmount": "3450",
-        "maxSingleTransAmount": "500000",
+        "availableRows": 11,
+        "advNo": "13913255816133066752",
+        "nickName": "LE_prince51",
+        "minSingleTransAmount": "6000",
+        "maxSingleTransAmount": "6001",
         "tradeMethods": [
           "Instapay"
         ]
       },
       "SELL": {
-        "price": 53.09,
+        "price": 53.03,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12888721656989048832",
-        "nickName": "User-7d3a4",
+        "advNo": "12929037681746210816",
+        "nickName": "The_captain1",
         "minSingleTransAmount": "5000",
         "maxSingleTransAmount": "5001",
         "tradeMethods": [
@@ -64,57 +64,63 @@
     },
     "AED": {
       "BUY": {
-        "price": 3.671,
+        "price": 3.667,
         "pickedIndex": 1,
         "availableRows": 10,
-        "advNo": "13928301035093368832",
-        "nickName": "BLOCKSY",
-        "minSingleTransAmount": "5000",
-        "maxSingleTransAmount": "65000",
+        "advNo": "12933955859293839360",
+        "nickName": "FS_Money_Mart",
+        "minSingleTransAmount": "3099",
+        "maxSingleTransAmount": "3100",
         "tradeMethods": [
-          "Bank Transfer",
           "Bank Transfer (Middle East)"
         ]
       },
       "SELL": {
-        "price": 3.665,
+        "price": 3.661,
         "pickedIndex": 1,
         "availableRows": 10,
-        "advNo": "12911119289138487296",
-        "nickName": "jackpot123",
-        "minSingleTransAmount": "40",
-        "maxSingleTransAmount": "500",
+        "advNo": "12924016775732563968",
+        "nickName": "Sherif Raafat ",
+        "minSingleTransAmount": "25000",
+        "maxSingleTransAmount": "27000",
         "tradeMethods": [
-          "Abu Dhabi Commercial Bank ADCB"
+          "Abu Dhabi Commercial Bank ADCB",
+          "Bank Transfer",
+          "Emirates NBD",
+          "ADIB: Abu Dhabi Islamic Bank",
+          "AL MASHREQ Bank"
         ]
       }
     },
     "SAR": {
       "BUY": {
-        "price": 3.79,
+        "price": 3.8,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12928507198305349632",
-        "nickName": "Al Amin33",
-        "minSingleTransAmount": "100",
-        "maxSingleTransAmount": "100",
+        "advNo": "13932483141859483648",
+        "nickName": "RAYAN_AHMED",
+        "minSingleTransAmount": "10000",
+        "maxSingleTransAmount": "10000000",
         "tradeMethods": [
-          "urpay"
+          "Saudi National Bank (AlAhli Bank)",
+          "Alinma Bank",
+          "Riyad Bank",
+          "Al Rajhi Bank",
+          "Bank Transfer"
         ]
       },
       "SELL": {
-        "price": 3.84,
+        "price": 3.88,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12934257069588230144",
-        "nickName": "User-569bc",
-        "minSingleTransAmount": "3000",
-        "maxSingleTransAmount": "3001",
+        "advNo": "12796166457700691968",
+        "nickName": "EL-BOB21",
+        "minSingleTransAmount": "999",
+        "maxSingleTransAmount": "2000",
         "tradeMethods": [
+          "barq",
           "Bank Transfer",
-          "Alinma Bank",
-          "Al Rajhi Bank",
-          "barq"
+          "urpay"
         ]
       }
     },
@@ -123,13 +129,12 @@
         "price": 0.998,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "13930979775050612736",
-        "nickName": "金诚-usdt",
-        "minSingleTransAmount": "10",
-        "maxSingleTransAmount": "15",
+        "advNo": "12932717058136502272",
+        "nickName": "Any-payment",
+        "minSingleTransAmount": "30",
+        "maxSingleTransAmount": "3000",
         "tradeMethods": [
-          "ABA",
-          "KHQR"
+          "ABA"
         ]
       },
       "SELL": {
@@ -151,28 +156,31 @@
     },
     "EUR": {
       "BUY": {
-        "price": 0.875,
+        "price": 0.871,
         "pickedIndex": 1,
-        "availableRows": 10,
-        "advNo": "13730263028184322048",
-        "nickName": "Sashok",
-        "minSingleTransAmount": "400",
-        "maxSingleTransAmount": "400",
+        "availableRows": 11,
+        "advNo": "12933915010953953280",
+        "nickName": "0xBesement",
+        "minSingleTransAmount": "100",
+        "maxSingleTransAmount": "150",
         "tradeMethods": [
           "Wise"
         ]
       },
       "SELL": {
-        "price": 0.88,
+        "price": 0.926,
         "pickedIndex": 1,
-        "availableRows": 10,
-        "advNo": "12927757501982502912",
-        "nickName": "ANGELAEXPRESS_SYNTEK",
-        "minSingleTransAmount": "20000",
-        "maxSingleTransAmount": "100000",
+        "availableRows": 11,
+        "advNo": "12934279932601434112",
+        "nickName": "Rosado2026Mayus",
+        "minSingleTransAmount": "25000",
+        "maxSingleTransAmount": "28000",
         "tradeMethods": [
           "BBVA",
-          "Bank Transfer"
+          "SEPA Instant",
+          "ING",
+          "Banco Santander (Spain)",
+          "N26"
         ]
       }
     }
