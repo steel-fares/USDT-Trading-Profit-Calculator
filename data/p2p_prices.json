@@ -1,45 +1,47 @@
 {
-  "updatedAt": 1790632565739,
+  "updatedAt": 1790646097700,
   "source": "Binance P2P web endpoint",
   "asset": "USDT",
   "prices": {
     "OMR": {
       "BUY": {
-        "price": 0.39,
+        "price": 0.389,
         "pickedIndex": 1,
-        "availableRows": 10,
-        "advNo": "13930645625483493376",
-        "nickName": "CryptoAnalysts",
-        "minSingleTransAmount": "200",
-        "maxSingleTransAmount": "10000",
+        "availableRows": 11,
+        "advNo": "12937976742729773056",
+        "nickName": "Monax_trade",
+        "minSingleTransAmount": "128",
+        "maxSingleTransAmount": "129",
         "tradeMethods": [
           "Bank Muscat",
-          "Bank Dhofar",
-          "Ahlibank"
+          "Bank Transfer",
+          "Airtime Mobile Top-Up",
+          "Bank Dhofar"
         ]
       },
       "SELL": {
         "price": 0.388,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12857662883720544256",
-        "nickName": "Audry Fara qliq",
-        "minSingleTransAmount": "50",
-        "maxSingleTransAmount": "400",
+        "advNo": "12929137778574278656",
+        "nickName": "abdo _ salah",
+        "minSingleTransAmount": "105",
+        "maxSingleTransAmount": "105",
         "tradeMethods": [
-          "Bank Muscat"
+          "Bank Muscat",
+          "Sohar International"
         ]
       }
     },
     "EGP": {
       "BUY": {
-        "price": 52.72,
+        "price": 52.75,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12927826785987649536",
-        "nickName": "Omareta",
-        "minSingleTransAmount": "1750",
-        "maxSingleTransAmount": "1770",
+        "advNo": "12938046002282352640",
+        "nickName": "User-b87f8",
+        "minSingleTransAmount": "11000",
+        "maxSingleTransAmount": "11000",
         "tradeMethods": [
           "Instapay"
         ]
@@ -48,10 +50,10 @@
         "price": 53.4,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12917803890493763584",
-        "nickName": "One_stere",
-        "minSingleTransAmount": "5000",
-        "maxSingleTransAmount": "5001",
+        "advNo": "12755197079526731776",
+        "nickName": "algentel",
+        "minSingleTransAmount": "20000",
+        "maxSingleTransAmount": "20001",
         "tradeMethods": [
           "VodafoneCash"
         ]
@@ -101,14 +103,15 @@
         ]
       },
       "SELL": {
-        "price": 3.96,
+        "price": 3.9,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12926487025765830656",
-        "nickName": "141819",
-        "minSingleTransAmount": "98",
-        "maxSingleTransAmount": "101",
+        "advNo": "12933256427609763840",
+        "nickName": "BITCOINPRO-8750",
+        "minSingleTransAmount": "82",
+        "maxSingleTransAmount": "100000",
         "tradeMethods": [
+          "Mobily Pay",
           "Bank Transfer"
         ]
       }
@@ -148,34 +151,28 @@
     },
     "EUR": {
       "BUY": {
-        "price": 0.886,
+        "price": 0.885,
         "pickedIndex": 1,
         "availableRows": 10,
-        "advNo": "13937698863013806080",
-        "nickName": "CRYPNODES",
-        "minSingleTransAmount": "500",
-        "maxSingleTransAmount": "23283",
+        "advNo": "12931040874262577152",
+        "nickName": "tutvremenno",
+        "minSingleTransAmount": "1000",
+        "maxSingleTransAmount": "1001",
         "tradeMethods": [
-          "Bank Transfer",
-          "SEPA (EU) bank transfer",
-          "SEPA Instant",
-          "Wise"
+          "Skrill"
         ]
       },
       "SELL": {
-        "price": 0.899,
+        "price": 0.888,
         "pickedIndex": 1,
-        "availableRows": 11,
-        "advNo": "12835048964740521984",
-        "nickName": "VVS_EXCHANGE",
-        "minSingleTransAmount": "2250",
-        "maxSingleTransAmount": "2300",
+        "availableRows": 10,
+        "advNo": "12907724498213060608",
+        "nickName": "LiubovUkr",
+        "minSingleTransAmount": "490",
+        "maxSingleTransAmount": "10000",
         "tradeMethods": [
-          "Erste Bank",
           "SEPA (EU) bank transfer",
-          "SEPA Instant",
-          "N26",
-          "ING"
+          "SEPA Instant"
         ]
       }
     }
