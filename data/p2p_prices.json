@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1790723361595,
+  "updatedAt": 1790734071490,
   "source": "Binance P2P web endpoint",
   "asset": "USDT",
   "prices": {
@@ -35,16 +35,16 @@
     },
     "EGP": {
       "BUY": {
-        "price": 52.7,
+        "price": 52.79,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12833837889089728512",
-        "nickName": "Crypto-Crave",
-        "minSingleTransAmount": "16800",
-        "maxSingleTransAmount": "250000",
+        "advNo": "12937837842443689984",
+        "nickName": "Companyki",
+        "minSingleTransAmount": "5000",
+        "maxSingleTransAmount": "13600",
         "tradeMethods": [
-          "Alex Bank",
-          "Bank Transfer"
+          "Instapay",
+          "Alex Bank"
         ]
       },
       "SELL": {
@@ -64,27 +64,32 @@
     },
     "AED": {
       "BUY": {
-        "price": 3.694,
+        "price": 3.69,
         "pickedIndex": 1,
         "availableRows": 10,
-        "advNo": "13935621828607713280",
-        "nickName": "Admol Digital FZCO",
-        "minSingleTransAmount": "50000",
-        "maxSingleTransAmount": "7000000",
+        "advNo": "12938336680689647616",
+        "nickName": "MORY22",
+        "minSingleTransAmount": "10000",
+        "maxSingleTransAmount": "25000",
         "tradeMethods": [
-          "Bank Transfer"
+          "ADIB: Abu Dhabi Islamic Bank",
+          "Bank Transfer",
+          "Bank Transfer (Middle East)"
         ]
       },
       "SELL": {
-        "price": 3.675,
+        "price": 3.7,
         "pickedIndex": 1,
-        "availableRows": 10,
-        "advNo": "12932447362312286208",
-        "nickName": "Makpro15",
-        "minSingleTransAmount": "2145",
-        "maxSingleTransAmount": "2145",
+        "availableRows": 11,
+        "advNo": "12937764317153247232",
+        "nickName": "Sam5577",
+        "minSingleTransAmount": "7399",
+        "maxSingleTransAmount": "7400",
         "tradeMethods": [
-          "Bank Transfer"
+          "International Wire (SWIFT)",
+          "Emirates NBD",
+          "Abu Dhabi Commercial Bank ADCB",
+          "CIB | Commercial International Bank Egypt"
         ]
       }
     },
@@ -104,15 +109,15 @@
         ]
       },
       "SELL": {
-        "price": 3.96,
+        "price": 3.85,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12926487025765830656",
-        "nickName": "141819",
-        "minSingleTransAmount": "298",
-        "maxSingleTransAmount": "301",
+        "advNo": "12921688706977054720",
+        "nickName": "Best-----Coins",
+        "minSingleTransAmount": "10",
+        "maxSingleTransAmount": "188",
         "tradeMethods": [
-          "Bank Transfer"
+          "urpay"
         ]
       }
     },
@@ -148,30 +153,31 @@
     },
     "EUR": {
       "BUY": {
-        "price": 0.888,
+        "price": 0.89,
         "pickedIndex": 1,
         "availableRows": 10,
-        "advNo": "13937698863013806080",
-        "nickName": "CRYPNODES",
-        "minSingleTransAmount": "500",
-        "maxSingleTransAmount": "23165",
+        "advNo": "13931070330930716672",
+        "nickName": "VincitoreGroup",
+        "minSingleTransAmount": "350",
+        "maxSingleTransAmount": "100000",
         "tradeMethods": [
-          "Bank Transfer",
           "SEPA (EU) bank transfer",
           "SEPA Instant",
-          "Wise"
+          "Bank Transfer",
+          "CaixaBank (Spain)",
+          "Bunq"
         ]
       },
       "SELL": {
         "price": 0.9,
         "pickedIndex": 1,
         "availableRows": 10,
-        "advNo": "12938385176934232064",
-        "nickName": "nokiacake",
-        "minSingleTransAmount": "816",
-        "maxSingleTransAmount": "817",
+        "advNo": "12938324254708756480",
+        "nickName": "cambios YC",
+        "minSingleTransAmount": "990",
+        "maxSingleTransAmount": "1000",
         "tradeMethods": [
-          "Bizum"
+          "CaixaBank (Spain)"
         ]
       }
     }
