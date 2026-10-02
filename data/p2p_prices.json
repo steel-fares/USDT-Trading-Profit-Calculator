@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1790966567140,
+  "updatedAt": 1790980536182,
   "source": "Binance P2P web endpoint",
   "asset": "USDT",
   "prices": {
@@ -22,10 +22,10 @@
         "price": 0.388,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12823595385510985728",
-        "nickName": "DIVINE-Provision",
-        "minSingleTransAmount": "50",
-        "maxSingleTransAmount": "500",
+        "advNo": "12936401018963464192",
+        "nickName": "Best_Trader_Pro",
+        "minSingleTransAmount": "10",
+        "maxSingleTransAmount": "100",
         "tradeMethods": [
           "Bank Muscat"
         ]
@@ -33,25 +33,25 @@
     },
     "EGP": {
       "BUY": {
-        "price": 52.5,
+        "price": 52.6,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12939409013879562240",
-        "nickName": "Dr_M-Ibrahim",
-        "minSingleTransAmount": "5000",
-        "maxSingleTransAmount": "5400",
+        "advNo": "12939218256154316800",
+        "nickName": "PRESTIGE_STORE",
+        "minSingleTransAmount": "3000",
+        "maxSingleTransAmount": "500000",
         "tradeMethods": [
           "Instapay"
         ]
       },
       "SELL": {
-        "price": 53.06,
+        "price": 53.17,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12904555786959409152",
-        "nickName": "User-1037a",
-        "minSingleTransAmount": "2500",
-        "maxSingleTransAmount": "2501",
+        "advNo": "12900041540995776512",
+        "nickName": "ElConsul",
+        "minSingleTransAmount": "8600",
+        "maxSingleTransAmount": "8601",
         "tradeMethods": [
           "VodafoneCash"
         ]
@@ -71,15 +71,17 @@
         ]
       },
       "SELL": {
-        "price": 3.676,
+        "price": 3.669,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12939397094055153664",
-        "nickName": "ZeZo-99",
-        "minSingleTransAmount": "1000",
-        "maxSingleTransAmount": "2800",
+        "advNo": "12927998516145520640",
+        "nickName": "MANUELJAY1",
+        "minSingleTransAmount": "19999",
+        "maxSingleTransAmount": "20000",
         "tradeMethods": [
-          "Abu Dhabi Commercial Bank ADCB"
+          "Cash Deposit to Bank",
+          "Abu Dhabi Commercial Bank ADCB",
+          "Emirates NBD"
         ]
       }
     },
@@ -101,13 +103,13 @@
         ]
       },
       "SELL": {
-        "price": 3.86,
+        "price": 3.88,
         "pickedIndex": 1,
         "availableRows": 11,
         "advNo": "12796166457700691968",
         "nickName": "EL-BOB21",
         "minSingleTransAmount": "499",
-        "maxSingleTransAmount": "5000",
+        "maxSingleTransAmount": "500",
         "tradeMethods": [
           "urpay"
         ]
@@ -146,29 +148,32 @@
     },
     "EUR": {
       "BUY": {
-        "price": 0.888,
+        "price": 0.89,
         "pickedIndex": 1,
-        "availableRows": 11,
-        "advNo": "13726976028637945856",
-        "nickName": "Sashok",
-        "minSingleTransAmount": "400",
-        "maxSingleTransAmount": "400",
+        "availableRows": 10,
+        "advNo": "13913552808499863552",
+        "nickName": "RAC00N",
+        "minSingleTransAmount": "100",
+        "maxSingleTransAmount": "5500",
         "tradeMethods": [
-          "Wise"
+          "TBC Bank",
+          "Bank of Georgia",
+          "Fastoo wallet"
         ]
       },
       "SELL": {
-        "price": 0.968,
+        "price": 0.935,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12938275397233393664",
-        "nickName": "Keenan Buttrey hBEH",
-        "minSingleTransAmount": "1250",
-        "maxSingleTransAmount": "1251",
+        "advNo": "12936159471622713344",
+        "nickName": "gabriellopez",
+        "minSingleTransAmount": "26700",
+        "maxSingleTransAmount": "28800",
         "tradeMethods": [
-          "BBVA",
           "Banco Santander (Spain)",
-          "CaixaBank (Spain)",
+          "SEPA Instant",
+          "N26",
+          "BBVA",
           "ING"
         ]
       }
