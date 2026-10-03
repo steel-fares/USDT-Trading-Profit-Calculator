@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1791030314361,
+  "updatedAt": 1791045367188,
   "source": "Binance P2P web endpoint",
   "asset": "USDT",
   "prices": {
@@ -8,23 +8,24 @@
         "price": 0.389,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12919488509102678016",
-        "nickName": "BOOOOS1",
-        "minSingleTransAmount": "200",
-        "maxSingleTransAmount": "2500",
+        "advNo": "13935680518732656640",
+        "nickName": "OMAN_OTC_SERVICE",
+        "minSingleTransAmount": "350",
+        "maxSingleTransAmount": "10000",
         "tradeMethods": [
           "Bank Muscat",
-          "Airtime Mobile Top-Up"
+          "Sohar International",
+          "Ahlibank"
         ]
       },
       "SELL": {
         "price": 0.388,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12930882605975875584",
-        "nickName": "MGM_Exchange",
-        "minSingleTransAmount": "50",
-        "maxSingleTransAmount": "800",
+        "advNo": "12939606669134057472",
+        "nickName": "M-BlueDiamond",
+        "minSingleTransAmount": "200",
+        "maxSingleTransAmount": "230",
         "tradeMethods": [
           "Bank Muscat"
         ]
@@ -32,25 +33,25 @@
     },
     "EGP": {
       "BUY": {
-        "price": 52.5,
+        "price": 52.48,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12939629463305220096",
-        "nickName": "User-f3268",
-        "minSingleTransAmount": "20000",
-        "maxSingleTransAmount": "20001",
+        "advNo": "13883885957529493504",
+        "nickName": "one-piece_",
+        "minSingleTransAmount": "5110",
+        "maxSingleTransAmount": "5111",
         "tradeMethods": [
           "Instapay"
         ]
       },
       "SELL": {
-        "price": 52.95,
+        "price": 52.91,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12916088517277429760",
-        "nickName": "H-R-B",
-        "minSingleTransAmount": "20000",
-        "maxSingleTransAmount": "20001",
+        "advNo": "12938782833973686272",
+        "nickName": "U-s-D2",
+        "minSingleTransAmount": "7000",
+        "maxSingleTransAmount": "7001",
         "tradeMethods": [
           "VodafoneCash"
         ]
@@ -58,33 +59,31 @@
     },
     "AED": {
       "BUY": {
-        "price": 3.69,
+        "price": 3.685,
         "pickedIndex": 1,
         "availableRows": 10,
-        "advNo": "13937774420658499584",
-        "nickName": "EmiratesP2P",
-        "minSingleTransAmount": "188320",
-        "maxSingleTransAmount": "1000000",
+        "advNo": "12935346556013875200",
+        "nickName": "DISCOPARI",
+        "minSingleTransAmount": "2500",
+        "maxSingleTransAmount": "3000",
         "tradeMethods": [
-          "Abu Dhabi Commercial Bank ADCB",
-          "Bank Transfer",
-          "Emirates NBD",
-          "ADIB: Abu Dhabi Islamic Bank",
-          "Aani"
+          "Abu Dhabi Commercial Bank ADCB"
         ]
       },
       "SELL": {
-        "price": 3.673,
+        "price": 3.675,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12935387868946407424",
-        "nickName": "Global-Trade-P2P-亗",
-        "minSingleTransAmount": "3000",
-        "maxSingleTransAmount": "11000",
+        "advNo": "12936700185590878208",
+        "nickName": "Mohammed479",
+        "minSingleTransAmount": "12729",
+        "maxSingleTransAmount": "12730",
         "tradeMethods": [
+          "ADIB: Abu Dhabi Islamic Bank",
+          "Aani",
           "Bank Transfer",
-          "Transfers with specific bank",
-          "Bank Transfer (Middle East)"
+          "Emirates NBD",
+          "Abu Dhabi Commercial Bank ADCB"
         ]
       }
     },
@@ -106,57 +105,60 @@
         ]
       },
       "SELL": {
-        "price": 4.0,
+        "price": 3.85,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12939647238077464576",
-        "nickName": "PRIME_TRADER4545",
-        "minSingleTransAmount": "5000",
-        "maxSingleTransAmount": "100000",
+        "advNo": "12937269184699133952",
+        "nickName": "P2P-f487d0kr",
+        "minSingleTransAmount": "700",
+        "maxSingleTransAmount": "750",
         "tradeMethods": [
-          "Bank Transfer"
+          "urpay"
         ]
       }
     },
     "USD": {
       "BUY": {
-        "price": 0.99,
+        "price": 0.999,
         "pickedIndex": 1,
-        "availableRows": 10,
-        "advNo": "12939383436313399296",
-        "nickName": "bryantph",
-        "minSingleTransAmount": "100",
-        "maxSingleTransAmount": "350",
+        "availableRows": 11,
+        "advNo": "12938612624898928640",
+        "nickName": "ll-Allah-is-Great-ll",
+        "minSingleTransAmount": "20",
+        "maxSingleTransAmount": "20",
         "tradeMethods": [
-          "BAC Credomatic Nicaragua",
-          "Banco Lafise Nicaragua"
+          "Wise"
         ]
       },
       "SELL": {
         "price": 1.1,
         "pickedIndex": 1,
-        "availableRows": 10,
-        "advNo": "12928551676746862592",
-        "nickName": "Dr Haval Mamar",
-        "minSingleTransAmount": "7499",
-        "maxSingleTransAmount": "7500",
+        "availableRows": 11,
+        "advNo": "12918177341462491136",
+        "nickName": "princessFatimaRani",
+        "minSingleTransAmount": "15",
+        "maxSingleTransAmount": "5000",
         "tradeMethods": [
-          "ADIB: Abu Dhabi Islamic Bank"
+          "stc pay",
+          "Google Pay (GPay)",
+          "IMPS",
+          "PhonePe",
+          "Easypaisa-PK Only"
         ]
       }
     },
     "EUR": {
       "BUY": {
-        "price": 0.888,
+        "price": 0.889,
         "pickedIndex": 1,
         "availableRows": 10,
-        "advNo": "13913552808499863552",
-        "nickName": "RAC00N",
-        "minSingleTransAmount": "100",
-        "maxSingleTransAmount": "5500",
+        "advNo": "13934693700517797888",
+        "nickName": "-BEQA-",
+        "minSingleTransAmount": "150",
+        "maxSingleTransAmount": "11400",
         "tradeMethods": [
-          "TBC Bank",
           "Bank of Georgia",
+          "TBC Bank",
           "Fastoo wallet"
         ]
       },
