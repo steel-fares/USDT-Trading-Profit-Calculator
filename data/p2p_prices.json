@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1791670944239,
+  "updatedAt": 1791680787735,
   "source": "Binance P2P web endpoint",
   "asset": "USDT",
   "prices": {
@@ -32,25 +32,25 @@
     },
     "EGP": {
       "BUY": {
-        "price": 52.79,
+        "price": 52.78,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12942185612307898368",
-        "nickName": "3tra25",
-        "minSingleTransAmount": "10000",
-        "maxSingleTransAmount": "13070",
+        "advNo": "12942310835855867904",
+        "nickName": "MASTER_CRYPTO_PRIME",
+        "minSingleTransAmount": "1200",
+        "maxSingleTransAmount": "500000",
         "tradeMethods": [
           "Instapay"
         ]
       },
       "SELL": {
-        "price": 53.05,
+        "price": 53.17,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12941030119338897408",
-        "nickName": "AB-Alp",
-        "minSingleTransAmount": "14000",
-        "maxSingleTransAmount": "14001",
+        "advNo": "12842202408936706048",
+        "nickName": "MR_HLMOS",
+        "minSingleTransAmount": "3999",
+        "maxSingleTransAmount": "4000",
         "tradeMethods": [
           "VodafoneCash"
         ]
@@ -58,39 +58,42 @@
     },
     "AED": {
       "BUY": {
-        "price": 3.683,
+        "price": 3.684,
         "pickedIndex": 1,
         "availableRows": 10,
-        "advNo": "12935790624863842304",
-        "nickName": "cryptobullrun1",
-        "minSingleTransAmount": "181",
-        "maxSingleTransAmount": "381",
+        "advNo": "12942272832393609216",
+        "nickName": "kanac_alyafai",
+        "minSingleTransAmount": "2000",
+        "maxSingleTransAmount": "25000",
         "tradeMethods": [
+          "Abu Dhabi Commercial Bank ADCB",
           "Bank Transfer"
         ]
       },
       "SELL": {
-        "price": 3.671,
+        "price": 3.665,
         "pickedIndex": 1,
         "availableRows": 10,
-        "advNo": "12815965351019069440",
-        "nickName": "GOLWALA-AK",
-        "minSingleTransAmount": "2000",
-        "maxSingleTransAmount": "2730",
+        "advNo": "12939323797927395328",
+        "nickName": "KING_USDT12",
+        "minSingleTransAmount": "19399",
+        "maxSingleTransAmount": "19400",
         "tradeMethods": [
-          "Bank Transfer"
+          "Bank Transfer",
+          "Abu Dhabi Commercial Bank ADCB",
+          "ADIB: Abu Dhabi Islamic Bank"
         ]
       }
     },
     "SAR": {
       "BUY": {
-        "price": 3.78,
+        "price": 3.77,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12940568860234833920",
-        "nickName": "User-2d577",
-        "minSingleTransAmount": "105",
-        "maxSingleTransAmount": "106",
+        "advNo": "12933402814407741440",
+        "nickName": "User-a6d4hd",
+        "minSingleTransAmount": "107",
+        "maxSingleTransAmount": "107",
         "tradeMethods": [
           "Bank Transfer"
         ]
@@ -136,28 +139,27 @@
     },
     "EUR": {
       "BUY": {
-        "price": 0.89,
+        "price": 0.904,
         "pickedIndex": 1,
-        "availableRows": 11,
-        "advNo": "13942301957938524160",
-        "nickName": "Kise-__-",
-        "minSingleTransAmount": "2541",
-        "maxSingleTransAmount": "2541",
+        "availableRows": 10,
+        "advNo": "13939991268170952704",
+        "nickName": "浩然商行_24小时在线",
+        "minSingleTransAmount": "500",
+        "maxSingleTransAmount": "3000",
         "tradeMethods": [
-          "Wise",
-          "Bank Transfer"
+          "SEPA Instant"
         ]
       },
       "SELL": {
-        "price": 0.93,
+        "price": 0.899,
         "pickedIndex": 1,
-        "availableRows": 11,
-        "advNo": "12939765628901138432",
-        "nickName": "CambiosOrion1",
-        "minSingleTransAmount": "40",
-        "maxSingleTransAmount": "40",
+        "availableRows": 10,
+        "advNo": "12791872956006469632",
+        "nickName": "lousse",
+        "minSingleTransAmount": "187",
+        "maxSingleTransAmount": "188",
         "tradeMethods": [
-          "Bizum"
+          "Dukascopy Bank"
         ]
       }
     }
