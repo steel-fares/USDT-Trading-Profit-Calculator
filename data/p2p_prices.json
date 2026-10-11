@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1791702565727,
+  "updatedAt": 1791727387899,
   "source": "Binance P2P web endpoint",
   "asset": "USDT",
   "prices": {
@@ -7,54 +7,53 @@
       "BUY": {
         "price": 0.389,
         "pickedIndex": 1,
-        "availableRows": 11,
-        "advNo": "13900154687550676992",
-        "nickName": "HARPY__EAGLE",
-        "minSingleTransAmount": "200",
-        "maxSingleTransAmount": "1500",
+        "availableRows": 10,
+        "advNo": "13888233781692841984",
+        "nickName": "Aboelmagd1996",
+        "minSingleTransAmount": "1000",
+        "maxSingleTransAmount": "10000",
         "tradeMethods": [
-          "Airtime Mobile Top-Up",
-          "Bank Dhofar"
+          "Bank Dhofar",
+          "Sohar International"
         ]
       },
       "SELL": {
-        "price": 0.389,
+        "price": 0.387,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12836152209350377472",
-        "nickName": "AL_OmDa",
-        "minSingleTransAmount": "99",
-        "maxSingleTransAmount": "100",
+        "advNo": "12937458508079153152",
+        "nickName": "Amazig",
+        "minSingleTransAmount": "500",
+        "maxSingleTransAmount": "2500",
         "tradeMethods": [
-          "Bank Transfer"
+          "Bank Dhofar",
+          "Airtime Mobile Top-Up"
         ]
       }
     },
     "EGP": {
       "BUY": {
-        "price": 52.77,
+        "price": 52.8,
         "pickedIndex": 1,
-        "availableRows": 10,
-        "advNo": "13929248566499966976",
-        "nickName": "JUST_KING_TRUST",
-        "minSingleTransAmount": "50000",
-        "maxSingleTransAmount": "500000",
+        "availableRows": 11,
+        "advNo": "13925973868146270208",
+        "nickName": "Crypto-ELi_2",
+        "minSingleTransAmount": "25000",
+        "maxSingleTransAmount": "28000",
         "tradeMethods": [
-          "Instapay",
           "Bank Transfer",
-          "Alex Bank",
-          "CIB | Commercial International Bank Egypt",
-          "Banque Misr"
+          "Instapay",
+          "CIB | Commercial International Bank Egypt"
         ]
       },
       "SELL": {
-        "price": 52.97,
+        "price": 53.26,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12923459584944971776",
-        "nickName": "Asd33",
-        "minSingleTransAmount": "10000",
-        "maxSingleTransAmount": "10001",
+        "advNo": "12916095383786274816",
+        "nickName": "thekngeofEgypt",
+        "minSingleTransAmount": "24200",
+        "maxSingleTransAmount": "24201",
         "tradeMethods": [
           "VodafoneCash"
         ]
@@ -62,7 +61,7 @@
     },
     "AED": {
       "BUY": {
-        "price": 3.679,
+        "price": 3.68,
         "pickedIndex": 1,
         "availableRows": 10,
         "advNo": "13920323294929522688",
@@ -74,41 +73,42 @@
         ]
       },
       "SELL": {
-        "price": 3.666,
+        "price": 3.665,
         "pickedIndex": 1,
         "availableRows": 10,
-        "advNo": "12937575409245601792",
-        "nickName": "Piplumsh",
-        "minSingleTransAmount": "24999",
-        "maxSingleTransAmount": "25000",
+        "advNo": "12935481169844535296",
+        "nickName": "User-bf27e",
+        "minSingleTransAmount": "205",
+        "maxSingleTransAmount": "5000",
         "tradeMethods": [
-          "Cash Deposit to Bank"
+          "Abu Dhabi Commercial Bank ADCB"
         ]
       }
     },
     "SAR": {
       "BUY": {
-        "price": 3.77,
+        "price": 3.79,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12928507198305349632",
-        "nickName": "Al Amin33",
-        "minSingleTransAmount": "118",
-        "maxSingleTransAmount": "118",
+        "advNo": "12933402814407741440",
+        "nickName": "User-a6d4hd",
+        "minSingleTransAmount": "110",
+        "maxSingleTransAmount": "110",
         "tradeMethods": [
-          "barq"
+          "Bank Transfer",
+          "Al Rajhi Bank"
         ]
       },
       "SELL": {
-        "price": 3.85,
+        "price": 3.83,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12942484475497766912",
-        "nickName": "haljarie",
-        "minSingleTransAmount": "90",
-        "maxSingleTransAmount": "100",
+        "advNo": "12736161376127221760",
+        "nickName": "dahoom",
+        "minSingleTransAmount": "20000",
+        "maxSingleTransAmount": "40000",
         "tradeMethods": [
-          "urpay"
+          "Skrill"
         ]
       }
     },
@@ -154,15 +154,18 @@
         ]
       },
       "SELL": {
-        "price": 0.899,
+        "price": 0.91,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12791872956006469632",
-        "nickName": "lousse",
-        "minSingleTransAmount": "187",
-        "maxSingleTransAmount": "188",
+        "advNo": "12889805548964708352",
+        "nickName": "MT-09",
+        "minSingleTransAmount": "299",
+        "maxSingleTransAmount": "300",
         "tradeMethods": [
-          "Dukascopy Bank"
+          "Banco Santander (Spain)",
+          "Banco Sabadell (Spain)",
+          "CaixaBank (Spain)",
+          "BBVA"
         ]
       }
     }
