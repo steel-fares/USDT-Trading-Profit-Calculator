@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1791933890267,
+  "updatedAt": 1791943474772,
   "source": "Binance P2P web endpoint",
   "asset": "USDT",
   "prices": {
@@ -35,25 +35,25 @@
     },
     "EGP": {
       "BUY": {
-        "price": 53.34,
+        "price": 53.47,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "13937235798202978304",
-        "nickName": "MAR_1894",
-        "minSingleTransAmount": "100000",
-        "maxSingleTransAmount": "100001",
+        "advNo": "12889298973745180672",
+        "nickName": "0_second_release",
+        "minSingleTransAmount": "5000",
+        "maxSingleTransAmount": "5001",
         "tradeMethods": [
           "Instapay"
         ]
       },
       "SELL": {
-        "price": 53.95,
+        "price": 53.87,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12842202408936706048",
-        "nickName": "MR_HLMOS",
-        "minSingleTransAmount": "4999",
-        "maxSingleTransAmount": "5000",
+        "advNo": "12926942728635289600",
+        "nickName": "_The_Dragon_",
+        "minSingleTransAmount": "5000",
+        "maxSingleTransAmount": "5001",
         "tradeMethods": [
           "VodafoneCash"
         ]
@@ -73,17 +73,15 @@
         ]
       },
       "SELL": {
-        "price": 3.663,
+        "price": 3.666,
         "pickedIndex": 1,
         "availableRows": 10,
-        "advNo": "12939323797927395328",
-        "nickName": "KING_USDT12",
-        "minSingleTransAmount": "8800",
-        "maxSingleTransAmount": "8801",
+        "advNo": "12815965351019069440",
+        "nickName": "GOLWALA-AK",
+        "minSingleTransAmount": "5000",
+        "maxSingleTransAmount": "6600",
         "tradeMethods": [
-          "Bank Transfer",
-          "Abu Dhabi Commercial Bank ADCB",
-          "ADIB: Abu Dhabi Islamic Bank"
+          "Bank Transfer"
         ]
       }
     },
@@ -116,15 +114,18 @@
     },
     "USD": {
       "BUY": {
-        "price": 1.0,
+        "price": 0.999,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12556206845790932992",
-        "nickName": "誌得其樂",
-        "minSingleTransAmount": "15",
-        "maxSingleTransAmount": "1500",
+        "advNo": "13936265271249674240",
+        "nickName": "TLC-KHMER-FAST",
+        "minSingleTransAmount": "300",
+        "maxSingleTransAmount": "10000",
         "tradeMethods": [
-          "Bank Transfer (Taiwan)"
+          "ABA",
+          "KHQR",
+          "ACLEDA Bank",
+          "Wing Money"
         ]
       },
       "SELL": {
@@ -142,15 +143,19 @@
     },
     "EUR": {
       "BUY": {
-        "price": 0.89,
+        "price": 0.897,
         "pickedIndex": 1,
-        "availableRows": 11,
-        "advNo": "13943449223808081920",
-        "nickName": "CambiosOrion",
-        "minSingleTransAmount": "10",
-        "maxSingleTransAmount": "250",
+        "availableRows": 10,
+        "advNo": "13925242500793704448",
+        "nickName": "VincitoreGroup",
+        "minSingleTransAmount": "4500",
+        "maxSingleTransAmount": "100000",
         "tradeMethods": [
-          "Wise"
+          "SEPA (EU) bank transfer",
+          "SEPA Instant",
+          "Bank Transfer",
+          "CaixaBank (Spain)",
+          "Bunq"
         ]
       },
       "SELL": {
