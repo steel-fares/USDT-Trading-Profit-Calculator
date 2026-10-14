@@ -1,19 +1,21 @@
 {
-  "updatedAt": 1792000674226,
+  "updatedAt": 1792013572414,
   "source": "Binance P2P web endpoint",
   "asset": "USDT",
   "prices": {
     "OMR": {
       "BUY": {
-        "price": 0.388,
+        "price": 0.389,
         "pickedIndex": 1,
-        "availableRows": 11,
-        "advNo": "12917289228686737408",
-        "nickName": "FATMUenterprises",
-        "minSingleTransAmount": "300",
-        "maxSingleTransAmount": "2500",
+        "availableRows": 10,
+        "advNo": "13935680518732656640",
+        "nickName": "OMAN_OTC_SERVICE",
+        "minSingleTransAmount": "250",
+        "maxSingleTransAmount": "10000",
         "tradeMethods": [
-          "Bank Muscat"
+          "Bank Muscat",
+          "Sohar International",
+          "Ahlibank"
         ]
       },
       "SELL": {
@@ -35,16 +37,16 @@
         "price": 53.8,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12943739415348121600",
-        "nickName": "P2P-31b733ql",
-        "minSingleTransAmount": "19723",
-        "maxSingleTransAmount": "20000",
+        "advNo": "12942671291010039808",
+        "nickName": "Geniusssman",
+        "minSingleTransAmount": "5000",
+        "maxSingleTransAmount": "9000",
         "tradeMethods": [
           "Instapay"
         ]
       },
       "SELL": {
-        "price": 54.5,
+        "price": 54.3,
         "pickedIndex": 1,
         "availableRows": 11,
         "advNo": "12926661548868866048",
@@ -60,16 +62,17 @@
     },
     "AED": {
       "BUY": {
-        "price": 3.683,
+        "price": 3.679,
         "pickedIndex": 1,
         "availableRows": 10,
-        "advNo": "13936738586761326592",
-        "nickName": "MansooriX",
-        "minSingleTransAmount": "25000",
-        "maxSingleTransAmount": "500000",
+        "advNo": "13943688057657249792",
+        "nickName": "ALPHA_DIGITAL_LLC",
+        "minSingleTransAmount": "5000",
+        "maxSingleTransAmount": "1000000",
         "tradeMethods": [
           "Bank Transfer",
           "Abu Dhabi Commercial Bank ADCB",
+          "AL MASHREQ Bank",
           "ADIB: Abu Dhabi Islamic Bank"
         ]
       },
@@ -117,52 +120,57 @@
     },
     "USD": {
       "BUY": {
-        "price": 0.999,
+        "price": 1.0,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "13918284468436971520",
-        "nickName": "Your_Crypto_Xchanger",
-        "minSingleTransAmount": "20",
-        "maxSingleTransAmount": "20",
+        "advNo": "12556206845790932992",
+        "nickName": "誌得其樂",
+        "minSingleTransAmount": "15",
+        "maxSingleTransAmount": "1500",
         "tradeMethods": [
-          "Wise"
+          "Bank Transfer (Taiwan)"
         ]
       },
       "SELL": {
         "price": 1.1,
         "pickedIndex": 1,
-        "availableRows": 10,
-        "advNo": "12940828962631479296",
-        "nickName": "FastTrader78",
-        "minSingleTransAmount": "250",
+        "availableRows": 11,
+        "advNo": "12928551676746862592",
+        "nickName": "Dr Haval Mamar",
+        "minSingleTransAmount": "7499",
         "maxSingleTransAmount": "7500",
         "tradeMethods": [
-          "Bank Transfer"
+          "ADIB: Abu Dhabi Islamic Bank"
         ]
       }
     },
     "EUR": {
       "BUY": {
-        "price": 0.893,
+        "price": 0.896,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12933522193131376640",
-        "nickName": "Easy___trade",
-        "minSingleTransAmount": "256",
-        "maxSingleTransAmount": "257",
+        "advNo": "13941231200835567616",
+        "nickName": "RAC00N",
+        "minSingleTransAmount": "100",
+        "maxSingleTransAmount": "100000",
         "tradeMethods": [
-          "SEPA Instant"
+          "TBC Bank",
+          "Bank of Georgia",
+          "Fastoo wallet"
         ]
       },
       "SELL": {
-        "price": 0.94,
+        "price": 0.935,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12943470794325504000",
-        "nickName": "Lady_Velle",
-        "minSingleTransAmount": "369",
-        "maxSingleTransAmount": "370",
+        "advNo": "12941700020448153600",
+        "nickName": "What_a_deal",
+        "minSingleTransAmount": "3358",
+        "maxSingleTransAmount": "3359",
         "tradeMethods": [
+          "Banco Santander (Spain)",
+          "Banco Sabadell (Spain)",
+          "Bizum",
           "BBVA"
         ]
       }
