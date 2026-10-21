@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1792605782999,
+  "updatedAt": 1792618528427,
   "source": "Binance P2P web endpoint",
   "asset": "USDT",
   "prices": {
@@ -23,68 +23,67 @@
         "price": 0.387,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12945619889705644032",
-        "nickName": "8r22",
-        "minSingleTransAmount": "5",
-        "maxSingleTransAmount": "10",
+        "advNo": "12836152209350377472",
+        "nickName": "AL_OmDa",
+        "minSingleTransAmount": "199",
+        "maxSingleTransAmount": "200",
         "tradeMethods": [
-          "Bank Muscat"
+          "Bank Transfer"
         ]
       }
     },
     "EGP": {
       "BUY": {
-        "price": 54.78,
+        "price": 54.7,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12946281092806873088",
-        "nickName": "Smartpayyy",
-        "minSingleTransAmount": "4950",
-        "maxSingleTransAmount": "4955",
+        "advNo": "13929212327805505536",
+        "nickName": "Horus-X",
+        "minSingleTransAmount": "57350",
+        "maxSingleTransAmount": "57351",
         "tradeMethods": [
-          "Instapay"
+          "Instapay",
+          "Bank Transfer"
         ]
       },
       "SELL": {
-        "price": 55.8,
+        "price": 55.49,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12946211434579345408",
-        "nickName": "Romaruo-ba91b",
-        "minSingleTransAmount": "500",
-        "maxSingleTransAmount": "5000",
+        "advNo": "12931221033196118016",
+        "nickName": "AbOali1232",
+        "minSingleTransAmount": "490000",
+        "maxSingleTransAmount": "500000",
         "tradeMethods": [
-          "VodafoneCash"
+          "Klivvr"
         ]
       }
     },
     "AED": {
       "BUY": {
-        "price": 3.669,
+        "price": 3.67,
         "pickedIndex": 1,
         "availableRows": 10,
-        "advNo": "13917150848660750336",
-        "nickName": "Fury-Ex",
-        "minSingleTransAmount": "4261",
-        "maxSingleTransAmount": "4261",
+        "advNo": "13944547633295609856",
+        "nickName": "NASSER-TRADER",
+        "minSingleTransAmount": "70000",
+        "maxSingleTransAmount": "7000000",
         "tradeMethods": [
-          "Bank Transfer"
+          "Transfers with specific bank"
         ]
       },
       "SELL": {
-        "price": 3.658,
+        "price": 3.66,
         "pickedIndex": 1,
         "availableRows": 10,
-        "advNo": "12846640834000285696",
-        "nickName": "World_Traders_OTC",
-        "minSingleTransAmount": "30000",
-        "maxSingleTransAmount": "7000000",
+        "advNo": "12886349792767451136",
+        "nickName": "ALLAH_IS_FORGIVING",
+        "minSingleTransAmount": "20000",
+        "maxSingleTransAmount": "26000",
         "tradeMethods": [
-          "Bank Transfer",
-          "Cash Deposit to Bank",
           "Abu Dhabi Commercial Bank ADCB",
           "Emirates NBD",
-          "ADIB: Abu Dhabi Islamic Bank"
+          "Cash Deposit to Bank"
         ]
       }
     },
@@ -147,30 +146,28 @@
     },
     "EUR": {
       "BUY": {
-        "price": 0.893,
+        "price": 0.894,
         "pickedIndex": 1,
-        "availableRows": 11,
-        "advNo": "13935268870146338816",
-        "nickName": "P2P-91d8c0mj",
-        "minSingleTransAmount": "200",
-        "maxSingleTransAmount": "1200",
-        "tradeMethods": [
-          "Wise"
-        ]
-      },
-      "SELL": {
-        "price": 0.94,
-        "pickedIndex": 1,
-        "availableRows": 11,
-        "advNo": "12944008774907977728",
-        "nickName": "coinmetro24",
-        "minSingleTransAmount": "26000",
-        "maxSingleTransAmount": "27000",
+        "availableRows": 10,
+        "advNo": "13913219928729563136",
+        "nickName": "Crypto-Eli",
+        "minSingleTransAmount": "500",
+        "maxSingleTransAmount": "10000",
         "tradeMethods": [
           "SEPA Instant",
           "N26",
-          "ING",
-          "Banco Santander (Spain)",
+          "Bank Transfer"
+        ]
+      },
+      "SELL": {
+        "price": 0.95,
+        "pickedIndex": 1,
+        "availableRows": 11,
+        "advNo": "12945897924681056256",
+        "nickName": "ElectricoLAR",
+        "minSingleTransAmount": "430",
+        "maxSingleTransAmount": "1000",
+        "tradeMethods": [
           "BBVA"
         ]
       }
