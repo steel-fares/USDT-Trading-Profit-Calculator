@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1792618528427,
+  "updatedAt": 1792627893240,
   "source": "Binance P2P web endpoint",
   "asset": "USDT",
   "prices": {
@@ -34,16 +34,15 @@
     },
     "EGP": {
       "BUY": {
-        "price": 54.7,
+        "price": 54.89,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "13929212327805505536",
-        "nickName": "Horus-X",
-        "minSingleTransAmount": "57350",
-        "maxSingleTransAmount": "57351",
+        "advNo": "12945768121310646272",
+        "nickName": "User-6db7d04c",
+        "minSingleTransAmount": "200",
+        "maxSingleTransAmount": "500000",
         "tradeMethods": [
-          "Instapay",
-          "Bank Transfer"
+          "Instapay"
         ]
       },
       "SELL": {
@@ -61,29 +60,30 @@
     },
     "AED": {
       "BUY": {
-        "price": 3.67,
+        "price": 3.668,
         "pickedIndex": 1,
         "availableRows": 10,
-        "advNo": "13944547633295609856",
-        "nickName": "NASSER-TRADER",
-        "minSingleTransAmount": "70000",
-        "maxSingleTransAmount": "7000000",
+        "advNo": "13935381592510517248",
+        "nickName": "亗TRUST_CRYPTO_XCHANG",
+        "minSingleTransAmount": "3000",
+        "maxSingleTransAmount": "15000",
         "tradeMethods": [
-          "Transfers with specific bank"
+          "Bank Transfer (Middle East)",
+          "Bank Transfer"
         ]
       },
       "SELL": {
-        "price": 3.66,
+        "price": 3.661,
         "pickedIndex": 1,
         "availableRows": 10,
-        "advNo": "12886349792767451136",
-        "nickName": "ALLAH_IS_FORGIVING",
-        "minSingleTransAmount": "20000",
-        "maxSingleTransAmount": "26000",
+        "advNo": "12935354499182784512",
+        "nickName": "BORKANCOINS",
+        "minSingleTransAmount": "24999",
+        "maxSingleTransAmount": "25000",
         "tradeMethods": [
           "Abu Dhabi Commercial Bank ADCB",
-          "Emirates NBD",
-          "Cash Deposit to Bank"
+          "Cash Deposit to Bank",
+          "Bank Transfer"
         ]
       }
     },
@@ -119,16 +119,19 @@
     },
     "USD": {
       "BUY": {
-        "price": 0.999,
+        "price": 0.998,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12940201481860845568",
-        "nickName": "SM_S",
-        "minSingleTransAmount": "15",
-        "maxSingleTransAmount": "300",
+        "advNo": "13931586192420352000",
+        "nickName": "OFIC-SEGURA-EFECTIVO",
+        "minSingleTransAmount": "300",
+        "maxSingleTransAmount": "1000",
         "tradeMethods": [
-          "Alipay",
-          "WeChat"
+          "Banco Pichincha",
+          "Banco del pacifico",
+          "Banco Guayaquil",
+          "Banco Internacional",
+          "Banco Bolivariano"
         ]
       },
       "SELL": {
@@ -146,28 +149,33 @@
     },
     "EUR": {
       "BUY": {
-        "price": 0.894,
+        "price": 0.895,
         "pickedIndex": 1,
         "availableRows": 10,
-        "advNo": "13913219928729563136",
-        "nickName": "Crypto-Eli",
-        "minSingleTransAmount": "500",
-        "maxSingleTransAmount": "10000",
+        "advNo": "13925242500793704448",
+        "nickName": "VincitoreGroup",
+        "minSingleTransAmount": "4500",
+        "maxSingleTransAmount": "100000",
         "tradeMethods": [
+          "SEPA (EU) bank transfer",
           "SEPA Instant",
-          "N26",
-          "Bank Transfer"
+          "Bank Transfer",
+          "CaixaBank (Spain)",
+          "Bunq"
         ]
       },
       "SELL": {
-        "price": 0.95,
+        "price": 0.935,
         "pickedIndex": 1,
-        "availableRows": 11,
-        "advNo": "12945897924681056256",
-        "nickName": "ElectricoLAR",
-        "minSingleTransAmount": "430",
-        "maxSingleTransAmount": "1000",
+        "availableRows": 10,
+        "advNo": "12945605784563474432",
+        "nickName": "What_a_deal",
+        "minSingleTransAmount": "5382",
+        "maxSingleTransAmount": "5500",
         "tradeMethods": [
+          "Banco Santander (Spain)",
+          "Banco Sabadell (Spain)",
+          "Bizum",
           "BBVA"
         ]
       }
