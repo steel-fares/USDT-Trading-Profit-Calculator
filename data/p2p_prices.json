@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1794180430086,
+  "updatedAt": 1794192909376,
   "source": "Binance P2P web endpoint",
   "asset": "USDT",
   "prices": {
@@ -7,52 +7,51 @@
       "BUY": {
         "price": 0.389,
         "pickedIndex": 1,
-        "availableRows": 10,
-        "advNo": "12937628635319549952",
-        "nickName": "NASSER_1408",
+        "availableRows": 11,
+        "advNo": "12950095520638287872",
+        "nickName": "good-Exchange-p2p",
         "minSingleTransAmount": "50",
         "maxSingleTransAmount": "2500",
         "tradeMethods": [
-          "Bank Muscat",
-          "Airtime Mobile Top-Up",
-          "Sohar International"
+          "Airtime Mobile Top-Up"
         ]
       },
       "SELL": {
         "price": 0.387,
         "pickedIndex": 1,
-        "availableRows": 10,
-        "advNo": "12928164760409223168",
-        "nickName": "Jaber-alhabsi",
-        "minSingleTransAmount": "30",
-        "maxSingleTransAmount": "400",
+        "availableRows": 11,
+        "advNo": "12952851417360605184",
+        "nickName": "Nova_Xchange",
+        "minSingleTransAmount": "38",
+        "maxSingleTransAmount": "38",
         "tradeMethods": [
-          "Bank Muscat",
+          "Bank Transfer",
+          "Bank Transfer (Middle East)",
           "Airtime Mobile Top-Up"
         ]
       }
     },
     "EGP": {
       "BUY": {
-        "price": 55.25,
+        "price": 55.3,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12952880144254300160",
-        "nickName": "Mohamedelsodany",
-        "minSingleTransAmount": "84300",
+        "advNo": "12952940893526388736",
+        "nickName": "ana_albaba",
+        "minSingleTransAmount": "50001",
         "maxSingleTransAmount": "500000",
         "tradeMethods": [
           "Instapay"
         ]
       },
       "SELL": {
-        "price": 55.55,
+        "price": 55.6,
         "pickedIndex": 1,
         "availableRows": 11,
         "advNo": "12935122390240333824",
         "nickName": "Soma_Pay",
-        "minSingleTransAmount": "20000",
-        "maxSingleTransAmount": "180000",
+        "minSingleTransAmount": "30000",
+        "maxSingleTransAmount": "120000",
         "tradeMethods": [
           "telda"
         ]
@@ -72,15 +71,19 @@
         ]
       },
       "SELL": {
-        "price": 3.667,
+        "price": 3.666,
         "pickedIndex": 1,
         "availableRows": 10,
-        "advNo": "12950295768186032128",
-        "nickName": "abosakeen2",
-        "minSingleTransAmount": "15000",
-        "maxSingleTransAmount": "15500",
+        "advNo": "12943729918467026944",
+        "nickName": "Exchange_Crypto10",
+        "minSingleTransAmount": "3219",
+        "maxSingleTransAmount": "3220",
         "tradeMethods": [
-          "Cash Deposit to Bank"
+          "Aani",
+          "Bank Transfer",
+          "Abu Dhabi Commercial Bank ADCB",
+          "Emirates NBD",
+          "ADIB: Abu Dhabi Islamic Bank"
         ]
       }
     },
@@ -115,13 +118,13 @@
     },
     "USD": {
       "BUY": {
-        "price": 0.99,
+        "price": 1.0,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12952867881318785024",
-        "nickName": "Crash Overrider",
-        "minSingleTransAmount": "15",
-        "maxSingleTransAmount": "500",
+        "advNo": "12938466782354194432",
+        "nickName": "Mindofhns",
+        "minSingleTransAmount": "500",
+        "maxSingleTransAmount": "4500",
         "tradeMethods": [
           "BAC Costa Rica"
         ]
@@ -145,17 +148,17 @@
     },
     "EUR": {
       "BUY": {
-        "price": 0.898,
+        "price": 0.897,
         "pickedIndex": 1,
         "availableRows": 10,
-        "advNo": "13925049268460490752",
-        "nickName": "Rpaat86",
+        "advNo": "13943373877435121664",
+        "nickName": "SmoothOps",
         "minSingleTransAmount": "100",
-        "maxSingleTransAmount": "30000",
+        "maxSingleTransAmount": "3000",
         "tradeMethods": [
-          "Fastoo wallet",
           "Bank of Georgia",
-          "TBC Bank"
+          "TBC Bank",
+          "Fastoo wallet"
         ]
       },
       "SELL": {
