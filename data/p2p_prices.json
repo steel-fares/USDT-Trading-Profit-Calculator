@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1794526563936,
+  "updatedAt": 1794540871048,
   "source": "Binance P2P web endpoint",
   "asset": "USDT",
   "prices": {
@@ -35,13 +35,13 @@
     },
     "EGP": {
       "BUY": {
-        "price": 54.84,
+        "price": 54.94,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "13883885957529493504",
-        "nickName": "one-piece_",
-        "minSingleTransAmount": "50000",
-        "maxSingleTransAmount": "54760",
+        "advNo": "12952207313422610432",
+        "nickName": "mahmoud3ellawy",
+        "minSingleTransAmount": "850",
+        "maxSingleTransAmount": "500000",
         "tradeMethods": [
           "Instapay"
         ]
@@ -61,27 +61,31 @@
     },
     "AED": {
       "BUY": {
-        "price": 3.674,
+        "price": 3.683,
         "pickedIndex": 1,
         "availableRows": 10,
-        "advNo": "13953869905741422592",
-        "nickName": "NASSER-TRADER",
-        "minSingleTransAmount": "70000",
-        "maxSingleTransAmount": "7000000",
+        "advNo": "13930836240039858176",
+        "nickName": "Trex-DXB",
+        "minSingleTransAmount": "2000",
+        "maxSingleTransAmount": "9413",
         "tradeMethods": [
-          "Transfers with specific bank"
+          "Bank Transfer"
         ]
       },
       "SELL": {
         "price": 3.67,
         "pickedIndex": 1,
         "availableRows": 10,
-        "advNo": "12950295768186032128",
-        "nickName": "abosakeen2",
-        "minSingleTransAmount": "24500",
-        "maxSingleTransAmount": "25000",
+        "advNo": "12943729918467026944",
+        "nickName": "Exchange_Crypto10",
+        "minSingleTransAmount": "7449",
+        "maxSingleTransAmount": "7450",
         "tradeMethods": [
-          "Cash Deposit to Bank"
+          "Aani",
+          "Bank Transfer",
+          "Abu Dhabi Commercial Bank ADCB",
+          "Emirates NBD",
+          "ADIB: Abu Dhabi Islamic Bank"
         ]
       }
     },
@@ -119,35 +123,34 @@
       "BUY": {
         "price": 1.0,
         "pickedIndex": 1,
-        "availableRows": 11,
-        "advNo": "12953768172223864832",
-        "nickName": "MonTana_USDT亗WISE",
-        "minSingleTransAmount": "15",
-        "maxSingleTransAmount": "1500",
+        "availableRows": 10,
+        "advNo": "13855655634503946240",
+        "nickName": "EBENEZER-COIN",
+        "minSingleTransAmount": "500",
+        "maxSingleTransAmount": "600",
         "tradeMethods": [
-          "Alipay"
+          "Banco Internacional",
+          "Produbanco",
+          "Banco Pichincha",
+          "Banco Guayaquil"
         ]
       },
       "SELL": {
         "price": 1.1,
         "pickedIndex": 1,
-        "availableRows": 11,
-        "advNo": "12944908142303686656",
-        "nickName": "ElSalvador777",
-        "minSingleTransAmount": "900",
-        "maxSingleTransAmount": "6000",
+        "availableRows": 10,
+        "advNo": "12946128780549066752",
+        "nickName": "P2P-fee068fc",
+        "minSingleTransAmount": "15",
+        "maxSingleTransAmount": "1500",
         "tradeMethods": [
-          "Banco Hipotecario SV",
-          "Banco BAC Credomatic SV",
-          "Banco Promerica SV",
-          "Banco Davivienda SV",
-          "Banco Agricola SV"
+          "Ziraat"
         ]
       }
     },
     "EUR": {
       "BUY": {
-        "price": 0.909,
+        "price": 0.908,
         "pickedIndex": 1,
         "availableRows": 10,
         "advNo": "13925049268460490752",
@@ -161,18 +164,19 @@
         ]
       },
       "SELL": {
-        "price": 0.95,
+        "price": 0.94,
         "pickedIndex": 1,
         "availableRows": 10,
-        "advNo": "12952816586091577344",
-        "nickName": "coinssantigo",
-        "minSingleTransAmount": "28900",
-        "maxSingleTransAmount": "29950",
+        "advNo": "12946441985208291328",
+        "nickName": "vevo-exchange",
+        "minSingleTransAmount": "25000",
+        "maxSingleTransAmount": "26000",
         "tradeMethods": [
           "BBVA",
           "Banco Santander (Spain)",
-          "SEPA Instant",
-          "N26"
+          "ING",
+          "N26",
+          "SEPA Instant"
         ]
       }
     }
