@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1794852560491,
+  "updatedAt": 1794880326598,
   "source": "Binance P2P web endpoint",
   "asset": "USDT",
   "prices": {
@@ -7,51 +7,50 @@
       "BUY": {
         "price": 0.389,
         "pickedIndex": 1,
-        "availableRows": 11,
-        "advNo": "13935680518732656640",
-        "nickName": "OMAN_OTC_SERVICE",
-        "minSingleTransAmount": "150",
-        "maxSingleTransAmount": "10000",
+        "availableRows": 10,
+        "advNo": "12953080292894449664",
+        "nickName": "FATMUenterprises",
+        "minSingleTransAmount": "300",
+        "maxSingleTransAmount": "2500",
         "tradeMethods": [
-          "Bank Muscat",
-          "Sohar International",
-          "Ahlibank"
+          "Bank Muscat"
         ]
       },
       "SELL": {
-        "price": 0.388,
+        "price": 0.387,
         "pickedIndex": 1,
-        "availableRows": 11,
-        "advNo": "12628928128611610624",
-        "nickName": "SHAHINHASSAN",
-        "minSingleTransAmount": "15",
-        "maxSingleTransAmount": "200",
+        "availableRows": 10,
+        "advNo": "12885919253230526464",
+        "nickName": "MoSiTaRa",
+        "minSingleTransAmount": "5",
+        "maxSingleTransAmount": "150",
         "tradeMethods": [
-          "Airtime Mobile Top-Up"
+          "mBank",
+          "Bank Transfer"
         ]
       }
     },
     "EGP": {
       "BUY": {
-        "price": 54.7,
+        "price": 54.72,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12955682645403430912",
-        "nickName": "User-b87f8",
-        "minSingleTransAmount": "54000",
-        "maxSingleTransAmount": "54000",
+        "advNo": "13937235798202978304",
+        "nickName": "MAR_1894",
+        "minSingleTransAmount": "30000",
+        "maxSingleTransAmount": "30001",
         "tradeMethods": [
           "Instapay"
         ]
       },
       "SELL": {
-        "price": 55.2,
+        "price": 55.26,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12947350047254605824",
-        "nickName": "Vip--p2p",
-        "minSingleTransAmount": "6999",
-        "maxSingleTransAmount": "7000",
+        "advNo": "12952438928144396288",
+        "nickName": "Ab-Kingg",
+        "minSingleTransAmount": "14000",
+        "maxSingleTransAmount": "14001",
         "tradeMethods": [
           "VodafoneCash"
         ]
@@ -71,19 +70,19 @@
         ]
       },
       "SELL": {
-        "price": 3.672,
+        "price": 3.671,
         "pickedIndex": 1,
         "availableRows": 10,
-        "advNo": "12913962194210451456",
-        "nickName": "Nexus-Trader",
-        "minSingleTransAmount": "40000",
-        "maxSingleTransAmount": "49000",
+        "advNo": "12930192253668311040",
+        "nickName": "Mohammed-Al-Ghazali",
+        "minSingleTransAmount": "8340",
+        "maxSingleTransAmount": "8349",
         "tradeMethods": [
-          "Emirates NBD",
-          "Bank Transfer (Middle East)",
-          "Abu Dhabi Commercial Bank ADCB",
           "ADIB: Abu Dhabi Islamic Bank",
-          "Bank Transfer"
+          "Abu Dhabi Commercial Bank ADCB",
+          "Bank Transfer",
+          "Emirates NBD",
+          "Bank Transfer (Middle East)"
         ]
       }
     },
@@ -92,30 +91,24 @@
         "price": 3.8,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "13955515021168144384",
-        "nickName": "ابو سعود ",
-        "minSingleTransAmount": "20000",
-        "maxSingleTransAmount": "10000000",
+        "advNo": "12955370261399932928",
+        "nickName": "MuhammadRH",
+        "minSingleTransAmount": "9000",
+        "maxSingleTransAmount": "100000",
         "tradeMethods": [
-          "Al Rajhi Bank",
-          "Alinma Bank",
-          "Saudi National Bank (AlAhli Bank)",
           "Bank Transfer"
         ]
       },
       "SELL": {
-        "price": 4.01,
+        "price": 4.0,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12955705578128588800",
-        "nickName": "User-6db7d04c",
-        "minSingleTransAmount": "2299",
-        "maxSingleTransAmount": "2300",
+        "advNo": "12920112442094510080",
+        "nickName": "User-be0a7",
+        "minSingleTransAmount": "2000",
+        "maxSingleTransAmount": "3000",
         "tradeMethods": [
-          "barq",
-          "Al Rajhi Bank",
-          "Ahlibank",
-          "Alinma Bank"
+          "Al Rajhi Bank"
         ]
       }
     },
@@ -124,14 +117,16 @@
         "price": 1.0,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "13952952044381990912",
-        "nickName": "FAST-BUY-SELLR",
-        "minSingleTransAmount": "50",
-        "maxSingleTransAmount": "15000",
+        "advNo": "13949135982737178624",
+        "nickName": "金诚-usdt",
+        "minSingleTransAmount": "10",
+        "maxSingleTransAmount": "15",
         "tradeMethods": [
-          "Maybank",
-          "CIMB Niaga",
-          "Bank Transfer"
+          "Wing Money",
+          "ABA",
+          "ACLEDA Bank",
+          "True Money (Cambodia)",
+          "KHQR"
         ]
       },
       "SELL": {
@@ -153,29 +148,35 @@
     },
     "EUR": {
       "BUY": {
-        "price": 0.913,
+        "price": 0.915,
         "pickedIndex": 1,
         "availableRows": 10,
-        "advNo": "13949375757175713792",
-        "nickName": "RAC00N",
-        "minSingleTransAmount": "100",
-        "maxSingleTransAmount": "10000",
+        "advNo": "13925242500793704448",
+        "nickName": "VincitoreGroup",
+        "minSingleTransAmount": "4500",
+        "maxSingleTransAmount": "100000",
         "tradeMethods": [
-          "TBC Bank",
-          "Bank of Georgia",
-          "Fastoo wallet"
+          "SEPA (EU) bank transfer",
+          "SEPA Instant",
+          "Bank Transfer",
+          "CaixaBank (Spain)",
+          "Bunq"
         ]
       },
       "SELL": {
-        "price": 0.99,
+        "price": 0.94,
         "pickedIndex": 1,
-        "availableRows": 11,
-        "advNo": "12941533536121483264",
-        "nickName": "User-da13c8wo",
-        "minSingleTransAmount": "375",
-        "maxSingleTransAmount": "376",
+        "availableRows": 10,
+        "advNo": "12946441985208291328",
+        "nickName": "vevo-exchange",
+        "minSingleTransAmount": "25000",
+        "maxSingleTransAmount": "26000",
         "tradeMethods": [
-          "CaixaBank (Spain)"
+          "BBVA",
+          "Banco Santander (Spain)",
+          "ING",
+          "N26",
+          "SEPA Instant"
         ]
       }
     }
