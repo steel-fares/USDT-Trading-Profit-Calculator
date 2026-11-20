@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1795147377696,
+  "updatedAt": 1795178760955,
   "source": "Binance P2P web endpoint",
   "asset": "USDT",
   "prices": {
@@ -7,7 +7,7 @@
       "BUY": {
         "price": 0.39,
         "pickedIndex": 1,
-        "availableRows": 10,
+        "availableRows": 11,
         "advNo": "13915381302418497536",
         "nickName": "Moosacrypto",
         "minSingleTransAmount": "250",
@@ -22,99 +22,106 @@
       "SELL": {
         "price": 0.388,
         "pickedIndex": 1,
-        "availableRows": 10,
-        "advNo": "12897618345471672320",
-        "nickName": "Hasnain2018Tradin",
-        "minSingleTransAmount": "210",
-        "maxSingleTransAmount": "211",
+        "availableRows": 11,
+        "advNo": "12955587727465222144",
+        "nickName": "P2P-f510d9un",
+        "minSingleTransAmount": "1499",
+        "maxSingleTransAmount": "1500",
         "tradeMethods": [
-          "Bank Muscat",
-          "mBank"
+          "Bank Muscat"
         ]
       }
     },
     "EGP": {
       "BUY": {
-        "price": 55.42,
+        "price": 55.27,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12956913856894005248",
-        "nickName": "mx123",
-        "minSingleTransAmount": "20000",
-        "maxSingleTransAmount": "45000",
+        "advNo": "13957065994882756608",
+        "nickName": "EMAAR-UA",
+        "minSingleTransAmount": "70000",
+        "maxSingleTransAmount": "930000",
         "tradeMethods": [
-          "Bank Transfer",
           "Instapay"
         ]
       },
       "SELL": {
-        "price": 56.0,
+        "price": 55.83,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12929037681746210816",
-        "nickName": "The_captain1",
-        "minSingleTransAmount": "18000",
-        "maxSingleTransAmount": "18001",
+        "advNo": "12804336135081504768",
+        "nickName": "Speed_4X4",
+        "minSingleTransAmount": "20000",
+        "maxSingleTransAmount": "20001",
         "tradeMethods": [
-          "VodafoneCash"
+          "VodafoneCash",
+          "Axis",
+          "we Pay",
+          "OrangeCash",
+          "EtisalatCash"
         ]
       }
     },
     "AED": {
       "BUY": {
-        "price": 3.692,
+        "price": 3.695,
         "pickedIndex": 1,
         "availableRows": 10,
-        "advNo": "13942670276394647552",
-        "nickName": "FAST一TRADE一DIGITAL",
-        "minSingleTransAmount": "10000",
-        "maxSingleTransAmount": "200000",
+        "advNo": "12956923195284594688",
+        "nickName": "BigBoss2027",
+        "minSingleTransAmount": "4449",
+        "maxSingleTransAmount": "4450",
         "tradeMethods": [
           "Bank Transfer",
           "Abu Dhabi Commercial Bank ADCB",
-          "ADIB: Abu Dhabi Islamic Bank",
-          "Emirates NBD",
-          "AL MASHREQ Bank"
+          "Emirates NBD"
         ]
       },
       "SELL": {
-        "price": 3.672,
+        "price": 3.68,
         "pickedIndex": 1,
         "availableRows": 10,
-        "advNo": "12953371005103218688",
-        "nickName": "I_Am_Sarkar",
-        "minSingleTransAmount": "2799",
-        "maxSingleTransAmount": "2800",
+        "advNo": "12954262435249127424",
+        "nickName": "Admol Digital FZCO",
+        "minSingleTransAmount": "10000",
+        "maxSingleTransAmount": "2000000",
         "tradeMethods": [
-          "Emirates NBD"
+          "Bank Transfer",
+          "Abu Dhabi Commercial Bank ADCB",
+          "Emirates NBD",
+          "AL MASHREQ Bank",
+          "ADIB: Abu Dhabi Islamic Bank"
         ]
       }
     },
     "SAR": {
       "BUY": {
-        "price": 3.8,
+        "price": 3.81,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "13947745879681101824",
-        "nickName": "ABU_SAQER9",
-        "minSingleTransAmount": "10000",
-        "maxSingleTransAmount": "200000",
+        "advNo": "12955587939711934464",
+        "nickName": "OMAR-7007",
+        "minSingleTransAmount": "9000",
+        "maxSingleTransAmount": "100000",
         "tradeMethods": [
-          "Bank Transfer",
           "Al Rajhi Bank",
+          "Bank Transfer",
+          "Alinma Bank",
+          "Riyad Bank",
           "Saudi National Bank (AlAhli Bank)"
         ]
       },
       "SELL": {
-        "price": 4.0,
+        "price": 3.87,
         "pickedIndex": 1,
         "availableRows": 11,
-        "advNo": "12920112442094510080",
-        "nickName": "User-be0a7",
-        "minSingleTransAmount": "2000",
-        "maxSingleTransAmount": "3000",
+        "advNo": "12805484221358727168",
+        "nickName": "Nawaf",
+        "minSingleTransAmount": "100",
+        "maxSingleTransAmount": "110",
         "tradeMethods": [
-          "Al Rajhi Bank"
+          "AlinmaPay",
+          "urpay"
         ]
       }
     },
@@ -152,31 +159,32 @@
     },
     "EUR": {
       "BUY": {
-        "price": 0.918,
+        "price": 0.915,
         "pickedIndex": 1,
         "availableRows": 10,
-        "advNo": "13930284099209183232",
-        "nickName": "ROUND-THREE-VA",
-        "minSingleTransAmount": "200",
-        "maxSingleTransAmount": "8750",
+        "advNo": "13933059088770445312",
+        "nickName": "-SDA-",
+        "minSingleTransAmount": "100",
+        "maxSingleTransAmount": "5000",
         "tradeMethods": [
-          "BBVA",
-          "SEPA Instant",
-          "SEPA (EU) bank transfer",
-          "Bunq",
-          "Wise"
+          "Bank of Georgia",
+          "TBC Bank"
         ]
       },
       "SELL": {
-        "price": 0.93,
+        "price": 0.975,
         "pickedIndex": 1,
-        "availableRows": 10,
-        "advNo": "12946629461408763904",
-        "nickName": "P2P-3cbd2bck",
-        "minSingleTransAmount": "499",
-        "maxSingleTransAmount": "500",
+        "availableRows": 11,
+        "advNo": "12956331490712174592",
+        "nickName": "Lestor32",
+        "minSingleTransAmount": "29800",
+        "maxSingleTransAmount": "29900",
         "tradeMethods": [
-          "ING"
+          "BBVA",
+          "Banco Santander (Spain)",
+          "ING",
+          "SEPA Instant",
+          "N26"
         ]
       }
     }
